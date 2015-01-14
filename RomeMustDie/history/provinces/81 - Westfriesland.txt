@@ -1,0 +1,13 @@
+# 81 - Westfriesland
+
+# County Title
+title = c_westfriesland
+
+# Settlements
+max_settlements = 4
+b_alkmaar = tribal
+
+# Misc
+culture = frisian
+religion = norse_pagan
+terrain = plains

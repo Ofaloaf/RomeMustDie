@@ -1,0 +1,7 @@
+443.1.1 = {
+	name = AURASIUM
+	adjective = AURASIUM_adj
+}
+470.1.1 = {
+	holder = 1962005
+}

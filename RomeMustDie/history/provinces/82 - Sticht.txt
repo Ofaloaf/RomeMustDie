@@ -1,0 +1,13 @@
+# 82 - Sticht
+
+# County Title
+title = c_sticht
+
+# Settlements
+max_settlements = 4
+
+b_utrecht = tribal
+
+# Misc
+culture = frisian
+religion = norse_pagan

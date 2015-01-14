@@ -1,0 +1,24 @@
+123001 = {
+	name = "Silingi"
+	culture = vandal
+}
+
+123002 = {
+	name = "Hasdingi"
+	culture = vandal
+}
+
+123003 = {
+	name = "Lygianus"
+	culture = vandal
+}
+
+123004 = {
+	name = "Eils"
+	culture = vandal
+}
+
+123005 = {
+	name = "Fridinga"
+	culture = vandal
+}

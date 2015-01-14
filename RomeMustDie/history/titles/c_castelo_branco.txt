@@ -1,0 +1,6 @@
+409.1.1 = {
+	liege = "k_spanish_galicia"
+}
+467.1.1 = {
+	holder = 600004
+}

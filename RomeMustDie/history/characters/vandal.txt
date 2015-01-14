@@ -1,0 +1,74 @@
+123001={
+	name="Marobod"
+	dynasty=123001
+
+	religion=arian
+	culture=vandal
+
+	420.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+123002={
+	name="Genseric"
+	dynasty=123002
+	martial=7
+	diplomacy=10
+	intrigue=9
+	stewardship=6
+	learning=6
+	religion=arian
+	culture=vandal
+	trait=deceitful
+	trait=ambitious
+	trait=zealous
+	trait=patient
+	trait=underhanded_rogue
+	389.1.1={
+		birth=yes
+	}
+	477.1.25={
+		death=yes
+	}
+}
+
+123003={
+	name="Beremud"
+	dynasty=123004
+
+	religion=arian
+	culture=vandal
+
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+123004={
+	name="Huneric"
+	father=123002
+	dynasty=123002
+	martial=7
+	diplomacy=10
+	intrigue=9
+	stewardship=6
+	learning=6
+	religion=arian
+	culture=vandal
+	trait=craven
+	trait=proud
+	trait=zealous
+	420.1.1={
+		birth=yes
+	}
+	484.12.23={
+		death=yes
+	}
+}

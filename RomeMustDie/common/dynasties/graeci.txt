@@ -1,0 +1,96 @@
+610001 = {
+	name = "Harmatius"
+	culture = graeci
+}
+
+610002 = {
+	name = "Alcmaeonides"
+	culture = graeci
+}
+
+610003 = {
+	name = "Atreides"
+	culture = graeci
+}
+
+610004 = {
+	name = "Archaeanactides"
+	culture = graeci
+}
+
+610005 = {
+	name = "Sabbatius"
+	culture = graeci
+
+	used_for_random = no
+}
+
+610006 = {
+	name = "Heraclides"
+	culture = graeci
+}
+
+610007 = {
+	name = "Dionysides"
+	culture = graeci
+}
+
+610008 = {
+	name = "Damocleides"
+	culture = graeci
+}
+
+610009 = {
+	name = "Tarasicodissa"
+	culture = graeci
+}
+
+610010 = {
+	name = "Acutam"
+	culture = graeci
+}
+
+610011 = {
+	name = "Zancles"
+	culture = graeci
+}
+
+610012 = {
+	name = "Bryennius"
+	culture = graeci
+}
+
+610013 = {
+	name = "Chalcocondyles"
+	culture = graeci
+}
+
+610014 = {
+	name = "Synadenus"
+	culture = graeci
+}
+
+610015 = {
+	name = "Caballarius"
+	culture = graeci
+}
+
+610016 = {
+	name = "Dimogerontes"
+	culture = graeci
+}
+
+610017 = {
+	name = "Rentacius"
+	culture = graeci
+}
+
+610018 = {
+	name = "Choirsphactes"
+	culture = graeci
+}
+
+610019 = {
+	name = "Betelaces"
+	culture = graeci
+}

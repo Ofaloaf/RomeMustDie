@@ -1,0 +1,17 @@
+# 498 - Mesembria
+
+# County Title
+title = c_mesembria
+
+# Settlements
+max_settlements = 5
+
+b_marcianopolis = castle
+b_odessos = city
+b_sozopolis = temple
+
+# Misc
+culture = graeci
+religion = nicene
+
+# History

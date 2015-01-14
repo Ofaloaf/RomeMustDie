@@ -1,0 +1,14 @@
+632001 = {
+	name="Imru"
+	dynasty=632001
+	culture="bedouin_arabic"
+	religion="nicene"
+	trait="deceitful"
+	trait="craven"
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

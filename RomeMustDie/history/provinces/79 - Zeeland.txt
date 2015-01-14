@@ -1,0 +1,13 @@
+# 79 - Zeeland
+
+# County Title
+title = c_zeeland
+
+# Settlements
+max_settlements = 4
+
+b_middelburg = tribal
+
+# Misc
+culture = frisian
+religion = norse_pagan

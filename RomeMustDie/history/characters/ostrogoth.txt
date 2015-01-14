@@ -1,0 +1,20 @@
+410001 = {
+	name="Odiva"
+	dynasty=410021 # Made up
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="nicene"
+	culture="ostrogothic"
+	trait="zealous"
+	trait="greedy"
+	trait="indulgent_wastrel"
+	425.1.1={
+		birth=yes
+	}
+	490.1.1={
+		death=yes
+	}
+}
+

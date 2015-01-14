@@ -1,0 +1,84 @@
+1962001 = {
+	name = "Awras"
+	culture = mauri
+}
+
+1962002 = {
+	name = "Barghawata"
+	culture = maghreb_arabic
+}
+
+1962003 = {
+	name = "Baquatus"
+	culture = mauri
+}
+
+1962004 = {
+	name = "Ucutamanus"
+	culture = mauri
+}
+
+1962005 = {
+	name = "Miknasa"
+	culture = mauri
+}
+
+1962006 = {
+	name = "Musonius"
+	culture = mauri
+}
+
+1962007 = {
+	name = "Rulasen"
+	culture = mauri
+}
+
+1962008 = {
+	name = "Mastracianus"
+	culture = mauri
+}
+
+1962009 = {
+	name = "Rogathinus"
+	culture = mauri
+}
+
+1962010 = {
+	name = "Frexenses"
+	culture = mauri
+}
+
+1962011 = {
+	name = "Ruspensis"
+	culture = mauri
+}
+
+1962012 = {
+	name = "Saldaensis"
+	culture = mauri
+}
+
+1962013 = {
+	name = "Tacapensis"
+	culture = mauri
+}
+
+1962014 = {
+	name = "Ruspinensis"
+	culture = mauri
+}
+
+1962015 = {
+	name = "Rusadirensis"
+	culture = mauri
+}
+
+1962016 = {
+	name = "Volubiliensis"
+	culture = mauri
+}
+
+1962017 = {
+	name = "Iomniensis"
+	culture = mauri
+}

@@ -1,0 +1,18 @@
+# 197 - Toledo
+
+# County Title
+title = c_toledo
+
+# Settlements
+max_settlements = 5
+b_madrid = castle
+b_toledo = temple
+#b_tolemora = temple
+b_talavera = city
+#b_consuegra = castle
+#b_fuensalida = castle
+b_illescas = castle
+
+# Misc
+culture = iberoroman
+religion = nicene

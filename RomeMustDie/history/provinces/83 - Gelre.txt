@@ -1,0 +1,13 @@
+# 83 - Gelre
+
+# County Title
+title = c_gelre
+
+# Settlements
+max_settlements = 5
+
+b_nijmegen = tribal
+
+# Misc
+culture = frisian
+religion = norse_pagan

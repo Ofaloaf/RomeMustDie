@@ -1,0 +1,31 @@
+1066001 = {
+	name="Hubaldus"
+	dynasty=1066001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="norse_pagan"
+	culture="old_saxon"
+	trait="cruel"
+	trait="greedy"
+	431.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1066002 = {
+	name="Benno"
+	dynasty=1066002
+	religion="norse_pagan"
+	culture="old_saxon"
+	433.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

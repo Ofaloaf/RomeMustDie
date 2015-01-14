@@ -1,0 +1,12 @@
+# 84 - Frisia
+
+# County Title
+title = c_frisia
+
+# Settlements
+max_settlements = 5
+
+b_groningen = tribal
+# Misc
+culture = frisian
+religion = norse_pagan

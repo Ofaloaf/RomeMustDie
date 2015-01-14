@@ -1,0 +1,16 @@
+# 840 - Fes
+
+# County Title
+title = c_fes
+
+# Settlements
+max_settlements = 6
+
+b_volubilis = castle
+b_missour = city
+b_sefrou = temple
+b_bouanane = castle
+
+# Misc
+culture = mauri
+religion = nicene

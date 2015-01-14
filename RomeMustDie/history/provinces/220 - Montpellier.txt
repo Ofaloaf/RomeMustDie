@@ -1,0 +1,21 @@
+# 220 - Melgueil
+
+# County Title
+title = c_montpellier
+
+# Settlements
+max_settlements = 6
+b_nimes = castle
+b_maguelone = castle
+b_montpellier = temple
+b_melgueil = city
+
+#b_saintguilhemledesert = temple
+#b_nimes = city
+#b_aiguesmortes = city
+#b_bagnolssurceze = city
+#b_beaucaire = castle
+
+#Misc
+culture = galloroman
+religion = nicene

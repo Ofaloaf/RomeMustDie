@@ -1,0 +1,101 @@
+1789001 = {
+	name="Ragnarius"
+	dynasty=1940001
+	culture=old_frankish
+	religion=norse_pagan
+	431.1.1={
+		birth=yes
+	}
+	449.1.1 = {
+		add_spouse = 1789002
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+1789002 = {
+	name="Audovera"
+	female=yes
+	culture = old_frankish
+	religion = norse_pagan
+	431.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+1789003 = {
+	name="Ragnachar"
+	dynasty=1940001
+	father=1789001
+	mother=1789002
+	culture=old_frankish
+	religion=norse_pagan
+	trait=wroth
+	trait=deceitful
+	456.7.8={
+		birth=yes
+	}
+	509.1.1={
+		death=yes
+	}
+}
+
+1789004 = {
+	name="Ricchar"
+	dynasty=1940001
+	father=1789001
+	mother=1789002
+	culture=old_frankish
+	religion=norse_pagan
+	458.1.1={
+		birth=yes
+	}
+	509.1.1={
+		death=yes
+	}
+}
+
+1789005 = {
+	name="Rignomer"
+	dynasty=1940001
+	father=1789001
+	mother=1789002
+	culture=old_frankish
+	religion=norse_pagan
+	460.1.1={
+		birth=yes
+	}
+	509.1.1={
+		death=yes
+	}
+}
+
+1789006 = {
+	name="Chararic"
+	dynasty=1940002
+	culture=old_frankish
+	religion=norse_pagan
+	446.1.1={
+		birth=yes
+	}
+	508.1.1={
+		death=yes
+	}
+}
+
+1789007 = {
+	name = "Sigobert"
+	dynasty = 1940003
+	culture = old_frankish
+	religion = norse_pagan
+	440.1.1={
+		birth=yes
+	}
+	509.1.1={
+		death=yes
+	}
+}

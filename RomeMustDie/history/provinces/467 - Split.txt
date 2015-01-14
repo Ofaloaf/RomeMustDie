@@ -1,0 +1,15 @@
+# 467 - Split
+
+# County Title
+title = c_split
+
+# Settlements
+max_settlements = 4
+
+b_split = castle
+b_trogir = city
+b_solin = temple
+
+# Misc
+culture = roman
+religion = nicene

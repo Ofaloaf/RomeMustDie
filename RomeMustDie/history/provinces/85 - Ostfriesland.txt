@@ -1,0 +1,13 @@
+# 85 - Ostfriesland
+
+# County Title
+title = c_ostfriesland
+
+# Settlements
+max_settlements = 4
+
+b_norden = tribal
+
+# Misc
+culture = frisian
+religion = norse_pagan

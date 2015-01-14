@@ -1,0 +1,192 @@
+793001 = {
+	name="Schwyt"
+	dynasty=410023
+	religion="norse_pagan"
+	culture="burgundian"
+	trait="brave"
+	400.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+793002 = {
+	name="Restius"
+	dynasty=410023
+	father=793001
+	religion="norse_pagan"
+	culture="burgundian"
+	trait="brave"
+	435.1.1={
+		birth=yes
+	}
+	490.1.1={
+		death=yes
+	}
+}
+
+793003 = {
+	name="Hastus"
+	dynasty=410023
+	father=793001
+	religion="norse_pagan"
+	culture="burgundian"
+	trait="brave"
+	433.1.1={
+		birth=yes
+	}
+	475.1.1 = {
+		add_claim = c_schwyz
+	}
+	490.1.1={
+		death=yes
+	}
+}
+
+793004 = {
+	name="Chilperic"
+	dynasty=443001
+	father=793006
+	religion="arian"
+	culture="burgundian"
+	trait="brave"
+	420.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes
+	}
+}
+
+793005 = {
+	name="Gundioc"
+	dynasty=443001
+	father=793006
+	religion="arian"
+	culture="burgundian"
+	trait="brave"
+	418.1.1={
+		birth=yes
+	}
+	444.1.1={
+		add_spouse=793011
+	}
+	473.1.1={
+		death=yes
+	}
+}
+
+793006 = {
+	name="Gundahar"
+	dynasty=443001
+	religion="arian"
+	culture="burgundian"
+	trait="brave"
+	385.1.1={
+		birth=yes
+	}
+	436.1.1={
+		death=yes
+	}
+}
+
+793007 = {
+	name="Gundobad"
+	dynasty=443001
+	father=793005
+	mother=793011
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	learning=6
+	culture="burgundian"
+	religion="arian"
+	trait="brave"
+	trait="envious"
+	trait="cruel"
+	trait="cruel"
+	trait="patient"
+	trait="temperate"
+	452.1.1={
+		birth=yes
+	}
+	516.1.1={
+		death=yes
+	}
+}
+
+793008 = {
+	name="Chilperic"
+	dynasty=443001
+	father=793005
+	mother=793011
+	culture="burgundian"
+	religion="arian"
+	450.1.1={
+		birth=yes
+	}
+	493.1.1={
+		death=yes
+	}
+}
+
+793009 = {
+	name="Gundomar"
+	dynasty=443001
+	father=793005
+	mother=793011
+	culture="burgundian"
+	religion="arian"
+	453.1.1={
+		birth=yes
+	}
+	486.1.1={
+		death=yes
+	}
+}
+
+793010 = {
+	name="Godegisel"
+	dynasty=443001
+	father=793005
+	mother=793011
+	culture="burgundian"
+	religion="arian"
+	trait=craven
+	454.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+793011 = {
+	name="Randilo"
+	female=yes
+	religion="arian"
+	culture="suebi"
+	trait="brave"
+	423.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+793012 = {
+	name="Breno"
+	dynasty=451047
+	culture="burgundian"
+	religion="arian"
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

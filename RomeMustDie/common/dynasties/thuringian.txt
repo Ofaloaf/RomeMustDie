@@ -1,0 +1,4 @@
+1870001 = {
+	name = "Edeking"
+	culture = thuringian
+}

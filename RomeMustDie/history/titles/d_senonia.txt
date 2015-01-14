@@ -1,0 +1,4 @@
+1.1.1 = {
+	#name = LUGDUNENSIS_SECUNDA
+	#adjective = LUGDUNENSIS_SECUNDA_adj
+}

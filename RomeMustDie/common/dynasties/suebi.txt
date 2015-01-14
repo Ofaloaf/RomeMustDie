@@ -1,0 +1,19 @@
+409001 = {
+	name = "Hermenerici"
+	culture = suebi
+}
+
+409002 = {
+	name = "Beremundi"
+	culture = suebi
+}
+
+409003 = {
+	name = "Frumari"
+	culture = suebi
+}
+
+409004 = {
+	name = "Mironi"
+	culture = suebi
+}

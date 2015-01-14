@@ -1,0 +1,4 @@
+475.1.1 = {
+	liege = "d_foederati"
+	holder = 1871001
+}

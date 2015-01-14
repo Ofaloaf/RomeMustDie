@@ -1,0 +1,34 @@
+411001 = {
+	name = "Triggws"
+	culture = visigothic
+}
+
+411002 = {
+	name = "Taifaling"
+	culture = alan
+}
+
+411003 = {
+	name = "Rhedaeneis"
+	culture = visigothic
+}
+
+411004 = {
+	name = "Afetja"
+	culture = visigothic
+}
+
+411005 = {
+	name = "Gabeigs"	# 'Rich'
+	culture = visigothic
+}
+
+411006 = {
+	name = "Qairrus"	# 'Friendly', 'Meek, Gentle, Kingly'
+	culture = visigothic
+}
+
+411007 = {
+	name = "Quixotus"
+	used_for_random = no
+}

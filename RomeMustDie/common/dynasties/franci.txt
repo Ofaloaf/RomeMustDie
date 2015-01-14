@@ -1,0 +1,14 @@
+1940001 = {
+	name = "Ragnaring"
+	culture = old_frankish
+}
+
+1940002 = {
+	name = "Chararicing"
+	culture = old_frankish
+}
+
+1940003 = {
+	name = "Sigiberting"
+	culture = old_frankish
+}

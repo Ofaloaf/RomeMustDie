@@ -1,0 +1,128 @@
+1962001 = {
+	name="Ialdas"
+	dynasty=1962004
+	culture=mauri
+	religion=nicene
+	trait="zealous"
+	trait=proud
+	425.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1962002 = {
+	name="Masuna"
+	dynasty=1962005
+	culture=mauri
+	religion=nicene
+	trait=gregarious
+	trait=charismatic_negotiator
+	436.1.1={
+		birth=yes
+	}
+	459.1.1={
+		add_spouse=1962003
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1962003 = {
+	name="Baria"
+	female=yes
+	culture=mauri
+	religion=nicene
+	443.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1962004 = {
+	name="Masuna"
+	dynasty=1962005
+	father=1962002
+	mother=1962003
+	culture=mauri
+	religion=nicene
+	467.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}
+
+1962005 = {
+	name="Masties"
+	dynasty=1962001
+	culture=mauri
+	religion=donatist
+	trait=just
+	trait=brave
+	442.2.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1962006 = {
+	name="Johannis"
+	dynasty=1962006
+	culture=mauri
+	religion=donatist
+	445.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1962007 = {
+	name="Julius"
+	dynasty = 1962003
+	martial=7
+	diplomacy=7
+	stewardship=8
+	intrigue=6
+	learning=6
+	culture="mauri"
+	religion="nicene"
+	add_trait="skilled_tactician"
+	430.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+1962008 = {
+	name="Apocorius"
+	dynasty = 264002
+	martial=5
+	diplomacy=6
+	stewardship=8
+	intrigue=4
+	learning=8
+	culture="mauri"
+	religion="nicene"
+	add_trait="zealous"
+	add_trait="honest"
+	add_trait="martial_cleric"
+	429.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}

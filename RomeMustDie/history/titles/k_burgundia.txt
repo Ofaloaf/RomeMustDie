@@ -1,0 +1,9 @@
+411.1.1 = {
+	holder = 793006 # Gundahar/Gunther/Gunnar
+}
+436.1.1 = {
+	holder = 793005 # Gundioc/Gunderic
+}
+443.1.1 = {
+	holder = 793004 # Chilperic I
+}

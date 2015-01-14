@@ -1,0 +1,4571 @@
+e_gallia = {
+	color={ 94 129 54 }
+	color2={ 255 255 20 }
+	
+	capital = 112 # Ile de France
+	
+	culture = galloroman
+	
+	allow = {
+		hidden_tooltip = {
+			OR = {
+				ai = no
+				culture = galloroman
+				culture = iberoroman
+				culture = britto
+			}
+		}
+		any_demesne_title = {
+			tier = king
+			NOT = { title = k_neustria }
+			NOT = { title = k_arles }
+			NOT = { title = k_tolosa }
+			NOT = { title = k_austrasia }
+		}
+	}
+
+	k_neustria = {
+		color={ 39 100 157 }
+		color2={ 255 255 20 }
+		capital = 112 # Ile de France
+		dignity = 30 # Counted as having this many more counties than it does
+		
+		culture = old_frankish
+		
+		catholic = 5000 # Crusade target weight
+		norse_pagan_reformed = 100 # Crusade target weight
+
+		roman = Galliae
+		graeci = Galliae
+		greek = Galliae
+		galloroman = Galliae
+		iberoroman = Galliae
+		britto = Galliae
+		
+		d_andegavia = {
+			color={ 44 107 55 }
+			color2={ 255 255 255 }
+			
+			capital = 107 # Anjou
+
+			old_frankish = "Cenomannicus"
+			
+			c_anjou = {
+				color={ 45 111 66 }
+				color2={ 255 255 255 }
+
+				roman = "Andecavia"
+				graeci = "Andecavia"
+				greek = "Andekavia" # Hypothetical
+				galloroman = "Andegavia"
+				iberoroman = Andegavia
+				britto = Andegavia
+				old_frankish = "Angieus"
+				burgundian = Angieus
+				visigothic = Angieus
+				ostrogothic = Angieus
+				
+				b_vihiers = {
+					roman = "Vierium"
+					graeci = "Vierium"
+					greek = "Vierion" # Hypothetical
+					galloroman = "Viviarium"
+					iberoroman = Viviarium
+					britto = Viviarium
+					old_frankish = "Vigerium"
+					burgundian = Vigerium
+					visigothic = Vigerium
+					ostrogothic = Vigerium
+				}
+				b_angers = {
+					roman = "Juliomagus"
+					graeci = "Juliomagus"
+					greek = "Iouliomagos"
+					galloroman = "Andecava"
+					iberoroman = Andecava
+					britto = Andecava
+					old_frankish = "Andegavis"
+					burgundian = Andegavis
+					visigothic = Andegavis
+					ostrogothic = Andegavis
+				}
+				b_fontevraud = {
+				}
+				b_saumur = {
+					roman = "Salmurium"
+					graeci = "Salmurium"
+					greek = "Salmurion" # Hypothetical
+					galloroman = "Salmurium"
+					iberoroman = Salmurium
+					britto = Salmurium
+					old_frankish = "Salmuris" # Hypothetical
+					burgundian = Salmuris
+					visigothic = Salmuris
+					ostrogothic = Salmuris
+				}
+				b_montsoreau = {
+				}
+				b_cholet = {
+				}
+				b_treves = {
+				}
+				b_chateaugontier = {
+				}
+			}
+			c_maine = {
+				color={ 40 99 51 }
+				color2={ 255 255 255 }
+
+				roman = "Cenomania"
+				graeci = "Cenomania"
+				greek = Cenomania
+				galloroman = "Cenomannia"
+				iberoroman = Cenomannia
+				britto = Cemomannia
+				old_frankish = "Cenomannica"
+				burgundian = Cenomannica
+				visigothic = Cenomannica
+				ostrogothic = Cenomannica
+								
+				b_le_mans = {
+					roman = "Vindinium"
+					graeci = "Vindinium"
+					greek = "Vindinion" # Hypothetical
+					galloroman = "Cenomanus"
+					iberoroman = Cenomanus
+					britto = Cenomanus
+					old_frankish = "Celmans"
+					burgundian = Celmans
+					visigothic = Celmans
+					ostrogothic = Celmans
+				}
+				b_beaumont = {
+				}
+				b_evron = {
+				}
+				b_mayenne = {
+					roman = "Meduana"
+					graeci = "Meduana"
+					galloroman = "Meduana"
+					iberoroman = Meduana
+					britto = Meduana
+				}
+				b_laval = {
+				}
+				b_sable = {
+				}
+				b_craon = {
+				}
+				b_montenay = {
+				}
+			}
+			c_vendome = {
+				color={ 47 28 230 }
+				color2={ 255 255 255 }
+
+				roman = "Vindocinum"
+				graeci = "Vindocinum"
+				greek = "Vindokinon" # Hypothetical
+				galloroman = "Vindocinensis"
+				iberoroman = Vindocinensis
+				britto = Vindocinensis
+				old_frankish = "Vindocinensis"
+				burgundian = Vindocinensis
+				visigothic = Vindocinensis
+				ostrogothic = Vindocinensis
+				
+				b_lavardin = {
+				}
+				b_vendome = {
+					roman = "Vindocinum"
+					graeci = "Vindocinum"
+					greek = "Vindokinon" # Hypothetical
+					galloroman = "Vindocino"
+					iberoroman = Vindocino
+					britto = Vindocino
+					old_frankish = "Vindis"
+					burgundian = Vindis
+					visigothic = Vindis
+					ostrogothic = Vindis
+				}
+				b_cloyes = {
+				}
+				b_freteval = {
+				}
+				b_chateaurenault = {
+				}
+				b_montoire = {
+				}
+				b_montmirail = {
+				}
+				b_stavit = {
+				}
+			}
+		}
+		d_saxonshore = {
+			color={ 247 156 99 }
+			color2={ 255 255 255 }
+			
+			capital = 97 # Rouen
+
+			old_frankish = "Neustria"
+			
+			c_evreux = {
+				color={ 274 127 90 }
+				color2={ 255 255 255 }
+
+				roman = "Aulercia"
+				graeci = "Aulercia"
+				greek = "Aulerkia"
+				galloroman = "Ebroicensis"
+				iberoroman = Ebroicensis
+				britto = Ebroicensis
+				old_frankish = Lexovinus
+				burgundian = Ebruvicas # Hypothetical
+				visigothic = Lexovinus
+				ostrogothic = Lexovinus
+				
+				b_evreux = {
+					roman = "Aulercorum"
+					graeci = Aulercorum
+					greek = Aulercorum
+					galloroman = "Eburovicas"
+					iberoroman = Eburovicas
+					britto = Eburovicas
+					old_frankish = "Ebrouvicas" # Hypothetical
+					burgundian = Ebrouvicas
+					visigothic = Ebrouvicas
+					ostrogothic = Ebrouvicas
+				}
+				b_falaise = {
+				}
+				b_lisieux = {
+					roman = Lexoviorum
+					graeci = Lexoviorum
+					greek = Lexoviorum
+					galloroman = Lexoviorum
+					iberoroman = Lexoviorum
+					britto = Lexoviorum
+					old_frankish = Lexoviorum
+					burgundian = Lexoviorum
+					visigothic = Lexoviorum
+					ostrogothic = Lexoviorum
+				}
+				b_alencon = {
+					roman = "Alenconium"
+					graeci = "Alenconium"
+					greek = "Alenkonion" # Hypothetical
+					galloroman = "Alenconium"
+					iberoroman = Alenconium
+					britto = Alenconium
+					old_frankish = "Alencione"
+					burgundian = Alencione
+					ostrogothic = Alencione
+					visigothic = Alencione
+				}
+				b_argentan = {
+				}
+				b_sees = {
+				}
+				b_verneuil = {
+				}
+				b_honfleur = {
+				}
+			}
+			c_avranches = {
+				color={ 266 166 111 }
+				color2={ 255 255 255 }
+
+				roman = "Abrincatia"
+				graeci = "Abrincatia"
+				greek = "Avrinkatia" # Hypothetical
+				galloroman = "Abrincatia"
+				iberoroman = Abrincatia
+				britto = Abrincatia
+				old_frankish = Abrincatinus 
+				burgundian = Avrancin
+				visigothic = Abrincatinus
+				ostrogothic = Abrincatinus
+				old_saxon = "Avrancin"
+				saxon = "Avracin"
+				
+				b_caen = {
+				}
+				b_coutances = {
+					roman = "Constantia"
+					graeci = "Constantia"
+					greek = "Konstantia" # Hypothetical
+					galloroman = "Constantia"
+					iberoroman = Constantia
+					britto = Constantia
+				}
+				b_bayeux = {
+					roman = "Augustodurum"
+					graeci = "Augustodurum"
+					greek = "Augustoduron"
+					galloroman = "Baiocassium"
+					iberoroman = Baiocassium
+					britto = Baiocassium
+					old_frankish = "Bajocas" # Historia Francorum
+					burgundian = Baiocas
+					visigothic = Baiocas
+					ostrogothic = Baiocas
+					old_saxon = "Baiocas"
+					breton = "Buidechass" # Hypothetical
+				}
+				b_avranches = {
+					roman = "Ingena"
+					graeci = "Ingena"
+					greek = Ingena
+					galloroman = "Abrincatuis"
+					iberoroman = Abrincatuis
+					britto = Abrincatuis
+					old_frankish = "Abrincas"
+					burgundian = Abrincas
+					visigothic = Abrincas
+					ostrogothic = Abrincas
+					saxon = "Avrincatis" # Hypotheical
+				}
+				b_mortain = {
+					roman = "Moritonium"
+					graeci = Moritonium
+					greek = Moritonion
+					galloroman = "Moritonium"
+					iberoroman = Moritonium
+					britto = Moritonium
+					norse = "Moreton"
+					saxon = "Moretun"
+					old_frankish = "Mauritonio"
+					burgundian = Mauritonio
+					visigothic = Mauritonio
+					ostrogothic = Mauritonio
+				}
+				b_domfront = {
+					old_frankish = "Damfrontis"
+					burgundian = Damfrontis
+					visigothic = Damfrontis
+					ostrogothic = Damfrontis
+				}
+				b_barfleur = {
+				}
+				b_cherbourg = {
+					roman = "Coriallum"
+					graeci = Coriallum
+					greek = Corallum
+					galloroman = "Coriallo"
+					iberoroman = Coriallo
+					britto = Coriallo
+					old_frankish = "Carusburg"
+					burgundian = Carusburg
+					visigothic = Carusburg
+					ostrogothic = Carusburg
+					norse = "Kirkeborg"
+					saxon = "Circeburh"
+				}
+			}
+			c_vexin = {
+				color={ 235 155 77 }
+				color2={ 255 255 255 }
+
+				roman = "Veliocassinus"
+				graeci = "Veliocassinus"
+				greek = "Veliokassinos"
+				galloroman = "Veliocassinus"
+				iberoroman = Veliocassinus
+				britto = Veliocassinus
+				old_frankish = "Vilcassinus"
+				burgundian = Veuguessin
+				visigothic = Vilcassinus
+				ostrogothic = Vilcassinus
+				
+				b_larocheguyon = {
+				}
+				b_mantes = {
+				}
+				b_pontoise = {
+					roman = "Briva Isaræ"
+					graeci = "Briva Isaræ"
+					greek = "Briva Isaræ"
+					galloroman = "Briva Isaræ"
+					iberoroman = "Briva Isaræ"
+					britto = "Briva Isaræ"
+					old_frankish = "Pontem Hiserae"
+					burgundian = "Pontem Hiserae"
+					visigothic = "Pontem Hiserae"
+					ostrogothic = "Pontem Hiserae"
+				}
+				b_harcourt = {
+					old_frankish = "Herolcurt"
+					burgundian = Herolcurt
+					visigothic = Herolcurt
+					ostrogothic = Herolcurt
+				}
+				b_gisors = {
+					roman = "Gisoritum"
+					graeci = "Gisoritum"
+					greek = "Gisoriton"
+					galloroman = "Gisoritum"
+					iberoroman = Gisoritum
+					britto = Gisoritum
+					old_frankish = "Gisortis"
+					burgundian = Gisortis
+					visigothic = Gisortis
+					ostrogothic = Gisortis
+				}
+				b_andely = {
+					roman = "Andelaum"
+					graeci = "Andelaum"
+					greek = "Andelaion"
+					galloroman = "Andilegum"
+					iberoroman = Andilegum
+					britto = Andilegum
+					old_frankish = "Andeleius"
+					burgundian = Andeleius
+					visigothic = Andeleius
+					ostrogothic = Andeleius
+				}
+				b_ivry = {
+				}
+				b_abbayedemortemer = {
+				}
+			}
+			c_arques = { # actually Rouen
+				color={ 254 161 100 }
+				color2={ 255 255 255 }
+
+				roman = "Rotomagus"
+				graeci = "Ratomagus"
+				greek = "Ratomagos"
+				galloroman = "Rotomagus"
+				iberoroman = Rotomagus
+				britto = Rotomagus
+				old_frankish = "Rotomagensis"
+				burgundian = Rodomo
+				visigothic = Rotomagensis
+				ostrogothic = Rotomagensis
+				norse = "Rothom" # Hypothetical
+				old_saxon = "Rodom" # Hypothetical
+				thuringian = "Rothom" # hypothetical
+				alemannic = "Rodom" # Hypothetical
+				
+				b_fecamp = {
+					roman = "Fici Campus"
+					graeci = "Fici Campus"
+					galloroman = "Fiscampus" # Hypothetical
+					iberoroman = Fiscampus
+					britto = Fiscampus
+					old_frankish = "Fiscannu"
+					burgundian = Fiscannu
+					visigothic = Fiscannu
+					ostrogothic = Fiscannu
+				}
+				b_rouen = {
+					roman = "Rotomagus"
+					graeci = "Ratomagus"
+					greek = "Ratomagos"
+					galloroman = Rothomagus # Historia Francorum
+					iberoroman = Rothomagus
+					britto = Rothomagus
+					old_frankish = "Rodomo"
+					burgundian = Rodomo
+					visigothic = Rodomo
+					ostrogothic = Rodomo
+					norse = "Rothom" # Hypothetical
+					old_saxon = "Rodom" # Hypothetical
+					thuringian = "Rothom" # hypothetical
+					alemannic = "Rodom" # Hypothetical
+				}
+				b_lillebonne = {
+					roman = "Juliobona"
+					graeci = "Juliobona"
+					greek = "Iouliobona"
+					galloroman = "Juliobona"
+					iberoroman = Juliobona
+					britto = Juliobona
+					old_frankish = "Juliobonas" # hypothetical
+				}
+				b_harfleur = {
+					roman = "Caracotinum"
+					graeci = "Caracotinum"
+					greek = "Karakotinon"
+					galloroman = "Caracotinum"
+					iberoroman = Caracotinum
+					britto = Caracotinum
+					norse = "Harofloz"
+					old_frankish = "Harofloth"
+					burgundian = Harofloth
+					visigothic = Harofloth
+					ostrogothic = Harofloth
+				}
+				b_arques = {
+					roman = "Arcus"
+					graeci = "Arcus"
+					greek = "Arkos"
+					galloroman = "Arca"
+					iberoroman = "Arca"
+					britto = Arca
+					old_frankish = "Arcas"
+					burgundian = Arcas
+					visigothic = Arcas
+					ostrogothic = Arcas
+					old_saxon = "Arcas"
+				}
+				b_dieppe = {
+					old_frankish = Tella
+					burgundian = Tella
+					visigothic = Tella
+					ostrogothic = Tella
+					old_saxon = Deop
+					saxon = Deop
+				}
+				b_jumieges = {
+				}
+				b_longueville = {
+				}
+			}
+			c_eu = {
+				color={ 240 150 104 }
+				color2={ 255 255 255 }
+
+				roman = "Phroudis"
+				graeci = "Phroudis"
+				greek = "Phroudis"
+				galloroman = "Phroudis"
+				iberoroman = Phroudis
+				britto = Phroudis
+				norse = "Brisela"
+				old_frankish = "Auvae"
+				burgundian = Auvae
+				visigothic = Auvae
+				ostrogothic = Auvae
+				old_saxon = "Awae"
+				thuringian = "Awae"
+				alemannic = "Awae"
+				
+				b_eu = {
+					roman = "Augusta"
+					graeci = "Augusta"
+					greek = "Augusta"
+					galloroman = "Augusta"
+					iberoroman = Augusta
+					britto = Augusta
+					old_frankish = "Auvae"
+					burgundian = Auvae
+					visigothic = Auvae
+					ostrogothic = Auvae
+					old_saxon = "Awae"
+					thuringian = "Awae"
+					alemannic = "Awae"
+				}
+				b_mortemer = {
+				}
+				b_gournay = {
+				}
+				b_aumale = {
+				}
+				b_forges = {
+				}
+				b_drincourt = {
+				}
+				b_neufchatel-en-bray = {
+				}
+				b_serqueux = {
+				}
+			}
+		}
+		d_paris = {
+			color={ 233 223 194 }
+			color2={ 255 255 255 }
+
+			c_ile_de_france = {
+				color={ 238 244 211 }
+				color2={ 255 255 255 }
+
+				roman = Lutetia
+				greek = Lutetia
+				graeci = Lutetia
+				galloroman = Parisiorum
+				iberoroman = Parisiorum
+				britto = Parisiorum
+				old_frankish = Parisiace
+				burgundian = Parisiace
+				visigothic = Parisiace
+				ostrogothic = Parisiace
+				old_saxon = Parisiace
+				saxon = Parisiace
+				
+				b_paris = {
+					roman = Lutetia
+					greek = Lutetia
+					graeci = Lutetia
+					galloroman = Parisiorum
+					iberoroman = Parisiorum
+					britto = Parisiorum
+					old_frankish = Parisiace
+					burgundian = Parisiace
+					visigothic = Parisiace
+					ostrogothic = Parisiace
+					old_saxon = Parisiace
+					saxon = Parisiace
+				}
+				b_melun = {
+					roman = Meledunum
+					graeci = Meledunum
+					greek = Meledunon
+					galloroman = Meledunum
+					iberoroman = Meledunum
+					britto = Meledunum
+				}
+				b_stdenis = {
+					holy_site = aztec
+					holy_site = aztec_reformed
+				}
+				b_meaux = {
+					roman = Iantinum
+					graeci = Iantinum
+					greek = Iantinon
+					galloroman = Iantinum
+					iberoroman = Iantinum
+					britto = Iantinum
+					old_frankish = Meldis
+					burgundian = Meldis
+					visigothic = Meldis
+					ostrogothic=  Meldis
+					saxon = Meldis
+					old_saxon = Meldis
+				}
+				b_etampes = {
+				}
+				b_montfortlamaury = {
+				}
+				b_senlis = {
+				}
+				b_compiegne = {
+				}
+			}
+			c_orleans = {
+				color={ 194 192 174 }
+				color2={ 255 255 255 }
+
+				roman = "Aurelianum"
+				graeci = "Cenabum"
+				greek = "Aurelianon"
+				galloroman = "Aurelianum"
+				iberoroman = Aurelianum
+				britto = Aurelianum
+				old_frankish = Aureliensis
+				burgundian = Aureliensis
+				visigothic = Aureliensis
+				ostrogothic = Aureliensis
+				alan = "Aurelianum"
+				
+				b_gien = {
+					roman = "Genabum"
+					graeci = "Genabum"
+					greek = Genabum
+					galloroman = "Genabum"
+					iberoroman = Genabum
+					britto = Genabum
+					old_frankish = "Giemus"
+					burgundian = Giemus
+					visigothic = Giemus
+					ostrogothic = Giemus
+				}
+				b_orleans = {
+					roman = "Aurelianum"
+					graeci = "Cenabum"
+					greek = "Aurelianon"
+					galloroman = "Aurelianum"
+					iberoroman = Aurelianum
+					britto = Aurelianum
+					old_frankish = Aureliani
+					burgundian = Aureliani
+					visigothic = Aureliani
+					ostrogothic = Aureliani
+					alan = Aureliani
+				}
+				b_fleury = {
+					roman = "Floriacum"
+					graeci = "Floriacum"
+					greek = "Floriakon"
+					galloroman = "Floriacum"
+					iberoroman = Floriacum
+					britto = Floriacum
+				}
+				b_lepuiset = {
+				}
+				b_sully = {
+				}
+				b_meung = {
+				}
+				b_janville = {
+				}
+				b_jargeau = {
+				}
+			}
+			c_chartres = {
+				color={ 253 229 190 }
+				color2={ 255 255 255 }
+
+				roman = "Carnutum"
+				graeci = "Autricum"
+				greek = "Carnuton"
+				galloroman = "Carnutum"
+				iberoroman = "Carnutum"
+				britto = Carnutum
+				
+				b_chateaudun = {
+					roman = "Castrodunum"
+					graeci = "Castrodunum"
+					greek = Castrodunum
+					galloroman = "Castrodunum"
+					iberoroman = Castrodunum
+					britto = Castrodunum
+				}
+				b_chartres = {
+					roman = "Carnutum"
+					graeci = "Autricum"
+					greek = "Carnuton"
+					galloroman = "Carnutum"
+					iberoroman = Carnutum
+					britto = Carnutum
+				}
+				b_dreux = {
+				}
+				b_nogent = {
+				}
+				b_gallardon = {
+				}
+				b_epernon = {
+				}
+				b_bonneval = {
+				}
+				b_tiron = {
+				}
+			}
+		}
+		d_senonia = {
+			color={ 82 121 193 }
+			color2={ 255 255 255 }
+			
+			c_troyes = {
+				color={ 99 128 230 }
+				color2={ 255 255 255 }
+
+				roman = Tricassium
+				graeci = Augustobona
+				greek = Tricassion
+				galloroman = Tricassium
+				iberoroman = Tricassium
+				britto = Tricassium
+				old_frankish = Trecassis
+				burgundian = Trecassis
+				visigothic = Trecassis
+				ostrogothic = Trecassis
+				old_saxon = Trecassis
+				saxon = Trecassis
+				
+				b_brienne = {
+				}
+				b_troyes = {
+					roman = Tricassium
+					graeci = Augustobona
+					greek = Tricassion
+					galloroman = Tricassium
+					iberoroman = Tricassium
+					old_frankish = Trecassis
+					old_saxon = Trecassis
+					saxon = Trecassis
+				}
+				b_langres = {
+				}
+				b_chaumont = {
+				}
+				b_clairvaux = {
+				}
+				b_rosnay = {
+				} 
+				b_chacenay = {
+				}
+			}
+			c_sens = {
+				color={ 102 140 242 }
+				color2={ 255 255 255 }
+
+				roman = "Senonas"
+				graeci = Senonas
+				greek = Senonas
+				galloroman = "Senonia"
+				iberoroman = Senonia
+				britto = Senonia
+				
+				b_montargis = {
+				}
+				b_sens = {
+					roman = "Agedincum"
+					graeci = Agedincum
+					greek = Agedincum
+					galloroman = "Agedincum"
+					iberoroman = Agedincum
+					britto = Agedinum
+				}
+				b_nemours = {
+					roman = "Nemausus"
+					graeci = Nemausus
+					greek = Nemausus
+					galloroman = "Nemausus"
+					old_frankish = Nemausus
+					burgundian = Nemausus
+					visigothic = Nemausus
+					ostrogothic = Nemausus
+				}
+				b_chateaulandon = {
+				}
+				b_nogentsurseine = {
+				}
+				b_joigny = {
+				}
+				b_montereau = {
+				}
+				b_villeneuveleroi = {
+				}
+			}
+		}
+		d_belgica = {
+			color={ 181 109 2 }
+			color2={ 255 255 255 }
+			
+			c_reims = {
+				color={ 161 90 32 }
+				color2={ 255 255 255 }
+
+				roman = "Durocortorum"
+				graeci = Durocortorum
+				greek = "Durocortoron"
+				galloroman = "Rementium"
+				iberoroman = Rementium
+				britto = Rementium
+				old_frankish = "Remensis"
+				burgundian = Rhemus
+				visigothic = "Rhemus"
+				ostrogothic = Rhemus
+				
+				b_reims = {
+					roman = "Durocortorum"
+					greek = "Durocortoron"
+					galloroman = "Rementium"
+					iberoroman = Rementium
+					britto = Rementium
+					old_frankish = "Rhemus"
+					burgundian = Rhemus
+					visigothic = "Rhemus"
+					ostrogothic = Rhemus
+				}
+				b_chateauthierry = {
+				}
+				b_provins = {
+					roman = "Probus"
+					graeci = Probus
+					greek = Probus
+					galloroman = "Probus"
+					iberoroman = Probus
+					britto = Probus
+					old_frankish = "Provis" # Hypothetical
+				}
+				b_chalons = {
+				}
+				b_chatillon = {
+				}
+				b_vertus = {
+				}
+				b_epernay = {
+					roman = "Sparnacum"
+					graeci = Sparnacum
+					greek = Sparnacum
+					galloroman = "Sparnacus"
+					iberoroman = Sparnacus
+					britto = Sparnacus
+					old_frankish = "Esparnaium"
+					burgundian = Esparnacum
+					visigothic = "Esparnacum"
+					ostrogothic = Esparnacum
+				}
+				b_roucy = {
+					old_frankish = "Rusci"
+					burgundian = Rusci
+					visigothic = Rusci
+					ostrogothic = Rusci
+				}
+			}
+			c_vermandois = {
+				color={ 171 99 12 }
+				color2={ 255 255 255 }
+
+				roman = Viromandia
+				graeci = Viromandia
+				greek = Viromandia
+				galloroman = Viromandia
+				iberoroman = Viromandia
+				britto = Viromandia
+				old_frankish = "Viromandensis"
+				visigothic = Viromandensis
+				ostrogothic = Viromandensis
+				
+				b_coucy = {
+				}
+				b_stquentin = {
+					roman = Viromanduorum
+					graeci = Viromanduorum
+					greek = Viromanduorum
+					galloroman = Viromanduorum
+					iberoroman = Viromanduorum
+					britto = Viromanduorum
+				}
+				b_laon = {
+					roman = Laudunum
+					graeci = Laudunum
+					greek = Laudunum
+					galloroman = Laudunum
+					iberoroman = Laudunum
+					britto = Laudunum
+					old_frankish = Lugdune
+					burgundian = Lugdune
+					old_saxon = Lugdune
+					saxon = Lugdun
+					visigothic = Lugdune
+					ostrogothic = Lugdune
+				}
+				b_crepy = {
+				}
+				b_montaigu = {
+				}
+				b_rethel = {
+				}
+				b_guise = {
+				}
+				b_signy = {
+				}
+			}
+			c_amiens = {
+				color={ 191 115 22 }
+				color2={ 255 255 255 }
+
+				roman = "Suessionum"
+				graeci = "Noviodunum"
+				greek = "Suessionon"
+				galloroman = "Suessionum"
+				iberoroman = Suessionum
+				britto = Suessionum
+				
+				b_peronne = {
+					roman = "Perunna"
+					graeci = "Perunna"
+					greek = Perunna
+					galloroman = "Perunna"
+					iberoroman = Perunna
+					britto = Perunna
+				}
+				b_amiens = {
+					roman = "Ambianorum"
+					graeci = "Samarobriva"
+					galloroman = "Ambianorum"
+				}
+				b_beauvais = {
+					roman = "Caesaromagus"
+					graeci = "Caesaromagus"
+					greek = Caesaromagus
+					galloroman = Bellovacum
+					iberoroman = Bellovacum
+					britto = Bellovacum
+				}
+				b_soissons = {
+					roman = "Suessionum"
+					graeci = "Noviodunum"
+					greek = "Suessionon"
+					galloroman = "Suessionum"
+					iberoroman = Suessionum
+					britto = Suessionum
+					old_frankish = "Suessone" # Hypothetical
+				}
+				b_corbie = {
+				}
+				b_noyon = {
+					roman = Noviomagus
+					graeci = Noviomagus
+					greek = Noviomagus
+					galloroman = Noviomagus
+					iberoroman = Noviomagus
+					britto = Nobiomagus
+					old_frankish = Noviomum
+					burgundian = Noviomum
+					visigothic = Noviomum
+					ostrogothic = Noviomum
+				}
+				b_montdidier = {
+				}
+				b_breteuil = {
+				}
+			}
+		}
+		d_divio = {
+			# French, or Lower Burgundy
+			color={ 153 67 108 }
+			color2={ 255 255 255 }
+			capital = 136 # Dijon
+						
+			c_auxerre = {
+				color={ 197 99 128 }
+				color2={ 255 255 255 }
+
+				roman = "Autessiodurum"
+				graeci = "Autessiodurum"
+				greek = Autessiodurum
+				galloroman = "Autricum"
+				iberoroman = Autricum
+				britto = Autricum
+				old_frankish = Tornodorensis
+				burgundian = Tornodorensis
+				visigothic = Tornodorensis
+				ostrogothic = Tornodorensis
+	
+				b_auxerre = {
+					roman = "Autessiodurum"
+					graeci = "Autessiodurum"
+					greek = Autessiodurum
+					galloroman = "Autricum"
+					iberoroman = Autricum
+					britto = Autricum
+				}
+				b_druyes = {
+				}
+				b_tonnerre = {
+				}
+				b_pontigny = {
+				}
+				b_cravant = {
+				}
+				b_crisenon = {
+				}
+				b_stsauveurenpuisaye = {
+				}
+				b_mailly = {
+				}
+			}
+			c_dijon = {
+				color={ 130 37 101 }
+				color2={ 255 255 255 }
+
+				roman = Divio
+				graeci = Divio
+				greek = Divio
+				galloroman = Divio
+				iberoroman = Divio
+				britto = Divio
+				old_frankish = Divionensis
+				burgundian = Divionensis
+				visigothic = Divionensis
+				ostrogothic = Divionensis
+				
+				b_semur = {
+				}
+				b_dijon = {
+					roman = Divio
+					graeci = Divio
+					greek = Divio
+					galloroman = Divio
+					iberoroman = Divio
+					britto = Divio
+					old_frankish = Divione
+					burgundian = Divione
+					visigothic = Divione
+					ostrogothic = Divione
+				}
+				b_autun = {
+					roman = Augustodunum
+					graeci = Augustodunum
+					greek = Augustodunum
+					galloroman = Augustodunum
+					iberoroman = Augustodunum
+					britnanni = Augustodunum
+				}
+				b_vezelay = {
+				}
+				b_avallon = {
+				}
+				b_citeaux = {
+				}
+				b_beaune = {
+				}
+				b_noyers = {
+				}
+			}
+			c_nevers = {
+				color={ 144 81 112 }
+				color2={ 255 255 255 }
+
+				roman = Noviodunum
+				graeci = Noviodunum
+				greek = Noviodunum
+				galloroman = Nevirnum
+				iberoroman = Nevirnum
+				britto = Nevirnum
+				old_frankish = Neberno # Merovingian. 'Nevernis' dates from the Carolingian period.
+				burgundian = Neberno
+				visigothic = Ebirno # Tabula Peutingeriana
+				ostrogothic = Ebirno
+				
+				b_courtenay = {
+				}
+				b_nevers = {
+					roman = Noviodunum
+					graeci = Noviodunum
+					greek = Noviodunum
+					galloroman = Nevirnum
+					iberoroman = Nevirnum
+					britto = Nevirnum
+					old_frankish = Neberno # Merovingian. 'Nevernis' dates from the Carolingian period.
+					burgundian = Neberno
+					visigothic = Ebirno # Tabula Peutingeriana
+					ostrogothic = Ebirno
+				}
+				b_lacharite = {
+				}
+				b_donzy = {
+				}
+				b_chateauchinon = {
+				}
+				b_vandenesse = {
+				}
+				b_clamecy = {
+				}
+				b_cosne = {
+				}
+			}
+			c_charolais = {
+				color={ 159 97 120 }
+				color2={ 255 255 255 }
+
+				roman = Quadrigellae
+				graeci = Quadrigellae
+				greek = Quadrigellae
+				galloroman = Quadrigellae
+				iberoroman = Quadrigellae
+				britto = Quadrigellae
+				
+				b_montstvincent = {
+				}
+				b_charolles = {
+					roman = Quadrigellae
+					graeci = Quadrigellae
+					greek = Quadrigellae
+					galloroman = Quadrigellae
+					iberoroman = Quadrigellae
+					britto = Quadrigellae
+				}
+				b_paray = {
+				}
+				b_semurenbrionnais = {
+				}
+				b_toulonsurarroux = {
+				}
+				b_perrecy = {
+				}
+				b_digoine = {
+				}
+				b_joncy = {
+				}
+			}
+		}
+	}
+	
+	k_austrasia = {
+		color={ 110 110 160 }
+		color2={ 220 220 20 }
+		
+		capital = 115 #Luxemburg
+		
+		catholic = 5000 # Crusade target weight
+		
+		d_toxandria = {
+			color={ 68 128 200 }
+			color2={ 255 255 255 }
+		
+			c_brabant = {
+				color={ 70 133 222 }
+				color2={ 255 255 255 }
+
+				old_frankish = "Bracbatensis"
+				burgundian = Bracbatensis
+				visigothic = Bracbatensis
+				ostrogothic = Bracbatensis
+			
+				b_leuven = {
+				}
+				b_mechelen = {
+				}
+				b_brussel = {
+					galloroman = "Brosella"
+				}
+				b_antwerpen = {
+				}
+				b_aarschot = {
+				}
+				b_grimbergen = {
+				}
+				b_herstal = {
+				}
+				b_lier = {
+				}
+			}
+			c_hainaut = {
+				color={ 47 98 159 }
+				color2={ 255 255 255 }
+
+				roman = "Valentiensis"
+				graeci = Valentiensis
+				galloroman = "Valentiensis"
+				iberoroman = Valentiensis
+				britto = Valentiensis
+				alemannic = "Hennegawi"
+				thuringian = "Hennegawi"
+				frisian = "Henegawin"
+				old_frankish = "Hainaus"
+				burgundian = Henegavia
+				visigothic = "Henegavi"
+				saxon = "Hennega"
+			
+				b_valenciennes = {
+					roman = "Valentianae"
+					graeci = Valentianae
+					greek = Valentiana
+					galloroman = "Valentiana"
+					iberoroman = Valentiana
+					britto = Valentiana
+					old_frankish = "Valentiana"
+					burgundian = Valentiana
+					visigothic = Valentiana
+					ostrogothic = Valentiana
+				}
+				b_cambrai = {
+					roman = "Camaracum"
+					graeci = Camaracum
+					galloroman = "Camaracum"
+					iberoroman = Camaracum
+					britto = Camaracum
+					old_frankish = Camaraco
+					burgundian = Camaraco
+					old_saxon = Camaraco
+					visigothic = Camaraco
+					ostrogothic = Camaraco
+					saxon = Camaraco
+				}
+				b_avesnes = {
+				}
+				b_mons = {
+				}
+				b_chievres = {
+				}
+				b_enghien = {
+				}
+				b_charleroi = {
+				}
+				b_ath = {
+				}
+			}
+			c_breda = {
+				color={ 97 142 218 }
+				color2={ 255 255 255 }
+
+				roman = "Batavorum"
+				galloroman = "Batavas" # hypothetical
+				alemannic = "Batawjo"
+				thuringian = "Batawjo"
+				old_frankish = "Batavo"
+				burgundian = "Batavo"
+				visigothic = "Batavo"
+				frisian = "Batawjo"
+				dutch = "Betuwe"
+			
+				b_breda = {
+				}
+				b_shertogenbosch = {
+				}
+				b_tilburg = {
+				}
+				b_willemstad = {
+				}
+				b_bergenopzoom = {
+				}
+				b_cuijck = {
+				}
+				b_ravenstein = {
+				}
+				b_horn = {
+				}
+			}
+			c_loon = {
+				color={ 115 115 175 }
+				color2={ 255 255 255 }
+			
+				b_loon = {
+				}
+				b_maastricht = {
+				}
+				b_hasselt = {
+				}
+				b_valkenburg = {
+				}
+				b_heinsberg = {
+				}
+				b_hesbaie = {
+				}
+				b_wassenberg = {
+				}
+				b_tongeren = {
+				}
+			}
+		}
+		d_menapiorum = {
+			color={ 43  141  172 }
+			color2={ 255 255 255 }
+			
+			capital = 78
+			
+			frisian = "Flamsk"
+			
+			c_yperen = {
+				color={ 194 115 40 }
+				color2={ 255 255 255 }
+				
+				b_ypres = {
+				}
+				b_rosebeke = {
+				}
+				b_cassel = {
+				}
+				b_roeselare = {
+				}
+				b_poperinge = {
+				}
+				b_menen = {
+				}
+				b_diksmuide = {
+				}
+				b_wervik = {
+				}
+			}
+			c_brugge = {
+				color={ 250 120 0 }
+				color2={ 255 255 255 }
+
+				old_frankish = Flandrensis
+				burgundian = Flandrensis
+				visigothic = Flandrensis
+				ostrogothic = Flandrensis
+				
+				b_brugge = {
+				}
+				b_damme = {
+				}
+				b_sluys = {
+				}
+				b_oostende = {
+				}
+				b_male = {
+				}
+				b_nieuwpoort = {
+				}
+				b_torhout = {
+				}
+				b_aardenburg = {
+				}
+			}
+			c_gent = {
+				color={ 234 110 5 }
+				color2={ 255 255 255 }
+
+				old_frankish = Gandensis
+				burgundian = Gandensis
+				visigothic = Gandensis
+				ostrogothic = Gandensis
+				
+				b_gent = {
+				}
+				b_doornik = {
+				}
+				b_oudenaarde = {
+				}
+				b_aalst = {
+				}
+				b_st_niklaas = {
+				}
+				b_dendermonde = {
+				}
+				b_kortrijk = {
+				}
+				b_geraardsbergen = {
+				}
+			}
+			c_artois = {
+				color={ 234 110 90 }
+				color2={ 255 255 255 }
+				
+				roman = Nemetacum
+				graeci = Nemetacum
+				greek = Nemetacum
+				galloroman = Atrebatum
+				iberoroman = Atrebatum
+				britto = Atrebatum
+				old_frankish = Atrebatensis
+				burgundian = Atrebatensis
+				visigothic = Atrebatensis
+				ostrogothic = Atrebatensis
+
+				b_arras = {
+					roman = Nemetacum
+					graeci = Nemetacum
+					greek = Nemetacum
+					galloroman = Atrebatum
+					iberoroman = Atrebatum
+					britto = Atrebatum
+					old_frankish = Athrebate
+					burgundian = Athrebate
+					visigothic = Athrebate
+					ostrogothic = Athrebate
+				}
+				b_terwaan = {
+				}
+				b_bethune = {
+				}
+				b_lens = {
+				}
+				b_lille = {
+				}
+				b_bouvines = {
+				}
+				b_beaumetz = {
+				}
+				b_bapaume = {
+				}
+			}
+			c_boulogne = {
+				color={ 224 140 90 }
+				color2={ 255 255 255 }
+
+				roman = "Bononia"
+				graeci = "Bononia"
+				greek = "Bononia"
+				galloroman = "Bolonia"
+				iberoroman = "Bolonia"
+				britto = "Bolonia"
+				old_frankish = Bononiensis
+				burgundian = Bononiensis
+				visigothic = Bononiensis
+				ostrogothic = Bononiensis
+				
+				b_boulogne = {
+					roman = "Bononia"
+					graeci = "Bononia"
+					greek = "Bononia"
+					galloroman = "Bolonia"
+					iberoroman = "Bolonia"
+					britto = "Bolonia"
+					old_frankish = Bolonia
+					burgundian = Bolonia
+					visigothic = Bolonia
+					ostrogothic = Bolonia
+					frisian = Bonen
+					old_saxon = Bonen
+					saxon = Bonen
+				}
+				b_montreuil = {
+				}
+				b_saintpol = {
+				}
+				b_hesdin = {
+				}
+				b_fauquembergues = {
+				}
+				b_ternouis = {
+				}
+				b_therouanne = {
+				}
+				b_ardres = {
+				}
+			}
+			c_guines = {
+				color={ 194 145 100 }
+				color2={ 255 255 255 }
+
+				roman = Calesium
+				graeci = Calesium
+				greek = Kalesion
+				galloroman = Calesium
+				iberoroman = Calesium
+				britto = Calesium
+				old_frankish = Caletus
+				burgundian = Ghisnae
+				visigothic = Caletus
+				ostrogothic = Caletus
+				old_saxon = Ghisnae
+				saxon = Ghisnae
+				
+				b_guines = {
+					old_frankish = Ghisnes
+					burgundian = Ghisnes
+					visigothic = Ghisnes
+					ostrogothic = Ghisnes
+					old_saxon = Ghisnae
+					saxon = Ghisnae
+				}
+				b_saintomer = {
+				}
+				b_calais = {
+					roman = Calesium
+					graeci = Calesium
+					greek = Kalesion
+					galloroman = Calesium
+					iberoroman = Calesium
+					britto = Calesium
+				}
+				b_dunkerque = {
+				}
+				b_bourbourg = {
+				}
+				b_marck = {
+				}
+				b_gravelines = {
+				}
+				b_coulogne = {
+				}
+			}
+		}
+		d_luxembourg = {
+			color={ 110 110 155 }
+			color2={ 255 255 255 }
+			
+			capital = 115 #Luxembourg
+			
+			c_luxembourg = {
+				color={ 113 113 158 }
+				color2={ 255 255 255 }
+
+				roman = Arduennensis
+				graeci = Arduennensis
+				greek = Arduennensis
+				galloroman = Arduennensis
+				iberoroman = Arduennensis
+				britto = Arduennensis
+				old_frankish = Lucilinburhuc
+				visigothic = Lucilinburhuc
+				ostrogothic = Lucilinburhuc
+				burgundian = Lucilinburhuc
+				old_saxon = Lucilinburhuc
+				saxon = Lucilinburhuc
+				thuringian = Lucilinburhuc
+				alemannic = Lucilinburhuc
+			
+				b_luxembourg = {
+					old_frankish = Lucilinburhuc
+					visigothic = Lucilinburhuc
+					ostrogothic = Lucilinburhuc
+					burgundian = Lucilinburhuc
+					old_saxon = Lucilinburhuc
+					saxon = Lucilinburhuc
+					thuringian = Lucilinburhuc
+					alemannic = Lucilinburhuc
+				}
+				b_bouillon = {
+				}
+				b_saintvith = {
+				}
+				b_arlon = {
+				}
+				b_neufchateau = {
+				}
+				b_longwy = {
+				}
+				b_differdange = {
+				}
+				b_ettelbruck = {
+				}
+			}
+			c_liege = {
+				color={ 120 120 165 }
+				color2={ 255 255 255 }
+
+				roman = Leodium
+				graeci = Leodium
+				greek = Leodion
+				galloroman = Legia
+				iberoroman = Legia
+				britto = Legia
+				old_frankish = Lediga
+				visigothic = Lediga
+				ostrogothic = Lediga
+				burgundian = Lediga
+				frisian = Ledich
+				norse = Ledig
+			
+				b_liege = {
+					roman = Leodium
+					graeci = Leodium
+					greek = Leodion
+					galloroman = Legia
+					iberoroman = Legia
+					britto = Legia
+					old_frankish = Lediga
+					visigothic = Lediga
+					ostrogothic = Lediga
+					burgundian = Lediga
+					frisian = Ledich
+					norse = Ledig
+				}
+				b_bastogne = {
+				}
+				b_namur = {
+					roman = Namurcum
+					graeci = Namurcum
+					greek = Namurcum
+					galloroman = Namo
+					iberoroman = Namurcum
+					britto = Namurcum
+					old_frankish = Namucho
+					visigothic = Namucho
+					ostrogothic = Namucho
+					burgundian = Namucho
+				}
+				b_huy = {
+				}
+				b_laroche = {
+				}
+				b_cine = {
+				}
+				b_salm = {
+				}
+				b_stavelot = {
+				}
+			}
+			c_julich = {
+				color={ 100 100 141 }
+				color2={ 255 255 255 }
+
+				roman = Iuliacum
+				graeci = Iuliacum
+				greek = Iouliakon
+				galloroman = Juliacum
+				iberoroman = Juliacum
+				britto = Juliacum
+				old_frankish = Juliacensis
+				visigothic = Juliacensis
+				ostrogothic = Juliacensis
+				burgundian = Juliacensis
+			
+				b_julich = {
+					roman = Iuliacum
+					graeci = Iuliacum
+					greek = Iouliakon
+					galloroman = Juliacum
+					iberoroman = Juliacum
+					britto = Juliacum
+					old_frankish = Julicho
+					visigothic = Julicho
+					ostrogothic = Julicho
+					burgundian = Julicho
+				}
+				b_aachen = {
+					roman = Aquisgranum
+					graeci = Aquisgranum
+					greek = Aquisgranon
+					galloroman = Aquisgranum
+					iberoroman = Aquisgranum
+					britto = Aquisgranum
+					old_frankish = "Aquis Villa"
+					visigothic = "Aquis Villa"
+					ostrogothic = "Aquis Villa"
+					burgundian = "Aquis Villa"
+					frisian = Oche
+					thuringian = Ahwo
+					alemannic = Ahwo
+				}
+				b_prum = {
+				}
+				b_geldern = {
+				}
+				b_roermond = {
+				}
+				b_duren = {
+				}
+				b_moers = {
+				}
+				b_monschau = {
+				}
+			}
+		}
+		d_upper_lorraine = {
+			color={ 90 90 125 }
+			color2={ 255 255 255 }
+			
+			capital = 127 #Lorraine		
+			c_lorraine = {
+				color={ 92 92 127 }
+				color2={ 255 255 255 }
+
+				roman = Nantiacum
+				graeci = Nantiacum
+				greek = Nantiacum
+				galloroman = Nantiacum
+				iberoroman = Nantiacum
+				britto = Nantiacum
+				old_frankish = Nanceio
+				visigothic = Nanceio
+				ostrogothic = Nanceio
+				burgundian = Nanceio
+			
+				b_nancy = {
+					roman = Nantiacum
+					graeci = Nantiacum
+					greek = Nantiacum
+					galloroman = Nantiacum
+					iberoroman = Nantiacum
+					britto = Nantiacum
+					old_frankish = Nanceio
+					visigothic = Nanceio
+					ostrogothic = Nanceio
+					burgundian = Nanceio
+					allemanic = Nanzig
+				}
+				b_toul = {
+					roman = Tullium
+					graeci = Tullium
+					greek = Toullon
+					galloroman = Tullio
+					iberoroman = Tullio
+					britto = Tullio
+					old_frankish = Tulla
+					visigothic = Tulla
+					ostrogothic = Tulla
+					burgundian = Tulla
+				}
+				b_sarrebourg = {
+					roman = "Ponte Sarvix"
+					graeci = "Ponte Sarvix"
+					greek = "Ponte Sarvix"
+					galloroman = Pontesaravi
+					iberoroman = Pontesaravi
+					britto = Pontesaravi
+					old_frankish = Sareburco
+					visigothic = Saredurgo
+					ostrogothic = Saredurgo
+					burgundian = Sareburco
+				}
+				b_epinal = {
+					roman = Calmonensis
+					graeci = Calmonensis
+					greek = Calmonensis
+					galloroman = Calmonensis
+					iberoroman = Calmonensis
+					britto = Calmonensis
+					old_frankish = Spinalium
+					visigothic = Spinalium
+					ostrogothic = Spinalium
+					burgundian = Spinalium
+				}
+				b_luneville = {
+					roman = Lineatis
+					graeci = Lineatis
+					greek = Lineatis
+					galloroman = Lineatis
+					iberoroman = Lineatis
+					britto = Lineatis
+					old_frankish = "Lineatis Villa"
+					visigothic = "Lineatis Villa"
+					ostrogothic = "Lineatis Villa"
+					burgundian = "Lineatis Villa"
+				}
+				b_charpeigne = {
+				}
+				b_mortagnedevosges = {
+				}
+				b_saintavoid = {
+				}
+			}
+			c_saintois = {
+				color={ 105 105 135 }
+				color2={ 255 255 255 }
+		
+				b_saintois = {
+				}
+				b_vaudemont = {
+				}
+				b_brixey = {
+				}
+				b_sorcystmartin = {
+				}
+				b_ivios = {
+				}
+				b_ornois = {
+				}
+				b_saulnois = {
+				}
+				b_dompaire = {
+				}
+			}
+			c_bar = {
+				color={ 115 115 145 }
+				color2={ 255 255 255 }
+
+				old_frankish = Barrensis
+				burgundian = Barrensis
+				visigothic = Barrensis
+				ostrogothic = Barrensis
+				
+				b_barleduc = {
+				}
+				b_vaucouleurs = {
+				}
+				b_saintmihel = {
+				}
+				b_commercy = {
+				}
+				b_joinville = {
+				}
+				b_saintdizier = {
+				}
+			}
+		}
+		d_lower_lorraine = {
+			color={ 144 144 177 }
+			color2={ 255 255 255 }
+			
+			capital = 118 # Trier
+			c_pfalz = {
+				color={ 140 140 170 }
+				color2={ 255 255 255 }
+			
+				b_kaiserslautern = {
+				}
+				b_worms = {
+					roman = Vangionum
+					graeci = Vangionum
+					greek = Vangionum
+					galloroman = Borbetomagus 
+					iberoroman = Vormatia
+					britto = Vormatia
+					old_frankish = Varmacia
+					visigothic = Wormatia
+					ostrogothic = Wormatia
+					burgundian = Wormatia
+				}
+				b_hagenau = {
+				}
+				b_stahleck = {
+				}
+				b_trifels = {
+				}
+				b_speyer = {
+					roman = "Noviomagus Nemetum"
+					graeci = "Noviomagus Nemetum"
+					greek = "Noviomagus Nemetum"
+					galloroman = Nemetum
+					iberoroman = Nemetum
+					britto = Nemetum
+					old_frankish = Spira
+					burgundian = Spira
+					visigothic = Spira
+					ostrogothic = Spira
+					alemannic = Spira
+					thuringian = Spira
+				}
+				b_zweibrucken = {
+				}
+				b_saarbrucken = {
+				}
+			}
+			c_trier = {
+				color={ 144 144 177 }
+				color2={ 255 255 255 }
+
+				roman = "Treverorum"
+				graeci = "Treverorum"
+				greek = Treverorum
+				galloroman = "Treveris"
+				iberoroman = Treveris
+				britto = Treveris
+			
+				b_andernach = {
+				}
+				b_trier = {
+					roman = "Treverorum"
+					graeci = "Treverorum"
+					greek = Treverorum
+					galloroman = Treveris
+					iberoroman = Treveris
+					britto = Treveris
+				}
+				b_coblenz = {
+					roman = Confluentes
+					graeci = Confluentes
+					greek = Confluentes
+					galloroman = Confluentes
+					iberoroman = Confluentes
+					britto = Confluentes
+				}
+				b_sponheim = {
+					old_frankish = Spanheym
+					burgundian = Spanheym
+					thuringian = Spanheym
+					alemannic = Spanheym
+					old_saxon = Spanheym
+					saxon = Spanheym
+				}
+				b_wittlich = {
+				}
+				b_gerolstein = {
+				}
+				b_laach = {
+				}
+				b_bitburg = {
+				}
+			}
+			c_metz = {	
+				color={ 150 150 185 }
+				color2={ 255 255 255 }
+
+				roman = "Divodorum"
+				graeci = "Divodorum"
+				greek = "Divodoron"
+				galloroman = "Mettis"
+				iberoroman = "Mettis"
+				old_frankish = "Metas"
+				burgundian = Metas
+				visigothic = Metas
+				ostrogothic = Metas
+			
+				b_metz = {
+					roman = "Divodorum"
+					graeci = "Divodorum"
+					greek = "Divodoron"
+					galloroman = "Mettis"
+					iberoroman = "Mettis"
+					old_frankish = "Metas"
+					burgundian = Metas
+					visigothic = Metas
+					ostrogothic = Metas
+				}
+				b_thionville = {
+				}
+				b_saintjulien = {
+				}
+				b_marslatour = {
+				}
+				b_bouzonville = {
+				}
+				b_briey = {
+				}
+				b_joudreville = {
+				}
+				b_audunleroman = {
+				}
+			}
+			c_verdun = {
+				color={ 130 130 165 }
+				color2={ 255 255 255 }
+
+				roman = "Virodunum"
+				graeci = "Virodunum"
+				greek = Virodunum
+				galloroman = "Verodunum"
+				iberoroman = "Verodunum"
+				britto = Verodunum
+			
+				b_verdun = {
+					roman = "Virodunum"
+					graeci = "Virodunum"
+					greek = Virodunum
+					galloroman = "Verodunum"
+					iberoroman = "Verodunum"
+					britto = Verodunum
+				}
+				b_grandpre = {
+				}
+				b_barlecomte = {
+				}
+				b_longuyon = {
+				}
+				b_doaumont = {
+				}
+				b_stenay = {
+				}
+				b_etain = {
+				}
+			}
+		}
+		d_alsace = { 
+			color={ 150 150 195 }
+			color2={ 255 255 255 }
+			
+			capital = 134 #Sundgau
+		
+			c_nordgau = {
+				color={ 160 160 210 }
+				color2={ 255 255 255 }
+
+				roman = Argentoratum
+				graeci = Argentoratum
+				greek = Argentoraton
+				galloroman = Argentoratum
+				iberoroman = Argentoratum
+				britto = Argentoratum
+			
+				b_egisheim = {
+				}
+				b_strassburg = {
+					roman = Argentoratum
+					graeci = Argentoratum
+					greek = Argentoraton
+					galloroman = Argentoratum
+					iberoroman = Argentoratum
+					britto = Argentoratum
+					old_frankish = Stratiburg
+					burgundian = Stratiburg
+					visigothic = Stratibaurg
+					ostrogothic = Stratibaurg
+					alemannic = Stratiburg
+					thuringian = Stratiburg
+				}
+				b_lauterburg = {
+				}
+				b_selz = {
+				}
+				b_erstein = {
+				}
+				b_molsheim = {
+				}
+				b_brumath = {
+				}
+				b_schlettstadt = {
+				}
+			}
+			c_sundgau = {
+				color={ 152 152 197 }
+				color2={ 255 255 255 }
+			
+				b_ensisheim = {
+				}
+				b_kolmar = {
+				}
+				b_murbach = {
+				}
+				b_mulhouse = {
+				}
+				b_landser = {
+				}
+				b_thann = {
+				}
+				b_altkirch = {
+				}
+				b_ferette = {
+				}
+			}
+		}
+	}
+
+	k_tolosa = {
+		color={ 244 249 183 }
+		color2={ 255 255 20 }
+
+		capital = 214 # Toulouse
+		
+		culture = occitan
+		
+		catholic = 5000 # Crusade target weight
+		
+		d_burdigalensis = {
+			color={ 197 228 218 }
+			color2={ 255 255 255 }
+			dignity = 10 # Counted as having 10 more counties than it does
+			capital = 149 # Bordaeux
+			
+			c_bordeaux = {
+				color={ 200 230 220 }
+				color2={ 255 255 255 }
+
+				roman = "Burdigala"
+				graeci = "Burdigala"
+				galloroman = "Burdigala"
+				iberoroman = "Burdigala"
+				britto = Burdigala
+				old_frankish = Burdegala
+				burgunduan = Burdiale
+				visigothic = Burdegale
+				ostrogothic = Burdegale
+				suebi = Burdegale
+				
+				b_castillon = {
+				}
+				b_bordeaux = {
+					roman = "Burdigala"
+					graeci = "Burdigala"
+					galloroman = "Burdigala"
+					iberoroman = "Burdigala"
+					britto = Burdigala
+					old_frankish = Burdegala
+					burgunduan = Burdiale
+					visigothic = Burdegale
+					ostrogothic = Burdegale
+					suebi = Burdegale
+				}
+				b_stemilion = {
+				}
+				b_blaye = {
+				}
+				b_bourg = {
+				}
+				b_lasauve = {
+				}
+				b_lareole = {
+				}
+				b_libourne = {
+				}
+			}
+			c_agen = {
+				color={ 190 220 208 }
+				color2={ 255 255 255 }
+
+				roman = Aginnum
+				graeci = Aginnum
+				greek = Aginnon
+				galloroman = Agginum
+				iberoroman = Agginum
+				britto = Agginum
+				old_frankish = Agginum
+				burgundian = Agginum
+				visigothic = Agginum
+				ostrogothic = Agginum
+				
+				b_agen = {
+					roman = Aginnum
+					graeci = Aginnum
+					greek = Aginnon
+					galloroman = Agginum
+					iberoroman = Agginum
+					britto = Agginum
+					old_frankish = Agginum
+					burgundian = Agginum
+					visigothic = Agginum
+					ostrogothic = Agginum
+				}
+				b_penne = {
+				}
+				b_cahors = {
+				}
+				b_luzech = {
+				}
+				b_moissac = {
+				}
+				b_figeac = {
+				}
+				b_rocamadour = {
+				}
+				b_blanquefort = {
+				}
+			}
+			c_perigord = {
+				color={ 167 208 200 }
+				color2={ 255 255 255 }
+
+				roman = Petrocoria
+				graeci = Petrocoria
+				greek = Petrocoria
+				galloroman = Petrocoria
+				iberoroman = Petrocoria
+				britto = Petrocoria
+				old_frankish = Petragorica
+				burgundian = Petragorica
+				visigothic = Petragorica
+				ostrogothic = Petragorica
+				
+				b_baneuil = {
+				}
+				b_perigueux = {
+					roman = Petrucoriorum
+					graeci = Petrucoriorum
+					greek = Petrucorioron
+					galloroman = Petrocoriorum
+					iberoroman = Petrocoriorum
+					britto = Petrocoriorum
+					old_frankish = Petragorica
+					burgundian = Petragorica
+					visigothic = Petragorica
+					ostrogothic = Petragorica
+				}
+				b_sarlat = {
+				}
+				b_biron = {
+				}
+				b_auberoche = {
+				}
+				b_bergerac = {
+				}
+				b_chancelade = {
+				}
+				b_bonaguil = {
+				}
+			}
+			c_angouleme = {
+				color={ 170 196 195 }
+				color2={ 255 255 255 }
+
+				roman = Inculisma
+				graeci = Inculisma
+				greek = Inculisma
+				galloroman = Inculisma
+				iberoroman = Inculisma
+				britto = Inculisma
+				old_frankish = Ecolisima
+				burgundian = Ecolisima
+				visigothic = Aquilisima
+				ostrogothic = Aquilisima
+				
+				b_jarnac = {
+				}
+				b_angouleme = {
+					roman = Inculisma
+					graeci = Inculisma
+					greek = Inculisma
+					galloroman = Inculisma
+					iberoroman = Inculisma
+					britto = Inculisma
+					old_frankish = Ecolisima
+					burgundian = Ecolisima
+					visigothic = Aquilisima
+					ostrogothic = Aquilisima
+				}
+				b_bassac = {
+				}
+				b_larochefoucauld = {
+				}
+				b_cognac = {
+				}
+				b_richemont = {
+				}
+				b_fontdouce = {
+				}
+				b_latranchade = {
+				}
+			}
+		}
+		d_narbonensis = {
+			color={ 234 165 62 }
+			color2={ 255 255 255 }
+			
+			capital = 212 # Narbo(nne)
+			
+			old_frankish = "Septimania"
+			visigothic = "Septimania"
+			ostrogothic = "Septimania"
+			suebi = "Septimania"
+			lombard = "Septimania"
+			
+			c_montpellier = {
+				color={ 230 177 66 }
+				color2={ 255 255 255 }
+
+				roman = Nemausa
+				graeci = Nemausa
+				greek = Nemausa
+				galloroman = Nemausus
+				iberoroman = Nemausus
+				britto = Nemausus
+				old_frankish = Nemausus
+				burgundian = Nemausus
+				visigothic = Magalona
+				ostrogothic = Magalona
+				
+				b_beaucaire = {
+				}
+				b_montpellier = {
+				}
+				b_maguelone = {
+					roman = Magalona
+					graeci = Magalona
+					greek = Magalona
+					galloroman = Magalona
+					iberoroman = Magalona
+					britto = Magalona
+					old_frankish = Magalona
+					burgundian = Magalona
+					visigothic = Magalona
+					ostrogothic = Magalona
+				}
+				b_nimes = {
+					roman = Nemausa
+					graeci = Nemausa
+					greek = Nemausa
+					galloroman = Nemausus
+					iberoroman = Nemausus
+					britto = Nemausus
+					old_frankish = Nemausus
+					burgundian = Nemausus
+					visigothic = Nemausus
+					ostrogothic = Nemausus
+				}
+				b_aiguesmortes = {
+				}
+				b_bagnolssurceze = {
+				}
+				b_saintguilhemledesert = {
+				}
+				b_melgueil = {
+				}
+			}
+			c_narbonne = {
+				color={ 244 180 99 }
+				color2={ 255 255 255 }
+
+				roman = Narbo
+				graeci = Narbo
+				greek = Narbo
+				galloroman = Narbona
+				iberoroman = Narbona
+				britto = Narbona
+				old_frankish = Narbona
+				burgundian = Narbona
+				visigothic = Narbona
+				ostrogothic = Narbona
+				
+				b_albi = {
+					roman = "Albigensium"
+					graeci = Albigensium
+					greek = Albigenium
+					galloroman = Albiga
+					iberoroman = Albiga
+					britto = Albiga
+					old_frankish = Albigis
+					burgundian = Albigis
+					visigothic = Albigis
+					ostrogothic = Albigis
+				} 
+				b_narbonne = {
+					roman = "Narbo"
+					graeci = Narbo
+					greek = Narbo
+					galloroman = Narbona
+					iberoroman = Narbona
+					britto = Narbona
+					old_frankish = Narbona
+					burgundian = Narbona
+					visigothic = Narbona
+					ostrogothic = Narbona
+				} 
+				b_agde = {
+				} 
+				b_beziers = {
+				} 
+				b_puisserguier = {
+				} 
+				b_stponsdethomieres = {
+				} 
+				b_castres = {
+				} 
+				b_queribus = {
+				} 
+			}
+			c_carcassonne = {
+				color={ 212 152 59 }
+				color2={ 255 255 255 }
+
+				roman = Carcaso
+				graeci = Carcaso
+				greek = Carcaso
+				galloroman = Carcasso
+				iberoroman = Carcasso
+				britto = Carcasso
+				old_frankish = Carcasona
+				burgundian = Carcasona
+				visigothic = Carcasona
+				ostrogothic = Carcasona
+				
+				b_saissac = {
+				} 
+				b_carcassonne = {
+					roman = Carcaso
+					graeci = Carcaso
+					greek = Carcaso
+					galloroman = Carcasso
+					iberoroman = Carcasso
+					britto = Carcasso
+					old_frankish = Carcasona
+					burgundian = Carcasona
+					visigothic = Carcasona
+					ostrogothic = Carcasona
+				} 
+				b_alet = {
+				} 
+				b_termes = {
+				} 
+				b_lagrasse = {
+				} 
+				b_lastours = {
+				} 
+				b_cabaret = {
+				} 
+				b_minerve = {
+				}
+			}
+			c_toulouse = {
+				color={ 233 166 66 }
+				color2={ 255 255 255 }
+
+				roman = Tolosa
+				graeci = Tolosa
+				greek = Tolosa
+				galloroman = Tolosa
+				iberoroman = Tolosa
+				britto = Tolosa
+				old_frankish = Tolosanus
+				burgundian = Tolose
+				visigothic = Tolosa
+				ostrogothic = Tolosa
+				
+				b_castelnaudary = {
+					roman = Sostomagus
+					graeci = Sostomagus
+					greek = Sostomagus
+					gallomagus = Sostomagus
+					iberoroman = Sostomagus
+					britto = Sostomagus
+					old_frankish = "Castrum Arri"
+					burgundian = "Castrum Arri"
+					visigothic = "Castrum Arri"
+				} 
+				b_toulouse = {
+					roman = Tolosa
+					graeci = Tolosa
+					greek = Tolosa
+					galloroman = Tolosa
+					iberoroman = Tolosa
+					britto = Tolosa
+					visigothic = Tolosa
+					ostrogothic = Tolosa
+					old_frankish = Tolose
+					burgundian = Tolose
+				} 
+				b_lavaur = {
+				} 
+				b_montauban = {
+				} 
+				b_lombez = {
+				} 
+				b_hautpoul = {
+				} 
+				b_montgiscard = {
+				} 
+				b_muret = {
+				} 
+			}
+			c_foix = {
+				color={ 194 135 69 }
+				color2={ 255 255 255 }
+
+				roman = Fuxium
+				graeci = Fuxium
+				greek = Fuxium
+				galloroman = Fuxium
+				iberoroman = Fuxium
+				britto = Fuxium
+				old_frankish = Fuxium
+				burgundian = Fuxium
+				visigothic = Fuxium
+				ostrogothic = Fuxium
+				
+				b_foix = {
+					roman = Fuxium
+					graeci = Fuxium
+					greek = Fuxium
+					galloroman = Fuxium
+					iberoroman = Fuxium
+					britto = Fuxium
+				} 
+				b_pamiers = {
+				} 
+				b_mirepoix = {
+				} 
+				b_montsegur = {
+				} 
+				b_stbertrand = {
+				}  
+				b_roquefeuil = {
+				} 
+				b_stgaudens = {
+				}  
+				b_usson = {
+				} 
+			}
+			c_rosello = {
+				color = { 210 140 50 }
+				color2={ 255 255 255 }
+
+				roman = Ruscino
+				graeci = Ruscino
+				greek = Ruscino
+				galloroman = Ruscino
+				iberoroman = Ruscino
+				britto = Ruscino
+				old_frankish = Rossello
+				old_saxon = Rosceliona
+				visigothic = Rosceliona
+				ostrogothic = Rosceliona
+				suebi = Rosceliona
+				alan = Rosceliona
+				burgundian = Rosceliona
+				
+				b_cotlliure = {
+				}
+				b_perpinya = {
+				}
+				b_elna = {
+				}
+				b_cuixa = {
+				}
+				b_prada = {
+				}
+				b_oltrera = {
+				}
+				b_canigo = {
+				}
+				b_ceret = {
+				}
+			}
+		}
+		d_novempopulana = {
+			color={ 155 171 126 }
+			color2={ 255 255 255 }
+			
+			capital = 209 # Armagnac
+			
+			visigothic = "Wasconia"
+			old_frankish = "Guasconia"
+			
+			c_bearn = {
+				color={ 159 167 111 }
+				color2={ 255 255 255 }
+
+				roman = "Benearnia" # Venarnia
+				graeci = Benearnia
+				greek = "Venarnia"
+				galloroman = Benearnia
+				iberoroman = Benearnia
+				britto = Benearnia
+				old_frankish = Benearnia
+				burgundian = Benearnia
+				visigothic = Benearnia
+				ostrogothic = Benearnia
+				
+				b_pau = {
+					roman = "Palum"
+				}
+				b_morlaas = {
+				} 
+				b_lescar = {
+					roman = "Beneharnum"
+					graeci = Beneharnum
+					greek = Beneharnum
+					galloroman = Beneharnum
+					iberoroman = Beneharnum
+					britto = Beneharnum
+					old_frankish = Beneharnum
+					burgundian = Beneharnum
+					visigothic = Beneharnum
+					ostrogothic = Beneharnum
+				}
+				b_tarbes = {
+				}
+				b_mauleonlicharre = {
+				}
+				b_orthez = {
+				}
+				b_oloron = {
+				}
+				b_montaner = {
+				}
+			}
+			c_armagnac = {
+				color={ 144 155 100 }
+				color2={ 255 255 255 }
+
+				roman = "Auscorum"
+				graeci = Elimberrum
+				greek = Auscorum
+				galloroman = Auscorum
+				iberoroman = Auscorum
+				britto = Auscorum
+				old_frankish = Auscorum
+				burgundian = Auscorum
+				visigothic = Auscorum
+				ostrogothic = Auscorum
+				
+				b_castelnau = {
+				}
+				b_auch = {
+					roman = "Auscorum"
+					graeci = Elimberrum
+					greek = Auscorum
+					galloroman = Auscorum
+					iberoroman = Auscorum
+					britto = Auscorum
+					old_frankish = Auscorum
+					burgundian = Auscorum
+					visigothic = Auscorum
+					ostrogothic = Auscorum
+				}
+				b_condom = {
+				}
+				b_lectoure = {
+				}
+				b_lisle = {
+				}
+				b_eauze = {
+				}
+				b_mirande = {
+				}
+				b_laplume = {
+				}
+			}
+			c_labourd = {
+				color={ 163 172 121 }
+				color2={ 255 255 255 }
+
+				roman = Lapurdum
+				graeci = Lapurdum
+				greek = Lapurdum
+				galloroman = Lapurdo
+				iberoroman = Lapurdo
+				britto = Lapurdo
+				old_frankish = Lasburdensis
+				burgundian = Lasburdensis
+				visigothic = Lapurdo
+				ostrogothic = Lapurdo
+				
+				b_sauveterre = {
+				}
+				b_bayonne = {
+					roman = Lapurdum
+					graeci = Lapurdum
+					greek = Lapurdum
+					galloroman = Lapurdo
+					iberoroman = Lapurdo
+					britto = Lapurdo
+					old_frankish = Lapurdo
+					burgundian = Lapurdo
+					visigothic = Lapurdo
+					ostrogothic = Lapurdo
+				}
+				b_stsever = {
+				}
+				b_dax = {
+				}
+				b_aire = {
+				}
+				b_labastideclairence = {
+				}
+				b_sorde = {
+				}
+				b_hasparren = {
+				}
+			}
+			c_albret = {
+				color={ 139 150 105 }
+				color2={ 255 255 255 }
+
+				roman = Cossium
+				graeci = Cossium
+				greek = Kossion
+				galloroman = Cossium
+				iberoroman = Cossium
+				britto = Cossium
+				old_frankish = Basatica
+				burgundian = Basatica
+				visigothic = Basatica
+				ostrogothic = Basatica
+				
+				b_labrit = {
+				}
+				b_tartas = {
+				}
+				b_bazas = {
+					roman = Cossium
+					graeci = Cossium
+					greek = Kossion
+					galloroman = Cossium
+					iberoroman = Cossium
+					britto = Cossium
+					old_frankish = Basatica
+					burgundian = Basatica
+					visigothic = Basatica
+					ostrogothic = Basatica
+				}
+				b_roquefort = {
+				}
+				b_montdemarsan = {
+				}
+				b_gabarret = {
+				}
+				b_mimizan = {
+				}
+				b_latestedebuch = {
+				}
+			}
+		}
+		d_theifalia = {
+			color={ 165 123 86 }
+			color2={ 255 255 255 }
+			
+			capital = 141 # Poitiers
+			
+			visigothic = "Thifalia"
+			greek = "Theiphalia"
+			old_saxon = "Thifalen"
+			
+			c_lusignan = {
+				color={ 156 122 68 }
+				color2={ 255 255 255 }
+
+				roman = Licinius
+				graeci = Licinius
+				greek = Licinius
+				galloroman = Licinius
+				iberoroman = Licinius
+				britto = Licinius
+				old_frankish = Licinius
+				burgundian = Licinius
+				visigothic = Licinius
+				ostrogothic = Licinius
+				
+				b_lusignan = {
+				}
+				b_charroux = {
+				}
+				b_niort = {
+				}
+				b_melle = {
+				}
+				b_civray = {
+				}
+				b_maillezais = {
+				}
+				b_confolens = {
+				}
+				b_stmaixent = {
+				}
+			}
+			c_saintonge = {
+				color={ 170 125 91 }
+				color2={ 255 255 255 }
+
+				roman = Santonum
+				graeci = Santonum
+				greek = Santonum
+				galloroman = Santonorum
+				iberoroman = Santonorum
+				britto = Santonorum
+				old_frankish = Santonica
+				burgundian = Santonica
+				visigothic = Santonica
+				ostrogothic = Santonica
+				suebi = Santonica
+				
+				b_montguyon = {
+				}
+				b_saintes = {
+					roman = Santonum
+					graeci = Santonum
+					greek = Santonum
+					galloroman = Santonorum
+					iberoroman = Santonorum
+					britto = Santonorum
+					old_frankish = Santonica
+					burgundian = Santonica
+					visigothic = Santonica
+					ostrogothic = Santonica
+					suebi = Santonica
+				}
+				b_stjeandangely = {
+				}
+				b_villeneuve = {
+				}
+				b_tonnay = {
+				}
+				b_aulnay = {
+				}
+				b_royan = {
+				}
+				b_taillebourg = {
+				}
+			}
+			c_poitiers = {
+				color={ 32 101 232 }
+				color2={ 255 255 255 }
+
+				roman = Pictavium
+				graeci = Pictavium
+				galloroman = Pictavium
+				iberoroman = Pictavium
+				britto = Pictavium
+				old_frankish = Pictavensis
+				old_saxon = Pictavis
+				saxon = Pictavis
+				visigothic = Pictavis
+				ostrogothic = Pictavis 
+				
+				b_chauvigny = {
+				}
+				b_poitiers = {
+					roman = Pictavium
+					graeci = Pictavium
+					galloroman = Pictavium
+					iberoroman = Pictavium
+					britto = Pictavium
+					old_frankish = Pictavis
+					old_saxon = Pictavis
+					saxon = Pictavis
+					visigothic = Pictavis
+					ostrogothic = Pictavis
+				}
+				b_stsavin = {
+				}
+				b_moncontour = {
+				}
+				b_mirebeau = {
+				}
+				b_parthenay = {
+				}
+				b_loudun = {
+				}
+				b_chatellerault = {
+				}
+			}
+			c_thouars = {
+				color={ 34 103 234 }
+				color2={ 255 255 255 }
+
+				roman = Toareca
+				graeci = Toareca
+				greek = Toareca
+				galloroman = Toareca
+				iberoroman = Toareca
+				britto = Toareca
+				old_frankish = Toarcis
+				burgundian = Toarcis
+				visigothic = Toareca
+				ostrogothic = Toareca
+				
+				b_thouars = {
+					roman = Toareca
+					graeci = Toareca
+					greek = Toareca
+					galloroman = Toareca
+					iberoroman = Toareca
+					britto = Toareca
+					old_frankish = Toarcis
+					burgundian = Toarcis
+					visigothic = Toareca
+					ostrogothic = Toareca
+				}
+				b_larochelle = {
+				}
+				b_lucon = {
+				}
+				b_chatelaillon = {
+				}
+				b_bressuire = {
+				}
+				b_olonne = {
+				}
+				b_mauleon = {
+				}
+				b_fontenay = {
+				}
+			}
+		}
+		d_arvernia = {
+			color={ 24 171 226 }
+			color2={ 255 255 255 }
+			
+			capital = 217 # Auvergne
+			
+			culture = occitan
+			
+			c_auvergne = {
+				color={ 26 173 228 }
+				color2={ 255 255 255 }
+
+				roman = Arvernia	
+				graeci = Arvernia
+				greek = Arvernia
+				galloroman = Arvernia
+				iberoroman = Arvernia
+				britto = Arvernia
+				old_frankish = Arvernus
+				burgundian = Arvernus
+				visigothic = Arvernus
+				ostrogothic = Arverus
+				
+				b_tournoel = {
+				}
+				b_clermont = {
+					roman = "Augustonemetum"
+				}
+				b_mozac = {
+				}
+				b_murol = {
+				}
+				b_aurillac = {
+				}
+				b_carlat = {
+				}
+				b_brioude = {
+				}
+				b_domeyrat = {
+				}
+			}
+			c_gevaudan = {
+				color={ 28 175 230 }
+				color2={ 255 255 255 }
+
+				roman = Gabalitannus
+				graeci = Gabalitannus
+				greek = Gabalitannus
+				galloroman = Gabalitannus
+				iberoroman = Gabalitannus
+				britto = Gabalitannus
+				old_frankish = Gabalitannus
+				burgundian = Gabalitannus
+				visigothic = Gabalitannus
+				ostrogothic = Gabalitannus
+				
+				b_grezes = {
+				}
+				b_mende = {
+				}
+				b_lepuy = {
+				}
+				b_apchier = {
+				}
+				b_marvejols = {
+				}
+				b_florac = {
+				}
+				b_stsauveur = {
+				}
+				b_tournel = {
+				}
+			}
+			c_rouergue = {
+				color={ 20 128 253 }
+				color2={ 255 255 255 }
+
+				roman = Rutenorum
+				graeci = Rutenorum
+				greek = Rutenorum
+				galloroman = Rutenorum
+				iberoroman = Rutenorum
+				britto = Rutenorum
+				old_frankish = Ruthenicus
+				burgundian = Ruthenicus
+				visigothic = Ruthenicus
+				ostrogothic = Ruthenicus
+				
+				b_rodez = {
+					roman = Rutenorum
+					graeci = Rutenorum
+					greek = Rutenorum
+					galloroman = Rutenorum
+					iberoroman = Rutenorum
+					britto = Rutenorum
+					old_frankish = Ruteni
+					burgundian = Ruteni
+					visigothic = Ruteni
+					ostrogothic = Ruteni
+				} 
+				b_millau = {
+				} 
+				b_vabres = {
+				} 
+				b_najac = {
+				} 
+				b_villefranche = {
+				} 
+				b_caylus = {
+				} 
+				b_staffrique = {
+				} 
+				b_estaing = {
+				} 
+			}
+		}
+		d_aquitania = {
+			color={ 133 186 177 }
+			color2={ 255 255 255 }
+			
+			c_bourbon = {
+				color={ 128 147 130 }
+				color2={ 255 255 255 }
+
+				roman = Burbo
+				graeci = Burbo
+				greek = Burbo
+				galloroman = Burbo
+				iberoroman = Burbo
+				britto = Burbo
+				old_frankish = Burbo
+				burgundian = Burbo
+				visigothic = Burbo
+				ostrogothic = Burbo
+				
+				b_bourbon = {
+					roman = Burbo
+					graeci = Burbo
+					greek = Burbo
+					galloroman = Burbo
+					iberoroman = Burbo
+					britto = Burbo
+					old_frankish = Burbo
+					burgundian = Burbo
+					visigothic = Burbo
+					ostrogothic = Burbo
+				}
+				b_moulins = {
+				}
+				b_lancy = {
+				}
+				b_montlucon = {
+				}
+				b_vichy = {
+				}
+				b_murat = {
+				}
+				b_souvigny = {
+				}
+				b_montpensier = {
+				}
+			}
+			c_blois = {
+				color={ 141 177 176 }
+				color2={ 255 255 255 }
+
+				roman = Blesum
+				graeci = Blesum
+				greek = Blesum
+				galloroman = Blesum
+				iberoroman = Blesum
+				britto = Blesum
+				old_frankish = Blesenses
+				burgundian = Blesenses
+				visigothic = Blesenses
+				ostrogothic = Blesenses
+				
+				b_beaugency = {
+				}
+				b_blois = {
+					roman = Blesum
+					graeci = Blesum
+					greek = Blesum
+					galloroman = Blesum
+					iberoroman = Blesum
+					britto = Blesum
+					old_frankish = Blesis
+					burgundian = Blesis
+					visigothic = Blesis
+					ostrogothic = Blesis
+				}
+				b_staignan = {
+				}
+				b_chaumontsurloire = {
+				}
+				b_montrichard = {
+				}
+				b_fougeressurbievre = {
+				}
+				b_romorantin = {
+				}
+				b_stgeorgesdubois = {
+				}
+			}
+			c_limousin = {
+				color={ 32 151 234 }
+				color2={ 255 255 255 }
+
+				roman = Augustoritum
+				graeci = Augustoritum
+				greek = Augustoritum
+				galloroman = Lemovicum
+				iberoroman = Lemovicum
+				britto = Lemovicum
+				old_frankish = Lemovicus
+				burgundian = Lemovicus
+				visigothic = Lemovicus
+				ostrogothic = Lemovicus
+				
+				b_turenne = {
+				}
+				b_limoges = {
+					roman = Augustoritum
+					graeci = Augustoritum
+					greek = Augustoritum
+					galloroman = Lemovicum
+					iberoroman = Lemovicum
+					britto = Lemovicum
+					old_frankish = Lemovicis
+					burgundian = Lemovicis
+					visigothic = Lemovicis
+					ostrogothic = Lemovicis
+				}
+				b_comborn = {
+				}
+				b_rochechouart = {
+				}
+				b_thiviers = {
+				}
+				b_stleonard = {
+				}
+				b_ventadour = {
+				}
+				b_chalus = {
+				}
+			}
+			c_la_marche = {
+				color={ 36 155 240 }
+				color2={ 255 255 255 }
+
+				roman = Albuciensis
+				graeci = Albuciensis
+				greek = Albuciensis
+				galloroman = Albuciensis
+				iberoroman = Albuciensis
+				britto = Albuciensis
+				old_frankish = Marca
+				burgundian = Marca
+				visigothic = Marca
+				ostrogothic = Marca
+				
+				b_crozant = {
+				}
+				b_bellac = {
+				}
+				b_gueret = {
+				}
+				b_aubusson = {
+					roman = Albuciensis
+					graeci = Albuciensis
+					greek = Albuciensis
+					galloroman = Albuciensis
+					iberoroman = Albuciensis
+					britto = Albuciensis
+					old_frankish = Albuciensis
+					burgundian = Albuciensis
+					visigothic = Albuciensis
+					ostrogothic = Albuciensis
+				}
+				b_boussac = {
+				}
+				b_lasouterraine = {
+				}
+				b_bourganeuf = {
+				}
+				b_jouillat = {
+				}
+			}
+			c_tourraine = {
+				color={ 27 55 229 }
+				color2={ 255 255 255 }
+
+				roman = Caesarodunum
+				graeci = Caesarodunum
+				greek = Kaisarodunon
+				galloroman = Turonorum
+				iberoroman = Turonorum
+				britto = Turonorum
+				old_frankish = Turonensis
+				burgundian = Turonensis
+				visigothic = Turonensis
+				ostrogothic = Turonensis
+				
+				b_chinon = {
+					roman = Chinonium
+					graeci = Chinonium
+					greek = Chinonium
+					galloroman = Chinonium
+					iberoroman = Chinonium
+					britto = Chinonium
+					old_frankish = Chinonium
+					burgundian = Chinonium
+					visigothic = Chinonium
+					ostrogothic = Chinonium
+				}
+				b_tours = {
+					roman = Caesarodunum
+					graeci = Caesarodunum
+					greek = Kaisarodunon
+					galloroman = Turonorum
+					iberoroman = Turonorum
+					britto = Turonorum
+					old_frankish = Turones
+					burgundian = Turones
+					visigothic = Turones
+					ostrogothic = Turones
+				}
+				b_beaulieu = {
+				}
+				b_amboise = {
+				}
+				b_loches = {
+				}
+				b_langeais = {
+				}
+				b_fierbois = {
+				}
+				b_montbazon = {
+				}
+			}
+			c_bourges = {
+				color={ 30 58 232 }
+				color2={ 255 255 255 }
+
+				roman = Avaricum
+				graeci = Avaricum
+				greek = Avaricum
+				galloroman = Avaricum
+				iberoroman = Avaricum
+				britto = Avaricum
+				old_frankish = Beturica
+				burgundian = Beturica
+				visigothic = Bituriga
+				ostrogothic = Bituriga
+				
+				b_chateauroux = {
+				}
+				b_deols = {
+				}
+				b_bourges = {
+					roman = Avaricum
+					graeci = Avaricum
+					greek = Avaricum
+					galloroman = Avaricum
+					iberoroman = Avaricum
+					britto = Avaricum
+					old_frankish = Beturica
+					burgundian = Beturica
+					visigothic = Bituriga
+					ostrogothic = Bituriga
+				}
+				b_issoudun = {
+				}
+				b_stsatur = {
+				}
+				b_sancerre = {
+				}
+				b_mehun = {
+				}
+				b_vierzon = {
+				}
+			}
+		}
+	}
+	
+	k_brittany = {
+		color={ 165 49 16 }
+		color2={ 255 255 255 }
+		
+		capital = 105 # Vannes
+		
+		culture = breton
+		
+		catholic = 300 # Crusade target weight
+		
+		norse = Bertangaland
+		welsh = Arymôr
+		irish = Bhriotáin
+		frankish = Bretagne
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					culture_group = celtic
+				}
+			}
+		}
+		
+		d_armorica = {
+			color={ 170 54 26 }
+			color2={ 255 255 255 }
+			
+			capital = 105 # Vannes
+			
+			culture = breton
+			
+			norse = Bertangaland
+			breton = Breizh
+			welsh = Llydaw
+			irish = Briotáine
+			frankish = Bretagne
+			
+			c_nantes = {
+				color={ 170 50 23 }
+				color2={ 255 255 255 }
+				
+				roman = Condevincum
+				graeci = Condevincum
+				greek = Kondeouinkon
+				galloroman = Namnetum
+				iberoroman = Namnetum
+				britto = Namnetum
+				old_frankish = Nametis
+				burgundian = Nametis
+				visigothic = Nametis
+				ostrogothic = Nametis
+				saxon = Nametis
+				old_saxon = Nametis
+				breton = Naoned
+				
+				b_nantes = {
+					roman = Condevincum
+					graeci = Condevincum
+					greek = Kondeouinkon
+					galloroman = Namnetum
+					iberoroman = Namnetum
+					britto = Namnetum
+					old_frankish = Nametis
+					burgundian = Nametis
+					visigothic = Nametis
+					ostrogothic = Nametis
+					saxon = Nametis
+					old_saxon = Nametis
+					breton = Naoned
+				}
+				b_chateaubriant = {
+					breton = Kastell-Briant
+				}
+				b_redon = {
+					breton = Ridined
+				}
+				b_guerande = {
+					breton = Gwennrann
+				}
+				b_clisson = {
+					breton = Klison
+				}
+				b_donges = {
+					breton = Dined
+				}
+				b_la_roche-bernard = {
+					breton = "Ar Roc'h-Bernez"
+				}
+				b_st_nazaire = {
+					breton = "Sant-Nazer"
+				}
+			}
+			c_vannes = {
+				color={ 140 30 13 }
+				color2={ 255 255 255 }
+
+				roman = Dariorigum
+				graeci = Darioritum
+				greek = Dariorigum
+				galloroman = Venetum
+				iberoroman = Venetum
+				britto = Venetum
+				old_frankish = Veneda # 818
+				burgundian = Venetis
+				visigothic = Venetis
+				ostrogothic = Venetis
+				old_saxon = Venetis
+				saxon = Venetic
+				breton = Broërec
+				welsh = Guened
+				
+				b_vannes = {
+					roman = Dariorigum
+					graeci = Darioritum
+					greek = Dariorigum
+					galloroman = Venetum
+					iberoroman = Venetum
+					britto = Venetum
+					old_frankish = Veneda # 818
+					burgundian = Venetis
+					visigothic = Venetis
+					ostrogothic = Venetis
+					old_saxon = Venetis
+					saxon = Venetic
+					breton = "Gwened"
+					welsh = "Guened"
+				}
+				b_josselin = {
+					breton = "Josilin"
+				}
+				b_st_gildas = {
+					breton = "Lokentaz"
+				}
+				b_locmine = {
+					breton = "Logunec'h"
+				}
+				b_hennebont = {
+					breton = "Henbont"
+				}
+				b_pontivy = {
+					breton = "Pondi"
+				}
+				b_auray = {
+					breton = "An Alre"
+				}
+				b_ploermel = {
+					breton = "Ploermael"
+				}
+			}
+			c_cornouaille = {
+				color={ 126 27 9 }
+				color2={ 255 255 255 }
+				
+				roman = Vorgium # Carhaix
+				graeci = Vorgium
+				greek = Vorgium
+				galloroman = Osismorum
+				iberoroman = Osismorum
+				britto = Cornugallia
+				old_frankish = Othismus
+				burgundian = Othismus
+				visigothic = Othismus
+				ostrogothic = Othismus
+				old_saxon = Othismus
+				saxon = Othismus
+				welsh = Kernev
+				breton = "Kernev"
+				
+				b_quimper = {
+					breton = "Kemper"
+				}
+				b_carhaix = {
+					roman = Vorgium # Carhaix
+					graeci = Vorgium
+					greek = Vorgium
+					galloroman = Osismorum
+					iberoroman = Osismorum
+					old_frankish = Othismus
+					burgundian = Othismus
+					visigothic = Othismus
+					ostrogothic = Othismus
+					old_saxon = Othismus
+					saxon = Othismus
+					britto = "Caer Ahes"
+					welsh = Karaez
+					breton = "Karaez"
+				}
+				b_quimperle = {
+					breton = "Kemperle"
+				}
+				b_landevennec = {
+					breton = "Landevenneg"
+				}
+				b_corlay = {
+					breton = "Korle"
+				}
+				b_huelgoat = {
+					breton = "An Uhelgoad"
+				}
+				b_langonnet = {
+					breton = "Langoned"
+				}
+				b_lezergue = {
+					breton = "An Erge Vras"
+				}
+			}
+			c_french_leon = {
+				color={ 166 67 14 }
+				color2={ 255 255 255 }
+
+				roman = Leonis
+				graeci = Leonis
+				greek = Leonis
+				galloroman = Leonis
+				iberoroman = Leonis
+				britto = Letavia	# Nennius
+				old_frankish = Loonois
+				burgundian = Achmensis
+				visigothic = Legionensis
+				ostrogothic = Legionensis
+				old_saxon = Letewicion	# Nennius
+				saxon = Letewicion	# Nennius
+				
+				b_brest = {
+					roman = Gesocribate
+					graeci = Gesocribate
+					greek = Gesocribate
+					galloroman = Gesocribate
+					iberoroman = Gesocribate
+					britto = Gesocribate
+					old_frankish = Bresta
+					burgundian = Bresta
+					visigothic = Bresta
+					ostrogothic = Bresta
+					old_saxon = Bresta
+					saxon = Bresta
+				}
+				b_guingamp = {
+					breton = "Gwengamp"
+				}
+				b_st_pol_de_leon = {
+					breton = "Kastell-Paol"
+				}
+				b_treguier = {
+					breton = "Landreger"
+				}
+				b_morlaix = {
+					breton = "Montroulez"
+				}
+				b_roscoff = {
+					breton = "Rosko"
+				}
+				b_plougonven = {
+				}
+				b_plourivo = {
+					breton = "Plourivoù"
+				}
+			}
+			c_penthievre = {
+				color={ 176 79 24 }
+				color2={ 255 255 255 }
+				
+				roman = Domnonia
+				graeci = Domnonia
+				greek = Domnonia
+				galloroman = Domnonia
+				iberoroman = Domnonia
+				britto = Domnonia
+				old_frankish = Domnonia
+				burgundian = Domnonia
+				visigothic = Domnonia
+				ostrogothic = Domnonia
+				welsh = Domnonia
+				breton = "Domnonia"
+				
+				b_verdelet = {
+					breton = "Sentiles"
+				}
+				b_st_brieuc = {
+					breton = "Sant-Brieg"
+				}
+				b_monkontour = {
+				}
+				b_peran = {
+					breton = "Sant-Pêran"
+				}
+				b_loudeac = {
+				}
+				b_paimpol = {
+				}
+				b_chatelaudren = {
+					breton = "Kastellaodren"
+				}
+				b_quintin = {
+					breton = "Kintin"
+				}
+			}
+			c_rennes = {
+				color={ 106 42 8 }
+				color2={ 255 255 255 }
+				
+				roman = Redonum
+				graeci = Redonum
+				greek = Redonum
+				galloroman = Redonum
+				iberorman = Redonum
+				britto = Redonum
+				welsh = Roazhon
+				breton = "Roazhon"
+				old_frankish = Redonas
+				old_saxon = Redonas
+				saxon = Redonas
+				visigothic = Redonas
+				ostrogothic = Redonas
+				
+				b_rennes = {
+					roman = Redonum
+					graeci = Redonum
+					greek = Redonum
+					galloroman = Redonum
+					iberorman = Redonum
+					britto = Redonum
+					welsh = Roazhon
+					breton = "Roazhon"
+					old_frankish = Redonas
+					old_saxon = Redonas
+					saxon = Redonas
+					visigothic = Redonas
+					ostrogothic = Redonas
+				}
+				b_fougeres = {
+					breton = "Felger"
+				}
+				b_st_michel = {
+					breton = "Sant-Mikael"
+				}
+				b_st_malo = {
+					breton = "Sant-Maloù"
+				}
+				b_dol = {
+				}
+				b_dinan = {
+				}
+				b_st_meen = {
+					breton = "Sant-Méen"
+				}
+				b_porhoet = {
+				}
+			}
+		}
+	}
+	
+	k_arles = {
+		color={ 71 120 58 }
+		color2={ 255 255 255 }
+		
+		capital	= 221 # Provence
+		
+		culture = galloroman
+		
+		roman = "Arelate"
+		graeci = "Arelatensium"
+		galloroman = "Arelate"
+		iberoroman = "Arelate"
+		britto = "Arelate"
+		
+		d_provincia = {
+			color={ 218 106 90 }
+			color2={ 255 255 255 }
+			
+			capital = 221 # Provence
+
+			roman = "Provincia"
+			
+			c_provence = {
+				color={ 149 40 70 }
+				color2={ 255 255 255 }
+
+				roman = Provincia
+				graeci = Provincia
+				greek = Provincia
+				galloroman = Provincia
+				iberoroman = Provincia
+				britto = Provincia
+				old_frankish = Provincia
+				burgundian = Provincia
+				visigothic = Provincia
+				ostrogothic = Provincia
+				thuringian = Provincia
+				lombard = Provincia
+				
+				b_arles = {
+					roman = Arelate
+					graeci = Arelate
+					greek = Arelate
+					galloroman = Arelatum # Historia Francorum
+					iberoroman = Arelatum
+					britto = Arelatum
+					old_frankish = Arelatum
+					burgundian = Arelatum
+					visigothic = Arelatum
+					ostrogothic = Arelatum
+					thuringian = Arelatum
+					lombard = Arelatum
+				}
+				b_aix = {
+					holy_site = arian
+
+					roman = "Aquae Sextiae"
+					graeci = "Aquae Sextiae"
+					greek = "Aquae Sextiae"
+					old_frankish = Aquis
+					burgundian = Aquis
+					visigothic = Aquis
+					ostrogothic = Aquis
+					suebi = Aquis
+					lombard = Aquis
+					thuringian = Aquis
+				}
+				b_marseille = {
+					roman = Massilia
+					graeci = Massalia
+					greek = Massalia
+					galloroman = Massilia
+					iberoroman = Massilia
+					britto = Massilia
+					old_frankish = Massilia
+					burgundian = Massilia
+					visigothic = Massilia
+					ostrogothic = Massilia
+					thuringian = Massilia
+					lombard = Massilia
+				}
+				b_grimaud = {
+				}
+				b_frejus = {
+				}
+				b_grasse = {
+				}
+				b_castellane = {
+				}
+				b_tarascon = {
+				}
+			}
+			c_forcalquier = {
+				color={ 151 42 72 }
+				color2={ 255 255 255 }
+
+				roman = Noviomagus
+				graeci = Noviomagus
+				greek = Noviomagus
+				galloroman = Noviomagus
+				iberoroman = Noviomagus
+				britto = Noviomagus
+				old_frankish = Furnocalcario
+				burgundian = Furnocalcario
+				visigothic = Furnocalcario
+				ostrogothic = Furnocalcario
+				lombard = Forcalchiero
+				
+				b_forcalquier = {
+					old_frankish = Furnocalcario
+					burgundian = Furnocalcario
+					visigothic = Furnocalcario
+					ostrogothic = Furnocalcario
+					lombard = Forcalchiero
+				}
+				b_nyons = {
+					roman = Noviomagus
+					graeci = Noviomagus
+					greek = Noviomagus
+					galloroman = Noviomagus
+					iberoroman = Noviomagus
+					britto = Noviomagus
+					old_frankish = Niomes
+					burgundian = Niomes
+					visigothic = Niomes
+					ostrogothic = Niomes
+				}
+				b_embrun = {
+				}
+				b_sisteron = {
+				}
+				b_briancon = {
+				}
+				b_vaison = {
+				}
+				b_gap = {
+				}
+				b_apt = {
+				}
+			}
+			c_nice = {
+				color={ 147 39 69 }
+				color2={ 255 255 255 }
+
+				roman = Nicaea
+				graeci = Nicaea
+				greek = Nikaia
+				galloroman = Nicaea
+				iberoroman = Nicaea
+				britto = Nicaea
+				old_frankish = Nicia
+				burgundian = Nicia
+				visigothic = Nicia
+				ostrogothic = Nicia
+				thuringian = Nicia
+				lombard = Nicia
+				
+				b_nizza = {
+					roman = Nicaea
+					graeci = Nicaea
+					greek = Nikaia
+					galloroman = Nicaea
+					iberoroman = Nicaea
+					britto = Nicaea
+					old_frankish = Nicia
+					burgundian = Nicia
+					visigothic = Nicia
+					ostrogothic = Nicia
+					thuringian = Nicia
+					lombard = Nicia
+				}
+				b_monaco = {
+					roman = Monoecus
+					graeci = Monoecus
+					greek = Monoikos
+					punic = Monoikos
+					galloroman = Monoecus
+					iberoroman = Monoecus
+					britto = Monoecus
+				}
+				b_mentone = {
+				}
+				b_antibes = {
+				}
+				b_sanremo = {
+				}
+				b_campogrosso = {
+				}
+				b_lantosque = {
+				}
+				b_contes = {
+				}
+			}
+		}
+		d_alpes = {
+			color={ 250 152 20 }
+			color2={ 255 255 255 }
+			
+			c_valais = {
+				color={ 110 18 44 }
+				color2={ 255 255 255 }
+
+				roman = Vallis
+				graeci = Vallis
+				greek = Vallis
+				galloroman = Vallis
+				iberoroman = Vallis
+				britto = Vallis
+				old_frankish = Vallensis
+				burgundian = Vallensis
+				visigothic = Vallensis
+				ostrogothic = Vallensis
+				thuringian = Vallis
+				alemannic = Vallis
+				
+				b_brig = {
+				}
+				b_monthey = {
+				}
+				b_aigle = {
+				}
+				b_martigny = {
+					roman = Octodurus
+					graeci = Octodurus
+					greek = Octodurus
+					galloroman = Octodurus
+					iberoroman = Octodurus
+					britto = Octodurus
+					old_frankish = Octodure
+					burgundian = Octodure
+					visigothic = Octodure
+					ostrogothic = Octodure
+				}
+				b_siders = {
+				}
+				b_sitten = {
+				}
+				b_greyerz = {
+				}
+				b_chateaudoex = {
+				}
+			}
+			c_savoie = {
+				color={ 145 151 31 }
+				color2={ 255 255 255 }
+
+				roman = Sapaudia
+				graeci = Sapaudia
+				greek = Sapaudia
+				galloroman = Sapaudia
+				iberoroman = Sapaudia
+				britto = Sapaudia
+				old_frankish = Sabaudia
+				burgundian = Sapaudia
+				visigothic = Sapaudia
+				ostrogothic = Sapaudia
+				thuringian = Sabaudia
+				alemannic = Sabogla
+				lombard = Savogia
+				
+				b_savosusa = {
+				}
+				b_tarentaise = {
+				}
+				b_ciamberi = {
+				}
+				b_aosta = {
+				}
+				b_pombia = {
+				}
+				b_montjovet = {
+				}
+				b_vercelli = {
+				}
+				b_bussoleno = {
+				}
+			}
+			c_geneve = {
+				color={ 155 157 88 }
+				color2={ 255 255 255 }
+
+				roman = Genua
+				graeci = Genua
+				greek = Genua
+				galloroman = Genava
+				iberoroman = Genava
+				britto = Genava
+				old_frankish = Genava
+				burgundian = Genava
+				visigothic = Genava
+				ostrogothic = Genava
+				thuringian = Genava
+				
+				b_geneve = {
+					roman = Genua
+					graeci = Genua
+					greek = Genua
+					galloroman = Genava
+					iberoroman = Genava
+					britto = Genava
+					old_frankish = Genava
+					burgundian = Genava
+					visigothic = Genava
+					ostrogothic = Genava
+					thuringian = Genava
+				}
+				b_romainmotier = {
+				}
+				b_nyon = {
+				}
+				b_lausanne = {
+				}
+				b_echallens = {
+				}
+				b_aubonne = {
+				}
+				b_orbe = {
+				}
+				b_thonon = {
+				}
+			}
+		}
+		d_viennensis = {
+			color={ 150 152 54 }
+			color2={ 255 255 255 }
+
+			old_frankish = "Cisjurania"
+			visigothic = "Cisjurania"
+			ostrogothic = "Cirjurania"
+			burgundian = "Cisjurania"
+			thuringian = Cirjurania
+
+			c_dauphine_viennois = {
+				color={ 140 152 44 }
+				color2={ 255 255 255 }
+
+				roman = Vienna
+				graeci = Vienna
+				greek = Vienna
+				galloroman = Vienna
+				iberoroman = Vienna
+				britto = Vienna
+				old_frankish = Viennensis
+				burgundian = Viennensis
+				visigothic = Viennensis
+				ostrogothic = Viennensis
+				thuringian = Viennensis
+				
+				b_montelimar = {
+					roman = "Acumum"
+				}
+				b_vienne = {
+				}
+				b_valence = {
+				}
+				b_grenoble = {
+					roman = "Gratianopolis"
+					graeci = "Gratianopolis"
+					greek = "Gratianoupolis"
+					galloroman = "Gratianopolis"
+					iberoroman = Gratianopolis
+					britto = Gratianopolis
+					old_frankish = "Graignovol"
+					burgundian = Graignovol
+					visigothic = Graignovol
+					ostrogothic = Graignovol
+					thuringian = Gratianopolis
+				}
+				b_chartreuse = {
+				}
+				b_albon = {
+				}
+				b_stantoine = {
+				}
+				b_valreas = {
+				}
+			}
+			c_viviers = {
+				color={ 166 164 66 }
+				color2={ 255 255 255 }
+
+				roman = Vivarium
+				graeci = Vivarium
+				greek = Vivarium
+				galloroman = Vivarium
+				iberoroman = Vivarium
+				britto = Vivarium
+				old_frankish = Vivarium
+				burgundian = Vivarium
+				visigothic = Vivarium
+				ostrogothic = Vivarium
+				
+				b_aubenas = {
+				}
+				b_tournon = {
+				}
+				b_viviers = {
+					roman = Vivarium
+					graeci = Vivarium
+					greek = Vivarium
+					galloroman = Vivarium
+					iberoroman = Vivarium
+					britto = Vivarium
+					old_frankish = Vivarium
+					burgundian = Vivarium
+					visigothic = Vivarium
+					ostrogothic = Vivarium
+				}
+				b_albalaromaine = {
+				}
+				b_privas = {
+				}
+				b_lecheylard = {
+				}
+				b_largentiere = {
+				}
+				b_joyeuse = {
+				}
+			}
+			c_venaissin = {
+				color={ 153 44 74 }
+				color2={ 255 255 255 }
+
+				roman = Avennio
+				graeci = Avennio
+				greek = Aouennion
+				galloroman = Avenio
+				iberoroman = Avenio
+				britto = Avenio
+				old_frankish = Avenio
+				burgundian = Avenio
+				visigothic = Avenio
+				thuringian = Avenio
+				
+				b_orange = {
+				}
+				b_avignon = {
+					roman = Avennio
+					graeci = Avennio
+					greek = Aouennion
+					galloroman = Avenio
+					iberoroman = Avenio
+					britto = Avenio
+					old_frankish = Avenio
+					burgundian = Avenio
+					visigothic = Avenio
+					thuringian = Avenio
+				}
+				b_cavaillon = {
+				}
+				b_venasque = {
+				}
+				b_carpentras = {
+				}
+				b_chateauneufdupape = {
+				}
+				b_stpaul = {
+				}
+				b_mondragon = {
+				}
+			}
+		}
+		
+		d_lugdunensis = {
+			color={ 153 217 234 }
+			color2={ 255 255 255 }
+			
+			capital = 227 # Lyon
+			
+			c_lyon = {
+				color={ 150 211 225 }
+				color2={ 255 255 255 }
+
+				roman = "Lugdunum"
+				graeci = "Lugdunum"
+				greek = "Lugdunum"
+				galloroman = "Lugdunum"
+				iberoroman = "Lugdunum"
+				britto = Lugdunum
+				old_frankish = "Lyduum"
+				burgundian = Lugduum
+				visigothic = Lugduum
+				ostrogothic = Lugduum
+				alemannic = Lugduum
+				thuringian = Lugduum
+				
+				b_brindas = {
+					roman = "Briandas"
+					graeci = "Briandas"
+					greek = Briandas
+					galloroman = "Briandas"
+					iberoroman = "Briandas"
+					britto = Briandas
+					old_frankish = "Briendaco"
+					burgundian = Briendaco
+					visigothic = Briendaco
+					ostrogothic = Briendaco
+				}
+				b_stjeanbaptiste = {
+				}
+				b_lyon = {
+					roman = "Lugdunum"
+					graeci = "Lugdunum"
+					greek = "Lugdunum"
+					galloroman = "Lugdunum"
+					iberoroman = "Lugdunum"
+					britto = Lugdunum
+					old_frankish = "Lyduum"
+					burgundian = Lugduum
+					visigothic = Lugduum
+					ostrogothic = Lugduum
+					alemannic = Lugduum
+					thuringian = Lugduum
+				}
+				b_anse = {
+					roman = "Asa Paulini"
+					graeci = "Asa Paulini"
+					greek = "Asa Paulini"
+					galloroman = "Asa Paulini"
+					iberoroman = "Asa Paulini"
+					britto = "Asa Paulini"
+					old_frankish = "Ansenses"
+					burgundian = Ansenses
+					visigothic = Ansenses
+					ostrogothic = Ansenses
+				}
+				b_chessy = {
+				}
+				b_lacenas = {
+				}
+				b_pusignan = {
+					roman = "Pusinius"
+					graeci = "Pusinius"
+					greek = Pusinius
+					galloroman = "Pusinius"
+					iberoroman = "Pusinius"
+					britto = Pusinius
+					old_frankish = Pusinius
+					burgundian = Pusinius
+					visigothic = Pusinius
+					ostrogothic = Pusinius
+				}
+				b_irigny = {
+				}
+			}
+			c_forez = {
+				color={ 127 202 222 }
+				color2={ 255 255 255 }
+
+				roman = "Segusiana"
+				graeci = "Segusiana"
+				greek = Segusiana
+				galloroman = "Segusiana"
+				iberoroman = "Segusiana"
+				britto = Segusiana
+				old_frankish = "Forensis"
+				burgundian = Forensis
+				visigothic = Forensis
+				ostrogothic = Forensis
+				
+				b_couzan = {
+				}
+				b_montbrison = {
+				}
+				b_thiers = {
+				}
+				b_feurs = {
+					roman = "Forum Segusiavorum"
+					graeci = "Forum Segusiavorum"
+					galloroman = "Forum Segusiavorum"
+					iberoroman = "Forum Segusiavorum"
+					britto = "Forum Segusiavorum"
+				}
+				b_roanne = {
+				}
+				b_charlieu = {
+				}
+				b_chalmazel = {
+				}
+				b_stetienne = {
+				}
+			}
+			c_chalons = {
+				color={ 183 247 254 }
+				color2={ 255 255 255 }
+
+				roman = Cabillonum
+				graeci = Cabillonum
+				greek = Cabillonum
+				galloroman = Cabillonum
+				iberoroman = Cabillonum
+				britto = Cabillonum
+				old_frankish = Cabilonisis
+				burgundian = Cabilonisis
+				visigothic = Cabilonisis
+				ostrogothic = Cabilonisis
+				
+				b_brancion = {
+				}
+				b_chalon = {
+					roman = Cabillonum
+					graeci = Cabillonum
+					greek = Cabillonum
+					galloroman = Cabillonum
+					iberoroman = Cabillonum
+					britto = Cabillonum
+					old_frankish = Cabilonisis
+					burgundian = Cabilonisis
+					visigothic = Cabilonisis
+					ostrogothic = Cabilonisis
+				}
+				b_tournus = {
+					roman = Tinortium
+					graeci = Tinortium
+					greek = Tinortium
+					galloroman = Tinortium
+					iberoroman = Tinortium
+					britto = Tinortium
+				}
+				b_louhans = {
+				}
+				b_chamilly = {
+				}
+				b_seurre = {
+				}
+				b_stjeandelosne = {
+				}
+				b_cuisery = {
+				}
+			}
+			c_macon = {
+				color={ 133 199 211 }
+				color2={ 255 255 255 }
+
+				roman = "Matisco"
+				graeci = "Matisco"
+				greek = Matisco
+				galloroman = "Matisco"
+				iberoroman = "Matisco"
+				britto = Matisco
+				old_frankish = "Matiscone"
+				burgundian = Matiscone
+				visigothic = "Matiscone"
+				ostrogothic = "Matiscone"
+				
+				b_fuisse = {
+				}
+				b_macon = {
+					roman = "Matisco"
+					graeci = "Matisco"
+					greek = Matisco
+					galloroman = "Matisco"
+					iberoroman = "Matisco"
+					britto = Matisco
+					old_frankish = "Matiscone"
+					burgundian = Matiscone
+					visigothic = "Matiscone"
+					ostrogothic = "Matiscone"
+				}
+				b_cluny = {
+					coat_of_arms=
+					{
+						data=
+						{
+						0 4 12 45 2 2 2 0 0 19 2 1 3 0 0 19 2 1 3 0 0 19 2 1 3
+						}
+						religion="catholic"
+					}
+				}
+				b_davaye = {
+				}
+				b_beaujeu = {
+				}
+				b_lugny = {
+				}
+				b_berze = {
+				}
+				b_villefranchesursaone = {
+				}
+			}
+		}
+		d_transjurania = {
+			color={ 153 122 108 }
+			color2={ 255 255 255 }
+			
+			capital = 135 # Bourgogne
+			
+			c_grisons = {
+				color={ 160 118 101 }
+				color2={ 255 255 255 }
+
+				roman = "Bilitio"
+				galloroman = "Bilitio"
+				iberoroman = "Bilitio"
+				graeci = "Bilitio"
+				greek = "Bilitio"
+				old_frankish = "Berinzona"
+				visigothic = "Berinzona"
+				ostrogothic = "Berinzona"
+				lombard = "Berinzona"
+				old_saxon = "Bellenz"
+				#thuringian = "Bellenz"
+				#alemannic = "Bellenz"
+				
+				b_bellinzona = {
+					roman = "Bilitio"
+					galloroman = "Bilitio"
+					iberoroman = "Bilitio"
+					graeci = "Bilitio"
+					greek = "Bilitio"
+					old_frankish = "Berinzona"
+					visigothic = "Berinzona"
+					ostrogothic = "Berinzona"
+					lombard = "Berinzona"
+					old_saxon = "Bellenz"
+					#thuringian = "Bellenz"
+					#alemannic = "Bellenz"
+				}
+				b_disentis = {
+					roman = "Desertina"
+					galloroman = "Desertina"
+					iberoroman = "Desertina"
+					graeci = "Desertina"
+					greek = "Desertina"
+					lombard = "Desertina"
+					visigothic = "Desertina"
+					ostrogothic = "Desertina"
+					old_frankish = "Desertina"
+				}
+				b_locarno = {
+					roman = "Locarnum"
+					galloroman = "Locarnum"
+					iberoroman = "Locarnum"
+					graeci = "Locarnum"
+					greek = "Lokarnon"
+					lombard = "Locarn"
+				}
+				b_biasca = {
+				}
+				b_domo = {
+				}
+				b_lugano = {
+				}
+				b_musso = {
+				}
+				b_mendrisio = {
+				}
+			}
+			c_besancon = {
+				color={ 149 120 108 }
+				color2={ 255 255 255 }
+
+				roman = "Vesantio"
+				graeci = Vesantio
+				greek = Vesantio
+				galloroman = Besantio
+				iberoroman = Besantio
+				britto = Besantio
+				old_frankish = Bisontion
+				burgundian = Bisontion
+				visigothic = Bisontion
+				ostrogothic = Bisontion
+				
+				b_besancon = {
+					roman = "Vesantio"
+					graeci = Vesantio
+					greek = Vesantio
+					galloroman = Besantio
+					iberoroman = Besantio
+					britto = Besantio
+					old_frankish = Bisontion
+					burgundian = Bisontion
+					visigothic = Bisontion
+					ostrogothic = Bisontion
+				}
+				b_belfort = {
+				}
+				b_vesoul = {
+					roman = "Vesulum"
+					galloroman = "Vesulum"
+					iberoroman = "Vesulum"
+					graeci = "Vesulum"
+				}
+				b_montbeliard = {
+				}
+				b_beaucourt = {
+				}
+				b_valdahon = {
+				}
+				b_maiche = {
+				}
+				b_morteau = {
+				}
+			}
+			c_neuchatel = {
+				color={ 163 24 62 }
+				color2={ 255 255 255 }
+				
+				b_neuchatel = {
+				}
+				b_stimier = {
+				}
+				b_fribourg = {
+				}
+				b_grandson = {
+				}
+				b_yverdon = {
+				}
+				b_estavayer = {
+				}
+				b_avences = {
+				}
+				b_murten = {
+				}
+			}
+			c_bern = {
+				color={ 165 26 64 }
+				color2={ 255 255 255 }
+
+				roman = "Luciaria"
+				graeci = Luciaria
+				greek = Lukiaria
+				galloroman = "Luciaria"
+				iberoroman = Luciaria
+				britto = Luciaria
+				lombard = "Lüzerna"
+				old_frankish = Brenodor
+				burgundian = Brenodor
+				visigothic = Brenodor
+				ostrogothic = Brenodor
+				alemannic = Brenodor
+				thuringian = Brenodor
+				
+				b_bern = {
+					old_frankish = Brenodor
+					burgundian = Brenodor
+					visigothic = Brenodor
+					ostrogothic = Brenodor
+					alemannic = Brenodor
+					thuringian = Brenodor
+				}
+				b_interlaken = {
+				}
+				b_luzern = {
+					roman = "Luciaria"
+					galloroman = "Luciaria"
+					iberoroman = Luciaria
+					graeci = Luciaria
+					greek = Lukiaria
+					lombard = "Lüzerna"
+				}
+				b_biel = {
+					roman = "Belna"
+					galloroman = "Belna"
+					iberoroman = "Belna"
+					graeci = "Belna"
+					greek = "Belna"
+				}
+				b_sempach = {
+				}
+				b_langenthal = {
+					#alemannic = "Langatun"
+					#thuringian = "Langatun"
+					old_frankish = "Langatun"
+				}
+				b_kyburg = {
+				}
+				b_sursee = {
+				}
+			}
+			c_schwyz = {
+				color={ 167 28 66 }
+				color2={ 255 255 255 }
+
+				roman = "Suitius"
+				galloroman = "Suitius"
+				iberoroman = "Suitius"
+				britto = Suitius
+				graeci = "Suitius"
+				greek = "Suitios"
+				lombard = "Svit"
+				
+				b_schwyz = {
+				}
+				b_engelberg = {
+				}
+				b_zurich = {
+				}
+				b_zug = {
+				}
+				b_altdorf = {
+				}
+				b_stans = {
+				}
+				b_glarus = {
+				}
+				b_winterthur = {
+				}
+			}
+			c_aargau = {
+				color={ 169 30 68 }
+				color2={ 255 255 255 }
+
+				roman = Basilea
+				graeci = Basilea
+				greek = Basilea
+				galloroman = Basilea
+				iberoroman = Basilea
+				britto = Basilea
+				old_frankish = Argovia
+				burgundian = Argovia
+				visigothic = Argovia
+				ostrogothic = Argovia
+				lombard = Argovia
+				thuringian = Argovia
+				
+				b_aargau = {
+				}
+				b_basel = {
+					roman = Basilea
+					graeci = Basilea
+					greek = Basilea
+					galloroman = Basilea
+					iberoroman = Basilea
+					britto = Basilea
+				}
+				b_solothurn = {
+				}
+				b_habsburg = {
+				}
+				b_rheinfelden = {
+				}
+				b_schaffhausen = {
+				}
+				b_lenzburg = {
+				}
+				b_laufenburg = {
+				}
+			}
+		}
+	}
+}

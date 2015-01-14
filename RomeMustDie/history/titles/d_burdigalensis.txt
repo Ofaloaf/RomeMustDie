@@ -1,0 +1,9 @@
+100.1.1=
+{
+	#name = AQUITANIA_SECUNDA
+	#adjective = AQUITANIA_SECUNDA_adj
+}
+467.1.1={
+	liege = "k_visigothia"
+	holder = 200284
+}

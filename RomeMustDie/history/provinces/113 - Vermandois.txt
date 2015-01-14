@@ -1,0 +1,12 @@
+# 113 - Vermandois
+
+# County Title
+title = c_vermandois
+
+# Settlements
+max_settlements = 5
+b_stquentin = castle
+b_laon = temple
+
+culture = galloroman
+religion = nicene

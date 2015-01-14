@@ -1,0 +1,239 @@
+451001 = {
+	name = "Apollinaris"
+	culture = galloroman
+}
+
+451002 = {
+	name = "Lutetiensis"
+	culture = galloroman
+}
+
+451003 = {
+	name = "Avaricensis"
+	culture = galloroman
+}
+
+451004 = {
+	name = "Mallius"
+	culture = galloroman
+}
+
+451005 = {
+	name = "Turonensis"
+	culture = galloroman
+}
+
+451006 = {
+	name = "Florentius"
+	culture = galloroman
+}
+
+451007 = {
+	name = "Arelatensis"
+	culture = galloroman
+}
+
+451008 = {
+	name = "Cabillonensis"
+	culture = galloroman
+}
+
+451009 = {
+	name = "Condatensis"
+	culture = galloroman
+}
+
+451010 = {
+	name = "Massiliensis"
+	culture = galloroman
+}
+
+451011 = {
+	name = "Tolosensis"
+	culture = galloroman
+}
+
+451012 = {
+	name = "Rotomagensis"
+	culture = galloroman
+}
+
+451013 = {
+	name = "Noviomagensis"
+	culture = galloroman
+}
+
+451014 = {
+	name = "Burdigalensis"
+	culture = galloroman
+}
+
+451015 = {
+	name = "Caesaromagensis"
+	culture = galloroman
+}
+
+451016 = {
+	name = "Masticonensis"
+	culture = galloroman
+}
+
+451017 = {
+	name = "Aulercus"
+	culture = galloroman
+}
+
+451018 = {
+	name = "Augustoritensis"
+	culture = galloroman
+}
+
+451019 = {
+	name = "Menapius"
+	culture = galloroman
+}
+
+451020 = {
+	name = "Miraeus"
+	culture = galloroman
+}
+
+451021 = {
+	name = "Bagacensis"
+	culture = galloroman
+}
+
+451022 = {
+	name = "Rauricus"
+	culture = galloroman
+}
+
+451023 = {
+	name = "Rutenus"
+	culture = galloroman
+}
+
+451024 = {
+	name = "Vorgiensis"
+	culture = galloroman
+}
+
+451025 = {
+	name = "Tigurinus"
+	culture = galloroman
+}
+
+451026 = {
+	name = "Volcaeus"
+	culture = galloroman
+}
+
+451027 = {
+	name = "Tricastinus"
+	culture = galloroman
+}
+
+451028 = {
+	name = "Unellus"
+	culture = galloroman
+}
+
+451029 = {
+	name = "Nemausensis"
+	culture = galloroman
+}
+
+451030 = {
+	name = "Perpiniarensis"
+	culture = gallorman
+}
+
+451031 = {
+	name = "Eluius"
+	culture = galloroman
+}
+
+451032 = {
+	name = "Syagrius"
+	culture = galloroman
+}
+
+451033 = {
+	name = "Marcianetus"
+	culture = galloroman
+}
+
+451034 = {
+	name = "Isaranensis"
+	culture = galloroman
+}
+
+451035 = {
+	name = "Castrodunensis"
+	culture = galloroman
+}
+
+451036 = {
+	name = "Blaesensis"
+	culture = galloroman
+}
+
+451037 = {
+	name = "Andecaviensis"
+	culture = galloroman
+}
+
+451038 = {
+	name = "Lexovinensis"
+	culture = galloroman
+}
+
+451039 = {
+	name = "Eustochianus"
+	culture = galloroman
+}
+
+451040 = {
+	name = "Pontius Leontius"
+	culture = galloroman
+}
+
+451041 = {
+	name = "Pictavius"
+	culture = galloroman
+}
+
+451042 = {
+	name = "Laudunensis"
+	culture = galloroman
+}
+
+451043 = {
+	name = "Agathensis"
+	culture = galloroman
+}
+
+451044 = {
+	name= "Auscus"
+	culture = galloroman
+}
+
+451045 = {
+	name="Ruthenius"
+	culture = galloroman
+}
+
+451046 = {
+	name = "Labienus"
+	culture = galloroman
+}
+
+451047 = {
+	name = "Verbigenus"
+	culture = galloroman
+}
+
+451048 = {
+	name = "Chaux"
+	culture = galloroman
+}

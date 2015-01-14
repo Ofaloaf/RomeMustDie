@@ -1,0 +1,19 @@
+# 245 - Schwyz
+
+# County Title
+title = c_schwyz
+
+# Settlements
+max_settlements = 4
+b_schwyz = tribal
+
+#b_zug = castle
+#b_stans = castle
+#b_glarus = castle
+#b_winterthur = city
+
+# Misc
+culture = alemannic
+religion = norse_pagan
+
+# Histo

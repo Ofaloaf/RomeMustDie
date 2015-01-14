@@ -1,0 +1,55 @@
+600001 = {
+	name="Sangiban"
+	dynasty=100603
+	culture="alan"
+	religion="arian"
+	trait="hunter"
+	trait="scarred"
+	trait="skilled_tactician"
+	426.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+600002 = {
+	name="Eochar"
+	dynasty=100603
+	father=632001
+	culture="alan"
+	religion="arian"
+	454.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+600003 = {
+	name="Senoch"
+	dynasty=411002
+	culture="alan"
+	religion="arian"
+	429.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+600004 = {
+	name="Addoculus"
+	dynasty=492049
+	culture="alan"
+	religion="arian"
+	448.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

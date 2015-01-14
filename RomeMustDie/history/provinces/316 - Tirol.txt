@@ -1,0 +1,22 @@
+# 316 - Tirol
+
+# County Title
+title = c_tirol
+
+# Settlements
+max_settlements = 4
+b_landeck = castle
+b_bregenz = temple
+
+#b_sterzing = castle
+#b_dornbirn = castle
+#b_nenzing = castle
+#b_imst = castle
+#b_ried = castle
+
+# Misc
+culture = alemannic
+religion = norse_pagan
+
+# History
+

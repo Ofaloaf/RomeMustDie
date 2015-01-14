@@ -1,0 +1,28 @@
+# 817 - Tunis
+
+# County Title
+title = c_tunis
+
+# Settlements
+max_settlements = 6
+
+b_cartaghe = castle
+b_sousse = city
+b_ariana = temple
+b_kelibia = city
+
+
+# Misc
+culture = punic
+religion = nicene
+
+# History
+
+475.1.1 = {
+	b_tunis = ca_keep_1
+	b_tunis = ca_training_grounds_1
+	b_tunis = ca_stable_1
+	b_tunis = ca_barracks_1
+	b_tunis = ca_militia_barracks_1
+	b_tunis = ca_wall_1
+}

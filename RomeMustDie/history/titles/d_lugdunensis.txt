@@ -1,0 +1,9 @@
+1.1.1 = {
+	#name = LUGDUNENSIS_PRIMA
+	#adjective = LUGDUNENSIS_PRIMA_adj
+	de_jure_liege = k_arles
+}
+473.1.1 = {
+	liege = "k_burgundia"
+	holder = 793007
+}

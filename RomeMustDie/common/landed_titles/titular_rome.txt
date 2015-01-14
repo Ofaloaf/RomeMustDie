@@ -1,0 +1,217 @@
+e_italy = {
+	color={ 234 217 110 }
+	color2={ 255 255 255 }
+	
+	capital = 333 # Rome
+	
+	culture = italian
+}
+
+e_ere = {
+	color={ 173 29 108 }
+	culture = graeci
+	
+	capital = 496 # Byzantion
+
+	purple_born_heirs = yes
+
+	short_name = yes
+	
+	allow = {
+		always = no
+	}
+}
+
+
+	k_burgundia = {
+		color={ 134 0 37 }
+		color2={ 220 220 0 }
+
+		culture = burgundian
+	}
+
+	k_noricum = {
+		color={ 226 206 114 }
+		color2={ 255 255 255 }
+		
+	
+		# Creation/usurpation trigger
+		allow = {
+			culture_group = romantic
+		}
+	}
+
+	k_soissons = {
+		color={ 197 61 46 }
+
+		capital = 95 #Amiens/Soissons
+
+		roman = "Suessionum"
+		galloroman = "Suessionum"
+		iberoroman = "Suessionum"
+		britto = "Suessionum"
+		graeci = "Suessionum"
+
+		allow = {
+			hidden_tooltip = { NOT = { has_dlc = "Charlemagne" } }
+			has_landed_title = d_soissons
+			OR = {
+				culture_group = romantic
+				culture = frankish
+			}
+		}
+	}
+
+	k_vandalia = {
+		color={ 198 196 176 }
+		color2={ 220 220 0 }
+
+		culture = vandal
+
+		capital = 817
+
+		allow = {
+			culture = vandal
+		}
+	}
+
+	k_visigothia = {
+		color={ 230 173 40 }
+		color2={ 255 255 255 }
+
+		culture = visigothic
+
+		capital = 214
+		
+		# Creation/usurpation trigger
+		allow = {
+			culture = visigothic
+		}
+	}
+
+		d_pentarchy = {
+			color={ 198 249 229 }
+			color2={ 220 220 0 }
+	
+			capital = 496 # Constantinople
+	
+			title = "PRIMATE"
+			foa = "POPE_FOA"
+			short_name = yes
+			location_ruler_title = yes
+	
+			# Always exists
+			landless = yes
+	
+			# Controls a religion
+			controls_religion = nicene
+	
+			religion = nicene
+	
+			# Cannot be held as a secondary title
+			primary = yes
+	
+			dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+		}
+
+		d_bishop_of_rome = {
+			color={ 229 249 198 }
+			color2={ 220 220 0 }
+	
+			capital = 333 # Rome
+	
+			title = temple_baron_christian
+			short_name = yes
+			location_ruler_title = yes
+	
+			# Always exists
+			landless = yes
+	
+			religion = nicene
+	
+			# Cannot be held as a secondary title
+			primary = yes
+	
+			dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+		}
+
+		d_soissons = {
+			color = { 141 56 44 }
+			color2= { 255 255 255 }
+	
+			capital = 95 #Amiens/Soissons
+
+			roman = "Suessionum"
+			galloroman = "Suessionum"
+			graeci = "Suessionum"
+
+			allow = {
+				OR = {
+					culture_group = romantic
+					culture = old_frankish
+				}
+			}
+		}
+
+		d_foederati = {
+			color = { 71 71 84 }
+			color2= { 255 255 255 }
+
+			capital = 234
+
+			short_name = yes
+
+			allow = {
+				always = no
+			}
+		}
+
+		d_sabaria = {
+			color = { 219 228 31 }
+			color2= { 255 255 255 }
+
+			culture = iberoroman
+
+			capital = 191
+
+			allow = {
+				culture = iberoroman
+			}
+		}
+
+		d_rucconia = {
+			color = { 123 189 225 }
+			color2= { 255 255 255 }
+
+			culture = iberoroman
+
+			capital = 198
+
+			allow = {
+				culture = iberoroman
+			}
+		}
+
+		d_iberia = {
+			color = { 49 82 196 }
+			color2= { 255 255 255 }
+
+			capital = 202
+
+			allow = {
+				always = no
+			}
+		}
+
+		d_arragonia = {
+			color = { 55 39 129 }
+			color2= { 255 255 255 }
+
+			culture = iberoroman
+
+			capital = 195
+
+			allow = {
+				culture = iberoroman
+			}
+		}

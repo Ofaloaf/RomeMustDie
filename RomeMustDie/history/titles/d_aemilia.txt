@@ -1,0 +1,8 @@
+1.1.1 = {
+	liege = "e_wre"
+	vice_royalty = yes
+}
+
+470.1.1 = {
+	holder = 476007
+}

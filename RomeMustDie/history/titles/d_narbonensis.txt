@@ -1,0 +1,11 @@
+1.1.1 = {
+	#name = NARBONENSIS_PRIMA
+	#adjective = NARBONENSIS_PRIMA_adj
+}
+467.1.1 = {
+	liege = "k_visigothia"
+	holder = 200284
+}
+469.1.1 = {
+	holder = 789033
+}

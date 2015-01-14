@@ -1,0 +1,9 @@
+bookmark =
+{
+	name = "BM_rome"
+	desc = "BM_rome_DESC"
+	date = 475.10.31
+	
+	character = 476001
+	character = 1871001
+}

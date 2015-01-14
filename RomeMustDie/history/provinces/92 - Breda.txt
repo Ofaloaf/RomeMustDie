@@ -1,0 +1,14 @@
+# 92 - Breda
+
+# County Title
+title = c_breda
+
+# Settlements
+
+max_settlements = 4
+
+b_breda = tribal
+
+# Misc
+culture = old_frankish
+religion = norse_pagan

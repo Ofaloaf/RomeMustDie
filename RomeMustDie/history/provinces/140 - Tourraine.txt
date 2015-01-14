@@ -1,0 +1,14 @@
+# 140 - Tourraine
+
+# County Title
+title = c_tourraine
+
+# Settlements
+max_settlements = 4
+b_tours = temple
+b_chinon = castle
+b_amboise = city
+
+
+culture = galloroman
+religion = nicene

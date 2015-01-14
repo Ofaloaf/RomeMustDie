@@ -1,0 +1,87 @@
+610001 = {
+	name="Armatus"
+	#
+	dynasty=610001
+	culture=graeci
+	religion=miaphysite
+	trait="fair"
+	trait="strong"
+	trait="proud"
+	trait="envious"
+	441.1.1={
+		birth=yes
+	}
+	477.1.1={
+		death=yes
+	}
+}
+
+610002 = {
+	name="Basiliscus"
+	father=610002
+	dynasty=610001
+	culture=graeci
+	religion=miaphysite
+	470.1.1={
+		birth=yes
+	}
+	540.1.1={
+		death=yes
+	}
+}
+
+610003 = {
+	name="Doricus"
+	dynasty=492041
+	culture=graeci
+	religion=nicene
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610004 = {
+	name="Dionysius"
+	dynasty=610007
+	culture=graeci
+	religion=nicene
+	trait="fair"
+	trait="strong"
+	trait="proud"
+	trait="envious"
+	441.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610005 = {
+	name="Julianus"
+	dynasty=610010
+	culture=graeci
+	religion=nicene
+	443.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610006 = {
+	name="Hiero"
+	dynasty=610011
+	culture=graeci
+	religion=nicene
+	434.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

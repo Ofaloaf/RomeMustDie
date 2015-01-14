@@ -1,0 +1,194 @@
+# Urban Greco-Roman
+technology = {
+	titles = {
+		### ITALY & WRE ###
+		d_aemilia
+		d_campania
+		d_dalmatia
+		d_latium
+		d_liguria
+		d_lucania
+		d_mediolanum
+		d_picenum
+		d_ravenna
+		d_sicily
+		d_tuscia
+		d_venetia
+
+		### AFRICA ###
+		d_zeugitana
+
+		### GREECE & ERE ###
+		d_athens
+		d_europa
+		d_macedonia
+
+	}
+
+	475= {
+		military = 1.5
+		economy = 2.0
+		culture = 2.0
+		
+		TECH_LEGALISM = 2.0
+		TECH_MAJESTY = 2.0
+	}
+		
+	
+	1150 = {
+		military = 1.5
+		economy = 2.0
+		culture = 2.0
+		
+		TECH_LEGALISM = 2.0
+		TECH_MAJESTY = 2.0
+	}
+}
+
+# Rural Greco-Roman
+technology = {
+	titles = {
+		### ITALY & WRE ###
+		d_apulia
+		d_bruttium
+		d_dardania
+		d_histria
+		d_praevalitana
+		d_samnium
+
+		### GREECE & ERE ###
+		d_achaia
+		d_cyprus
+		d_epirus
+		d_krete
+		d_rhodope
+	}
+
+	475= {
+		military = 1.5
+		economy = 1.5
+		culture = 1.8
+	}
+		
+	
+	1150 = {
+		military = 1.5
+		economy = 1.5
+		culture = 1.8
+	}
+}
+
+# The Provinces
+technology = {
+	titles = {
+		### GALLIA ###
+		d_alpes
+		d_andegavia
+		d_aquitania
+		d_arvernia
+		d_belgica
+		d_burdigalensis
+		d_divio
+		d_lugdunensis
+		d_narbonensis
+		d_paris
+		d_provincia
+		d_saxonshore
+		d_senonia
+		d_transjurania
+		d_theifalia
+		d_viennensis
+
+		### HISPANIA ###
+		d_caesaraugustanus
+		d_carthaginiensis
+		d_cordubensis
+		d_emeritanus
+		d_gaditanus
+		d_hispalensis
+		d_tarraconensis
+		d_carpetania
+
+		### okay one bit of italy ###
+		d_sardinia
+	}
+
+	475= {
+		military = 1.3
+		economy = 1.4
+		culture = 1.6
+		
+	}
+		
+	
+	1150 = {
+		military = 1.3
+		economy = 1.4
+		culture = 1.6		
+	}
+}
+
+# The Roman frontier & Barbarian-controlled Rome
+technology = {
+	titles = {
+		d_armorica
+		d_menapiorum
+		d_savia
+		d_toxandria
+
+		### HISPANIA ###
+		d_asturica
+		d_ballearica
+		d_bracarensis
+		d_cantabria
+		d_galicia
+		d_legio
+		d_novempopulana
+		d_pacensis
+		d_scalabitanus
+		d_vasconia
+
+		### AFRICA ###
+		d_altava
+		d_byzacena
+		d_tingitana
+
+		### EGYPT ###
+		d_cyrenaica
+	}
+	475= {
+		military = 1.3
+		economy = 1.2
+		culture = 1.4
+		
+	}
+		
+	
+	1150 = {
+		military = 1.3
+		economy = 1.2
+		culture = 1.4	
+	}
+}
+
+# North Africa
+technology = {
+	titles = {
+		d_caesariensis
+		d_gaetulia
+		d_numidia
+		d_sitifensis
+		d_tripolitania
+	}
+	475 = {
+		military = 0.7
+		economy = 0.5
+		culture = 0.5
+	}
+	1150 = {
+		military = 0.7
+		economy = 0.5
+		culture = 0.5
+		
+	}
+}

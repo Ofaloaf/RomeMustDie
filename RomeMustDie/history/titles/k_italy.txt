@@ -1,0 +1,7 @@
+100.1.1=
+{
+	pentarch = b_roma
+	de_jure_liege = e_wre
+	name = ITALIA_ANNONARIA
+	adjective = ITALIA_ANNONARIA_adj
+}

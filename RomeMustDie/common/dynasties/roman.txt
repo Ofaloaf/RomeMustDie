@@ -1,0 +1,579 @@
+753001 = {
+	name = "Senator"
+	culture = roman
+}
+
+753002 = {
+	name = "Anicius"
+	culture = roman
+}
+
+753003 = {
+	name = "Nepos"
+	culture = roman
+}
+
+753004 = {
+	name = "Rutilius"
+	culture = roman
+}
+
+753005 = {
+	name = "Manutius"
+	culture = roman
+}
+
+753006 = {
+	name = "Pisensis"
+	culture = roman
+}
+
+753007 = {
+	name = "Florentiensis"
+	culture = roman
+}
+
+753008 = {
+	name = "Placentiensis"
+	culture = roman
+}
+
+753009 = {
+	name = "Ariminensis"
+	culture = roman
+}
+
+753010 = {
+	name = "Mutinensis"
+	culture = roman
+}
+
+753011 = {
+	name = "Spoletensis"
+	culture = roman
+}
+
+753012 = {
+	name = "Faventiensis"
+	culture = roman
+}
+
+753013 = {
+	name = "Pataviensis"
+	culture = roman
+}
+
+753014 = {
+	name = "Salonensis"
+	culture = roman
+}
+
+753015 = {
+	name = "Corfiniensis"
+	culture = roman
+}
+
+753016 = {
+	name = "Manlius"
+	culture = roman
+}
+
+753017 = {
+	name = "Firmensis"
+	culture = roman
+}
+
+753018 = {
+	name = "Perusiensis"
+	culture = roman
+}
+
+753019 = {
+	name = "Arretiensis"
+	culture = roman
+}
+
+753020 = {
+	name = "Bononiensis"
+	culture = roman
+}
+
+753021 = {
+	name = "Nonius"
+	culture = roman
+}
+
+753022 = {
+	name = "Fabius"
+	culture = roman
+}
+
+753023 = {
+	name = "Caesennius"
+	culture = roman
+}
+
+753024 = {
+	name = "Gavius"
+	culture = roman
+}
+
+753025 = {
+	name = "Mettius"
+	culture = roman
+}
+
+753026 = {
+	name = "Acilius"
+	culture = roman
+}
+
+753027 = {
+	name = "Funisulanus"
+	culture = roman
+}
+
+753028 = {
+	name = "Carminius"
+	culture = roman
+}
+
+753029 = {
+	name = "Articuleius"
+	culture = roman
+}
+
+753030 = {
+	name = "Venuleius"
+	culture = roman
+}
+
+753031 = {
+	name = "Ambibulus"
+	culture = roman
+}
+
+753032 = {
+	name = "Vinomalus"
+	culture = roman
+}
+
+753033 = {
+	name = "Faltonius"
+	culture = roman
+}
+
+753034 = {
+	name = "Memmius"
+	culture = roman
+}
+
+753035 = {
+	name = "Messius"
+	culture = roman
+}
+
+753036 = {
+	name = "Achilius"
+	culture = roman
+}
+
+753037 = {
+	name = "Ecclesius"
+	culture = roman
+}
+
+753038 = {
+	name = "Avienus"
+	culture = roman
+}
+
+753039 = {
+	name = "Tatulianus"
+	culture = roman
+}
+
+753040 = {
+	name = "Aginatius"
+	culture = roman
+}
+
+753041 = {
+	name = "Comes"
+	culture = roman
+}
+
+753042 = {
+	name = "Amarus"
+	culture = roman
+}
+
+753043 = {
+	name = "Canus"
+	culture = roman
+}
+
+753044 = {
+	name = "Aculeo"
+	culture = roman
+}
+
+753045 = {
+	name = "Asellio"
+	culture = roman
+}
+
+753046 = {
+	name = "Atellus"
+	culture = roman
+}
+
+753047 = {
+	name = "Blaesus"
+	culture = roman
+}
+
+753048 = {
+	name = "Bubulcus"
+	culture = roman
+}
+
+753049 = {
+	name = "Caepio"
+	culture = roman
+}
+
+753050 = {
+	name = "Calidus"
+	culture = roman
+}
+
+753051 = {
+	name = "Capito"
+	culture = roman
+}
+
+753052 = {
+	name = "Cicurinus"
+	culture = roman
+}
+
+753053 = {
+	name = "Cilo"
+	culture = roman
+}
+
+753054 = {
+	name = "Crassipes"
+	culture = roman
+}
+
+753055 = {
+	name = "Dentatus"
+	culture = roman
+}
+
+753056 = {
+	name = "Dolabella"
+	culture = roman
+}
+
+753057 = {
+	name = "Dorsuo"
+	culture = roman
+}
+
+753058 = {
+	name = "Figulus"
+	culture = roman
+}
+
+753059 = {
+	name = "Fronto"
+	culture = roman
+}
+
+753060 = {
+	name = "Lanatus"
+	culture = roman
+}
+
+753061 = {
+	name = "Labeo"
+	culture = roman
+}
+
+753062 = {
+	name = "Mergus"
+	culture = roman
+}
+
+753063 = {
+	name = "Natta"
+	culture = roman
+}
+
+753064 = {
+	name = "Ocella"
+	culture = roman
+}
+
+753065 = {
+	name = "Paetus"
+	culture = roman
+}
+
+753066 = {
+	name = "Ralla"
+	culture = roman
+}
+
+753067 = {
+	name = "Rullus"
+	culture = roman
+}
+
+753068 = {
+	name = "Scaevola"
+	culture = roman
+}
+
+753069 = {
+	name = "Abronius"
+	culture = roman
+}
+
+753069 = {
+	name = "Acerronius"
+	culture = roman
+}
+
+753070 = {
+	name = "Antistius"
+	culture = roman
+}
+
+753071 = {
+	name = "Appuleius"
+	culture = roman
+}
+
+753072 = {
+	name = "Ancharius"
+	culture = roman
+}
+
+753073 = {
+	name = "Articuleius"
+	culture = roman
+}
+
+753074 = {
+	name = "Axius"
+	culture = roman
+}
+
+753075 = {
+	name = "Baebius"
+	culture = roman
+}
+
+753076 = {
+	name = "Tamphilus"
+	culture = roman
+}
+
+753077 = {
+	name = "Betilienus"
+	culture = roman
+}
+
+753078 = {
+	name = "Bucculeius"
+	culture = roman
+}
+
+753079 = {
+	name = "Caecilius"
+	culture = roman
+}
+
+753080 = {
+	name = "Caecina"
+	culture = roman
+}
+
+753081 = {
+	name = "Caelius"
+	culture = roman
+}
+
+753082 = {
+	name = "Caesulenus"
+	culture = roman
+}
+
+753083 = {
+	name = "Caesonius"
+	culture = roman
+}
+
+753084 = {
+	name = "Calpurnius"
+	culture = roman
+}
+
+753085 = {
+	name = "Castricius"
+	culture = roman
+}
+
+753086 = {
+	name = "Ceionius"
+	culture = roman
+}
+
+753087 = {
+	name = "Consentius"
+	culture = roman
+}
+
+753088 = {
+	name = "Curtius"
+	culture = roman
+}
+
+753089 = {
+	name = "Egnatius"
+	culture = roman
+}
+
+753090 = {
+	name = "Veratius"
+	culture = roman
+}
+
+753091 = {
+	name = "Erucius"
+	culture = roman
+}
+
+753092 = {
+	name = "Fidiculanius"
+	culture = roman
+}
+
+753093 = {
+	name = "Fundanius"
+	culture = roman
+}
+
+753094 = {
+	name = "Hosidius"
+	culture = britto
+}
+
+753095 = {
+	name = "Junius"
+	culture = roman
+}
+
+753096 = {
+	name = "Lartius"
+	culture = iberoroman
+}
+
+753097 = {
+	name = "Manlius"
+	culture = roman
+}
+
+753098 = {
+	name = "Marius"
+	culture = roman
+}
+
+753099 = {
+	name = "Modius"
+	culture = roman
+}
+
+753100 = {
+	name = "Otacilius"
+	culture = roman
+}
+
+753101 = {
+	name = "Pinarius"
+	culture = roman
+}
+
+753102 = {
+	name = "Potitius"
+	culture = roman
+}
+
+753103 = {
+	name = "Sulpicius"
+	culture = roman
+}
+
+753104 = {
+	name = "Titius"
+	culture = roman
+}
+
+753105 = {
+	name = "Tullius"
+	culture = roman
+}
+
+753106 = {
+	name = "Ummidius"
+	culture = roman
+}
+
+753107 = {
+	name = "Urbinensis"
+	culture = roman
+}
+
+753108 = {
+	name = "Peucetius"
+	culture = roman
+}
+
+753109 = {
+	name = "Cupraninus"
+	culture = roman
+}
+
+753110 = {
+	name = "Gellius"
+	culture = roman
+}
+
+753111 = {
+	name = "Sidicinus"
+	culture = roman
+}
+
+753112 = {
+	name = "de Ursinis"
+	culture = roman
+}
+
+753113 = {
+	name = "Saenius"
+	culture = roman
+}
+
+753114 = {
+	name = "Timavicus"
+	culture = roman
+}
+
+753115 = {
+	name="Fabius"
+	culture = roman
+}

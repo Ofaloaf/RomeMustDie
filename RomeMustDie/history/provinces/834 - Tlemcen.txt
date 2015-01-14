@@ -1,0 +1,21 @@
+# 834 - Tlemcen
+
+# County Title
+title = c_tlemcen
+
+# Settlements
+max_settlements = 4
+
+b_altava = castle
+b_tlemcen = temple
+b_sidibelabbes = city
+
+#b_bedrabine = castle
+#b_tessala = castle
+#b_letelagh = castle
+#b_elhaicaiba = castle
+#b_dhaya = castle
+
+# Misc
+culture = mauri
+religion = nicene

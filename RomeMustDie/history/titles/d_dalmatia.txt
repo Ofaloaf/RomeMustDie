@@ -1,0 +1,9 @@
+1.1.1 = {
+	liege = "e_wre"
+}
+465.1.1 = {
+	holder = 476004 # Julius Nepos
+}
+475.10.31 = {
+	liege = "0"
+}

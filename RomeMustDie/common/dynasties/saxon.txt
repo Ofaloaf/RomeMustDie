@@ -1,0 +1,9 @@
+1066001 = {
+	name="Roðemling"
+	culture = old_saxon
+}
+
+1066002 = {
+	name = "Bajocassing"
+	culture = old_saxon
+}

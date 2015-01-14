@@ -1,0 +1,13 @@
+# 80 - Holland
+
+# County Title
+title = c_holland
+
+# Settlements
+max_settlements = 4
+
+b_vlaardingen = tribal
+
+# Misc
+culture = frisian
+religion = norse_pagan
