@@ -1,3 +1,4 @@
 475.1.1 = {
+	liege = "k_alemannia"
 	holder = 793002
 }

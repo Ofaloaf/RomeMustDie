@@ -1,0 +1,24 @@
+1871001 = {
+	name = "Gebavulting"
+	culture = alemannic
+}
+
+1871002 = {
+	name = "Hortaring"
+	culture = alemannic
+}
+
+1871003 = {
+	name = "Vestralping"
+	culture = alemannic
+}
+
+1871004 = {
+	name = "Suomaring"
+	culture = alemannic
+}
+
+1871005 = {
+	name = "Mederiching"
+	culture = alemannic
+}

@@ -74,3 +74,25 @@
 		death=yes
 	}
 }
+
+1871005 = {
+	name="Gibald"
+	dynasty=1871001
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="norse_pagan"
+	culture="alemannic"
+	add_trait=brave
+	add_trait=greedy
+	add_trait=just
+	add_trait="misguided_warrior"
+	445.1.1 = {
+		birth="445.1.1"
+	}
+	506.1.1 = {
+		death="506.1.1"
+	}
+}
+

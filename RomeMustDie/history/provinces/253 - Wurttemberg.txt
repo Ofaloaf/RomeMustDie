@@ -1,0 +1,18 @@
+# 253 - Württemberg
+
+# County Title
+title = c_wurttemberg
+
+# Settlements
+max_settlements = 5
+b_stuttgart = tribal
+b_heilbronn = temple
+
+#b_waiblingen = castle
+#b_esslingen = castle
+#b_gmund = castle
+#b_staufen = castle
+
+# Misc
+culture = alemannic
+religion = norse_pagan

@@ -5,16 +5,13 @@ title = c_luxembourg
 
 # Settlements
 max_settlements = 4
-b_bouillon = castle
-b_luxembourg = city
+b_luxembourg = tribal
 
-b_saintvith = temple
-b_arlon = castle
 #b_neufchateau = castle
 #b_longwy = castle
 #b_differdange = castle
 #b_ettelbruck = castle
 
 # Misc
-culture = galloroman
-religion = nicene
+culture = old_frankish
+religion = norse_pagan

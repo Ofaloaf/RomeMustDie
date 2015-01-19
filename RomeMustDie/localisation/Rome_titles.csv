@@ -28,7 +28,7 @@ donatist;Donatist;;;;;;;;;;;;;x
 druidic;Druidic;;;;;;;;;;;;;x
 pelagian;Pelagian;;;;;;;;;;;;;x
 priscillian;Priscillian;;;;;;;;;;;;;x
-county_of_old_frankish;Pagus;;;;;;;;;;;;;x
+county_of_germani;Pagus;;;;;;;;;;;;;x
 county_of_romantic;Comitatus;;;;;;;;;;;;;x
 count_romantic;Comes;;;;;;;;;;;;;x
 nick_strabo;Strabo;;;;;;;;;;;;;x
@@ -38,6 +38,8 @@ e_ere;Eastern Roman Empire;;;;;;;;;;;;;x
 e_ere_adj;Eastern Roman;;;;;;;;;;;;;x
 e_gallia;Gallia;;;;;;;;;;;;;x
 e_gallia_adj;Gallic;;;;;;;;;;;;;x
+k_alemannia;Alemannia;;;;;;;;;;;;;x
+k_alemannia_adj;Alemannian;;;;;;;;;;;;;x
 k_arles;Arles;;;;;;;;;;;;;x
 k_arles_adj;Arelatian;;;;;;;;;;;;;x
 k_asiana;Asiana;;;;;;;;;;;;;x
@@ -154,6 +156,8 @@ d_cordubensis;Cordubensis;;;;;;;;;;;;;x
 d_cordubensis_adj;Cordubensian;;;;;;;;;;;;;x
 d_dardania;Dardania;;;;;;;;;;;;;x
 d_dardania_adj;Dardanian;;;;;;;;;;;;;x
+d_decumantia;Decumantia;;;;;;;;;;;;;x
+d_decumantia_adj;Decumantine;;;;;;;;;;;;;x
 d_divio;Divio;;;;;;;;;;;;;x
 d_divio_adj;Divian;;;;;;;;;;;;;x
 d_dumnonia;Dumnonia;;;;;;;;;;;;;x

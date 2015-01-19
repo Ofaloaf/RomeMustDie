@@ -5,10 +5,9 @@ title = c_pfalz
 
 # Settlements
 max_settlements = 5
-b_kaiserslautern = castle
+
+b_kaiserslautern = tribal
 b_worms = temple
-b_hagenau = city
-b_stahleck = castle
 
 #b_trifels = castle
 #b_zweibrucken = castle
@@ -16,5 +15,5 @@ b_stahleck = castle
 #b_saarbrucken = city
 
 # Misc
-culture = galloroman
-religion = nicene
+culture = old_frankish
+religion = norse_pagan

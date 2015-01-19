@@ -2051,7 +2051,7 @@ e_wre = {
 			}
 		}
 		d_vindelicia = {
-			color = { 125 158 58 }
+			color = { 145 166 58 }
 			color2= { 255 255 255 }
 
 			c_kempten = {

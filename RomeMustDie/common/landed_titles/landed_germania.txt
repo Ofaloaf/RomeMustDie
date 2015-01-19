@@ -1,0 +1,947 @@
+e_germany = {
+
+	color={ 190 200 190 }
+	color2={ 220 220 20 }
+	
+	capital = 121 # Nassau
+	
+	culture = german
+	
+	allow = {
+		hidden_tooltip = {
+			OR = {
+				ai = no
+				culture_group = central_germanic
+				culture = old_saxon
+			}
+		}
+	}
+	
+	k_hansa = {
+		color={ 142 142 142 }
+		color2={ 255 255 255 }
+
+		capital = 262 # Lübeck
+	
+		dignity = 200 # Never want the Hanseatic League to change primary title
+	
+		allow = {
+			always = no
+			is_republic = yes
+		}
+	}	
+
+	k_saxony = {
+		color={ 120 25 25 }
+		culture = old_saxon
+
+		capital = 310 # Anhalt
+
+		allow = {
+			culture = old_saxon
+		}
+		
+		catholic = 3000 # Crusade target weight
+	}
+	
+	k_frisia = {
+		color={ 245 100 20 }
+		color2={ 220 220 20 }
+		
+		culture = dutch
+		
+		capital = 80 #Holland
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					culture = dutch
+				}
+			}
+		}
+		
+		catholic = 700 # Crusade target weight
+		norse_pagan_reformed = 200 # Crusade target weight
+		
+		d_holland = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+		
+			capital = 80 #Holland
+			
+			culture = dutch
+			
+			c_holland = {
+				color={ 235 85 30 }
+				color2={ 255 255 255 }
+			
+				b_haarlem = {
+				}
+				b_amsterdam = {
+				}
+				b_vlaardingen = {
+				}
+				b_sgravenhage = {
+				}
+				b_dordrecht = {
+				}
+				b_gouda = {
+				}
+				b_leiden = {
+				}
+				b_muiden = {
+				}
+			}
+			c_sticht = {
+				color={ 215 85 35 }
+				color2={ 255 255 255 }
+			
+				b_woerden = {
+				}
+				b_utrecht = {
+				}
+				b_dorestad = {
+				}
+				b_gorinchem = {
+				}
+				b_zeist = {
+				}
+				b_buren = {
+				}
+				b_ijsselstein = {
+				}
+				b_oudewater = {
+				}
+			}
+			c_westfriesland = {
+				color={ 245 99 50 }
+				color2={ 255 255 255 }
+			
+				b_alkmaar = {
+				}
+				b_hoorn = {
+				}
+				b_medemblik = {
+				}
+				b_enkhuizen = {
+				}
+				b_heerhugowaard = {
+				}
+				b_texel = {
+				}
+				b_egmond = {
+				}
+				b_schagen = {
+				}
+			}
+			c_zeeland = {
+				color={ 200 100 30 }
+				color2={ 255 255 255 }
+			
+				b_middelburg = {
+				}
+				b_tholen = {
+					holy_site = norse_pagan
+					holy_site = norse_pagan_reformed
+				}
+				b_veere = {
+				}
+				b_cadzand = {
+				}
+				b_vlissingen = {
+				}
+				b_renesse = {
+				}
+				b_borsele = {
+				}
+				b_zierikzee = {
+				}
+			}
+		}
+		d_gelre = {
+			color={ 200 100 25 }
+			color2={ 255 255 255 }
+			
+			capital = 83 #Gelre
+			
+			culture = dutch
+			
+			c_gelre = {
+				color={ 200 100 30 }
+				color2={ 255 255 255 }
+			
+				b_nijmegen = {
+				}
+				b_zutphen = {
+				}
+				b_deventer = {
+				}
+				b_arnhem = {
+				}
+				b_zwolle = {
+				}
+				b_kampen = {
+				}
+				b_bergh = {
+				}
+				b_bronckhorst = {
+				}
+			}			
+			c_ostfriesland = {
+				color={ 190 90 10 }
+				color2={ 255 255 255 }
+			
+				b_emden = {
+				}
+				b_aurich = {
+				}
+				b_borkum = {
+				}
+				b_norden = {
+				}
+				b_norderney = {
+				}
+				b_leer = {
+				}
+				b_wittmund = {
+				}
+				b_esens = {
+				}
+			}
+			c_frisia = {
+				color={ 170 80 15 }
+				color2={ 255 255 255 }
+			
+				b_groningen = {
+				}
+				b_leeuwarden = {
+				}
+				b_stavoren = {
+				}
+				b_bolsward = {
+				}
+				b_franeker = {
+				}
+				b_dokkum = {
+				}
+				b_assen = {
+				}
+				b_harlingen = {
+				}
+			}
+		}
+	}
+		
+	k_bavaria = {
+		color={ 91 100 100 }
+		color2={ 220 220 20 }
+		
+		culture = german
+		
+		capital = 360 #Oberbayern
+		
+		catholic = 2000 # Crusade target weight
+		
+		d_bavaria = {
+			color={ 128 121 121 }
+			color2={ 255 255 255 }
+			
+			capital = 360 #Oberbayern
+			
+
+
+			c_niederbayern = {
+				color={ 60 60 60 }
+				color2={ 255 255 255 }
+		
+				b_straubing = {
+				}
+				b_regensburg = {
+				}
+				b_landshut = {
+				}
+				b_ingolstadt = {
+				}
+				b_wittelsbach = {
+				}
+				b_cham = {
+				}
+				b_rohrbach = {
+				}
+				b_kirchroth = {
+				}
+			}
+			c_nurnberg = {
+				color={ 57 57 57 }
+				color2={ 255 255 255 }
+		
+				b_nurnberg = {
+				}
+				b_ellwangen = {
+				}
+				b_furth = {
+				}
+				b_kulmbach = {
+				}
+				b_hohenburg = {
+				}
+				b_nordlingen = {
+				}
+				b_eichstatt = {
+				}
+				b_erlangen = {
+				}
+			}
+		}
+		d_osterreich = { 
+			color={ 191 182 182 }
+			color2={ 255 255 255 }
+			
+			capital = 449 #Österreich
+		
+			c_passau = {
+				color={ 54 54 54 }
+				color2={ 255 255 255 }
+		
+				b_passau = {
+				}
+				b_ortenburg = {
+				}
+				b_schaumberg = {
+				}
+				b_formbach = {
+				}
+				b_ulrichsberg = {
+				}
+				b_freistadt = {
+				}
+				b_raab = {
+				}
+				b_freyung = {
+				}
+			}
+			c_znojmo = {
+				color={ 51 51 51 }
+				color2={ 255 255 255 }
+		
+				b_mikulov = {
+				}
+				b_iglau = {
+				}
+				b_lundenburg = {
+				}
+				b_skalitz = {
+				}
+				b_trebic = {
+				}
+				b_eibenshitz = {
+				}
+				b_znojmo = {
+				}
+				b_ivancice = {
+				}
+			}
+			c_osterreich = {
+				color={ 48 48 48 }
+				color2={ 255 255 255 }
+			
+				b_wien = {
+				}
+				b_linz = {
+				}
+				b_melk = {
+				}
+				b_stpolten = {
+				}
+				b_hohenwarth = {
+				}
+				b_wagram = {
+				}
+				b_krems = {
+				}
+				b_steyr = {
+				}
+			}
+
+		}
+	}
+	
+	k_germany = {
+		color={ 160 160 160 }
+		color2={ 220 220 20 }
+		
+		dignity = 30 # Counted as having this many more counties than it does
+		
+		culture = german
+		
+		capital = 121 #Nassau
+		
+		catholic = 5000 # Crusade target weight
+		
+		norse_pagan_reformed = 200 # Crusade target weight
+		slavic_pagan_reformed = 50 # Crusade target weight
+		baltic_pagan_reformed = 50 # Crusade target weight
+		
+		d_brunswick = {
+			color={ 183 172 172 }
+			color2={ 255 255 255 }
+		
+			capital = 258 #Lüneburg
+		
+			c_celle = {
+				color={ 198 198 198 }
+				color2={ 255 255 255 }
+				
+				b_celle = {
+				}
+				b_hannover = {
+				}
+				b_herford = {
+				}
+				b_hermannsburg = {
+				}
+				b_ravensberg = {
+				}
+				b_nienburg = {
+				}
+				b_wedemark = {
+				}
+				b_wittingen = {
+				}
+			}
+			c_luneburg = {
+				color={ 195 195 195 }
+				color2={ 255 255 255 }
+				
+				b_luneburg = {
+				}
+				b_bardowick = {
+				}
+				b_gifhorn = {
+				}
+				b_evern = {
+				}
+				b_reppenstedt = {
+				}
+				b_ludersburg = {
+				}
+				b_thomasburg = {
+				}
+				b_uelzen = {
+				}
+			}
+			c_braunschweig = {
+				color={ 192 192 192 }
+				color2={ 255 255 255 }
+				
+				b_braunschweig = {
+				}
+				b_bielefeld = {
+				}
+				b_paderborn = {
+					holy_site = norse_pagan
+					holy_site = norse_pagan_reformed
+				}
+				b_hildesheim = {
+				}
+				b_waldeck = {
+				}
+				b_wolfenbuttel = {
+				}
+				b_helmstedt = {
+				}
+				b_gandersheim = {
+				}
+			}
+			c_oldenburg = {
+				color={ 214 214 214 }
+				color2={ 255 255 255 }
+				
+				b_oldenburg = {
+				}
+				b_cloppenburg = {
+				}
+				b_jever = {
+				}
+				b_delmenhorst = {
+				}
+				b_loningen = {
+				}
+				b_nordenham = {
+				}
+				b_kniphausen = {
+				}
+				b_varel = {
+				}
+			}
+			c_osnabruck = {
+				color={ 213 213 213 }
+				color2={ 255 255 255 }
+				
+				b_osnabruck = {
+				}
+				b_lingen = {
+				}
+				b_bentheim = {
+				}
+				b_wildeshausen = {
+				}
+				b_tecklenburg = {
+				}
+				b_minden = {
+				}
+				b_quackenbruck = {
+				}
+				b_meppen = {
+				}
+			}
+		}
+		d_thuringia = {
+			color={ 207 206 226 }
+			color2={ 255 255 255 }
+		
+			capital = 255 #Thuringen
+			
+			c_thuringen = {
+				color={ 42 42 42 }
+				color2={ 255 255 255 }
+			
+				b_erfurt = {
+				}
+				b_muhlhausen = {
+				}
+				b_arnstadt = {
+				}
+				b_eichsfeld = {
+				}
+				b_reuss = {
+				}
+				b_salzungen = {
+				}
+				b_schmalkalden = {
+				}
+				b_henneberg = {
+				}
+			}
+			c_nassau = {
+				color={ 171 171 171 }
+				color2={ 255 255 255 }
+			
+				b_nassau = {
+				}
+				b_fulda = {
+				}
+				b_wetzlar = {
+				}
+				b_marburg = {
+				}
+				b_katzenelnbogen = {
+				}
+				b_hersfeld = {
+				}
+				b_falkenstein = {
+				}
+				b_isenburg = {
+				}
+			}
+			c_gottingen = {
+				color={ 210 210 210 }
+				color2={ 255 255 255 }
+				
+				b_gottingen = {
+				}
+				b_corvey = {
+				}
+				b_lippe = {
+				}
+				b_kassel = {
+				}
+				b_goslar = {
+				}
+				b_northeim = {
+				}
+				b_eisenach = {
+				}
+				b_detmold = {
+				}
+			}
+		}
+		d_koln = {
+			color={ 213 216 212 }
+			color2={ 255 255 255 }
+			
+			capital = 119 #Köln
+			
+			c_koln = {
+				color={ 141 141 141 }
+				color2={ 255 255 255 }
+
+				roman = Colonia
+				graeci = Colonia
+				greek = Colonia
+				galloroman = Colonia
+				iberoroman = Colonia
+				britto = Colonia
+				old_frankish = Coellen
+				old_saxon = Coellen
+				visigothic = Coellen
+				ostrogothic = Coellen
+			
+				b_koln = {
+					roman = Colonia
+					graeci = Colonia
+					greek = Colonia
+					galloroman = Colonia
+					iberoroman = Colonia
+					britto = Colonia
+					old_frankish = Coellen
+					old_saxon = Coellen
+					visigothic = Coellen
+					ostrogothic = Coellen
+
+					holy_site = catholic
+				}
+				b_berg = {
+				}
+				b_mark = {
+				}
+				b_bonn = {
+				}
+				b_dietz = {
+				}
+				b_saffenburg = {
+				}
+				b_hochstaden = {
+				}
+				b_brauweiler = {
+				}
+			}
+			c_munster = {
+				color={ 212 212 212 }
+				color2={ 255 255 255 }
+				
+				b_munster = {
+				}
+				b_dortmund = {
+				}
+				b_essen = {
+				}
+				b_greven = {
+				}
+				b_gutersloh = {
+				}
+				b_steinfurt = {
+				}
+				b_gronau = {
+				}
+				b_ahlen = {
+				}
+			}
+			c_kleve = {
+				color={ 132 132 132 }
+				color2={ 255 255 255 }
+		
+				b_kleve = {
+				}
+				b_goch = {
+				}
+				b_rees = {
+				}
+				b_anholt = {
+				}
+				b_Xanten = {
+				}
+				b_wesel = {
+				}
+				b_emmerich = {
+				}
+				b_isselburg = {
+				}
+			}
+		}
+		d_franconia = {
+			color={ 100 99 100 }
+			color2={ 255 255 255 }
+			
+			capital = 123 #Mainz
+		
+			c_mainz = {
+				color={ 129 129 129 }
+				color2={ 255 255 255 }
+
+				roman = Mogontiacum
+				graeci = Mogontiacum
+				greek = Mogontiacum
+				galloroman = Mogontiacum
+				iberoroman = Mogontiacum
+				britto = Mogonitacum
+				old_frankish = Magancia
+				old_saxon = Magancia
+				visigothic = Maguntia
+				ostrogothic = Maguntia
+			
+				b_mainz = {
+					roman = Mogontiacum
+					graeci = Mogontiacum
+					greek = Mogontiacum
+					galloroman = Mogontiacum
+					iberoroman = Mogontiacum
+					britto = Mogonitacum
+					old_frankish = Magancia
+					old_saxon = Magancia
+					visigothic = Maguntia
+					ostrogothic = Maguntia
+				}
+				b_frankfurt = {
+				}
+				b_eppstein = {
+				}
+				b_ingelheim = {
+				}
+				b_mannheim = {
+				}
+				b_weilburg = {
+				}
+				b_dornburg = {
+				}
+				b_hanau = {
+				}
+			}
+			c_wurzburg = {
+				color={ 123 123 123 }
+				color2={ 255 255 255 }
+			
+				b_wurzburg = {
+				}
+				b_aschaffenburg = {
+				}
+				b_schweinfurt = {
+				}
+				b_marienberg = {
+				}
+				b_hammelburg = {
+				}
+				b_schwarzenberg = {
+				}
+				b_theiheim = {
+				}
+				b_mainderheim = {
+				}
+			}
+			c_bamberg = {
+				color={ 120 120 120 }
+				color2={ 255 255 255 }
+			
+				b_ansbach = {
+				}
+				b_bamberg = {
+				}
+				b_babenberg = {
+				}
+				b_cadolzburg = {
+				}
+				b_colmberg = {
+				}
+				b_roth = {
+				}
+				b_uffenheim = {
+				}
+				b_crailsheim = {
+				}
+			}
+		}
+	}
+	k_alemannia = {
+		color={ 106 192 213 }
+		color2={ 220 220 0 }
+
+		culture = alemannic
+
+		allow = {
+			culture = alemannic
+		}
+
+		d_swabia = {
+			color={ 206 203 203 }
+			color2={ 255 255 255 }
+			
+			capital = 249 #Schwaben
+			
+			c_ulm = {
+				color={ 78 78 78 }
+				color2={ 255 255 255 }
+			
+				b_ulm = {
+				}
+				b_zwiefalten = {
+				}
+				b_teck = {
+				}
+				b_biberach = {
+				}
+				b_memmingen = {
+				}
+				b_isny = {
+				}
+				b_goppingen = {
+				}
+				b_erbach = {
+				}
+			}
+			c_furstenberg = {
+				color={ 75 75 75 }
+				color2={ 255 255 255 }
+			
+				b_furstenberg = {
+				}
+				b_villingen = {
+				}
+				b_hirsau = {
+				}
+				b_baar = {
+				}
+				b_haslach = {
+				}
+				b_zollern = {
+				}
+				b_wolfach = {
+				}
+				b_donaueschingen = {
+				}
+			}
+			c_wurttemberg = {
+				color={ 72 72 72 }
+				color2={ 255 255 255 }
+			
+				b_stuttgart = {
+				}
+				b_heilbronn = {
+				}
+				b_reutlingen = {
+				}
+				b_waiblingen = {
+				}
+				b_esslingen = {
+				}
+				b_gmund = {
+				}
+				b_staufen = {
+				}
+				b_asperg = {
+				}
+			}
+		}
+		d_decumantia = { 
+			color={ 117 161 67 }
+			color2={ 255 255 255 }
+			
+			capital = 125 #Baden
+
+			roman = "Agri Decumantes"
+			graeci = "Agri Decumantes"
+			greek = "Agri Decumantes"
+		
+			c_baden = {
+				color={ 122 166 66 }
+				color2={ 255 255 255 }
+
+				roman = Aquensis
+				graeci = Aquensis
+				greek = Aquensis
+				galloroman = Aquensis
+				iberoroman = Aquensis
+				mauri = Aquensis
+				britto = Aquensis
+				old_frankish = Aquensis
+				burgundian = Aquensis
+				visigothic = Aquensis
+				ostrogothic = Aquensis
+			
+				b_baden = {
+					roman = Aquae
+					graeci = Aquae
+					greek = Aquae
+					galloroman = Aquae
+					iberoroman = Aquae
+					mauri = Aquae
+					britto = Aquae
+					old_frankish = Aquae
+					burgundian = Aquae
+					visigothic = Aquae
+					ostrogothic = Aquae
+				}
+				b_karlsruhe = {
+				}
+				b_wimpfen = {
+				}
+				b_calw = {
+				}
+				b_pforzheim = {
+				}
+				b_durlach = {
+				}
+				b_rastatt = {
+				}
+				b_neuhausen = {
+				}
+			}
+			c_breisgau = {
+				color={ 111 155 55 }
+				color2={ 255 255 255 }
+		
+				b_freiburg = {
+					alemannic = Friburch
+					thuringian = Friburch
+					old_saxon = Friburch
+				}
+				b_stblasien = {
+				}
+				b_offenburg = {
+				}
+				b_zahringen = {
+				}
+				b_lahr = {
+				}
+				b_lohrrach = {
+				}
+				b_breisach = {
+				}
+				b_rottweil = {
+				}
+			}
+			c_leiningen = {
+				color={ 140 170 60 }
+				color2={ 255 255 255 }
+			
+				b_leiningen = {
+				}
+				b_heidelberg = {
+					old_frankish = Heidelberch
+					burgundian = Heidelberch
+					visigothic = Heidelbaurg
+					ostrogothic = Heidelbaurg
+					alemannic = Heiligenberch
+					thuringian = Heiligenberch
+					old_saxon = Heiligenberch
+				}
+				b_lorsch = {
+					old_frankish = Lauressam
+					burgundian = Lauressam
+					visigothic = Lauressam
+					ostrogothic=  Lauressam
+				}
+				b_durkheim = {
+				}
+				b_battenberg = {
+				}
+				b_hardenburg = {
+				}
+				b_ungstein = {
+				}
+				b_pfeffingen = {
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+# 250 - Breisgau
+
+# County Title
+title = c_breisgau
+
+# Settlements
+max_settlements = 4
+b_freiburg = tribal
+
+#b_zahringen = castle
+#b_lahr = castle
+#b_lohrrach = castle
+#b_breisach = castle
+#b_rottweil = castle
+
+# Misc
+culture = alemannic
+religion = norse_pagan
+
+# History
+

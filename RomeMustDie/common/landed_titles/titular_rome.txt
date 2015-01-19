@@ -89,6 +89,64 @@ e_ere = {
 		}
 	}
 
+		d_arragonia = {
+			color = { 55 39 129 }
+			color2= { 255 255 255 }
+
+			culture = iberoroman
+
+			capital = 195
+
+			allow = {
+				culture = iberoroman
+			}
+		}
+
+		d_bishop_of_rome = {
+			color={ 229 249 198 }
+			color2={ 220 220 0 }
+	
+			capital = 333 # Rome
+	
+			title = temple_baron_christian
+			short_name = yes
+			location_ruler_title = yes
+	
+			# Always exists
+			landless = yes
+	
+			religion = nicene
+	
+			# Cannot be held as a secondary title
+			primary = yes
+	
+			dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+		}
+
+		d_foederati = {
+			color = { 71 71 84 }
+			color2= { 255 255 255 }
+
+			capital = 234
+
+			short_name = yes
+
+			allow = {
+				always = no
+			}
+		}
+
+		d_iberia = {
+			color = { 49 82 196 }
+			color2= { 255 255 255 }
+
+			capital = 202
+
+			allow = {
+				always = no
+			}
+		}
+
 		d_pentarchy = {
 			color={ 198 249 229 }
 			color2={ 220 220 0 }
@@ -114,25 +172,30 @@ e_ere = {
 			dynasty_title_names = no 	# Will not be named "Seljuk", etc.
 		}
 
-		d_bishop_of_rome = {
-			color={ 229 249 198 }
-			color2={ 220 220 0 }
-	
-			capital = 333 # Rome
-	
-			title = temple_baron_christian
-			short_name = yes
-			location_ruler_title = yes
-	
-			# Always exists
-			landless = yes
-	
-			religion = nicene
-	
-			# Cannot be held as a secondary title
-			primary = yes
-	
-			dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+		d_rucconia = {
+			color = { 123 189 225 }
+			color2= { 255 255 255 }
+
+			culture = iberoroman
+
+			capital = 198
+
+			allow = {
+				culture = iberoroman
+			}
+		}
+
+		d_sabaria = {
+			color = { 219 228 31 }
+			color2= { 255 255 255 }
+
+			culture = iberoroman
+
+			capital = 191
+
+			allow = {
+				culture = iberoroman
+			}
 		}
 
 		d_soissons = {
@@ -152,67 +215,3 @@ e_ere = {
 				}
 			}
 		}
-
-		d_foederati = {
-			color = { 71 71 84 }
-			color2= { 255 255 255 }
-
-			capital = 234
-
-			short_name = yes
-
-			allow = {
-				always = no
-			}
-		}
-
-		d_sabaria = {
-			color = { 219 228 31 }
-			color2= { 255 255 255 }
-
-			culture = iberoroman
-
-			capital = 191
-
-			allow = {
-				culture = iberoroman
-			}
-		}
-
-		d_rucconia = {
-			color = { 123 189 225 }
-			color2= { 255 255 255 }
-
-			culture = iberoroman
-
-			capital = 198
-
-			allow = {
-				culture = iberoroman
-			}
-		}
-
-		d_iberia = {
-			color = { 49 82 196 }
-			color2= { 255 255 255 }
-
-			capital = 202
-
-			allow = {
-				always = no
-			}
-		}
-
-		d_arragonia = {
-			color = { 55 39 129 }
-			color2= { 255 255 255 }
-
-			culture = iberoroman
-
-			capital = 195
-
-			allow = {
-				culture = iberoroman
-			}
-		}
-

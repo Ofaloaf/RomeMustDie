@@ -6,9 +6,8 @@ title = c_liege
 # Settlements
 max_settlements = 4
 
+b_bastogne = tribal
 b_liege = temple
-b_namur = castle
-b_bastogne = city
 
 #b_huy = castle
 #b_laroche = castle
@@ -17,5 +16,5 @@ b_bastogne = city
 #b_salm = castle
 
 # Misc
-culture = galloroman
-religion = nicene
+culture = old_frankish
+religion = nose_pagan
