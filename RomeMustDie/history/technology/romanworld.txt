@@ -131,6 +131,11 @@ technology = {
 # The Roman frontier & Barbarian-controlled Rome
 technology = {
 	titles = {
+		### ITALIA ANNONARIA CITERIOR SIVE NORICUM ###
+		d_noricum
+		d_rhaetia
+		d_vindelicia
+
 		### GALLIA SIVE FRANCIA
 		d_armorica
 		d_menapiorum
@@ -156,6 +161,7 @@ technology = {
 		d_altava
 		d_byzacena
 		d_tingitana
+		d_volubilis
 
 		### EGYPT ###
 		d_cyrenaica

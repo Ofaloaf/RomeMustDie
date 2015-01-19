@@ -1,0 +1,53 @@
+# German lands bordering the Roman frontier
+technology = {
+	titles = {
+		d_colonia
+		d_decumantia
+	}
+	475= {
+		military = 0.7
+		economy = 1.0
+		culture = 0.9
+	}
+		
+	
+	1150 = {
+		military = 0.7
+		economy = 1.0
+		culture = 0.9
+	}
+}
+
+# Alemannia, Saxonia, Thuringia
+technology = {
+	titles = {
+		### SAXONIA ###
+		d_angaria
+		d_nordalbingia
+		d_ostfalia
+		d_westfalia
+
+		### FRANCIA RIPUARIA ###
+		d_hessorum
+
+		### ALEMANNIA ###
+		d_swabia
+
+		### THURINGIA ###
+		d_bavaria
+		d_thuringia
+	}
+
+	475= {
+		military = 0.5
+		economy = 0.8
+		culture = 0.8
+	}
+		
+	
+	1150 = {
+		military = 0.5
+		economy = 0.8
+		culture = 0.8
+	}
+}

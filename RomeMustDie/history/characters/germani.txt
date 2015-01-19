@@ -96,3 +96,42 @@
 	}
 }
 
+1871006 = {
+	name="Bisinus"
+	dynasty=1870003
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="norse_pagan"
+	culture="thuringian"
+	add_trait="strong"
+	add_trait="tough_soldier"
+	430.1.1 = {
+		birth="430.1.1"
+	}
+	458.1.1 = {
+		add_spouse=1871007
+	}
+	510.1.1 = {
+		death="510.1.1"
+	}
+}
+
+1871007 = {
+	name="Basina"
+	female=yes
+	dynasty=1870003
+	martial=3
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="norse_pagan"
+	culture="thuringian"
+	438.1.2 = {
+		birth="438.1.2"
+	}
+	477.1.2 = {
+		death="477.1.2"
+	}
+}

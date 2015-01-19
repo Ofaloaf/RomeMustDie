@@ -42,6 +42,417 @@ e_germany = {
 		}
 		
 		catholic = 3000 # Crusade target weight
+
+		d_westfalia = {
+			color = { 231 230 138 }
+			color2= { 255 255 255 }
+
+			c_kleve = {
+				color={ 132 132 132 }
+				color2={ 255 255 255 }
+
+				roman = Cugernia
+				graeci = Cugernia
+				greek = Cugernia
+				galloroman = Cugernia
+				iberoroman = Cugernia
+				mauri = Cugernia
+				britto = Cugernia
+		
+				# Gelduba/Gellep, Asciburgium/Asberg, Burginatium, Quadriburgium/Qualberg attested
+
+				b_kleve = {
+				}
+				b_goch = {
+				}
+				b_rees = {
+				}
+				b_anholt = {
+				}
+				b_Xanten = {
+					# defaults to 'Sanctos' now
+
+					roman = "Castra Vetera"
+					graeci = "Castra Vetera"
+					greek = "Castra Vetera"
+					galloroman = Tricensimae
+					iberoroman = "Ulpia Traiana"
+					mauri = Tricensimae
+					britto = Tricensimae
+				}
+				b_wesel = {
+				}
+				b_emmerich = {
+				}
+				b_isselburg = {
+				}
+			}
+			c_oldenburg = {
+				color={ 214 214 214 }
+				color2={ 255 255 255 }
+				
+				b_oldenburg = {
+				}
+				b_cloppenburg = {
+				}
+				b_jever = {
+				}
+				b_delmenhorst = {
+				}
+				b_loningen = {
+				}
+				b_nordenham = {
+				}
+				b_kniphausen = {
+				}
+				b_varel = {
+				}
+			}
+			c_osnabruck = {
+				color={ 213 213 213 }
+				color2={ 255 255 255 }
+
+				roman = Chasuaria
+				graeci = Chasuaria
+				greek = Chasuaria
+				galloroman = Chasuaria
+				iberoroman = Chasuaria
+				mauri = Chasuaria
+				britto = Chasuaria
+				
+				b_osnabruck = {
+				}
+				b_lingen = {
+				}
+				b_bentheim = {
+				}
+				b_wildeshausen = {
+				}
+				b_tecklenburg = {
+				}
+				b_minden = {
+				}
+				b_quackenbruck = {
+				}
+				b_meppen = {
+				}
+			}
+			c_munster = {
+				color={ 212 212 212 }
+				color2={ 255 255 255 }
+
+				# defaults to 'Mimigernaford'
+				
+				b_munster = {
+					# defaults to 'Mimigernaford'
+				}
+				b_dortmund = {
+				}
+				b_essen = {
+				}
+				b_greven = {
+				}
+				b_gutersloh = {
+				}
+				b_steinfurt = {
+				}
+				b_gronau = {
+				}
+				b_ahlen = {
+				}
+			}
+		}
+		d_angaria = {
+			color = { 190 20 60 }
+			color2= { 255 255 255 }
+
+			c_bremen = {
+				color={ 216 216 216 }
+				color2={ 255 255 255 }
+				
+				b_bremen = {
+				}
+				b_hoya = {
+				}
+				b_verden = {
+				}
+				b_stade = {
+				}
+				b_blumenthal = {
+				}
+				b_ritzebuttel = {
+				}
+				b_achim = {
+				}
+				b_beverstedt = {
+				} 
+			}
+			c_celle = {
+				color={ 198 198 198 }
+				color2={ 255 255 255 }
+				
+				b_celle = {
+				}
+				b_hannover = {
+				}
+				b_herford = {
+				}
+				b_hermannsburg = {
+				}
+				b_ravensberg = {
+				}
+				b_nienburg = {
+				}
+				b_wedemark = {
+				}
+				b_wittingen = {
+				}
+			}
+			c_braunschweig = {
+				color={ 192 192 192 }
+				color2={ 255 255 255 }
+				
+				b_braunschweig = {
+				}
+				b_bielefeld = {
+				}
+				b_paderborn = {
+					holy_site = norse_pagan
+					holy_site = norse_pagan_reformed
+				}
+				b_hildesheim = {
+				}
+				b_waldeck = {
+				}
+				b_wolfenbuttel = {
+				}
+				b_helmstedt = {
+				}
+				b_gandersheim = {
+				}
+			}
+		}
+		d_ostfalia = {
+			color = { 228 173 137 }
+			color2= { 255 255 255 }
+
+			c_luneburg = {
+				color={ 195 195 195 }
+				color2={ 255 255 255 }
+
+				# defaults to 'Luniburg'
+				
+				b_luneburg = {
+					# defaults to 'Luniburg'
+				}
+				b_bardowick = {
+				}
+				b_gifhorn = {
+				}
+				b_evern = {
+				}
+				b_reppenstedt = {
+				}
+				b_ludersburg = {
+				}
+				b_thomasburg = {
+				}
+				b_uelzen = {
+				}
+			}
+			c_weimar = {
+				color={ 183 183 183 }
+				color2={ 255 255 255 }
+				
+				b_weimar = {
+				}
+				b_jena = {
+				}
+				b_walkenried = {
+				}
+				b_nordhausen = {
+				}
+				b_memelsen = {
+				}
+				b_gotha = {
+				}
+				b_apoldoa = {
+				}
+				b_gera = {
+				}
+			}
+			c_altmark = {
+				color={ 189 189 189 }
+				color2={ 255 255 255 }
+
+				pommeranian = Laczyn
+				
+				b_werben = {
+				}
+				b_halberstedt = {
+				}
+				b_walbeck = {
+				}
+				b_luchow = {
+				}
+				b_salzwedel = {
+				}
+				b_stendal = {
+				}
+				b_osterburg = {
+				}
+				b_tangermunde = {
+				}
+			}
+			c_anhalt = {
+				color={ 184 184 184 }
+				color2={ 255 255 255 }
+				
+				pommeranian = Dolomici
+				
+				b_zerbst = {	
+					pommeranian = Zirwisti
+				}
+				b_magdeburg = {	
+
+					pommeranian = Magadoburg			
+				}
+				b_haldensleben = {
+					pommeranian = Hahaldeslevo
+				}
+				b_mansfeld = {
+				}
+				b_dessau = {
+				}
+				b_arnstein = {
+				}
+				b_querfurt = {
+					pommeranian = Curnfurt
+				}
+				b_bernburg = {
+				}
+			}
+		}
+		d_nordalbingia = {
+			color={ 172 112 112 }
+			color2={ 255 255 255 }
+		
+			capital = 263 #Holstein
+		
+			c_hamburg = {
+				color={ 104  148  71 }
+				color2={ 255 255 255 }
+				
+				danish = "Hamborg"
+				swedish = "Hamborg"
+				norwegian = "Hamborg"
+				norse = "Hamborg"
+			
+				b_hamburg = {
+					danish = "Hamborg"
+					swedish = "Hamborg"
+					norwegian = "Hamborg"
+					norse = "Hamborg"
+				}
+				b_altona = {
+				}
+				b_harburg = {
+					danish = "Harborg"
+					swedish = "Harborg"
+					norwegian = "Harborg"
+					norse = "Harborg"
+				}
+				b_brunsbuttel = {
+				}
+				b_buxtehude = {
+				}
+				b_dithmarschen = {
+					danish = "Ditmarsken"
+					swedish = "Ditmarsken"
+					norwegian = "Ditmarsken"
+					norse = "Ditmarsken"
+				}
+				b_niendorf = {
+				}
+				b_lokstedt = {
+				}
+			}
+			c_lubeck = {
+				color={ 182 132 115 }
+				color2={ 255 255 255 }
+				
+				danish = "Lybæk"
+				swedish = "Lybäck"
+				norwegian = "Lybæk"
+				norse = "Lybæck"
+				pommeranian = "Liubice"
+				polish = "Liubice"
+				bohemian = "Liubice"
+				prussian = "Liubice"
+				
+				b_lubeck = {
+					danish = "Lybæk"
+					swedish = "Lybäck"
+					norwegian = "Lybæk"
+					norse = "Lybæck"
+					pommeranian = "Liubice"
+					polish = "Liubice"
+					bohemian = "Liubice"
+					prussian = "Liubice"
+				}
+				b_ratzeburg = {
+					danish = "Ratseborg"
+					swedish = "Ratseborg"
+					norse = "Ratseborg"
+					norwegian = "Ratseborg"
+				}
+				b_travemunde = {
+				}
+				b_wulfsdorf = {
+				}
+				b_schlutup = {
+				}
+				b_starigard = {
+				}
+				b_weslo = {
+				}
+				b_bucu = {
+				}
+			}
+			c_holstein = {
+				color={ 167 110 110 }
+				color2={ 255 255 255 }
+				
+				danish = "Holsten"
+				swedish = "Holsten"
+				norwegian = "Holsten"
+				
+				b_kiel = {
+				}
+				b_gottorp = {
+				}
+				b_itzehoe = {
+				}
+				b_reinholdsburg = {
+				}
+				b_elmshorn = {
+				}
+				b_gluckstadt = {
+					danish = "Lykstad"
+					swedish = "Lyckstad"
+					norwegian = "Lykstad"
+					norse = "Lykstad"
+				}
+				b_lauenburg = {
+					danish = "Lauenborg"
+					swedish = "Lauenborg"
+					norwegian = "Lauenborg"
+					norse = "Lauenborg"
+				}
+				b_segeberg = {
+				}
+			}
+		}
 	}
 	
 	k_frisia = {
@@ -322,146 +733,6 @@ e_germany = {
 				}
 			}
 
-		}
-	}
-	
-	k_germany = {
-		color={ 160 160 160 }
-		color2={ 220 220 20 }
-		
-		dignity = 30 # Counted as having this many more counties than it does
-		
-		culture = german
-		
-		capital = 121 #Nassau
-		
-		catholic = 5000 # Crusade target weight
-		
-		norse_pagan_reformed = 200 # Crusade target weight
-		slavic_pagan_reformed = 50 # Crusade target weight
-		baltic_pagan_reformed = 50 # Crusade target weight
-		
-		d_brunswick = {
-			color={ 183 172 172 }
-			color2={ 255 255 255 }
-		
-			capital = 258 #Lüneburg
-		
-			c_celle = {
-				color={ 198 198 198 }
-				color2={ 255 255 255 }
-				
-				b_celle = {
-				}
-				b_hannover = {
-				}
-				b_herford = {
-				}
-				b_hermannsburg = {
-				}
-				b_ravensberg = {
-				}
-				b_nienburg = {
-				}
-				b_wedemark = {
-				}
-				b_wittingen = {
-				}
-			}
-			c_luneburg = {
-				color={ 195 195 195 }
-				color2={ 255 255 255 }
-				
-				b_luneburg = {
-				}
-				b_bardowick = {
-				}
-				b_gifhorn = {
-				}
-				b_evern = {
-				}
-				b_reppenstedt = {
-				}
-				b_ludersburg = {
-				}
-				b_thomasburg = {
-				}
-				b_uelzen = {
-				}
-			}
-			c_braunschweig = {
-				color={ 192 192 192 }
-				color2={ 255 255 255 }
-				
-				b_braunschweig = {
-				}
-				b_bielefeld = {
-				}
-				b_paderborn = {
-					holy_site = norse_pagan
-					holy_site = norse_pagan_reformed
-				}
-				b_hildesheim = {
-				}
-				b_waldeck = {
-				}
-				b_wolfenbuttel = {
-				}
-				b_helmstedt = {
-				}
-				b_gandersheim = {
-				}
-			}
-			c_oldenburg = {
-				color={ 214 214 214 }
-				color2={ 255 255 255 }
-				
-				b_oldenburg = {
-				}
-				b_cloppenburg = {
-				}
-				b_jever = {
-				}
-				b_delmenhorst = {
-				}
-				b_loningen = {
-				}
-				b_nordenham = {
-				}
-				b_kniphausen = {
-				}
-				b_varel = {
-				}
-			}
-			c_osnabruck = {
-				color={ 213 213 213 }
-				color2={ 255 255 255 }
-
-				roman = Chasuaria
-				graeci = Chasuaria
-				greek = Chasuaria
-				galloroman = Chasuaria
-				iberoroman = Chasuaria
-				mauri = Chasuaria
-				britto = Chasuaria
-				
-				b_osnabruck = {
-				}
-				b_lingen = {
-				}
-				b_bentheim = {
-				}
-				b_wildeshausen = {
-				}
-				b_tecklenburg = {
-				}
-				b_minden = {
-				}
-				b_quackenbruck = {
-				}
-				b_meppen = {
-				}
-			}
 		}
 	}
 	k_alemannia = {
@@ -773,27 +1044,6 @@ e_germany = {
 					pommeranian = Swikawa
 				}
 				b_naumburg = {
-				}
-			}
-			c_weimar = {
-				color={ 183 183 183 }
-				color2={ 255 255 255 }
-				
-				b_weimar = {
-				}
-				b_jena = {
-				}
-				b_walkenried = {
-				}
-				b_nordhausen = {
-				}
-				b_memelsen = {
-				}
-				b_gotha = {
-				}
-				b_apoldoa = {
-				}
-				b_gera = {
 				}
 			}
 			c_wurzburg = {

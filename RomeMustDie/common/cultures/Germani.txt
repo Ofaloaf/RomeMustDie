@@ -94,6 +94,7 @@ germani = {
 			Radegund Radulf 
 			Scyld Seskef 
 			Thachulf Theotbald Taetwa 
+			Vibilius
 			Wideph Wod
 		}
 		female_names = {

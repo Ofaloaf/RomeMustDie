@@ -1,5 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 germani;Germani;;;;;;;;;;;;;x
+gothic;Gothic;;;;;;;;;;;;;x
 romantic;Romantic;;;;;;;;;;;;;x
 semitic;Semitic;;;;;;;;;;;;;x
 moorish;Moorish;;;;;;;;;;;;;x
@@ -210,12 +211,16 @@ d_mosella;Mosella;;;;;;;;;;;;;x
 d_mosella_adj;Mosellan;;;;;;;;;;;;;x
 d_narbonensis;Narbonensis;;;;;;;;;;;;;x
 d_narbonensis_adj;Narbonensian;;;;;;;;;;;;;x
+d_nordalbingia;Nordalbingia;;;;;;;;;;;;;x
+d_nordalbingia_adj;Nordalbingian;;;;;;;;;;;;;x
 d_noricum;Noricum;;;;;;;;;;;;;x
 d_noricum_adj;Norican;;;;;;;;;;;;;x
 d_novempopulana;Novempopulana;;;;;;;;;;;;;x
 d_novempopulana_adj;Novempopulanan;;;;;;;;;;;;;x
 d_numidia;Numidia;;;;;;;;;;;;;x
 d_numidia_adj;Numidian;;;;;;;;;;;;;x
+d_ostfalia;Ostfalia;;;;;;;;;;;;;x
+d_ostfalia_adj;Ostfalian;;;;;;;;;;;;;x
 d_pacensis;Pacensis;;;;;;;;;;;;;x
 d_pacensis_adj;Pacensian;;;;;;;;;;;;;x
 d_paris;Paris;;;;;;;;;;;;;x
@@ -284,6 +289,8 @@ d_vindelicia;Vindelicia;;;;;;;;;;;;;x
 d_vindelicia_adj;Vindelician;;;;;;;;;;;;;x
 d_volubilis;Volubilis;;;;;;;;;;;;;x
 d_volubilis_adj;Volubilite;;;;;;;;;;;;;x
+d_westfalia;Westfalia;;;;;;;;;;;;;x
+d_westfalia_adj;Westfalian;;;;;;;;;;;;;x
 d_zeugitana;Zeugitana;;;;;;;;;;;;;x
 d_zeugitana_adj;Zeutgitana;;;;;;;;;;;;;x
 b_absorus;Absorus;;;;;;;;;;;;;x

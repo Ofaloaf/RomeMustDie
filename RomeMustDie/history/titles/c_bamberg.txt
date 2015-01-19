@@ -1,0 +1,4 @@
+450.1.1 = {
+	liege = "k_thuringia"
+	holder = 1871006
+}
