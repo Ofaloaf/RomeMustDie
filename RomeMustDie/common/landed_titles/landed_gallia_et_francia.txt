@@ -2105,6 +2105,258 @@ e_gallia = {
 				}
 			}
 		}
+		d_hessorum = {
+			color = { 114 171 184 }
+			color2= { 255 255 255 }
+
+			roman = Chattia
+			graeci = Chattia
+			greek = Chattia
+			galloroman = Chattia
+			iberoroman = Chattia
+			mauri = Chattia
+			britto = Chattia			
+
+			c_nassau = {
+				color={ 171 171 171 }
+				color2={ 255 255 255 }
+
+				# defaults to 'Nassova'
+
+				old_frankish = Nuissa # from  http://upload.wikimedia.org/wikipedia/commons/0/01/Droysens-22-23.jpg
+				burgundian = Nuissa
+				visigothic = Nuissa
+				ostrogothic = Nuissa
+			
+				b_nassau = {
+					# defaults to 'Nassova'
+
+					old_frankish = Nuissa
+					burgundian = Nuissa
+					visigothic = Nuissa
+					ostrogothic = Nuissa
+				}
+				b_fulda = {
+				}
+				b_wetzlar = {
+				}
+				b_marburg = {
+				}
+				b_katzenelnbogen = {
+				}
+				b_hersfeld = {
+				}
+				b_falkenstein = {
+				}
+				b_isenburg = {
+				}
+			}
+			c_gottingen = {
+				color={ 210 210 210 }
+				color2={ 255 255 255 }
+
+				# defaults to 'Gutingi'
+
+				old_frankish = Hassorum
+				burgundian = Hassorum
+				visigothic = Hassorum
+				ostrogothic = Hassorum
+				
+				b_gottingen = {
+					# defaults to 'Gutingi'
+
+					roman = Gottinga
+					graeci = Gottinga
+					greek = Gottinga
+					galloroman = Gottinga
+					iberoroman = Gottinga
+					mauri = Gottinga
+					britto = Gottinga
+				}
+				b_corvey = {
+					# defaults to 'Corbeia'
+				}
+				b_lippe = {
+					# defaults to 'Luppia'
+				}
+				b_kassel = {
+					# defaults to 'Cattorum'
+
+					old_frankish = Cassella
+					burgundian = Cassella
+					visigothic = Cassella
+					ostrogothic = Cassella
+					alemannic = Chasella
+					thuringian = Chasella
+					old_saxon = Chasella
+				}
+				b_goslar = {
+				}
+				b_northeim = {
+				}
+				b_eisenach = {
+				}
+				b_detmold = {
+				}
+			}
+		}
+		d_colonia = {
+			color={ 84 124 48 }
+			color2={ 255 255 255 }
+			
+			capital = 119 #Köln
+			
+			c_koln = {
+				color={ 141 141 141 }
+				color2={ 255 255 255 }
+
+				roman = Colonia
+				graeci = Colonia
+				greek = Colonia
+				galloroman = Colonia
+				iberoroman = Colonia
+				britto = Colonia
+				old_frankish = Coellen
+				old_saxon = Coellen
+				visigothic = Coellen
+				ostrogothic = Coellen
+			
+				b_koln = {
+					roman = Colonia
+					graeci = Colonia
+					greek = Colonia
+					galloroman = Colonia
+					iberoroman = Colonia
+					britto = Colonia
+					old_frankish = Coellen
+					old_saxon = Coellen
+					visigothic = Coellen
+					ostrogothic = Coellen
+
+					holy_site = catholic
+				}
+				b_berg = {
+				}
+				b_mark = {
+				}
+				b_bonn = {
+				}
+				b_dietz = {
+				}
+				b_saffenburg = {
+				}
+				b_hochstaden = {
+				}
+				b_brauweiler = {
+				}
+			}
+			c_munster = {
+				color={ 212 212 212 }
+				color2={ 255 255 255 }
+
+				# defaults to 'Mimigernaford'
+				
+				b_munster = {
+					# defaults to 'Mimigernaford'
+				}
+				b_dortmund = {
+				}
+				b_essen = {
+				}
+				b_greven = {
+				}
+				b_gutersloh = {
+				}
+				b_steinfurt = {
+				}
+				b_gronau = {
+				}
+				b_ahlen = {
+				}
+			}
+			c_kleve = {
+				color={ 132 132 132 }
+				color2={ 255 255 255 }
+
+				roman = Cugernia
+				graeci = Cugernia
+				greek = Cugernia
+				galloroman = Cugernia
+				iberoroman = Cugernia
+				mauri = Cugernia
+				britto = Cugernia
+		
+				# Gelduba/Gellep, Asciburgium/Asberg, Burginatium, Quadriburgium/Qualberg attested
+
+				b_kleve = {
+				}
+				b_goch = {
+				}
+				b_rees = {
+				}
+				b_anholt = {
+				}
+				b_Xanten = {
+					# defaults to 'Sanctos' now
+
+					roman = "Castra Vetera"
+					graeci = "Castra Vetera"
+					greek = "Castra Vetera"
+					galloroman = Tricensimae
+					iberoroman = "Ulpia Traiana"
+					mauri = Tricensimae
+					britto = Tricensimae
+				}
+				b_wesel = {
+				}
+				b_emmerich = {
+				}
+				b_isselburg = {
+				}
+			}
+			c_mainz = {
+				color={ 129 129 129 }
+				color2={ 255 255 255 }
+
+				roman = Mogontiacum
+				graeci = Mogontiacum
+				greek = Mogontiacum
+				galloroman = Mogontiacum
+				iberoroman = Mogontiacum
+				britto = Mogonitacum
+				old_frankish = Magancia
+				old_saxon = Magancia
+				visigothic = Maguntia
+				ostrogothic = Maguntia
+			
+				b_mainz = {
+					roman = Mogontiacum
+					graeci = Mogontiacum
+					greek = Mogontiacum
+					galloroman = Mogontiacum
+					iberoroman = Mogontiacum
+					britto = Mogonitacum
+					old_frankish = Magancia
+					old_saxon = Magancia
+					visigothic = Maguntia
+					ostrogothic = Maguntia
+				}
+				b_frankfurt = {
+				}
+				b_eppstein = {
+				}
+				b_ingelheim = {
+				}
+				b_mannheim = {
+				}
+				b_weilburg = {
+				}
+				b_dornburg = {
+				}
+				b_hanau = {
+				}
+			}
+		}
 	}
 
 	k_tolosa = {

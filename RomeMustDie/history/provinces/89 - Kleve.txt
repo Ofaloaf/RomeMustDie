@@ -14,5 +14,5 @@ b_kleve = tribal
 #b_emmerich = castle
 
 # Misc
-culture = frisian
+culture = old_frankish
 religion = norse_pagan

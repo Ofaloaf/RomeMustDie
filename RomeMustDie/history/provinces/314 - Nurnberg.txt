@@ -1,0 +1,18 @@
+# 314 - Nürnberg
+
+# County Title
+title = c_nurnberg
+
+# Settlements
+max_settlements = 5
+b_nurnberg = tribal
+
+#b_kulmbach = castle
+#b_hohenburg = castle
+#b_nordlingen = castle
+#b_eichstatt = castle
+#b_erlangen = castle
+
+# Misc
+culture = thuringian
+religion = norse_pagan

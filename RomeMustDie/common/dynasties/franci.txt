@@ -12,3 +12,53 @@
 	name = "Sigiberting"
 	culture = old_frankish
 }
+
+1940004 = {
+	name = "Chattus"
+	culture = old_frankish
+}
+
+1940005 = {
+	name=  "Chattuarius"
+	culture = old_frankish
+}
+
+1940006 = {
+	name = "Chasuarius"
+	culture = old_frankish
+}
+
+1940007 = {
+	name = "Cheruscus"
+	culture = old_frankish
+}
+
+1940008 = {
+	name = "Tencterus"
+	culture = old_frankish
+}
+
+1940009 = {
+	name = "Usipus"
+	culture = old_frankish
+}
+
+1940010 = {
+	name = "Bructerus"
+	culture = old_frankish
+}
+
+1940011 = {
+	name = "Camavus"
+	culture = old_frankish
+}
+
+1940012 = {
+	name = "Prnacus"
+	culture = old_frankish
+}
+
+1940013 = {
+	name = "Salius"
+	culture = old_frankish
+}

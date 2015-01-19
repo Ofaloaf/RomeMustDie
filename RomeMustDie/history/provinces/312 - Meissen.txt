@@ -1,0 +1,13 @@
+# 312 - Meissen
+
+# County Title
+title = c_meissen
+
+# Settlements
+max_settlements = 5
+b_dresden = tribal
+
+
+# Misc
+culture = thuringian
+religion = norse_pagan

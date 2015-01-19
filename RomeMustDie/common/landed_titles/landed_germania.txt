@@ -75,6 +75,15 @@ e_germany = {
 			c_holland = {
 				color={ 235 85 30 }
 				color2={ 255 255 255 }
+
+				roman = Cananefatia
+				graeci = Cananefatia
+				greek = Cananefatia
+				galloroman = Cananefatia
+				iberoroman = Cananefatia
+				mauri = Cananefatia
+				britto = Cananefatia
+				frisian = Kennemerland
 			
 				b_haarlem = {
 				}
@@ -243,57 +252,6 @@ e_germany = {
 		
 		catholic = 2000 # Crusade target weight
 		
-		d_bavaria = {
-			color={ 128 121 121 }
-			color2={ 255 255 255 }
-			
-			capital = 360 #Oberbayern
-			
-
-
-			c_niederbayern = {
-				color={ 60 60 60 }
-				color2={ 255 255 255 }
-		
-				b_straubing = {
-				}
-				b_regensburg = {
-				}
-				b_landshut = {
-				}
-				b_ingolstadt = {
-				}
-				b_wittelsbach = {
-				}
-				b_cham = {
-				}
-				b_rohrbach = {
-				}
-				b_kirchroth = {
-				}
-			}
-			c_nurnberg = {
-				color={ 57 57 57 }
-				color2={ 255 255 255 }
-		
-				b_nurnberg = {
-				}
-				b_ellwangen = {
-				}
-				b_furth = {
-				}
-				b_kulmbach = {
-				}
-				b_hohenburg = {
-				}
-				b_nordlingen = {
-				}
-				b_eichstatt = {
-				}
-				b_erlangen = {
-				}
-			}
-		}
 		d_osterreich = { 
 			color={ 191 182 182 }
 			color2={ 255 255 255 }
@@ -478,6 +436,14 @@ e_germany = {
 			c_osnabruck = {
 				color={ 213 213 213 }
 				color2={ 255 255 255 }
+
+				roman = Chasuaria
+				graeci = Chasuaria
+				greek = Chasuaria
+				galloroman = Chasuaria
+				iberoroman = Chasuaria
+				mauri = Chasuaria
+				britto = Chasuaria
 				
 				b_osnabruck = {
 				}
@@ -494,260 +460,6 @@ e_germany = {
 				b_quackenbruck = {
 				}
 				b_meppen = {
-				}
-			}
-		}
-		d_thuringia = {
-			color={ 207 206 226 }
-			color2={ 255 255 255 }
-		
-			capital = 255 #Thuringen
-			
-			c_thuringen = {
-				color={ 42 42 42 }
-				color2={ 255 255 255 }
-			
-				b_erfurt = {
-				}
-				b_muhlhausen = {
-				}
-				b_arnstadt = {
-				}
-				b_eichsfeld = {
-				}
-				b_reuss = {
-				}
-				b_salzungen = {
-				}
-				b_schmalkalden = {
-				}
-				b_henneberg = {
-				}
-			}
-			c_nassau = {
-				color={ 171 171 171 }
-				color2={ 255 255 255 }
-			
-				b_nassau = {
-				}
-				b_fulda = {
-				}
-				b_wetzlar = {
-				}
-				b_marburg = {
-				}
-				b_katzenelnbogen = {
-				}
-				b_hersfeld = {
-				}
-				b_falkenstein = {
-				}
-				b_isenburg = {
-				}
-			}
-			c_gottingen = {
-				color={ 210 210 210 }
-				color2={ 255 255 255 }
-				
-				b_gottingen = {
-				}
-				b_corvey = {
-				}
-				b_lippe = {
-				}
-				b_kassel = {
-				}
-				b_goslar = {
-				}
-				b_northeim = {
-				}
-				b_eisenach = {
-				}
-				b_detmold = {
-				}
-			}
-		}
-		d_koln = {
-			color={ 213 216 212 }
-			color2={ 255 255 255 }
-			
-			capital = 119 #Köln
-			
-			c_koln = {
-				color={ 141 141 141 }
-				color2={ 255 255 255 }
-
-				roman = Colonia
-				graeci = Colonia
-				greek = Colonia
-				galloroman = Colonia
-				iberoroman = Colonia
-				britto = Colonia
-				old_frankish = Coellen
-				old_saxon = Coellen
-				visigothic = Coellen
-				ostrogothic = Coellen
-			
-				b_koln = {
-					roman = Colonia
-					graeci = Colonia
-					greek = Colonia
-					galloroman = Colonia
-					iberoroman = Colonia
-					britto = Colonia
-					old_frankish = Coellen
-					old_saxon = Coellen
-					visigothic = Coellen
-					ostrogothic = Coellen
-
-					holy_site = catholic
-				}
-				b_berg = {
-				}
-				b_mark = {
-				}
-				b_bonn = {
-				}
-				b_dietz = {
-				}
-				b_saffenburg = {
-				}
-				b_hochstaden = {
-				}
-				b_brauweiler = {
-				}
-			}
-			c_munster = {
-				color={ 212 212 212 }
-				color2={ 255 255 255 }
-				
-				b_munster = {
-				}
-				b_dortmund = {
-				}
-				b_essen = {
-				}
-				b_greven = {
-				}
-				b_gutersloh = {
-				}
-				b_steinfurt = {
-				}
-				b_gronau = {
-				}
-				b_ahlen = {
-				}
-			}
-			c_kleve = {
-				color={ 132 132 132 }
-				color2={ 255 255 255 }
-		
-				b_kleve = {
-				}
-				b_goch = {
-				}
-				b_rees = {
-				}
-				b_anholt = {
-				}
-				b_Xanten = {
-				}
-				b_wesel = {
-				}
-				b_emmerich = {
-				}
-				b_isselburg = {
-				}
-			}
-		}
-		d_franconia = {
-			color={ 100 99 100 }
-			color2={ 255 255 255 }
-			
-			capital = 123 #Mainz
-		
-			c_mainz = {
-				color={ 129 129 129 }
-				color2={ 255 255 255 }
-
-				roman = Mogontiacum
-				graeci = Mogontiacum
-				greek = Mogontiacum
-				galloroman = Mogontiacum
-				iberoroman = Mogontiacum
-				britto = Mogonitacum
-				old_frankish = Magancia
-				old_saxon = Magancia
-				visigothic = Maguntia
-				ostrogothic = Maguntia
-			
-				b_mainz = {
-					roman = Mogontiacum
-					graeci = Mogontiacum
-					greek = Mogontiacum
-					galloroman = Mogontiacum
-					iberoroman = Mogontiacum
-					britto = Mogonitacum
-					old_frankish = Magancia
-					old_saxon = Magancia
-					visigothic = Maguntia
-					ostrogothic = Maguntia
-				}
-				b_frankfurt = {
-				}
-				b_eppstein = {
-				}
-				b_ingelheim = {
-				}
-				b_mannheim = {
-				}
-				b_weilburg = {
-				}
-				b_dornburg = {
-				}
-				b_hanau = {
-				}
-			}
-			c_wurzburg = {
-				color={ 123 123 123 }
-				color2={ 255 255 255 }
-			
-				b_wurzburg = {
-				}
-				b_aschaffenburg = {
-				}
-				b_schweinfurt = {
-				}
-				b_marienberg = {
-				}
-				b_hammelburg = {
-				}
-				b_schwarzenberg = {
-				}
-				b_theiheim = {
-				}
-				b_mainderheim = {
-				}
-			}
-			c_bamberg = {
-				color={ 120 120 120 }
-				color2={ 255 255 255 }
-			
-				b_ansbach = {
-				}
-				b_bamberg = {
-				}
-				b_babenberg = {
-				}
-				b_cadolzburg = {
-				}
-				b_colmberg = {
-				}
-				b_roth = {
-				}
-				b_uffenheim = {
-				}
-				b_crailsheim = {
 				}
 			}
 		}
@@ -889,6 +601,10 @@ e_germany = {
 			c_breisgau = {
 				color={ 111 155 55 }
 				color2={ 255 255 255 }
+
+				# defaults to 'Brisgavia'
+
+				alemannic = Breisachgau
 		
 				b_freiburg = {
 					alemannic = Friburch
@@ -906,6 +622,7 @@ e_germany = {
 				b_lohrrach = {
 				}
 				b_breisach = {
+					# defaults to 'Brisiacus'
 				}
 				b_rottweil = {
 				}
@@ -940,6 +657,204 @@ e_germany = {
 				b_ungstein = {
 				}
 				b_pfeffingen = {
+				}
+			}
+		}
+	}
+	k_thuringia = {
+		color={ 66 126 157 }
+		culture = thuringian
+
+		allow = {
+			culture = thuringian
+		}
+
+		d_bavaria = {
+			color={ 178  163  143 }
+			color2={ 255 255 255 }
+			
+			capital = 360 #Oberbayern
+			
+			c_niederbayern = {
+				color={ 60 60 60 }
+				color2={ 255 255 255 }
+		
+				b_straubing = {
+				}
+				b_regensburg = {
+				}
+				b_landshut = {
+				}
+				b_ingolstadt = {
+				}
+				b_wittelsbach = {
+				}
+				b_cham = {
+				}
+				b_rohrbach = {
+				}
+				b_kirchroth = {
+				}
+			}
+			c_nurnberg = {
+				color={ 57 57 57 }
+				color2={ 255 255 255 }
+		
+				b_nurnberg = {
+				}
+				b_ellwangen = {
+				}
+				b_furth = {
+				}
+				b_kulmbach = {
+				}
+				b_hohenburg = {
+				}
+				b_nordlingen = {
+				}
+				b_eichstatt = {
+				}
+				b_erlangen = {
+				}
+			}
+		}
+		d_thuringia = {
+			color={ 52 158 84 }
+			color2={ 255 255 255 }
+		
+			capital = 255 #Thuringen
+			
+			c_thuringen = {
+				color={ 60 160 90 }
+				color2={ 255 255 255 }
+			
+				b_erfurt = {
+				}
+				b_muhlhausen = {
+				}
+				b_arnstadt = {
+				}
+				b_eichsfeld = {
+				}
+				b_reuss = {
+				}
+				b_salzungen = {
+				}
+				b_schmalkalden = {
+				}
+				b_henneberg = {
+				}
+			}
+			c_plauen = {
+				color={ 180 180 180 }
+				color2={ 255 255 255 }
+
+				pommeranian = Ploni
+				
+				b_plauen = {
+					
+					pommeranian = Ploni
+				}
+				b_leipzig = {
+					pommeranian = Lipsk
+				}
+				b_merseburg = {
+					
+				}
+				b_halle = {
+					pommeranian = Dobrebora
+				}
+				b_knobelsdorf = {
+				}
+				b_zeitz = {
+					pommeranian = Cici
+				}
+				b_zwickau = {
+					pommeranian = Swikawa
+				}
+				b_naumburg = {
+				}
+			}
+			c_weimar = {
+				color={ 183 183 183 }
+				color2={ 255 255 255 }
+				
+				b_weimar = {
+				}
+				b_jena = {
+				}
+				b_walkenried = {
+				}
+				b_nordhausen = {
+				}
+				b_memelsen = {
+				}
+				b_gotha = {
+				}
+				b_apoldoa = {
+				}
+				b_gera = {
+				}
+			}
+			c_wurzburg = {
+				color={ 123 123 123 }
+				color2={ 255 255 255 }
+
+				# defaults to 'Uburzis', from the Ravenna Cosmography
+
+				old_frankish = Virteburch
+				burgundian = Virteburch
+				visigothic = Virtebaurg
+				ostrogothic = Virtebaurg
+				alemannic = Virteburch
+				thuringian = Virteburch
+				old_saxon = Virteburch
+			
+				b_wurzburg = {
+					# defaults to 'Uburzis', from the Ravenna Cosmography
+
+					old_frankish = Virteburch
+					burgundian = Virteburch
+					visigothic = Virtebaurg
+					ostrogothic = Virtebaurg
+					alemannic = Virteburch
+					thuringian = Virteburch
+					old_saxon = Virteburch
+				}
+				b_aschaffenburg = {
+				}
+				b_schweinfurt = {
+				}
+				b_marienberg = {
+				}
+				b_hammelburg = {
+				}
+				b_schwarzenberg = {
+				}
+				b_theiheim = {
+				}
+				b_mainderheim = {
+				}
+			}
+			c_bamberg = {
+				color={ 120 120 120 }
+				color2={ 255 255 255 }
+			
+				b_ansbach = {
+				}
+				b_bamberg = {
+				}
+				b_babenberg = {
+				}
+				b_cadolzburg = {
+				}
+				b_colmberg = {
+				}
+				b_roth = {
+				}
+				b_uffenheim = {
+				}
+				b_crailsheim = {
 				}
 			}
 		}

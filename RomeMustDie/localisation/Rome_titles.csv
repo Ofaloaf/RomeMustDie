@@ -68,6 +68,8 @@ k_tolosa;Tolosa;;;;;;;;;;;;;x
 k_tolosa_adj;Tolosan;;;;;;;;;;;;;x
 k_thracia;Thracia;;;;;;;;;;;;;x
 k_thracia_adj;Thracian;;;;;;;;;;;;;x
+k_thuringia;Thuringia;;;;;;;;;;;;;x
+k_thuringia_adj;Thuringian;;;;;;;;;;;;;x
 k_vasconia;Vasconia;;;;;;;;;;;;;x
 k_vasconia_adj;Vasconian;;;;;;;;;;;;;x
 k_vandalia;Vandalia;;;;;;;;;;;;;x
@@ -152,6 +154,8 @@ d_carpetania;Carpetania;;;;;;;;;;;;;x
 d_carpetania_adj;Carpetanian;;;;;;;;;;;;;x
 d_carthaginiensis;Carthaginiensis;;;;;;;;;;;;;x
 d_carthaginiensis_adj;Carthaginiensian;;;;;;;;;;;;;x
+d_colonia;Colonia;;;;;;;;;;;;;x
+d_colonia_adj;Colonian;;;;;;;;;;;;;x
 d_cordubensis;Cordubensis;;;;;;;;;;;;;x
 d_cordubensis_adj;Cordubensian;;;;;;;;;;;;;x
 d_dardania;Dardania;;;;;;;;;;;;;x
@@ -176,6 +180,8 @@ d_gaetulia;Gaetulia;;;;;;;;;;;;;x
 d_gaetulia_adj;Gaetulian;;;;;;;;;;;;;x
 d_glouvia;Glouvia;;;;;;;;;;;;;x
 d_glouvia_adj;Glouvian;;;;;;;;;;;;;x
+d_hessorum;Hessorum;;;;;;;;;;;;;x
+d_hessorum_adj;Hessian;;;;;;;;;;;;;x
 d_hispalensis;Hispalensis;;;;;;;;;;;;;x
 d_hispalensis_adj;Hispalensian;;;;;;;;;;;;;x
 d_histria;Histria;;;;;;;;;;;;;x
@@ -264,6 +270,8 @@ d_transjurania;Transjurania;;;;;;;;;;;;;x
 d_transjurania_adj;Transjuranian;;;;;;;;;;;;;x
 d_treveria;Treveria;;;;;;;;;;;;;x
 d_treveria_adj;Treveria;;;;;;;;;;;;;x
+d_thuringia;Thuringia;;;;;;;;;;;;;x
+d_thuringia_adj;Thuringian;;;;;;;;;;;;;x
 d_tuscia;Tuscia;;;;;;;;;;;;;x
 d_tuscia;Tuscian;;;;;;;;;;;;;x
 d_vasconia;Vasconia;;;;;;;;;;;;;x

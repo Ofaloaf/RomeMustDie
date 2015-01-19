@@ -6125,6 +6125,14 @@ e_scandinavia = {
 			c_uppland = {
 				color={ 30 30 155 }
 				color2={ 255 255 255 }
+
+				roman = Firaesia
+				graeci = Firaesia
+				greek = Phiraisoia
+				galloroman = Firaesia
+				iberoroman = Firaesia
+				mauri = Firaesia
+				britto = Firaesia
 				
 				b_sigtuna = {
 				}
@@ -6750,6 +6758,14 @@ e_scandinavia = {
 			c_smaland = { # Now called Värend
 				color={ 95 30 215 }
 				color2={ 255 255 255 }
+
+				roman = Favonia
+				graeci = Favonia
+				greek = Phauonia
+				galloroman = Favonia
+				iberoroman = Favonia
+				mauri = Favonia
+				britto = Favonia
 				
 				b_piksborg = {
 				}
@@ -9301,57 +9317,6 @@ e_wendish_empire = {
 				b_bernburg = {
 				}
 			}
-			c_plauen = {
-				color={ 180 180 180 }
-				color2={ 255 255 255 }
-
-				pommeranian = Ploni
-				
-				b_plauen = {
-					
-					pommeranian = Ploni
-				}
-				b_leipzig = {
-					pommeranian = Lipsk
-				}
-				b_merseburg = {
-					
-				}
-				b_halle = {
-					pommeranian = Dobrebora
-				}
-				b_knobelsdorf = {
-				}
-				b_zeitz = {
-					pommeranian = Cici
-				}
-				b_zwickau = {
-					pommeranian = Swikawa
-				}
-				b_naumburg = {
-				}
-			}
-			c_weimar = {
-				color={ 183 183 183 }
-				color2={ 255 255 255 }
-				
-				b_weimar = {
-				}
-				b_jena = {
-				}
-				b_walkenried = {
-				}
-				b_nordhausen = {
-				}
-				b_memelsen = {
-				}
-				b_gotha = {
-				}
-				b_apoldoa = {
-				}
-				b_gera = {
-				}
-			}
 		}
 		
 		d_brandenburg = {
@@ -9456,6 +9421,13 @@ e_wendish_empire = {
 					pommeranian = Zhorjelc
 				}
 				b_bautzen = {
+					roman = Batinorum # made up, hypothetical
+					graeci = Batinorum
+					greek = Batinorum
+					galloroman = Batinorum
+					iberoroman = Batinorum
+					mauri = Batinorum
+					britto = Batinorum
 					pommeranian = Budysin
 				} 
 				b_lebus = {

@@ -5,32 +5,59 @@ germani = {
 		color = { 0.3 0.3 0.5 }
 
 		male_names = {
-			Abrahil Abram Adalbald Adalbert_Albert Adalgari Adalgrim Aegidius Ageric Agilbert Agiulf Ailbert Albric Aldedramn
-			Andica Ansovald Arcambald Aregisel Arnegisel Arnulf_Arnulf Ascaric Audovald Austregisel Autbert Autgari Autgeri
-			Avremar Badegisel Balduin_Baldwin Barnard Berald Bernard_Bernard Berneri Bero Berold Berthefried Bertlin Bertram
-			Bertrand Burchard_Bouchard Karloman_Carloman Carolus_Charles Ceslin Chararic Charibert Childebert Childeric Chilperic
-			Chlodomer Chlothar_Lothair Chramnesind Clodio Clodion Clovis Creat Dagaric Dagobert Drogo_Drogo Eberulf Ebregisel Engilbert
-			Euric Everard_Everard Faroard Faroin Feremund Feroard Foroen Frobert Frotari Frothard Frothari Frotlaic Fulcari Fulcrad
-			Galteri Gararic Garivald Gaucelm Gaudulf Gaujoin Gausbert Gausbold Gautmar Gauzbert Gedalbert Gedalca Genobaud Gerbert
-			Gerhard Gerold Gislari Gislevert Gocelm Godalbert Godomar Gozhelm Grimald Guadulf Gualtari Gualter Guillabert Guitard Gundobad
-			Gunthar Guntram Haldemar Hartmut Hildebald Hildebold Hildegaud Hildevold Hildoin Hucbert Hugbert_Hubert Imnachar Ingalbert_Engelbrecht
-			Ingomer Karl_Charles Lambert_Lambert Lantbert Leudast Lothar_Lothair Magnachar Magneric Mainard Mallobaudes Marachar Marcomer
-			Marell Martin_Martin Maurifi Meginhard Merogais Merovech Munderic Niebelung Odelric Odolric Otbert Otgeri Otker Pepin Pharamond_Faramond
-			Pippin Radulf_Ralph Ragambald Ragena Ragenard Raginari Ragnachar Ragnald_Ragnvald Ragno Raimbold Rainald_Reginald Ramnulf Rathar
-			Raynold_Reinhold Reginari Ricchar Rignomer Roland_Roland Robert_Robert Rotbert Segoin Seguin Sicbald Sichar Sicland Sicleard Siclevold
-			Sigebald Sigebert Sigeric Sigismund_Sigmund Sigobert Sinop Sunnegisil Sunno Tancrad Tancred Tassilo Teotbert Tetbert Teutbald Teutbert
-			Theoderic Theoric Theudebald Theudemeres Theuderic Theudoald Theutbald Trutgaud Vuitard Vulfari Vulframn_Wolfram Vulvari
+			Abrahil Abram Adalbald Adalbert_Albert Adalgari Adalgrim Aegidius Ageric Agilbert Agiulf Ailbert 
+			Albric Aldedramn Andica Ansovald Arcambald Aregisel Arnegisel Arnulf_Arnulf Ascaric Audovald 
+			Austregisel Autbert Autgari Autgeri Avremar Asig
+			Badegisel Balduin_Baldwin Barnard Berald Bernard_Bernard Berneri Bero Berold Berthefried Bertlin 
+			Bertram Bertrand Burchard_Bouchard  
+			Carolus_Charles Ceslin Chararic Charibert Childebert Childeric Chilperic Chlodomer Cobbo
+			Chlothar_Lothair Chramnesind Clodio Clodion Clovis Creat 
+			Dagaric Dagobert Drogo_Drogo 
+			Eberulf Ebregisel Engilbert Euric Everard_Everard Esiko
+			Faroard Faroin Feremund Feroard Foroen Frobert Frotari Frothard Frothari Frotlaic Fulcari Fulcrad
+			Galteri Gararic Garivald Gaucelm Gaudulf Gaujoin Gausbert Gausbold Gautmar Gauzbert Gedalbert 
+			Gedalca Genobaud Gerbert Gerhard Gerold Gislari Gislevert Gocelm Godalbert Godomar Gozhelm 
+			Grimald Guadulf Gualtari Gualter Guillabert Guitard Gundobad Gunthar Guntram 
+			Haldemar Hartmut Hildebald Hildebold Hildegaud Hildevold Hildoin Hucbert Hugbert_Hubert 
+			Imnachar Ingalbert_Engelbrecht Ingomer 
+			Karl_Charles Karloman_Carloman
+			Lambert_Lambert Lantbert Leudast Lothar_Lothair 
+			Magnachar Magneric Mainard Mallobaudes Marachar Marcomer Marell Martin_Martin Maurifi Meginhard 
+			Merogais Merovech Munderic 
+			Niebelung 
+			Odelric Odolric Otbert Otgeri Otker 
+			Pepin Pharamond_Faramond Pippin 
+			Radulf_Ralph Ragambald Ragena Ragenard Raginari Ragnachar Ragnald_Ragnvald Ragno Raimbold 
+			Rainald_Reginald Ramnulf Rathar Raynold_Reinhold Reginari Ricchar Rignomer Roland_Roland 
+			Robert_Robert Rotbert 
+			Segoin Seguin Sicbald Sichar Sicland Sicleard Siclevold Sigebald Sigebert Sigeric 
+			Sigismund_Sigmund Sigobert Sinop Sunnegisil Sunno 
+			Tancrad Tancred Tassilo Teotbert Tetbert Teutbald Teutbert Theoderic Theoric Theudebald 
+			Theudemeres Theuderic Theudoald Theutbald Trutgaud 
+			Vuitard Vulfari Vulframn_Wolfram Vulvari
 			Waltgaud Werinbert Wilbert Willichar Wolfari
 		}
 		female_names = {
-			Adalgardis Adallinda Adaltrude Adaluildis Adelaidis Airsenda Albofleda Albrada Alda Aldegonde Aliberta Alitrudis Ansegudis Ansegundis
-			Anstrude Arsindis Audofleda Audovera Austreberta Austrechild Balthild Begga Beretrude Bernegildis Bertenildis Berthefled Berthefried
-			Berthegund Berthildis Bertilla Bertrada Bladovildis Brunhild Burgundofara Celsa Celsovildis Cesaria Chlodosind Chlothsinda Clotild Creada
-			Dagena Eldesendis Ermengardis Ermengildis Ermensindis Eustadiola Faileuba Faregildis Fastrada Framberta Fredegunde Frolaica Frotberga
-			Frotlildis Frotlina Galswinth Gaudildis Gautlindis Genovefa Gersvinda Gertrude Gisela Glodesind Goiswinth Gotberga Gundrada Halderudis
-			Harildis Hildegarde Hildegardis Hildesendis Hiltrude Illegardis Ingitrude Ingohildis Ingunde Itta Landina Lanthechilde Lantsida Leubast Leubovera
-			Leutberga Leutgardis Liutgarde Madelgarde Magnatrude Marcatrude Marcovefa Martinga Monegund Morberga Radegund Rictrude Rigunth
-			Rosamund Rothaide Rotrude Ruothilde Rusticula Sadalberga Siclehildis Sigalsis Theodelinda Theoderada Ultrogotha Vuldretrada Waltrude
+			Adalgardis Adallinda Adaltrude Adaluildis Adelaidis Airsenda Albofleda Albrada Alda Aldegonde 
+			Aliberta Alitrudis Ansegudis Ansegundis	Anstrude Arsindis Audofleda Audovera Austreberta 
+			Austrechild Addila
+			Balthild Begga Beretrude Bernegildis Bertenildis Berthefled Berthefried
+			Berthegund Berthildis Bertilla Bertrada Bladovildis Brunhild Burgundofara 
+			Celsa Celsovildis Cesaria Chlodosind Chlothsinda Clotild Creada
+			Dagena 
+			Eldesendis Ermengardis Ermengildis Ermensindis Eustadiola 
+			Faileuba Faregildis Fastrada Framberta Fredegunde Frolaica Frotberga Frotlildis Frotlina 
+			Galswinth Gaudildis Gautlindis Genovefa Gersvinda Gertrude Gisela Glodesind Goiswinth Gotberga 
+			Gundrada 
+			Halderudis Harildis Hildegarde Hildegardis Hildesendis Hiltrude Haduwy 
+			Illegardis Ingitrude Ingohildis Ingunde Itta 
+			Landina Lanthechilde Lantsida Leubast Leubovera	Leutberga Leutgardis Liutgarde 
+			Madelgarde Magnatrude Marcatrude Marcovefa Martinga Monegund Morberga 
+			Radegund Rictrude Rigunth Rosamund Rothaide Rotrude Ruothilde Rusticula 
+			Sadalberga Siclehildis Sigalsis 
+			Theodelinda Theoderada 
+			Ultrogotha Vuldretrada 
+			Waltrude
 		}
 
 		dukes_called_kings = yes

@@ -11,20 +11,25 @@ b_bejaija;Saldae;;;;;;;;;;;;;x
 b_benevento;Benevento;;;;;;;;;;;;;x
 b_bitburg;Beda;;;;;;;;;;;;;x
 b_bizerte;Zarytus;;;;;;;;;;;;;x
+b_breisach;Brisiacus;;;;;;;;;;;;;x
 b_cadiz;Gades;;;;;;;;;;;;;x
 b_cagliari;Calaris;;;;;;;;;;;;;x
 b_chester-le-street;Concagnis;;;;;;;;;;;;;x
 b_chieti;Teate;;;;;;;;;;;;;x
 b_cordoba;Corduba;;;;;;;;;;;;;x
+b_corvey;Corbeia;;;;;;;;;;;;;x
 b_gabes;Tacapes;;;;;;;;;;;;;x
 b_gafsa;Capsa;;;;;;;;;;;;;x
+b_gottingen;Gutingi;;;;;;;;;;;;;x
 b_granada;Granada;;;;;;;;;;;;;x
 b_hijar;Ars;;;;;;;;;;;;;x
 b_huelva;Onuba;;;;;;;;;;;;;x
 b_huesca;Osca;;;;;;;;;;;;;x
 b_jaen;Gaiena;;;;;;;;;;;;;x
+b_kassel;Cattorum;;;;;;;;;;;;;x
 b_kelibia;Clupea;;;;;;;;;;;;;x
 b_liege;Legia;;;;;;;;;;;;;x
+b_lippe;Luppia;;;;;;;;;;;;;x
 b_mahdia;Africa;;;;;;;;;;;;;x
 b_mazara;Mazaria;;;;;;;;;;;;;x
 b_medellin;Metellinum;;;;;;;;;;;;;x
@@ -34,7 +39,9 @@ b_mertola;Myrtilis;;;;;;;;;;;;;x
 b_messina;Messana;;;;;;;;;;;;;x
 b_monastir;Ruspinum;;;;;;;;;;;;;x
 b_msaken;Horrea Caelia;;;;;;;;;;;;;x
+b_munster;Mimigernaford;;;;;;;;;;;;;x
 b_napoli;Neapolis;;;;;;;;;;;;;x
+b_nassau;Nassova;;;;;;;;;;;;;x
 b_niebla;Illipia;;;;;;;;;;;;;x
 b_oran;Portus Magnus;;;;;;;;;;;;;x
 b_otranto;Hydruntum;;;;;;;;;;;;;x
@@ -54,6 +61,8 @@ b_trapani;Drepanum;;;;;;;;;;;;;x
 b_trier;Trier;;;;;;;;;;;;;x
 b_urgell;Orgellis;;;;;;;;;;;;;x
 b_worms;Wormatia;;;;;;;;;;;;;x
+b_wurzburg;Uburzis;;;;;;;;;;;;;x
+b_Xanten;Sanctos;;;;;;;;;;;;;x
 PROV21;Glevum;;;;;;;;;;;;;x
 PROV23;Sarum;;;;;;;;;;;;;x
 PROV24;Surria;;;;;;;;;;;;;x
@@ -66,9 +75,12 @@ PROV53;Cumbria;;;;;;;;;;;;;x
 PROV73;Cantia;;;;;;;;;;;;;x
 PROV76;Ypra;;;;;;;;;;;;;x
 PROV77;Atrebatum;;;;;;;;;;;;;x
+PROV88;Mimigernaford;;;;;;;;;;;;;x
 PROV90;Juliacum;;;;;;;;;;;;;x
 PROV116;Legia;;;;;;;;;;;;;x
 PROV118;Treverorum;;;;;;;;;;;;;x
+PROV120;Gutingi;;;;;;;;;;;;;x
+PROV121;Nassova;;;;;;;;;;;;;x
 PROV124;Wormatia;;;;;;;;;;;;;x
 PROV157;Iria;;;;;;;;;;;;;x
 PROV162;Cilpes;;;;;;;;;;;;;x
@@ -99,6 +111,8 @@ PROV205;Ampurias;;;;;;;;;;;;;x
 PROV206;Orgellis;;;;;;;;;;;;;x
 PROV207;Osca;;;;;;;;;;;;;x
 PROV214;Tolosa;;;;;;;;;;;;;x
+PROV250;Brisgavia;;;;;;;;;;;;;x
+PROV254;Uburzis;;;;;;;;;;;;;x
 PROV326;Calaris;;;;;;;;;;;;;x
 PROV330;Saena Julia;;;;;;;;;;;;;x
 PROV332;Urbetellum;;;;;;;;;;;;;x
