@@ -1764,10 +1764,63 @@ e_gallia = {
 				b_laach = {
 				}
 				b_bitburg = {
+					# defaults to 'Beda'
+					old_frankish = Bedense
+					burgundian = Bedense
+					visigothic = Bedense
+					ostrogothic = Bedense
+				}
+			}
+		}
+		d_mosa = {
+			color = { 130 62 94 }
+			color2= { 255 255 255 }
+			
+			c_saintois = {
+				color={ 140 75 99 }
+				color2={ 255 255 255 }
+		
+				b_saintois = {
+				}
+				b_vaudemont = {
+				}
+				b_brixey = {
+				}
+				b_sorcystmartin = {
+				}
+				b_ivios = {
+				}
+				b_ornois = {
+				}
+				b_saulnois = {
+				}
+				b_dompaire = {
+				}
+			}
+			c_bar = {
+				color={ 125 66 90 }
+				color2={ 255 255 255 }
+
+				old_frankish = Barrensis
+				burgundian = Barrensis
+				visigothic = Barrensis
+				ostrogothic = Barrensis
+				
+				b_barleduc = {
+				}
+				b_vaucouleurs = {
+				}
+				b_saintmihel = {
+				}
+				b_commercy = {
+				}
+				b_joinville = {
+				}
+				b_saintdizier = {
 				}
 			}
 			c_verdun = {
-				color={ 130 130 165 }
+				color={ 130 77 87 }
 				color2={ 255 255 255 }
 
 				roman = "Virodunum"
@@ -1799,11 +1852,107 @@ e_gallia = {
 				}
 			}
 		}
-		d_upper_lorraine = {
-			color={ 90 90 125 }
-			color2={ 255 255 255 }
+		d_mosella = {
+			color = { 146 162 169 }
+			color2= { 255 255 255 }
 			
-			capital = 127 #Lorraine		
+			capital = 128 # Metz
+
+			c_pfalz = {
+				color={ 140 140 170 }
+				color2={ 255 255 255 }
+
+				# defaults to 'Wormatia'
+
+				roman = Vangionum
+				graeci = Vangionum
+				greek = Vangionum
+				galloroman = Borbetomagus 
+				iberoroman = Vormatia
+				britto = Vormatia
+				old_frankish = Varmacia
+			
+				b_kaiserslautern = {
+				}
+				b_worms = {
+					# defaults to Wormatia
+
+					roman = Vangionum
+					graeci = Vangionum
+					greek = Vangionum
+					galloroman = Borbetomagus 
+					iberoroman = Vormatia
+					britto = Vormatia
+					old_frankish = Varmacia
+					visigothic = Wormatia
+					ostrogothic = Wormatia
+					burgundian = Wormatia
+				}
+				b_hagenau = {
+				}
+				b_stahleck = {
+				}
+				b_trifels = {
+				}
+				b_speyer = {
+					roman = "Noviomagus Nemetum"
+					graeci = "Noviomagus Nemetum"
+					greek = "Noviomagus Nemetum"
+					galloroman = Nemetum
+					iberoroman = Nemetum
+					britto = Nemetum
+					old_frankish = Spira
+					burgundian = Spira
+					visigothic = Spira
+					ostrogothic = Spira
+					alemannic = Spira
+					thuringian = Spira
+				}
+				b_zweibrucken = {
+				}
+				b_saarbrucken = {
+				}
+			}
+			c_metz = {	
+				color={ 150 150 185 }
+				color2={ 255 255 255 }
+
+				roman = "Divodorum"
+				graeci = "Divodorum"
+				greek = "Divodoron"
+				galloroman = "Mettis"
+				iberoroman = "Mettis"
+				old_frankish = "Metas"
+				burgundian = Metas
+				visigothic = Metas
+				ostrogothic = Metas
+			
+				b_metz = {
+					roman = "Divodorum"
+					graeci = "Divodorum"
+					greek = "Divodoron"
+					galloroman = "Mettis"
+					iberoroman = "Mettis"
+					old_frankish = "Metas"
+					burgundian = Metas
+					visigothic = Metas
+					ostrogothic = Metas
+				}
+				b_thionville = {
+				}
+				b_saintjulien = {
+				}
+				b_marslatour = {
+				}
+				b_bouzonville = {
+				}
+				b_briey = {
+				}
+				b_joudreville = {
+				}
+				b_audunleroman = {
+				}
+			}
 			c_lorraine = {
 				color={ 92 92 127 }
 				color2={ 255 255 255 }
@@ -1885,138 +2034,6 @@ e_gallia = {
 				b_mortagnedevosges = {
 				}
 				b_saintavoid = {
-				}
-			}
-			c_saintois = {
-				color={ 105 105 135 }
-				color2={ 255 255 255 }
-		
-				b_saintois = {
-				}
-				b_vaudemont = {
-				}
-				b_brixey = {
-				}
-				b_sorcystmartin = {
-				}
-				b_ivios = {
-				}
-				b_ornois = {
-				}
-				b_saulnois = {
-				}
-				b_dompaire = {
-				}
-			}
-			c_bar = {
-				color={ 115 115 145 }
-				color2={ 255 255 255 }
-
-				old_frankish = Barrensis
-				burgundian = Barrensis
-				visigothic = Barrensis
-				ostrogothic = Barrensis
-				
-				b_barleduc = {
-				}
-				b_vaucouleurs = {
-				}
-				b_saintmihel = {
-				}
-				b_commercy = {
-				}
-				b_joinville = {
-				}
-				b_saintdizier = {
-				}
-			}
-		}
-		d_lower_lorraine = {
-			color={ 144 144 177 }
-			color2={ 255 255 255 }
-			
-			capital = 118 # Trier
-			c_pfalz = {
-				color={ 140 140 170 }
-				color2={ 255 255 255 }
-			
-				b_kaiserslautern = {
-				}
-				b_worms = {
-					roman = Vangionum
-					graeci = Vangionum
-					greek = Vangionum
-					galloroman = Borbetomagus 
-					iberoroman = Vormatia
-					britto = Vormatia
-					old_frankish = Varmacia
-					visigothic = Wormatia
-					ostrogothic = Wormatia
-					burgundian = Wormatia
-				}
-				b_hagenau = {
-				}
-				b_stahleck = {
-				}
-				b_trifels = {
-				}
-				b_speyer = {
-					roman = "Noviomagus Nemetum"
-					graeci = "Noviomagus Nemetum"
-					greek = "Noviomagus Nemetum"
-					galloroman = Nemetum
-					iberoroman = Nemetum
-					britto = Nemetum
-					old_frankish = Spira
-					burgundian = Spira
-					visigothic = Spira
-					ostrogothic = Spira
-					alemannic = Spira
-					thuringian = Spira
-				}
-				b_zweibrucken = {
-				}
-				b_saarbrucken = {
-				}
-			}
-			c_metz = {	
-				color={ 150 150 185 }
-				color2={ 255 255 255 }
-
-				roman = "Divodorum"
-				graeci = "Divodorum"
-				greek = "Divodoron"
-				galloroman = "Mettis"
-				iberoroman = "Mettis"
-				old_frankish = "Metas"
-				burgundian = Metas
-				visigothic = Metas
-				ostrogothic = Metas
-			
-				b_metz = {
-					roman = "Divodorum"
-					graeci = "Divodorum"
-					greek = "Divodoron"
-					galloroman = "Mettis"
-					iberoroman = "Mettis"
-					old_frankish = "Metas"
-					burgundian = Metas
-					visigothic = Metas
-					ostrogothic = Metas
-				}
-				b_thionville = {
-				}
-				b_saintjulien = {
-				}
-				b_marslatour = {
-				}
-				b_bouzonville = {
-				}
-				b_briey = {
-				}
-				b_joudreville = {
-				}
-				b_audunleroman = {
 				}
 			}
 		}

@@ -1,5 +1,4 @@
 449.1.1={
-	liege = "d_cantiacia"
 	holder=449002
 }
 460.1.1={

@@ -1,4 +1,3 @@
 470.1.1 = {
-	liege = "d_mosella"
 	holder = 1789007
 }

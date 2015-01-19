@@ -66,6 +66,8 @@ k_tolosa;Tolosa;;;;;;;;;;;;;x
 k_tolosa_adj;Tolosan;;;;;;;;;;;;;x
 k_thracia;Thracia;;;;;;;;;;;;;x
 k_thracia_adj;Thracian;;;;;;;;;;;;;x
+k_vasconia;Vasconia;;;;;;;;;;;;;x
+k_vasconia_adj;Vasconian;;;;;;;;;;;;;x
 k_vandalia;Vandalia;;;;;;;;;;;;;x
 k_vandalia_adj;Vandalic;;;;;;;;;;;;;x
 k_visigothia;Visigothia;;;;;;;;;;;;;x
@@ -192,6 +194,10 @@ d_mediolanum;Mediolanum;;;;;;;;;;;;;x
 d_mediolanum_adj;Mediolanum;;;;;;;;;;;;;x
 d_menapiorum;Menapiorum;;;;;;;;;;;;;x
 d_menapiorum_adj;Menapii;;;;;;;;;;;;;x
+d_mosa;Mosa;;;;;;;;;;;;;x
+d_mosa_adj;Mosan;;;;;;;;;;;;;x
+d_mosella;Mosella;;;;;;;;;;;;;x
+d_mosella_adj;Mosellan;;;;;;;;;;;;;x
 d_narbonensis;Narbonensis;;;;;;;;;;;;;x
 d_narbonensis_adj;Narbonensian;;;;;;;;;;;;;x
 d_noricum;Noricum;;;;;;;;;;;;;x

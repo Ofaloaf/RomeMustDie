@@ -131,10 +131,14 @@ technology = {
 # The Roman frontier & Barbarian-controlled Rome
 technology = {
 	titles = {
+		### GALLIA SIVE FRANCIA
 		d_armorica
 		d_menapiorum
+		d_mosa
+		d_mosella
 		d_savia
 		d_toxandria
+		d_treveria
 
 		### HISPANIA ###
 		d_asturica

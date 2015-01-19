@@ -19095,7 +19095,7 @@ e_spain = {
 		}
 	}
 	
-	k_navarra = {
+	k_vasconia = {
 		color = { 150 120 5 }
 		capital = 152 # Navarra
 		
@@ -19106,10 +19106,8 @@ e_spain = {
 			hidden_tooltip = {
 				OR = {
 					ai = no
-					AND = {
-						culture = basque
-						religion_group = christian
-					}
+					culture = vasconian
+					culture = basque
 				}
 			}
 		}
