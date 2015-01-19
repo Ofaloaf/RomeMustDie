@@ -1287,8 +1287,11 @@ e_wre = {
 			c_cagliari = {
 				color={ 170 200 170 }
 				color2={ 255 255 255 }
+
+				# now defaults to 'Calaris'
 				
 				b_cagliari = {
+					# now defaults to 'Calaris'
 				}
 				b_ogliastra = {
 				}

@@ -247,3 +247,8 @@
 	name = "Trecensis"
 	culture = galloroman
 }
+
+451051 = {
+	name = "Bautoianus"
+	culture = galloroman
+}

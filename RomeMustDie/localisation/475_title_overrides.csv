@@ -9,8 +9,10 @@ b_bari;Barium;;;;;;;;;;;;;x
 b_baza;Basti;;;;;;;;;;;;;x
 b_bejaija;Saldae;;;;;;;;;;;;;x
 b_benevento;Benevento;;;;;;;;;;;;;x
+b_bitburg;Beda;;;;;;;;;;;;;x
 b_bizerte;Zarytus;;;;;;;;;;;;;x
 b_cadiz;Gades;;;;;;;;;;;;;x
+b_cagliari;Calaris;;;;;;;;;;;;;x
 b_chester-le-street;Concagnis;;;;;;;;;;;;;x
 b_chieti;Teate;;;;;;;;;;;;;x
 b_cordoba;Corduba;;;;;;;;;;;;;x
@@ -22,6 +24,7 @@ b_huelva;Onuba;;;;;;;;;;;;;x
 b_huesca;Osca;;;;;;;;;;;;;x
 b_jaen;Gaiena;;;;;;;;;;;;;x
 b_kelibia;Clupea;;;;;;;;;;;;;x
+b_liege;Legia;;;;;;;;;;;;;x
 b_mahdia;Africa;;;;;;;;;;;;;x
 b_mazara;Mazaria;;;;;;;;;;;;;x
 b_medellin;Metellinum;;;;;;;;;;;;;x
@@ -41,12 +44,14 @@ b_pescara;Aternum;;;;;;;;;;;;;x
 b_salamanca;Salamantica;;;;;;;;;;;;;x
 b_sevilla;Hispalis;;;;;;;;;;;;;x
 b_sfax;Thaenae;;;;;;;;;;;;;x
+b_siguenza;Segontia;;;;;;;;;;;;;x
 b_sousse;Hadrumetum;;;;;;;;;;;;;x
 b_syracusa;Syracusæ;;;;;;;;;;;;;x
 b_tarazona;Turiaso;;;;;;;;;;;;;x
 b_teramo;Interamnia;;;;;;;;;;;;;x
 b_tigzirt;Iomnium;;;;;;;;;;;;;x
 b_trapani;Drepanum;;;;;;;;;;;;;x
+b_trier;Trier;;;;;;;;;;;;;x
 b_urgell;Orgellis;;;;;;;;;;;;;x
 PROV21;Glevum;;;;;;;;;;;;;x
 PROV23;Sarum;;;;;;;;;;;;;x
@@ -60,6 +65,9 @@ PROV53;Cumbria;;;;;;;;;;;;;x
 PROV73;Cantia;;;;;;;;;;;;;x
 PROV76;Ypra;;;;;;;;;;;;;x
 PROV77;Atrebatum;;;;;;;;;;;;;x
+PROV90;Juliacum;;;;;;;;;;;;;x
+PROV116;Legia;;;;;;;;;;;;;x
+PROV118;Treverorum;;;;;;;;;;;;;x
 PROV157;Iria;;;;;;;;;;;;;x
 PROV162;Cilpes;;;;;;;;;;;;;x
 PROV163;Ossonoba;;;;;;;;;;;;;x
@@ -71,6 +79,7 @@ PROV169;Carthago Nova;;;;;;;;;;;;;x
 PROV173;Tarraco;;;;;;;;;;;;;x
 PROV174;Ars;;;;;;;;;;;;;x
 PROV175;Bilbilis;;;;;;;;;;;;;x
+PROV177;Segontia;;;;;;;;;;;;;x
 PROV178;Turiaso;;;;;;;;;;;;;x
 PROV179;Orospeda;;;;;;;;;;;;;x
 PROV180;Iliberris;;;;;;;;;;;;;x
@@ -88,6 +97,7 @@ PROV205;Ampurias;;;;;;;;;;;;;x
 PROV206;Orgellis;;;;;;;;;;;;;x
 PROV207;Osca;;;;;;;;;;;;;x
 PROV214;Tolosa;;;;;;;;;;;;;x
+PROV326;Calaris;;;;;;;;;;;;;x
 PROV330;Saena Julia;;;;;;;;;;;;;x
 PROV332;Urbetellum;;;;;;;;;;;;;x
 PROV333;Roma;;;;;;;;;;;;;x

@@ -1540,14 +1540,19 @@ e_gallia = {
 				}
 			}
 		}
-		d_luxembourg = {
-			color={ 110 110 155 }
+		d_treveria = {
+			color={ 91 91 159 }
 			color2={ 255 255 255 }
 			
-			capital = 115 #Luxembourg
+			capital = 118 # Trier
+
+			old_frankish = Treveris
+			burgundian = Treveris
+			visigothic = Treveris
+			ostrogothic = Treveris
 			
 			c_luxembourg = {
-				color={ 113 113 158 }
+				color={ 137 137 188 }
 				color2={ 255 255 255 }
 
 				roman = Arduennensis
@@ -1591,8 +1596,10 @@ e_gallia = {
 				}
 			}
 			c_liege = {
-				color={ 120 120 165 }
+				color={ 100 77 150 }
 				color2={ 255 255 255 }
+
+				# defaults to Legia
 
 				roman = Leodium
 				graeci = Leodium
@@ -1647,8 +1654,10 @@ e_gallia = {
 				}
 			}
 			c_julich = {
-				color={ 100 100 141 }
+				color={ 47 47 83 }
 				color2={ 255 255 255 }
+
+				# defaults to Juliacum
 
 				roman = Iuliacum
 				graeci = Iuliacum
@@ -1699,6 +1708,94 @@ e_gallia = {
 				b_moers = {
 				}
 				b_monschau = {
+				}
+			}
+			c_trier = {
+				color={ 72 72 149 }
+				color2={ 255 255 255 }
+
+				roman = "Treverorum"
+				graeci = "Treverorum"
+				greek = Treverorum
+				galloroman = "Treveris"
+				iberoroman = Treveris
+				britto = Treveris
+				mauri = Treveris
+				old_frankish = Treveris
+				burgundian = Treveris
+				visigothic = Treveris
+				ostrogothic = Treveris
+			
+				b_andernach = {
+				}
+				b_trier = {
+					roman = "Treverorum"
+					graeci = "Treverorum"
+					greek = Treverorum
+					galloroman = Treveris
+					iberoroman = Treveris
+					britto = Treveris
+					mauri = Treveris
+					old_frankish = Treveris
+					burgundian = Treveris
+					visigothic = Treveris
+					ostrogothic = Treveris
+				}
+				b_coblenz = {
+					roman = Confluentes
+					graeci = Confluentes
+					greek = Confluentes
+					galloroman = Confluentes
+					iberoroman = Confluentes
+					britto = Confluentes
+				}
+				b_sponheim = {
+					old_frankish = Spanheym
+					burgundian = Spanheym
+					thuringian = Spanheym
+					alemannic = Spanheym
+					old_saxon = Spanheym
+					saxon = Spanheym
+				}
+				b_wittlich = {
+				}
+				b_gerolstein = {
+				}
+				b_laach = {
+				}
+				b_bitburg = {
+				}
+			}
+			c_verdun = {
+				color={ 130 130 165 }
+				color2={ 255 255 255 }
+
+				roman = "Virodunum"
+				graeci = "Virodunum"
+				greek = Virodunum
+				galloroman = "Verodunum"
+				iberoroman = "Verodunum"
+				britto = Verodunum
+			
+				b_verdun = {
+					roman = "Virodunum"
+					graeci = "Virodunum"
+					greek = Virodunum
+					galloroman = "Verodunum"
+					iberoroman = "Verodunum"
+					britto = Verodunum
+				}
+				b_grandpre = {
+				}
+				b_barlecomte = {
+				}
+				b_longuyon = {
+				}
+				b_doaumont = {
+				}
+				b_stenay = {
+				}
+				b_etain = {
 				}
 			}
 		}
@@ -1882,52 +1979,6 @@ e_gallia = {
 				b_saarbrucken = {
 				}
 			}
-			c_trier = {
-				color={ 144 144 177 }
-				color2={ 255 255 255 }
-
-				roman = "Treverorum"
-				graeci = "Treverorum"
-				greek = Treverorum
-				galloroman = "Treveris"
-				iberoroman = Treveris
-				britto = Treveris
-			
-				b_andernach = {
-				}
-				b_trier = {
-					roman = "Treverorum"
-					graeci = "Treverorum"
-					greek = Treverorum
-					galloroman = Treveris
-					iberoroman = Treveris
-					britto = Treveris
-				}
-				b_coblenz = {
-					roman = Confluentes
-					graeci = Confluentes
-					greek = Confluentes
-					galloroman = Confluentes
-					iberoroman = Confluentes
-					britto = Confluentes
-				}
-				b_sponheim = {
-					old_frankish = Spanheym
-					burgundian = Spanheym
-					thuringian = Spanheym
-					alemannic = Spanheym
-					old_saxon = Spanheym
-					saxon = Spanheym
-				}
-				b_wittlich = {
-				}
-				b_gerolstein = {
-				}
-				b_laach = {
-				}
-				b_bitburg = {
-				}
-			}
 			c_metz = {	
 				color={ 150 150 185 }
 				color2={ 255 255 255 }
@@ -1966,38 +2017,6 @@ e_gallia = {
 				b_joudreville = {
 				}
 				b_audunleroman = {
-				}
-			}
-			c_verdun = {
-				color={ 130 130 165 }
-				color2={ 255 255 255 }
-
-				roman = "Virodunum"
-				graeci = "Virodunum"
-				greek = Virodunum
-				galloroman = "Verodunum"
-				iberoroman = "Verodunum"
-				britto = Verodunum
-			
-				b_verdun = {
-					roman = "Virodunum"
-					graeci = "Virodunum"
-					greek = Virodunum
-					galloroman = "Verodunum"
-					iberoroman = "Verodunum"
-					britto = Verodunum
-				}
-				b_grandpre = {
-				}
-				b_barlecomte = {
-				}
-				b_longuyon = {
-				}
-				b_doaumont = {
-				}
-				b_stenay = {
-				}
-				b_etain = {
 				}
 			}
 		}

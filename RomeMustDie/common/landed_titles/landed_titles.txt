@@ -18619,6 +18619,12 @@ e_spain = {
 			c_cuenca = {
 				color = { 251 210 21 }
 				color2={ 255 255 255 }
+
+				#defaults to 'Segontia' now
+
+				roman = Arevacia
+				graeci = Arevacia
+				greek = Arevacia
 				
 				bedouin_arabic = "Kunka"
 				maghreb_arabic = "Kunka"
@@ -18627,6 +18633,7 @@ e_spain = {
 				andalusian_arabic = "Kunka"
 				
 				b_siguenza = {
+					# defaults to 'Segontia' now
 				}
 				b_cuenca = {
 					bedouin_arabic = "Kunka"

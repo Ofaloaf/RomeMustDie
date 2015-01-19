@@ -565,3 +565,25 @@
 		death=yes
 	}
 }
+
+789038 = {
+	name="Arbogast"
+	# From a Frankish family that was heavily Romanized, potentially a warlord of Trier according to the letters of Sidonius Apollinaris
+	dynasty=451051
+	martial=7
+	diplomacy=9
+	intrigue=8
+	stewardship=10
+	religion="nicene"
+	culture="galloroman"
+	add_trait="scholar"
+	add_trait="ambitious"
+	add_trait="zealous"
+	add_trait="misguided_warrior"
+	430.1.1 = {
+		birth="430.1.1"
+	}
+	486.1.1 = {
+		death="486.1.1"
+	}
+}

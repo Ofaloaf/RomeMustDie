@@ -32,3 +32,8 @@
 	name = "Quixotus"
 	used_for_random = no
 }
+
+411008 = {
+	name = "Goddasing"
+	culture = visigothic
+}

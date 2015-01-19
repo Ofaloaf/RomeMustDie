@@ -365,7 +365,7 @@
 	intrigue=8
 	stewardship=9
 	religion="arian"
-	culture="visigoth"
+	culture="visigothic"
 	add_trait="gregarious"
 	add_trait="mystic"
 	add_trait="underhanded_rogue"
@@ -386,7 +386,7 @@
 	stewardship=6
 	learning=7
 	religion="arian"
-	culture="visigoth"
+	culture="visigothic"
 	add_trait="charismatic_negotiator"
 	add_trait="trusting"
 	add_trait="gregarious"
@@ -407,13 +407,27 @@
 	stewardship=8
 	learning=9
 	religion="arian"
-	culture="visigoth"
+	culture="visigothic"
 	add_trait="lunatic"
 	add_trait="just"
 	add_trait="kind"
 	add_trait="brave"
 	add_trait="trusting"
 	421.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+200308 = {
+	name="Paitrus"
+	dynasty=411008
+	religion="arian"
+	culture="visigothic"
+	add_trait="ambitious"
+	436.1.1 = {
 		birth=yes
 	}
 	500.1.1 = {

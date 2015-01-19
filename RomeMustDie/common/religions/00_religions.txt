@@ -430,7 +430,7 @@ christian = {
 		can_retire_to_monastery = yes
 		
 		religious_clothing_head = 0
-		religious_clothing_priest = 2
+		religious_clothing_priest = 1
 	}
 	donatist = {
 		graphical_culture = westerngfx
@@ -465,6 +465,23 @@ christian = {
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 2
+	}
+	priscillian = {
+		graphical_culture = westerngfx
+
+		icon = 1
+		heresy_icon = 6
+		
+		color = { 0.8 0.66 0.85 }
+		parent = nicene
+		
+		crusade_name = CRUSADE
+
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
 	}
 }
 

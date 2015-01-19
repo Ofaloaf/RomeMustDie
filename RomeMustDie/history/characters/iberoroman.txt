@@ -215,7 +215,7 @@
 	name="Celsus"
 	dynasty=492056
 	culture=iberoroman
-	religion=nicene
+	religion=priscillian
 	426.1.1={
 		birth=yes
 	}
