@@ -1,0 +1,14 @@
+# 52 - Northumberland
+
+# County Title
+title = c_northumberland
+
+# Settlements
+max_settlements = 4
+b_coria = castle
+b_newcastle = city
+b_lindisfarne = temple
+
+# Misc
+culture = welsh
+religion = pelagian

@@ -1,0 +1,19 @@
+410.1.1 = {
+	liege = "d_powys"
+	holder = 1589003 # Vortigernus / Vortigern / Gwrtheyrn
+}
+440.1.1 ={
+	holder = 1589005 # Vortimerius / Vortimer / Gwerthefyr
+}
+441.1.1 = {
+	holder = 1589003 # Vortigern / Vortigern / Gwrtheyrn
+}
+444.1.1 = {
+	holder = 1589006 # Catigernus / Catigern / Cadeyern
+}
+447.1.1 = {
+	holder = 1589009 # Catullus / Cadell
+}
+460.1.1 = {
+	holder = 1589011 # Concennus / Cyngen
+}

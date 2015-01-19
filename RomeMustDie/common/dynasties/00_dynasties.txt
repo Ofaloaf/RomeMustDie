@@ -14967,7 +14967,7 @@
 	culture = saxon
 }
 100025 = {
-	name="of Sussex"
+	name="Suþseaxna"
 	culture = saxon
 }
 100026 = {

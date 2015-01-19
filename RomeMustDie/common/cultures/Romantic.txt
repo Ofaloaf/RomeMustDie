@@ -109,7 +109,7 @@ romantic = {
 			Maura Marcellinus Maria Marina Margarita Matrona Modesta Monica Melania Mauricia
 			Narcissa Natalia
 			Oliva
-			Papianilla Placidana Patricia Perpetua Petronilla Pia Prudentia
+			Papianilla Placidana Patricia Perpetua Petronilla Pia Prudentia Pimeniola
 			Quiteria Quirina
 			Renata Regina Regula Rosalia
 			Salvatrix Seraphina Serena Sibylla Sidonia Sperantia Servilia
@@ -269,25 +269,26 @@ romantic = {
 			Constantinus Cerialis Calpurnius Cunobelinus Caratacus Christophorus Caristanius Crotus Conanus
 			Cadar Claudius Carantocus Cantigernus Chrysanthus Civilis Classicianus Catamanus Concarius Cepius
 			Dubnovellaunus Dainiolus Decianus Didius Dulcitius Davidus Drustanus Darocus Donatus Docomaglus
-			Enestinus Enemnogenus Eluanus Eugenius Eborius Egnatius Engenius Ercus Euridius
+			Enestinus Enemnogenus Eluanus Eugenius Eborius Egnatius Engenius Ercus Euridius Eppillus
 			Fastidius
-			Guitelinus Gerontius Gundleus Guriatus
+			Guitelinus Gerontius Gundleus Guriatus Gorlois Goeznovius
 			Hilarius Hieronymianus Hovelius Halocus
 			Ivomagus Iltutus Iohannes
 			Julius Justus Judocus Judicallus
+			Kertigernus
 			Lucilianus Leudonus
 			Maximus Martinus Motius Melisus Matugenus Matocus Melorius Maclovius Marcianus Maucannus Melius
 			Marcus
 			Nectovelius Nigrinus Natanus
 			Ostorius Obinus Oudoceus Octavius
-			Prasutagus Paddalius Paulinus Pabius Petrocus Pascentius
+			Prasutagus Paddalius Paulinus Pabius Petrocus Pascentius Porrex
 			Romanus Rufus Restitus Remigius Rivaldus Romanus Romulus Riothamus
 			Senaculus Setibogius Sennianus Segovax Stephanus Samuvellus Saturnus Serialanus Solomanus Sixtus
 			Sanctanus Sedullus
 			Theanus Terentianus Titus Taximagulus Theonus Tincatus Theodovellaunus Teliaus Tatheus Trillus
 			Theodorus Theophilus Thomasinus
 			Uturius Ursinus Umbramaglus Urbanus
-			Venutius Vindex Virssuccius Vellocatus Vortimoricus Vitalinus
+			Venutius Vindex Virssuccius Vellocatus Vortimoricus Vitalinus Vosenius
 			Winocus Walganus Wurtigernus
 		}
 		female_names = {
@@ -303,7 +304,7 @@ romantic = {
 			Nonita Narcissa
 			Renata Regina Reginbelta
 			Severa Saturnina Sabina Severina
-			Tania Tanatuvenna Tacita Tullia
+			Tania Tanatuvenna Tacita Tullia Theneva
 			Ursula
 			Verica Verctissa Velvela Veronica Valeria
 			Wenbruia
@@ -322,92 +323,6 @@ romantic = {
 		mother_name_chance = 20
 		
 		disinherit_from_blinding = yes
-
-		modifier = default_culture_modifier
-	}
-	rumonei = {
-		#Romanized Goths-- "Rumoneis" is the plural in old Gothic, I'm just assuming removing the -s makes it singular.
-		graphical_culture = italiangfx
-		
-		color = { 0.9 0.7 0.6 }
-
-		male_names = {
-			Abbelino Abellonio Abraham_Abraham Abrentius Abrecco Acerrimus Acimirus Acterius Adamantius Adarius Adaulfus Adefonsus_Alphonse Adivertus Adolindus Atriano_Adrian Anfilocius Anastasio_Anastasius
-			Advocato Agildo Agimado Aidio_Egidius Albano Aldroyto Alduario Aliverto_Albert Alvato Alpadio Aliulfo Amalricus Amarellus Amantilius Amantius Ambrosio_ambrosius Amicus Amorolino Andericus
-			Andrias_Andrew Andulfus Androitus Antonino_Antonius Antonio_Antonius Achilas Achilino Arias Arnaldus Artemius Arvaldus Aurelianus Audofredus Auriolus Agila Artemirus Americus
-			Badaguto Badosindo Baldo Balderico Bartholomeo_Bartholomew Barva Basilianus Bazarino Bellaricus Belius Bellonus Bellerto Belsario_Belisarius Berosindus Besilio_Basilius Biandus Bonellus Bonentius 
-			Blandino Bonino Bonimiro Buiso Busiano
-			Cadenio Cagildo Cagimiro Calcedonio Callistus Calventius Calvosindo Camillus Candidus Cardellus Cartio Cartarius Cartemiro Celidus Centullo Christovalo Ciprianus_cyrpianus Citello Citronio Claudio
-			Clementio Comparato Constantino_constantine Constanzo_Constantius Corbello Cornelio Corviano Corvino Corvus Cottomiro Crescitu Cresus Crispus Cufario Cuttellus Cuttimano Caudemirus
-			Dacamiro Dactus Dagoi Dadeo Dadinus Dagaredo Dalmazius Dalinus Damiano Damiro Dundo Daniel Dannarius Dassaredus Datinus Dato Davi_david Decimanus Decius Dedono Deiservo Deodato
-			Destericus Dicentius Doda Dodado Domerigo Domengo_Dominic Donatu_Donatus Donagastro Donegildus Donimentius Donnadeo Donnello Domno Docemiro Docidio Donio
-			Egenio_Eugene Eborico_Euric Effronio Eldegoto Eldeverto Eylas_Elias Elisco Elmoncio Elpericius Engomiro Envolatus Ermaldus Ermefredo Ermarius Eugienadus Eularius Evorido Eitor_Hector Emilio_Aemilianus 
-			Falgildo Falbatus Faldramno Fallustius Fandino Fanno Faragoto Farildo Farino Fatalis Faustinus Feles_Felix Felmirus Ferreniolus Ferriolo Ferronio Fidel_Fidelis Flacidius Flagino Flaminus Fructu
-			Flamolino Flaianus_Flavius Flazentio Flazino Florenzo_Florentius Florenus Floridio Fofinus Fonso Fortis Froaringus Francito Francolino Fredegildus Fredericus Fridiverto Froiellus Fromilio
-			Fructoso Frumario Frumello Fulgentio
-			Gademiro Gadino Gaido Galiano Gallo_gallus Gandaricus Ganito Gattelus Gaudioso Gavellus Gavinio Gellas Generosus Geodefredo Genitrigus Geodesindus Geraldus Gerardus Germanus Gesmondo Getericus Gillus
-			Gitio Godefredo Gobes Godito Gomadus Gomeleus Gomidius_gomez Gratianus Gratus Gratinus Gemnadius Germias_Jeremiah
-			Honnecus Henrico_Henry Hectus Holovio Honestus Honoratus Honorius Horatio_horatius Horlonio
-			Ilderigus Iemundus Infantinus Iohannis_John Isidorio_Isidore Iusterigo Italilo
-			Jordanes Jacobo_Jacob Jonarico Jonas Jovino Jovio Jubanus Junio Junnimio Jurisio Juvenes Justino Justo
-			Karello_Charles Kartias
-			Luco_Luke Lallino Lallo Lampadius Lantio Laurenso_Laurence Laurentino Leceniano Lecenio Leo Leondesindus Leontius Liberius Litus Letimius Licidius Licus Liverto Lomearius Lubellus Lucentius Lucito
-			Lucrici Lupario Lopus_Lupo Ludisio Lando
-			Mactitus Magentio Maginus Magiomiro Magistro Magnito Magnentius Maldras Maliciosus Mallus Mallellus Mannitus Maninus Manuel_Emmanuel Marcelianus Marcellinus Marcello_marcellus Marchus_marcus
-			Mariolus Marius Marianus Marrequino Martianus Mertino_Martin Maternianus Maderno_maternus Mateus Mauratinus Maurecatellus Maurelinus Mauricellus Maricius Maurelio Mauro Maximus Maximinus Mellitus Mellus
-			Mercolino Menendus Mercurianus Micael_Michael Miliano_Aemilianus Modario Modestus Modildus Modorigus Momellus Moyses_moses Murgito
-			Naiorellus Nadaricus Nando Nandulfo Nannitus Nantildo Nantinus Naustinus Nebridius Nebotiano Nepoi Nicholaus_Nicholas Niterius Nobidius Nonello Nordello Novinus Nordemanus Numitius Nonus
-			Ostromiro Odericus Octavio_Octavius Octaviano Odorio Odisclus Orbanus_Urbanus Onaredo Olorius Olervio Offrasius Ordinus Orinoleo Oservio_eusebius Osorius Osteus Ovinius
-			Pabregildus Palatinus Pallito Pantardua Pantaleon_pantaleus Pappellus Paschasius Pascual Paterno Patricius Paulo_paul Pelaio_Pelagius Pennino Perello Perenius Petrunius Petro_peter Pictacius Pinniolo Pipinus
-			Placentius Placidio_placidius Placinus Podengo Polemius Pompedius Pontius Ponpeianus Ponpilo Posedonius Postimianus Postonio Potamio Precarius Principio Proamius Provaredo Pruentus Puricello
-			Quendamiro Quendas Qualamirus Quellas Quintiliano Quinto_Quintus Quiriacus
-			Rademirus Radulfus Racerius Ramaldus Randinus Ramdo Rapinator Rauparius Reles Remesario Renovado Reparato Revelius Reverentio Robertus_Robert Romanici_Roman Romarigus Romeo Romellus
-			Salvator Sabbatinus Sabbatus Sagato Sagildo Sallamirus Salomon_Solomon Salla Salvadus Sampirus Samuhel_Samuel Sandinus Sandus Sannosindo Santaricus Santoius Saul Savaraco Savardus Savegotus Saxato Sistus
-			Saxito Scemirus Sedeus Segundinus Sempronio Sendello Sendas Sentario Septimo Sereniano Sereno Servatus Sigito Sigulfus Silus Silvano_Silvanus Sylvester Simplicius Solino Sonnaricus Sparrellus
-			Spintino Spodericus Stephanus_Stephen Symphonio
-			Teoderico_Theodoric Triario Teodemiro Todenandus Tegilo Tagiolo Tagito Tantius Tarendus Teiro Teadario Taurelo Teobaldus Teodefredo Teodelindus Toderedo Titus Teretianus Tequilo Todesso Todosio Toutellus
-			Tradinus
-			Valia Valamiro Valdemiro Valerio_Valerius Vaeriano Vandellus Velascus Venario Venetarius Venzo Viarigo Viator Vilifredus Vincemalus Vistisclo
-		}
-		female_names = {
-			Abragasia Aboguntia Acilo Acita Adileova Agero Alarina Aliverta Amita Animia Anna_anna Ansetrudia Ansileova Ansobrida Antolina Arcedonia Araguntia Ardeta Ardilo Arentia Argeva Argilo Argilolia Arosinda Auria
-			Badagundia Baldina Bachina Basilisa Beata Beatrix Bellita Berilo Berosildi Berreda Bitilo Bonella Bononome Bonosa
-			Cagita Camilla Cardigundia Cardileova Cardina Cecilia Cenobrida Cevera Columba Constancie_constantia Crementia_clementia Crescente Creusa Cristina_christina Culia
-			Dadilo Dagadrudia Datina Deidona Delgada Destelli Docevita Dominica Donna Donnia_domnina Dorotea Dulce Dulcina
-			Eudocia Ereleuva Elaguntia Ebragundia Ebradrudia Edelruvilo Eylonia Elabrida Eldegundia Eldesina Eldigia Elisa Enderquina Engomere Entrudi Eolalia Ermedrudia Ermegontia Esmerilo Eugenia Eldontia
-			Flamula Fandina Faquina Fasquida Favita Felicia Ferriola Flodildi Floridia Foquima Fredefundia Fragundia Fredenanda Frederica Frogina Froileva Flamolina Froilo Fronosili Frunilli Frunilo Frunimia
-			Galla Gatine Gaudili Geima Gelleta Gendina Genegia Genesia Genesita Geneta Getilli Getina Getisilolo Gigenia Gigiunda Gisenda Giudmira Goeleuva Gogilli Gogia Gomita Gosenda Gracilo Gramila Granilo Grasiola
-			Gratiosa Gratina Gundebreda Gundivere
-			Hermesinda Helisabeth_elisabeth Hiconia Honoria
-			Ileuva Ilvira Ildiverga Iohanne_johanna Isilo Iussana Italubrida
-			Julia Juliana Justa Justina
-			Lalla Lallina Laurentina Laurenza Leocadia Leona Leontia Leodegundia Leovilli Lovilo Lepora Letifaga Lindigundia Lita Lupe Lupella
-			Maiore Maiorina Manina Manosinda Manusildia Manildia Margarida Maria Marina Martina Matreduze Matrella Matrevita Matrona Mectubrida Maxima Maximina Meegita Maurelina Mauricia Mendonia Menegundia Menitia Meola
-			Mercolina Merovia Metina Mirella Miro Mirosinda Mumadomna Munina
-			Nanella Nanna Nannita Naoralia Natalia Naustina Neredina Ninilo Nina Nomne Nonnina Nuillo Numitia Nuna Nunella
-			Obstrisinda Ocorabia Ostabia_octavia Odoricua Odrotia_eutrocia Onegilda Ostofreda Ostrofreda Ostubreda
-			Pacina Pagusa Palla Palili Pallita Paterna Pemo Patruina Penetrudia Piniola Platia Placidia Posedonia Proentia
-			Qualtrudia Qualavara Quintilo
-			Ragiola Ranilo Raniverga Raupilo Recebrida Recetrudia Recilli Reverenza Ricionda Rigilo Rimiola Rimionda Riccilo Romana
-			Sabatina Salagundia Sanigia Salvatrix Salafreda Sarracina Sexta Sebanina Segegundia Semperbona Senetrudia Sendina Seniorina Serena Sesgundia Sicilia Sigefrida Simbriola Sisileova Sisilu Sisuigia Solimia
-			Speciosa Saisana_susan
-			Tancina Tanina Tarasia Tarsina Teodegundia Teodesinda Teoridia Teoda Trasaguntia Trasavara Tricilo Tructa Truda Trudilo Trudina
-			Visclavara Valatrudia Valadrudia Valamira Vana Valeria Vegicia Vegila Vergina Vilocia Vindemiola Viniola Virginia Vistivara
-			Yberia Ytilia
-		}
-		from_dynasty_prefix = "de "
-
-		modifier = default_culture_modifier
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 15
-		father_name_chance = 25
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 40
-		mat_grm_name_chance = 20
-		mother_name_chance = 10
-
 
 		modifier = default_culture_modifier
 	}

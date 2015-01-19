@@ -449,6 +449,23 @@ christian = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 2
 	}
+	pelagian = {
+		graphical_culture = westerngfx
+
+		icon = 2
+		heresy_icon = 7
+		
+		color = { 0.9 0.77 0.67 }
+		parent = nicene
+		
+		crusade_name = CRUSADE
+
+		autocephaly = no
+		can_retire_to_monastery = yes
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 2
+	}
 }
 
 muslim = {
@@ -1000,6 +1017,36 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+	}
+
+	druidic = {
+		graphical_culture = norsegfx
+
+		color = { 0.75 0.95 0.2 }
+
+		icon = 5
+
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+		evil_god_names = {
+			THE_DARK_SPIRITS
+		}
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = PRIEST
+		priests_can_marry = yes
+		female_temple_holders = yes
+		max_consorts = 3
+		
+		defensive_attrition = yes
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		allow_in_ruler_designer = no
+		
+		dislike_tribal_organization = yes
 	}	
 	
 	finnish_pagan_reformed = {
@@ -1505,6 +1552,7 @@ pagan_group = {
 		icon = 37
 		
 		color = { 0.6 0.1 0.1 }
+
 		god_names = {
 			GOD_JUPITER GOD_MERCURY GOD_MARS GOD_VENUS GOD_MINERVA GOD_VESTA
 		}
@@ -1518,7 +1566,7 @@ pagan_group = {
 		
 		priests_can_marry = yes
 		female_temple_holders = yes
-		max_consorts = 3
+		#max_consorts = 3
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3

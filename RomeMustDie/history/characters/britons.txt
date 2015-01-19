@@ -1,0 +1,291 @@
+1589001 = {
+	name="Aurelius"
+	dynasty=1589004
+	culture="britto"
+	religion="nicene"
+	385.1.1={
+		birth=yes
+	}
+	446.1.1={
+		death=yes
+	}
+}
+
+1589002 = {
+	name="Ambrosius"
+	dynasty=1589004
+	father=1589001
+	culture="britto"
+	religion="nicene"
+	martial=9
+	diplomacy=11
+	intrigue=7
+	stewardship=9
+	learning=8
+	trait=temperate
+	trait=zealous
+	trait=brilliant_strategist
+	415.1.1={
+		birth=yes
+	}
+	496.1.1={
+		death=yes
+	}
+}
+
+1589003 = {
+	name="Vortigernus"
+	dynasty=1589014
+	culture="britto"
+	religion="pelagian"
+	trait=craven
+	370.1.1={
+		birth=yes
+	}
+	398.1.1={
+		add_spouse=1589004
+	}
+	459.1.1={
+		death=yes
+	}
+}
+
+1589004 = {
+	name="Severa"
+	female=yes
+	culture="britto"
+	religion="nicene"
+	trait=craven
+	380.1.1={
+		birth=yes
+	}
+	459.1.1={
+		death=yes
+	}
+}
+
+1589005 = {
+	name="Vortimerius"
+	dynasty=1589013
+	father=1589003
+	mother=1589004
+	culture="britto"
+	religion="nicene"
+	trait=brave
+	trait=zealous
+	399.1.1={
+		birth=yes
+	}
+	455.1.1={
+		death=yes
+	}
+}
+
+1589006 = {
+	name="Catigernus"
+	dynasty=1589013
+	father=1589003
+	mother=1589004
+	culture="britto"
+	religion="nicene"
+	400.1.1={
+		birth=yes
+	}
+	447.1.1={
+		death=yes
+	}
+}
+
+1589007 = {
+	name="Pascentius"
+	dynasty=1589013
+	father=1589003
+	mother=1589004
+	culture="britto"
+	religion="nicene"
+	402.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+1589008 = {
+	name="Faustus"
+	dynasty=1589013
+	father=1589003
+	mother=1589004
+	culture="britto"
+	religion="nicene"
+	404.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+1589009 = {
+	name="Catullus"
+	dynasty=1589013
+	father=1589006
+	culture="britto"
+	religion="nicene"
+	425.1.1={
+		birth=yes
+	}
+	460.1.1={
+		death=yes
+	}
+}
+
+1589010 = {
+	name="Gwelfyl"
+	female=yes
+	culture="welsh"
+	religion="nicene"
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589011 = {
+	name="Concennus"
+	dynasty=1589013
+	father=1589009
+	mother=1589010
+	culture="britto"
+	religion="nicene"
+	455.1.1={
+		birth=yes
+	}
+	473.1.1={
+		add_spouse=1589012
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589012 = {
+	name="Tudlwystl"
+	female=yes
+	culture="welsh"
+	religion="nicene"
+	457.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589013 = {
+	name="Catullus"
+	dynasty=1589013
+	father=1589011
+	mother=1589012
+	culture="britto"
+	religion="nicene"
+	474.1.1={
+		birth=yes
+	}
+	560.1.1={
+		death=yes
+	}
+}
+
+1589014 = {
+	name="Brogmaglus"
+	dynasty=1589013
+	father=1589011
+	mother=1589012
+	culture="britto"
+	religion="nicene"
+	475.1.1={
+		birth=yes
+	}
+	560.1.1={
+		death=yes
+	}
+}
+
+1589015 = {
+	name="Constantinus"
+	dynasty=1589015
+	culture="britto"
+	religion="nicene"
+	trait=cruel
+	411.1.1={
+		birth=yes
+	}
+	443.1.1={
+		death=yes
+	}
+}
+
+1589016 = {
+	name="Urbanus"
+	dynasty=1589015
+	father=1589015
+	culture="britto"
+	religion="nicene"
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	learning=6
+	trait=tough_soldier
+	427.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes
+	}
+}
+
+1589017 = {
+	name="Marcianus"
+	dynasty=1589015
+	father=1589015
+	culture="britto"
+	religion="nicene"
+	430.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes
+	}
+}
+
+1589018 = {
+	name="Marcus"
+	dynasty=1589015
+	father=1589017
+	culture="britto"
+	religion="nicene"
+	trait=ugly
+	460.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589019 = {
+	name="Gurgustus"
+	dynasty=1589003
+	culture="britto"
+	religion="pelagian"
+	422.1.1={
+		birth=yes
+	}
+	490.1.1={
+		death=yes
+	}
+}

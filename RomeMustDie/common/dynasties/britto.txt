@@ -1,0 +1,74 @@
+1589001 = {
+	name = "Hosidius"
+	culture = britto
+}
+
+1589002 = {
+	name = "Molmutius"
+	culture = britto
+}
+
+1589003 = {
+	name = "Coelianus"
+	culture = britto
+}
+
+1589004 = {
+	name = "Aurelianus"
+	culture = britto
+}
+
+1589005 = {
+	name = "Londiniensis"
+	culture = britto
+}
+
+1589006 = {
+	name = "Eboracensis"
+	culture = britto
+}
+
+1589007 = {
+	name = "Lindensis"
+	culture = britto
+}
+
+1589008 = {
+	name = "Icenius"
+	culture = britto
+}
+
+1589009 = {
+	name = "Cantiacus"
+	culture = britto
+}
+
+1589010 = {
+	name = "Catuvellaunus"
+	culture = britto
+}
+
+1589011 = {
+	name = "Dumnonius"
+	culture = britto
+}
+
+1589012 = {
+	name = "Dobunnus"
+	culture = britto
+}
+
+1589013 = {
+	name = "Vortigernianus"
+	culture = britto
+}
+
+1589014 = {
+	name = "Glouvianus"
+	culture = britto
+}
+
+1589015 = {
+	name = "Purocoronavis"
+	culture = britto
+}

@@ -25,7 +25,9 @@ vasconian;Vasconian;;;;;;;;;;;;;x
 nicene;Nicene;;;;;;;;;;;;;x
 arian;Arian;;;;;;;;;;;;;x
 donatist;Donatist;;;;;;;;;;;;;x
-thuringian;Thuringian;;;;;;;;;;;;;x
+druidic;Druidic;;;;;;;;;;;;;x
+pelagian;Pelagian;;;;;;;;;;;;;x
+priscillian;Priscillian;;;;;;;;;;;;;x
 county_of_old_frankish;Pagus;;;;;;;;;;;;;x
 county_of_romantic;Comitatus;;;;;;;;;;;;;x
 count_romantic;Comes;;;;;;;;;;;;;x
@@ -44,10 +46,14 @@ k_austrasia;Austrasia;;;;;;;;;;;;;x
 k_austrasia_adj;Austrasian;;;;;;;;;;;;;x
 k_burgundia;Burgundia;;;;;;;;;;;;;x
 k_burgindia_adj;Burgundian;;;;;;;;;;;;;x
+k_cumbria;Cumbria;;;;;;;;;;;;;x
+k_cumbria_adj;Cumbrian;;;;;;;;;;;;;x
 k_hispania;Hispania;;;;;;;;;;;;;x
 k_hispania_adj;Hispanian;;;;;;;;;;;;;x
 k_illyricum;Illyricum;;;;;;;;;;;;;x
 k_illyricum_adj;Illyrican;;;;;;;;;;;;;x
+k_loegria;Loegria;;;;;;;;;;;;;x
+k_loegria_adj;Loegrian;;;;;;;;;;;;;x
 k_lusitania;Lusitania;;;;;;;;;;;;;x
 k_lusitania_adj;Lusitanian;;;;;;;;;;;;;x
 k_neustria;Neustria;;;;;;;;;;;;;x
@@ -82,6 +88,8 @@ d_andegavia;Andegavia;;;;;;;;;;;;;x
 d_andegavia_adj;Adegavian;;;;;;;;;;;;;x
 d_angaria;Angaria;;;;;;;;;;;;;x
 d_angaria_adj;Angarian;;;;;;;;;;;;;x
+d_anglia;Anglia;;;;;;;;;;;;;x
+d_anglia_adj;Anglian;;;;;;;;;;;;;x
 d_aquincensis;Aquincensis;;;;;;;;;;;;;x
 d_aquincensis_adj;Aquincensian;;;;;;;;;;;;;x
 d_aquitania;Aquitania;;;;;;;;;;;;;x
@@ -89,7 +97,7 @@ d_aquitania_adj;Aquitanian;;;;;;;;;;;;;x
 d_arcadia;Arcadia;;;;;;;;;;;;;x
 d_arcadia_adj;Arcadian;;;;;;;;;;;;;x
 d_armorica;Armorica;;;;;;;;;;;;;x
-d_armorica;Armorican;;;;;;;;;;;;;x
+d_armorica_adj;Armorican;;;;;;;;;;;;;x
 d_areani;Areani;;;;;;;;;;;;;x
 d_areani_adj;Areanian;;;;;;;;;;;;;x
 d_armenia;Armenia;;;;;;;;;;;;;x
@@ -114,6 +122,8 @@ d_ballearica;Ballearica;;;;;;;;;;;;;x
 d_ballearica_adj;Ballearican;;;;;;;;;;;;;x
 d_belgica;Belgica;;;;;;;;;;;;;x
 d_belgica_adj;Belgic;;;;;;;;;;;;;x
+d_bernicia;Bernicia;;;;;;;;;;;;;x
+d_bernicia_adj;Bernician;;;;;;;;;;;;;x
 d_bishop_of_rome;Bishopric of Rome;;;;;;;;;;;;;x
 d_bishop_of_rome_adj;Roman;;;;;;;;;;;;;x
 d_bithynia;Bithynia;;;;;;;;;;;;;x
@@ -132,6 +142,8 @@ d_caesariensis;Caesariensis;;;;;;;;;;;;;x
 d_caesariensis_adj;Caesariensian;;;;;;;;;;;;;x
 d_cantabria;Cantabria;;;;;;;;;;;;;x
 d_cantabria_adj;Cantabrian;;;;;;;;;;;;;x
+d_cantiacia;Cantiacia;;;;;;;;;;;;;x
+d_cantiacia_adj;Cantiacian;;;;;;;;;;;;;x
 d_carpetania;Carpetania;;;;;;;;;;;;;x
 d_carpetania_adj;Carpetanian;;;;;;;;;;;;;x
 d_carthaginiensis;Carthaginiensis;;;;;;;;;;;;;x
@@ -142,6 +154,10 @@ d_dardania;Dardania;;;;;;;;;;;;;x
 d_dardania_adj;Dardanian;;;;;;;;;;;;;x
 d_divio;Divio;;;;;;;;;;;;;x
 d_divio_adj;Divian;;;;;;;;;;;;;x
+d_dumnonia;Dumnonia;;;;;;;;;;;;;x
+d_dumnonia_adj;Dumnonian;;;;;;;;;;;;;x
+d_eboracum;Eboracum;;;;;;;;;;;;;x
+d_eboracum_adj;Eboracan;;;;;;;;;;;;;x
 d_emeritanus;Emeritaus;;;;;;;;;;;;;x
 d_emeritanus_adj;Emeritan;;;;;;;;;;;;;x
 d_europa;Europa;;;;;;;;;;;;;x
@@ -152,6 +168,8 @@ d_gaditanus;Gaditanus;;;;;;;;;;;;;x
 d_gaditanus_adj;Gaditanic;;;;;;;;;;;;;x
 d_gaetulia;Gaetulia;;;;;;;;;;;;;x
 d_gaetulia_adj;Gaetulian;;;;;;;;;;;;;x
+d_glouvia;Glouvia;;;;;;;;;;;;;x
+d_glouvia_adj;Glouvian;;;;;;;;;;;;;x
 d_hispalensis;Hispalensis;;;;;;;;;;;;;x
 d_hispalensis_adj;Hispalensian;;;;;;;;;;;;;x
 d_histria;Histria;;;;;;;;;;;;;x
@@ -162,6 +180,8 @@ d_legio;Legio;;;;;;;;;;;;;x
 d_legio_adj;Legioan;;;;;;;;;;;;;x
 d_liguria;Liguria;;;;;;;;;;;;;x
 d_liguria_adj;Ligurian;;;;;;;;;;;;;x
+d_lindum;Lindum;;;;;;;;;;;;;x
+d_lindum_adj;Lindensian;;;;;;;;;;;;;x
 d_lucania;Lucania;;;;;;;;;;;;;x
 d_lucania_adj;Lucanian;;;;;;;;;;;;;x
 d_lugdunensis;Lugdunensis;;;;;;;;;;;;;x
@@ -194,8 +214,12 @@ d_provincia;Provincia;;;;;;;;;;;;;x
 d_provincia_adj;Provincian;;;;;;;;;;;;;x
 d_ravenna;Ravenna;;;;;;;;;;;;;x
 d_ravenna_adj;Ravennan;;;;;;;;;;;;;x
+d_regnenses;Regnenses;;;;;;;;;;;;;x
+d_regnenses_adj;Regnenses;;;;;;;;;;;;;x
 d_rhaetia;Rhaetia;;;;;;;;;;;;;x
 d_rhaetia_adj;Rhaetian;;;;;;;;;;;;;x
+d_recet;Recet;;;;;;;;;;;;;x
+d_recet_adj;Recetian;;;;;;;;;;;;;x
 d_rhodope;Rhodope;;;;;;;;;;;;;x
 d_rhodope_adj;Rhodopean;;;;;;;;;;;;;x
 d_rucconia;Rucconia;;;;;;;;;;;;;x
@@ -216,6 +240,8 @@ d_sitifensis;Sitifensis;;;;;;;;;;;;;x
 d_sitifensis_adj;Sitifensian;;;;;;;;;;;;;x
 d_soissons;Soissons;;;;;;;;;;;;;x
 d_soissons_adj;Soissonais;;;;;;;;;;;;;x
+d_tamesis;Tamesis;;;;;;;;;;;;;x
+d_tamesis_adj;Tamesian;;;;;;;;;;;;;x
 d_tarraconensis;Tarraconensis;;;;;;;;;;;;;x
 d_tarraconensis_adj;Tarraconensian;;;;;;;;;;;;;x
 d_theifalia;Theifalia;;;;;;;;;;;;;x
@@ -242,9 +268,17 @@ d_zeugitana;Zeugitana;;;;;;;;;;;;;x
 d_zeugitana_adj;Zeutgitana;;;;;;;;;;;;;x
 b_absorus;Absorus;;;;;;;;;;;;;x
 b_altava;Altava;;;;;;;;;;;;;x
+b_chelmsford;Caesaromagus;;;;;;;;;;;;;x
+b_cilurnum;Cilurnum;;;;;;;;;;;;;x
+b_coria;Coria;;;;;;;;;;;;;x
+b_ebchester;Ebchester;;;;;;;;;;;;;x
+b_hunnum;Hunnum;;;;;;;;;;;;;x
 b_marcianopolis;Marcianopolis;;;;;;;;;;;;;x
+b_othona;Othona;;;;;;;;;;;;;x
 b_rusuccurum;Rusuccurum;;;;;;;;;;;;;x
+b_vindomora;Vindomora;;;;;;;;;;;;;x
 b_volubilis;Volubilis;;;;;;;;;;;;;x
+b_wroxeter;Viroconium;;;;;;;;;;;;;x
 EASTERN_ROMAN_EMPIRE;Eastern Roman Empire;;;;;;;;;;;;;x
 EASTERN_ROMAN_EMPIRE_adj;Eastern Roman;;;;;;;;;;;;;x
 ITALIA_ANNONARIA;Italia Annonaria;;;;;;;;;;;;;x

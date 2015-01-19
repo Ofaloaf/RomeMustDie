@@ -16,4 +16,4 @@ b_sanpedrodeperix = castle
 
 # Misc
 culture = iberoroman
-religion = nicene
+religion = priscillian

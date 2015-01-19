@@ -237,3 +237,13 @@
 	name = "Chaux"
 	culture = galloroman
 }
+
+451049 = {
+	name = "Agrycius"
+	culture = galloroman
+}
+
+451050 = {
+	name = "Trecensis"
+	culture = galloroman
+}

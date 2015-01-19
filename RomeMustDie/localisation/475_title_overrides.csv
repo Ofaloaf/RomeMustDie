@@ -11,6 +11,7 @@ b_bejaija;Saldae;;;;;;;;;;;;;x
 b_benevento;Benevento;;;;;;;;;;;;;x
 b_bizerte;Zarytus;;;;;;;;;;;;;x
 b_cadiz;Gades;;;;;;;;;;;;;x
+b_chester-le-street;Concagnis;;;;;;;;;;;;;x
 b_chieti;Teate;;;;;;;;;;;;;x
 b_cordoba;Corduba;;;;;;;;;;;;;x
 b_gabes;Tacapes;;;;;;;;;;;;;x
@@ -47,6 +48,16 @@ b_teramo;Interamnia;;;;;;;;;;;;;x
 b_tigzirt;Iomnium;;;;;;;;;;;;;x
 b_trapani;Drepanum;;;;;;;;;;;;;x
 b_urgell;Orgellis;;;;;;;;;;;;;x
+PROV21;Glevum;;;;;;;;;;;;;x
+PROV23;Sarum;;;;;;;;;;;;;x
+PROV24;Surria;;;;;;;;;;;;;x
+PROV25;Regninses;;;;;;;;;;;;;x
+PROV26;Venta;;;;;;;;;;;;;x
+PROV27;Durotrigia;;;;;;;;;;;;;x
+PROV29;Dumnonia;;;;;;;;;;;;;x
+PROV32;Londinium;;;;;;;;;;;;;x
+PROV53;Cumbria;;;;;;;;;;;;;x
+PROV73;Cantia;;;;;;;;;;;;;x
 PROV76;Ypra;;;;;;;;;;;;;x
 PROV77;Atrebatum;;;;;;;;;;;;;x
 PROV157;Iria;;;;;;;;;;;;;x

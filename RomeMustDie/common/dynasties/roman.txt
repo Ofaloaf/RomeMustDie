@@ -469,8 +469,8 @@
 }
 
 753094 = {
-	name = "Hosidius"
-	culture = britto
+	name = "Tricipitinus"
+	culture = roman
 }
 
 753095 = {
