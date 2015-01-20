@@ -5,7 +5,7 @@ title = c_guines
 
 # Settlements
 max_settlements = 4
-b_guines = castle
+b_guines = tribal
 b_calais = city
 
 #b_dunkerque = city
@@ -15,5 +15,5 @@ b_calais = city
 #b_coulogne = temple
 
 # Misc
-culture = galloroman
-religion = nicene
+culture = old_frankish
+religion = norse_pagan

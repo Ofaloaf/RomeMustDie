@@ -5,10 +5,8 @@ title = c_gent
 
 # Settlements
 max_settlements = 5
-b_oudenaarde = castle
-b_gent = city
+b_oudenaarde = tribal
 b_doornik = temple
-b_kortrijk = city
 
 #b_dendermonde = castle
 #b_geraarsbergen = castle

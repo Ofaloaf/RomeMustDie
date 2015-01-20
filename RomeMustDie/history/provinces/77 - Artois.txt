@@ -5,9 +5,7 @@ title = c_artois
 
 # Settlements
 max_settlements = 5
-b_bethune = castle
-b_arras = city
-b_terwaan = temple
+b_bethune = tribal
 
 #b_lens = city
 #b_lille = city
@@ -16,5 +14,5 @@ b_terwaan = temple
 #b_bapaume = castle
 
 # Misc
-culture = galloroman
-religion = nicene
+culture = old_frankish
+religion = norse_pagan

@@ -5,12 +5,9 @@ title = c_hainaut
 
 # Settlements
 max_settlements = 5
-b_ath = castle
-
+b_ath = tribal
 b_cambrai = temple
 
-b_valenciennes = city
-
 # Misc
-culture = galloroman
-religion = nicene
+culture = old_frankish
+religion = norse_pagan

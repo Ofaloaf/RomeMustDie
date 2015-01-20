@@ -62,3 +62,9 @@
 	name = "Salius"
 	culture = old_frankish
 }
+
+1940014 = {
+	name = "Merovingi"
+	culture = old_frankish
+	used_for_random = no
+}

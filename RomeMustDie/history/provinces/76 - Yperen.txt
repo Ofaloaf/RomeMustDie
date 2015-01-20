@@ -5,8 +5,7 @@ title = c_yperen
 
 # Settlements
 max_settlements = 5
-b_cassel = castle
-b_ypres = city
+b_ypres = tribal
 
 b_rosebeke = temple
 

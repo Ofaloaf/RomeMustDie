@@ -1,5 +1,6 @@
 448.1.1 = {
-	holder = 1789008 # Merovech
+	liege = "d_toxandria"
+	holder = 1789008 # Meroch
 }
 457.1.1 = {
 	holder = 1789009 # Childeric I
