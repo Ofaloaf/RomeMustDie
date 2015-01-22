@@ -161,7 +161,7 @@ romantic = {
 			Zeno Zebinnus
 		}
 		female_names = {
-			Aedesia Anatolia Ariadne Arsenia Asclepigenia Arcadia Adeia Agnodice Axiothea Antigone Alexia Alexandra Anastasia Anna Angelina Arsinoe
+			Aedesia Anatolia Ariadne Arsenia Asclepigenia Arcadia Adeia Agnodice Axiothea Antigone Alexia Alexandra Anastasia Anna Angelina Arsinoe Aedesia
 			Beroea Berenice Batus
 			Callippa Cassandra Constantina Claudia Campaspe
 			Domnina Didymeia Dripetrua Drusilla Diotima

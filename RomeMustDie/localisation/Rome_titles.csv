@@ -23,12 +23,19 @@ rumonei;Rumonei;;;;;;;;;;;;;x
 thuringian;Thuringian;;;;;;;;;;;;;x
 vandal;Vandal;;;;;;;;;;;;;x
 vasconian;Vasconian;;;;;;;;;;;;;x
-nicene;Nicene;;;;;;;;;;;;;x
-arian;Arian;;;;;;;;;;;;;x
-donatist;Donatist;;;;;;;;;;;;;x
 druidic;Druidic;;;;;;;;;;;;;x
+nicene;Nicene;;;;;;;;;;;;;x
+nicene_DESC;When the Roman Emperor Constantine I ended centuries of persecution and began embracing early Christianity, one of his major projects was to seek theological conformity within Christendom. To this end, he convened the First Council of Nicaea in 325. After much debate, this council produced the Nicene Creed, outlining explicitly some of the central tenets of mainstream Christianity. This form of Christianity, embraced by the Roman Empire in the 4th and 5th centuries, is thus called 'Nicene' Christianity, although 'Chalcedonian', in reference to the 451 Council of Chalcedon, is also sometimes used.;;;;;;;;;;;;;x
+arian;Arian;;;;;;;;;;;;;x
+arian_DESC;Arianism was branded a heresy at the 325 Council of Nicaea for its rejection of the Holy Trinity, instead viewing Jesus, the Son of God, as subordinate to God the Father, rather than his equal, which is the Trinitarian view endorsed by the Nicene Creed. Although Arianism was thus rejected by authorities within the Roman Empire, Arianism fluorished amongst Germanic Christian converts, in particular gaining much influence within the Gothic tribes.;;;;;;;;;;;;;x
+donatist;Donatist;;;;;;;;;;;;;x
+donatist_DESC;Donatism was a product and reaction to the last major persecution of Christians, under Diocletian. Some Roman governors had persecuted with a relatively light touch, and had simply demanded that Christians hand over copies of the Scriptures, make a token recanting, and/or just kinda sorta vow that the Emperor was still top dog. Those that succumbed to these demands rather than be imprisoned, martyred or otherwise have a rough time of it were deemed 'traditores' by more purestrain types, who refused to ever let those guys come back into the fold, and went absolutely apoplectic when one of these 'traditores' was later nominated to be Bishop of Carthage. Donatus Magnus, nominated in opposition to the tradito, became the namesake of this schismatic branch of the Church.;;;;;;;;;;;;;x
 pelagian;Pelagian;;;;;;;;;;;;;x
+pelagian_DESC;The core of Pelagianism was a rejection of the idea of original sin and an early advocacy of salvation through good works, rather than faith alone. Pelagian was, in part, a reaction to the Christian tendency to excuse bad behaviors with ideas of human faility and original sin. Pelagianism's advocates claimed that Adam's sins did not innately taint all humanity, but merely set a bad example which modern people could do better than if they just bothered trying to live moral lives.;;;;;;;;;;;;;x
 priscillian;Priscillian;;;;;;;;;;;;;x
+priscillian_DESC;Strongly influenced by Gnostic and Manichaeist thought, Priscillianists expounded a dualistic view of the universe, where Light and Darkness are in conflict. Jesus' death was meant to free mankind from the base constraints of earthly matter and be released into a purely spiritual state of being. Thus viewing earthly matters as forces of darkness, Priscillians were also early Christian ascetics.;;;;;;;;;;;;;x
+valentinian;Valentinian;;;;;;;;;;;;;x
+valteninian_DESC;One of the first major Gnostic movements in Christendom, Valentinianism has its roots in the second century. Rather than believing in a Christian salvation grounded in faith and good works, Gnostics such as the Valentinians believed that salvation came through gnosis- a 'spiritual knowledge', or enlightenment- and that mainstream Christian practice, as exemplified by the Nicene Creed, totally missed the point of it all.;;;;;;;;;;;;;x
 county_of_germani;Pagus;;;;;;;;;;;;;x
 county_of_romantic;Comitatus;;;;;;;;;;;;;x
 count_romantic;Comes;;;;;;;;;;;;;x
@@ -47,10 +54,16 @@ k_asiana;Asiana;;;;;;;;;;;;;x
 k_asiana_adj;Asianan;;;;;;;;;;;;;x
 k_austrasia;Austrasia;;;;;;;;;;;;;x
 k_austrasia_adj;Austrasian;;;;;;;;;;;;;x
+k_avaria;Avaria;;;;;;;;;;;;;x
+k_avaria_adj;Avar;;;;;;;;;;;;;x
 k_burgundia;Burgundia;;;;;;;;;;;;;x
 k_burgindia_adj;Burgundian;;;;;;;;;;;;;x
 k_cumbria;Cumbria;;;;;;;;;;;;;x
 k_cumbria_adj;Cumbrian;;;;;;;;;;;;;x
+k_gepidia;Gepidia;;;;;;;;;;;;;x
+k_gepidia_adj;Gepidian;;;;;;;;;;;;;x
+k_hepthalites;Hepthalia;;;;;;;;;;;;;x
+k_hepthalites;Hepthalite;;;;;;;;;;;;;x
 k_hispania;Hispania;;;;;;;;;;;;;x
 k_hispania_adj;Hispanian;;;;;;;;;;;;;x
 k_illyricum;Illyricum;;;;;;;;;;;;;x
@@ -63,6 +76,8 @@ k_neustria;Neustria;;;;;;;;;;;;;x
 k_neustria_adj;Neustrian;;;;;;;;;;;;;x
 k_noricum;Noricum;;;;;;;;;;;;;x
 k_noricum_adj;Norican;;;;;;;;;;;;;x
+k_rugiland;Rugiland;;;;;;;;;;;;;x
+k_rugiland_adj;Rugii;;;;;;;;;;;;;x
 k_soissons;Soissons;;;;;;;;;;;;;x
 k_soissons_adj;Soissonnais;;;;;;;;;;;;;x
 k_tolosa;Tolosa;;;;;;;;;;;;;x
@@ -201,6 +216,8 @@ d_lugdunensis;Lugdunensis;;;;;;;;;;;;;x
 d_lugdunensis_adj;Lugdunensian;;;;;;;;;;;;;x
 d_macedonia;Macedonia;;;;;;;;;;;;;x
 d_macedonia;Macedonian;;;;;;;;;;;;;x
+d_malvensis;Malvensis;;;;;;;;;;;;;x
+d_malvensis_adj;Malvensian;;;;;;;;;;;;;x
 d_mediolanum;Mediolanum;;;;;;;;;;;;;x
 d_mediolanum_adj;Mediolanum;;;;;;;;;;;;;x
 d_menapiorum;Menapiorum;;;;;;;;;;;;;x
@@ -271,6 +288,8 @@ d_tingitana;Tingitana;;;;;;;;;;;;;x
 d_tingitana_adj;Tingitanan;;;;;;;;;;;;;x
 d_toxandria;Toxandria;;;;;;;;;;;;;x
 d_toxandria_adj;Toxandrian;;;;;;;;;;;;;x
+d_transalutanus;Transalutanus;;;;;;;;;;;;;x
+d_transalutanus_adj;Transalutanian;;;;;;;;;;;;;x
 d_transjurania;Transjurania;;;;;;;;;;;;;x
 d_transjurania_adj;Transjuranian;;;;;;;;;;;;;x
 d_treveria;Treveria;;;;;;;;;;;;;x

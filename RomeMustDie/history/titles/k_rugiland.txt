@@ -1,0 +1,7 @@
+454.1.1 = {
+	holder = 410002 # Flaccitheus
+}
+
+475.1.1 = {
+	holder = 410003 # Feva, Feletheus
+}

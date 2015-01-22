@@ -1,0 +1,6 @@
+450.1.1 = {
+	holder = 562001 # Ardaric
+}
+460.1.1 = {
+	holder = 562002 # Gunderit
+}

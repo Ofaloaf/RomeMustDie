@@ -28,6 +28,21 @@ e_ere = {
 		color2={ 220 220 0 }
 
 		culture = burgundian
+		
+		allow = {
+			culture = burgundian
+		}
+	}
+
+	k_gepidia = {
+		color = { 221 231 156 }
+		color2= { 255 255 255 }
+
+		culture = gepid
+	
+		allow = {
+			culture = gepid
+		}
 	}
 
 	k_noricum = {
@@ -38,6 +53,15 @@ e_ere = {
 		# Creation/usurpation trigger
 		allow = {
 			culture_group = romantic
+		}
+	}
+
+	k_rugiland = {
+		color = { 227 168 110 }
+		color2= { 255 255 255 }
+
+		allow = {
+			always = no
 		}
 	}
 
@@ -63,7 +87,7 @@ e_ere = {
 	}
 
 	k_vandalia = {
-		color={ 198 196 176 }
+		color= { 130 151 52 } #{ 198 196 176 }
 		color2={ 220 220 0 }
 
 		culture = vandal

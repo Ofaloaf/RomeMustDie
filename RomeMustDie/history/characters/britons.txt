@@ -289,3 +289,44 @@
 		death=yes
 	}
 }
+
+1589020 = {
+	name="Marius"
+	dynasty=1589003
+	culture="britto"
+	religion="pelagian"
+	420.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+1589021 = {
+	name="Artorius"
+	dynasty=1589003
+	culture="britto"
+	religion="pelagian"
+	father=1589020
+	455.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589022 = {
+	name="Engenius"
+	dynasty=1589003
+	culture="britto"
+	religion="pelagian"
+	father=1589020
+	454.1.1={
+		birth=yes
+	}
+	505.1.1={
+		death=yes
+	}
+}

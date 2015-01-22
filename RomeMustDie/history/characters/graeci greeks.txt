@@ -85,3 +85,104 @@
 		death=yes
 	}
 }
+
+610007 = {
+	name="Iohannes"
+	# consul 467, fl. 467-479, family from Lychnidus
+	dynasty=610020
+	culture=graeci
+	religion=nicene
+	trait=just
+	trait=craven
+	438.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes # Died at the age of 42.
+	}
+}
+
+610008 = {
+	name="Vivianus"
+	# fl. 459-463
+	dynasty=610020
+	culture=graeci
+	religion=nicene
+	trait=charitable
+	420.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+610009 = {
+	name="Adamantius"
+	# fl. 459-463
+	dynasty=610020
+	culture=graeci
+	religion=nicene
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	learning=6
+	trait=brave
+	trait=strategist
+	trait=naive_appeaser
+	father=610008
+	450.1.1={
+		birth=yes
+	}
+	510.1.1={
+		death=yes
+	}
+}
+
+610010 = {
+	name="Paulus"
+	# Consul in 512
+	dynasty=610020
+	culture=graeci
+	religion=nicene
+	trait=greedy
+	trait=zealous
+	father=610008
+	465.1.1={
+		birth=yes
+	}
+	525.1.1={
+		death=yes
+	}
+}
+
+610011 = {
+	name="Stephanus"
+	dynasty=610022
+	culture=graeci
+	religion=nicene
+	trait=martial_cleric
+	trait=scholar
+	441.1.1={
+		birth=yes
+	}
+	510.1.1={
+		death=yes
+	}
+}
+
+610012 = {
+	name="Anthemius"
+	dynasty=610022
+	culture=graeci
+	religion=nicene
+	trait=midas_touched
+	trait=architect
+	474.1.1={
+		birth=yes
+	}
+	557.1.1={
+		death=yes
+	}
+}

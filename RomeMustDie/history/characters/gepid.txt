@@ -1,0 +1,58 @@
+562001 = {
+	name = "Ardaric"
+	dynasty=562003
+	religion=arian
+	culture=gepid
+
+	410.1.1={
+		birth=yes
+	}
+	460.1.1={
+		death=yes
+	}
+}
+
+562002 = {
+	name = "Gunderit"
+	dynasty=562003
+	religion=arian
+	culture=gepid
+	father=562001
+
+	435.1.1={
+		birth=yes
+	}
+	485.1.1={
+		death=yes
+	}
+}
+
+562003 = {
+	name = "Trapstila"
+	dynasty=562003
+	religion=arian
+	culture=gepid
+	father=562002
+
+	450.1.1={
+		birth=yes
+	}
+	515.1.1={
+		death=yes
+	}
+}
+
+562004 = {
+	name = "Trasericus"
+	dynasty=562003
+	religion=arian
+	culture=gepid
+	father=562003
+
+	475.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}

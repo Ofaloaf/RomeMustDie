@@ -1,0 +1,74 @@
+562001 = {
+	name = "Aldigaring"
+	culture = gepid
+}
+
+562002 = {
+	name = "Abbatis"
+	culture = gepid
+}
+
+562003 = {
+	name = "Gefth"
+	culture = gepid
+}
+
+562004 = {
+	name = "Fastiding"
+	culture = gepid
+}
+
+562005 = {
+	name = "Austroneis" # Gothic, 'Eastern'
+	culture = gepid
+}
+
+562006 = {
+	name = "Airtheins" # Gothic, 'Earthly'
+	culture = gepid
+}
+
+562007 = {
+	name = "Eisarn" # Gothic, 'Iron'
+	culture = gepid
+}
+
+562008 = {
+	name = "Skythus" # Gothic, 'Scythian'
+	culture = gepid
+}
+
+562009 = {
+	name = "Giltha" # Gothic, 'scythe'/'sickle'
+	culture = gepid
+}
+
+562010 = {
+	name = "Kratton" # Gothic, 'scratch'
+	culture = gepid
+}
+
+562011 = {
+	name = "Dwals" # Gothic, 'slow on the uptake'
+	culture = gepid
+}
+
+562012 = {
+	name = "Sainus" # Gothic, 'slow'/'tardy'
+	culture = gepid
+}
+
+562013 = {
+	name = "Wruggo" # Gothic, 'snare'
+	culture = gepid
+}
+
+562014 = {
+	name = "Inahei" # Gothic, 'in-ahei', 'self-possession'
+	culture = gepid
+}
+
+562015 = {
+	name = "Qramms"	# Gothic, 'soggy'
+	culture = gepid
+}

@@ -1,7 +1,7 @@
 450.1.1 = {
-	liege = d_eboracum 
+	liege = d_eboracum
 	holder = 1589020 # Marius, Mor ap Ceneu
 }
 470.1.1 = {
-	holder = 1589021 # Artorius
+	holder = 1589022 # Engenius, Einion ap Mor
 }

@@ -122,3 +122,8 @@
 	name = "Waithja"	# 'Huntsman'
 	culture = ostrogothic
 }
+
+410026 = {
+	name = "Rugius"
+	culture = ostrogothic
+}

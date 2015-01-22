@@ -94,3 +94,18 @@
 	name = "Betelaces"
 	culture = graeci
 }
+
+610020 = {
+	name = "Cadmianus"
+	culture = graeci
+}
+
+610021 = {
+	name = "Messala"
+	culture = graeci
+}
+
+610022 = {
+	name = "of Tralleis"
+	culture = graeci
+}

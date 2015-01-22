@@ -30622,7 +30622,7 @@
 }
 1044113 = {
 	name="Burgunding"
-	culture = occitan
+	culture = burgundian
 }
 1044114 = {
 	name="Stephanid"
