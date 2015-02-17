@@ -1,0 +1,7 @@
+312.1.1 = {
+	liege = e_byzantium
+	vice_royalty = yes
+}
+467.1.1 = {
+	holder = 610022
+}

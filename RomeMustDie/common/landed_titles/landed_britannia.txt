@@ -464,6 +464,170 @@ e_britannia = {
 				}
 			}
 		}
+		d_votadinia = {
+			color = { 112 103 137 }
+			color = { 255 255 255 }
+
+			britto = Guotodin
+			welsh = Gododdin
+			pictish = Lut
+
+			c_lothian = {
+				color = { 16 62 160 }
+				color2={ 255 255 255 }
+				
+				pictish = "Lut"
+				britto = Luguduniana
+				welsh = "Lleuddiniawn"
+				irish = "Labhdaidh"
+	
+				b_edinburgh = {
+					pictish = "Dun Eidan"
+					welsh = "Din Eidyn"
+					britto = "Din Eidyn"
+					irish = "Dùn Eideann"
+				}
+				b_stirling = {
+					pictish = "Iutheu"
+					welsh = "Iuddeu"
+					irish = "Sruighlea"
+				}
+				b_abercorn = {
+					pictish = "Abercarn"
+					welsh = "Abercarnedd"
+					irish = "Obar Chùirnidh"
+				}
+				b_linlithgow = {
+					pictish = "Glanaluu"
+					welsh = "Glynallwedd"
+					irish = "Gleann Iucha"
+				}
+				b_falkirk = {
+					pictish = "Ecclescbret"
+					welsh = "Ecclesbrith"
+					irish = "An Eaglais Bhreac"
+				}
+				b_stow_of_wedale = {
+					pictish = "Gallath"
+					welsh = "Galladd"
+					irish = "An Geal Àth"
+				}
+				b_leith = {
+					pictish = "Aberlath"
+					welsh = "Aberlydd"
+					irish = "Inverlìte"
+				}
+				b_torphichen = {
+					pictish = "Trehechan"
+					welsh = "Treffechan"
+					irish = "Tóir Féichín"
+				}
+			}
+			c_dunbar = {
+				color = { 30 69 172 }
+				color2={ 255 255 255 }
+				
+				britto = Dinbaer
+				welsh = "Din Baer"
+				pictish = "Utudina"
+				irish = "Dùn Bár"
+				old_saxon = Dynbaer
+				saxon = Dynbaer
+	
+				b_dunbar = {
+					britto = Dinbaer
+					welsh = "Din Baer"
+					pictish = "Dun Ber"
+					irish = "Dùn Bár"
+					old_saxon = Dynbaer
+					saxon = Dynbaer
+				}
+				b_berwick = {
+					pictish = "Caer Brinech"
+					welsh = "Caer Bryneich"
+					irish = "Bearaig"
+				}
+				b_thirlestane = {
+					pictish = "Lauuether"
+					welsh = "Lauwedder"
+					irish = "Labhdar"
+				}
+				b_tyninghame = {
+					pictish = "Pisctaltreh"
+					welsh = "Pistylltref"
+					irish = "Linnebaile"
+				}
+				b_gordon = {
+					pictish = "Gor Dun"
+					welsh = "Gor Din"
+					irish = "Gòr Dùn"
+				}
+				b_huntly = {
+					pictish = "Istrad Bach"
+					welsh = "Ystrath Bach"
+					irish = "Srath Bhalgaidh"
+				}
+				b_coldingham = {
+					pictish = "Lanbrin"
+					welsh = "Llanbryn"
+					irish = "Cillecnoc"
+				}
+				b_crichton = {
+					pictish = "Finuultreh"
+					welsh = "Ffinioltref"
+					irish = "Criochdún"
+				}
+			}
+			c_teviotdale = {
+				color = { 11 51 145 }
+				color2={ 255 255 255 }
+				
+				pictish = "Heluua"
+				welsh = "Calchfynydd"
+				irish = "Cealsaidh"
+				
+				b_jedburgh = {
+					pictish = "Dungod"
+					welsh = "Dingod"
+					irish = "Dùngot"
+				}
+				b_roxburgh = {
+					pictish = "Iaartreh"
+					welsh = "Iârtref"
+					irish = "Baile na h-Cearc"
+				}
+				b_peebles = {
+					pictish = "Peball"
+					welsh = "Pebyll"
+					irish = "Na Pùballan"
+				}
+				b_melrose = {
+					pictish = "Maelruusan"
+					welsh = "Mailrhosan"
+					irish = "Maol Ros"
+				}
+				b_kelso = {
+					pictish = "Calchanith"
+					welsh = "Calchfynydd"
+					irish = "Cealsaidh"
+				}
+				b_selkirk = {
+					pictish = "Halchraig"
+					welsh = "Halchraig"
+					irish = "Salcraig"
+				}
+				b_maxwell = {
+					pictish = "Mabfanon"
+					welsh = "Mabffynnon"
+					irish = "Tobar na Mac"
+				}
+				b_ednam = {
+					pictish = "Aethontreh"
+					welsh = "Aeddantref"
+					irish = "Baile na h-Aodhàn"
+				}
+			}
+		}
 	}
 	k_loegria = {
 		color = { 204 104 94 }
@@ -890,7 +1054,7 @@ e_britannia = {
 					roman = Reginorum
 					graeci = Reginorum
 					greek = Reginoron
-					gallorman = Reginorum
+					galloroman = Reginorum
 					iberoroman = Reginorum
 					britto = Reginorum
 				}
@@ -1656,7 +1820,7 @@ e_britannia = {
 				}
 				b_crediton = {
 					old_saxon = Cridiantun
-					saxpm = Cridiantun
+					saxon = Cridiantun
 				}
 				b_totnes = {
 					old_saxon = Tottaness
@@ -1792,13 +1956,13 @@ e_britannia = {
 		}
 	}
 	
-	k_scotland = {
+	k_caledonia = {
 		color={ 20 80 162 }
 		color2={ 255 255 255 }
 		
 		capital = 43 #Gowrie
 		
-		culture = scottish
+		culture = pictish
 		
 		catholic = 300 # Crusade target weight
 		norse_pagan_reformed = 200 # Crusade target weight
@@ -1810,7 +1974,7 @@ e_britannia = {
 		welsh = Alban
 		irish = Alba
 		breton = Alba
-		pictish = Pictland
+		pictish = Pictavia
 		
 		d_galloway = {
 			color={ 77 116 208 }
@@ -2165,170 +2329,6 @@ e_britannia = {
 					pictish = "Aberera"
 					welsh = "Aberaera"
 					irish = "Inbhir Aora"
-				}
-			}
-		}
-		d_lothian = {
-			color = { 16 62 157 }
-			color2={ 255 255 255 }
-			
-			capital = 48 # Lothian
-			
-			pictish = "Lut"
-			welsh = "Gododdin"
-			irish = "Labhdaidh"
-			
-			c_lothian = {
-				color = { 16 62 160 }
-				color2={ 255 255 255 }
-				
-				pictish = "Lut"
-				welsh = "Lleuddiniawn"
-				irish = "Labhdaidh"
-	
-				b_edinburgh = {
-					pictish = "Dun Eidan"
-					welsh = "Din Eidyn"
-					irish = "Dùn Eideann"
-				}
-				b_stirling = {
-					pictish = "Iutheu"
-					welsh = "Iuddeu"
-					irish = "Sruighlea"
-				}
-				b_abercorn = {
-					pictish = "Abercarn"
-					welsh = "Abercarnedd"
-					irish = "Obar Chùirnidh"
-				}
-				b_linlithgow = {
-					pictish = "Glanaluu"
-					welsh = "Glynallwedd"
-					irish = "Gleann Iucha"
-				}
-				b_falkirk = {
-					pictish = "Ecclescbret"
-					welsh = "Ecclesbrith"
-					irish = "An Eaglais Bhreac"
-				}
-				b_stow_of_wedale = {
-					pictish = "Gallath"
-					welsh = "Galladd"
-					irish = "An Geal Àth"
-				}
-				b_leith = {
-					pictish = "Aberlath"
-					welsh = "Aberlydd"
-					irish = "Inverlìte"
-				}
-				b_torphichen = {
-					pictish = "Trehechan"
-					welsh = "Treffechan"
-					irish = "Tóir Féichín"
-				}
-			}
-			c_dunbar = {
-				color = { 30 69 172 }
-				color2={ 255 255 255 }
-				
-				britto = Dinbaer
-				welsh = "Din Baer"
-				pictish = "Utudina"
-				irish = "Dùn Bár"
-				old_saxon = Dynbaer
-				saxon = Dynbaer
-	
-				b_dunbar = {
-					britto = Dinbaer
-					welsh = "Din Baer"
-					pictish = "Dun Ber"
-					irish = "Dùn Bár"
-					old_saxon = Dynbaer
-					saxon = Dynbaer
-				}
-				b_berwick = {
-					pictish = "Caer Brinech"
-					welsh = "Caer Bryneich"
-					irish = "Bearaig"
-				}
-				b_thirlestane = {
-					pictish = "Lauuether"
-					welsh = "Lauwedder"
-					irish = "Labhdar"
-				}
-				b_tyninghame = {
-					pictish = "Pisctaltreh"
-					welsh = "Pistylltref"
-					irish = "Linnebaile"
-				}
-				b_gordon = {
-					pictish = "Gor Dun"
-					welsh = "Gor Din"
-					irish = "Gòr Dùn"
-				}
-				b_huntly = {
-					pictish = "Istrad Bach"
-					welsh = "Ystrath Bach"
-					irish = "Srath Bhalgaidh"
-				}
-				b_coldingham = {
-					pictish = "Lanbrin"
-					welsh = "Llanbryn"
-					irish = "Cillecnoc"
-				}
-				b_crichton = {
-					pictish = "Finuultreh"
-					welsh = "Ffinioltref"
-					irish = "Criochdún"
-				}
-			}
-			c_teviotdale = {
-				color = { 11 51 145 }
-				color2={ 255 255 255 }
-				
-				pictish = "Heluua"
-				welsh = "Calchfynydd"
-				irish = "Cealsaidh"
-				
-				b_jedburgh = {
-					pictish = "Dungod"
-					welsh = "Dingod"
-					irish = "Dùngot"
-				}
-				b_roxburgh = {
-					pictish = "Iaartreh"
-					welsh = "Iârtref"
-					irish = "Baile na h-Cearc"
-				}
-				b_peebles = {
-					pictish = "Peball"
-					welsh = "Pebyll"
-					irish = "Na Pùballan"
-				}
-				b_melrose = {
-					pictish = "Maelruusan"
-					welsh = "Mailrhosan"
-					irish = "Maol Ros"
-				}
-				b_kelso = {
-					pictish = "Calchanith"
-					welsh = "Calchfynydd"
-					irish = "Cealsaidh"
-				}
-				b_selkirk = {
-					pictish = "Halchraig"
-					welsh = "Halchraig"
-					irish = "Salcraig"
-				}
-				b_maxwell = {
-					pictish = "Mabfanon"
-					welsh = "Mabffynnon"
-					irish = "Tobar na Mac"
-				}
-				b_ednam = {
-					pictish = "Aethontreh"
-					welsh = "Aeddantref"
-					irish = "Baile na h-Aodhàn"
 				}
 			}
 		}
@@ -3072,6 +3072,8 @@ e_britannia = {
 					norse = Dyflinn
 					irish = Dubhlinn
 					welsh = Dulyn
+
+					holy_site = druidic
 				}
 				b_clondalkin = {
 				}

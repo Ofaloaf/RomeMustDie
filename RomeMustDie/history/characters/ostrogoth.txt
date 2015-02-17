@@ -80,3 +80,29 @@
 		death=yes
 	}
 }
+
+410006 = {
+	name="Theoderic"
+	dynasty=410002
+	diplomacy=6
+	martial=8
+	intrigue=8
+	stewardship=4
+	learning=5
+	culture="ostrogothic"
+	religion="arian"
+	add_trait="gregarious"
+	add_trait="scholar"
+	add_trait="proud"
+	add_trait="envious"
+	add_trait="tough_soldier"
+	434.1.1 = {
+		birth="434.1.1"
+	}
+	471.1.1 = {
+		give_nickname = nick_strabo
+	}
+	481.1.2 = {
+		death="481.1.2"
+	}
+}

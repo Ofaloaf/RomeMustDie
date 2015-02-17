@@ -109,3 +109,83 @@
 	name = "of Tralleis"
 	culture = graeci
 }
+
+610023 = {
+	name = "Basiliscides"
+	culture = graeci
+}
+
+610024 = {
+	name="Macedonius"
+	culture = graeci
+}
+
+610025 = {
+	name="Militianus"
+	culture = graeci
+}
+
+610026 = {
+	name="Lelegesus"
+	culture = graeci
+}
+
+610027 = {
+	name = "Pityussus"
+	culture = graeci
+}
+
+610028 = {
+	name = "Attius"
+	culture = graeci
+}
+
+610029 = {
+	name = "Cumanus"
+	culture = graeci
+}
+
+610030 = {
+	name = "Lupercus"
+	culture = graeci
+}
+
+610031 = {
+	name = "Micon"
+	culture = graeci
+}
+
+610032 = {
+	name = "Termessos"
+	culture = graeci
+}
+
+610033 = {
+	name = "Sextianus"
+	culture = graeci
+}
+
+610034 = {
+	name = "Tarasisianus"
+	culture = graeci
+}
+
+610035 = {
+	name = "Mundissimus"
+	culture = graeci
+}
+
+610036 = {
+	name = "Attouda"
+	culture = graeci
+}
+
+610037 = {
+	name = "Epinicides"
+	culture = graeci
+}
+
+610038 = {
+	name = "Pandermensis"
+	culture = graeci
+}

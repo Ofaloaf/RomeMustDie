@@ -2419,10 +2419,10 @@
 		religion=catholic
 	}
 }
-418 = {
-	name="Wuffing"
-	culture = saxon
-}
+#418 = {
+#	name="Wuffing"
+#	culture = saxon
+#}
 419 = {
 	name="van Leuven"
 	culture = frisian

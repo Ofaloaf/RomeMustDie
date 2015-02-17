@@ -1,4 +1,5 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+egyptian;Egyptian;;;;;;;;;;;;;x
 germani;Germani;;;;;;;;;;;;;x
 gothic;Gothic;;;;;;;;;;;;;x
 romantic;Romantic;;;;;;;;;;;;;x
@@ -9,6 +10,7 @@ assyrian;Assyrian;;;;;;;;;;;;;x
 britto;Britto;;;;;;;;;;;;;x
 brython;Brython;;;;;;;;;;;;;x
 burgundian;Burgundian;;;;;;;;;;;;;x
+coptic;Coptic;;;;;;;;;;;;;x
 galloroman;Gallo-Roman;;;;;;;;;;;;;x
 gepid;Gepid;;;;;;;;;;;;;x
 graeci;Graeci;;;;;;;;;;;;;x
@@ -40,6 +42,12 @@ county_of_germani;Pagus;;;;;;;;;;;;;x
 county_of_romantic;Comitatus;;;;;;;;;;;;;x
 count_romantic;Comes;;;;;;;;;;;;;x
 nick_strabo;Strabo;;;;;;;;;;;;;x
+vice_royalty_duke_romantic;Governor;;;;;;;;;;;;;x
+vice_royalty_king_romantic;Vicarius;;;;;;;;;;;;;x
+vice_royalty_duchy_of_romantic;Province of;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_romantic;Diocese of;;;;;;;;;;;;;x
+vice_royalty_duke_gothic;Governor;;;;;;;;;;;;;x
+vice_royalty_duchy_of_gothic;Province of;;;;;;;;;;;;;x
 e_wre;Western Roman Empire;;;;;;;;;;;;;x
 e_wre_adj;Western Roman;;;;;;;;;;;;;x
 e_ere;Eastern Roman Empire;;;;;;;;;;;;;x
@@ -56,8 +64,12 @@ k_austrasia;Austrasia;;;;;;;;;;;;;x
 k_austrasia_adj;Austrasian;;;;;;;;;;;;;x
 k_avaria;Avaria;;;;;;;;;;;;;x
 k_avaria_adj;Avar;;;;;;;;;;;;;x
+k_baetica;Baetica;;;;;;;;;;;;;x
+k_baetica_adj;Baetican;;;;;;;;;;;;;x
 k_burgundia;Burgundia;;;;;;;;;;;;;x
-k_burgindia_adj;Burgundian;;;;;;;;;;;;;x
+k_burgundia_adj;Burgundian;;;;;;;;;;;;;x
+k_caledonia;Caledonia;;;;;;;;;;;;;x
+k_caledonia_adj;Caledonian;;;;;;;;;;;;;x
 k_cumbria;Cumbria;;;;;;;;;;;;;x
 k_cumbria_adj;Cumbrian;;;;;;;;;;;;;x
 k_gepidia;Gepidia;;;;;;;;;;;;;x
@@ -68,6 +80,8 @@ k_hispania;Hispania;;;;;;;;;;;;;x
 k_hispania_adj;Hispanian;;;;;;;;;;;;;x
 k_illyricum;Illyricum;;;;;;;;;;;;;x
 k_illyricum_adj;Illyrican;;;;;;;;;;;;;x
+k_isauria;Isauria;;;;;;;;;;;;;x
+k_isauria_adj;Isaurian;;;;;;;;;;;;;x
 k_loegria;Loegria;;;;;;;;;;;;;x
 k_loegria_adj;Loegrian;;;;;;;;;;;;;x
 k_lusitania;Lusitania;;;;;;;;;;;;;x
@@ -76,6 +90,8 @@ k_neustria;Neustria;;;;;;;;;;;;;x
 k_neustria_adj;Neustrian;;;;;;;;;;;;;x
 k_noricum;Noricum;;;;;;;;;;;;;x
 k_noricum_adj;Norican;;;;;;;;;;;;;x
+k_pontus;Pontus;;;;;;;;;;;;;x
+k_pontus_adj;Pontic;;;;;;;;;;;;;x
 k_rugiland;Rugiland;;;;;;;;;;;;;x
 k_rugiland_adj;Rugii;;;;;;;;;;;;;x
 k_soissons;Soissons;;;;;;;;;;;;;x
@@ -90,6 +106,8 @@ k_vasconia;Vasconia;;;;;;;;;;;;;x
 k_vasconia_adj;Vasconian;;;;;;;;;;;;;x
 k_vandalia;Vandalia;;;;;;;;;;;;;x
 k_vandalia_adj;Vandalic;;;;;;;;;;;;;x
+k_venedia;Venedia;;;;;;;;;;;;;x
+k_venedia_adj;Venedi;;;;;;;;;;;;;x
 k_visigothia;Visigothia;;;;;;;;;;;;;x
 k_visigothia_adj;Visigothic;;;;;;;;;;;;;x
 d_aemilia;Aemilia;;;;;;;;;;;;;x
@@ -128,6 +146,8 @@ d_arragonia;Arragonia;;;;;;;;;;;;;x
 d_arragonia_adj;Arragones;;;;;;;;;;;;;x
 d_arvernia;Arvernia;;;;;;;;;;;;;x
 d_arvernia_adj;Arvernian;;;;;;;;;;;;;x
+d_asia;Asia;;;;;;;;;;;;;x
+d_asia_adj;Asian;;;;;;;;;;;;;x
 d_astigitanus;Astigitanus;;;;;;;;;;;;;x
 d_astigitanus_adj;Astigitanian;;;;;;;;;;;;;x
 d_asturica;Asturica;;;;;;;;;;;;;x
@@ -166,18 +186,22 @@ d_cantabria;Cantabria;;;;;;;;;;;;;x
 d_cantabria_adj;Cantabrian;;;;;;;;;;;;;x
 d_cantiacia;Cantiacia;;;;;;;;;;;;;x
 d_cantiacia_adj;Cantiacian;;;;;;;;;;;;;x
+d_cappadocia;Cappadocia;;;;;;;;;;;;;x
+d_cappadocia_adj;Cappadocian;;;;;;;;;;;;;x
 d_carpetania;Carpetania;;;;;;;;;;;;;x
 d_carpetania_adj;Carpetanian;;;;;;;;;;;;;x
 d_carthaginiensis;Carthaginiensis;;;;;;;;;;;;;x
 d_carthaginiensis_adj;Carthaginiensian;;;;;;;;;;;;;x
+d_cilicia;Cilicia;;;;;;;;;;;;;x
+d_cilicia_adj;Cilician;;;;;;;;;;;;;x
 d_colonia;Colonia;;;;;;;;;;;;;x
 d_colonia_adj;Colonian;;;;;;;;;;;;;x
 d_cordubensis;Cordubensis;;;;;;;;;;;;;x
 d_cordubensis_adj;Cordubensian;;;;;;;;;;;;;x
 d_dardania;Dardania;;;;;;;;;;;;;x
 d_dardania_adj;Dardanian;;;;;;;;;;;;;x
-d_decumantia;Decumantia;;;;;;;;;;;;;x
-d_decumantia_adj;Decumantine;;;;;;;;;;;;;x
+d_decumatia;Decumatia;;;;;;;;;;;;;x
+d_decumatia_adj;Decumatine;;;;;;;;;;;;;x
 d_divio;Divio;;;;;;;;;;;;;x
 d_divio_adj;Divian;;;;;;;;;;;;;x
 d_dumnonia;Dumnonia;;;;;;;;;;;;;x
@@ -196,14 +220,22 @@ d_gaetulia;Gaetulia;;;;;;;;;;;;;x
 d_gaetulia_adj;Gaetulian;;;;;;;;;;;;;x
 d_glouvia;Glouvia;;;;;;;;;;;;;x
 d_glouvia_adj;Glouvian;;;;;;;;;;;;;x
+d_helenopontus;Helenopontus;;;;;;;;;;;;;x
+d_helenopontus_adj;Helenopontic;;;;;;;;;;;;;x
+d_hellespontus;Hellespontus;;;;;;;;;;;;;x
+d_hellespontus_adj;Hellespontic;;;;;;;;;;;;;x
 d_hessorum;Hessorum;;;;;;;;;;;;;x
 d_hessorum_adj;Hessian;;;;;;;;;;;;;x
+d_hevellia;Hevellia;;;;;;;;;;;;;x
+d_hevellia_adj;Hevelli;;;;;;;;;;;;;x
 d_hispalensis;Hispalensis;;;;;;;;;;;;;x
 d_hispalensis_adj;Hispalensian;;;;;;;;;;;;;x
 d_histria;Histria;;;;;;;;;;;;;x
 d_histria_adj;Histrian;;;;;;;;;;;;;x
 d_iberia;Iberia;;;;;;;;;;;;;x
 d_iberia_adj;Iberian;;;;;;;;;;;;;x
+d_insulae;Insulae;;;;;;;;;;;;;x
+d_insulae_adj;Insular;;;;;;;;;;;;;x
 d_legio;Legio;;;;;;;;;;;;;x
 d_legio_adj;Legioan;;;;;;;;;;;;;x
 d_liguria;Liguria;;;;;;;;;;;;;x
@@ -214,6 +246,8 @@ d_lucania;Lucania;;;;;;;;;;;;;x
 d_lucania_adj;Lucanian;;;;;;;;;;;;;x
 d_lugdunensis;Lugdunensis;;;;;;;;;;;;;x
 d_lugdunensis_adj;Lugdunensian;;;;;;;;;;;;;x
+d_lycia;Lycia;;;;;;;;;;;;;x
+d_lycia_adj;Lycian;;;;;;;;;;;;;x
 d_macedonia;Macedonia;;;;;;;;;;;;;x
 d_macedonia;Macedonian;;;;;;;;;;;;;x
 d_malvensis;Malvensis;;;;;;;;;;;;;x
@@ -222,12 +256,16 @@ d_mediolanum;Mediolanum;;;;;;;;;;;;;x
 d_mediolanum_adj;Mediolanum;;;;;;;;;;;;;x
 d_menapiorum;Menapiorum;;;;;;;;;;;;;x
 d_menapiorum_adj;Menapii;;;;;;;;;;;;;x
+d_moesia;Moesia;;;;;;;;;;;;;x
+d_moesia_adj;Moesian;;;;;;;;;;;;;x
 d_mosa;Mosa;;;;;;;;;;;;;x
 d_mosa_adj;Mosan;;;;;;;;;;;;;x
 d_mosella;Mosella;;;;;;;;;;;;;x
 d_mosella_adj;Mosellan;;;;;;;;;;;;;x
 d_narbonensis;Narbonensis;;;;;;;;;;;;;x
 d_narbonensis_adj;Narbonensian;;;;;;;;;;;;;x
+d_nasamones;Nasamones;;;;;;;;;;;;;x
+d_nasamones_adj;Nasamonic;;;;;;;;;;;;;x
 d_nordalbingia;Nordalbingia;;;;;;;;;;;;;x
 d_nordalbingia_adj;Nordalbingian;;;;;;;;;;;;;x
 d_noricum;Noricum;;;;;;;;;;;;;x
@@ -240,10 +278,14 @@ d_ostfalia;Ostfalia;;;;;;;;;;;;;x
 d_ostfalia_adj;Ostfalian;;;;;;;;;;;;;x
 d_pacensis;Pacensis;;;;;;;;;;;;;x
 d_pacensis_adj;Pacensian;;;;;;;;;;;;;x
+d_pannonia;Pannonia;;;;;;;;;;;;;x
+d_pannonia;Pannonian;;;;;;;;;;;;;x
 d_paris;Paris;;;;;;;;;;;;;x
 d_paris_adj;Paris;;;;;;;;;;;;;x
-d_pentarchy;The Pentarchy;;;;;;;;;;;;;x
+d_pentarchy;Pentarchy;;;;;;;;;;;;;x
 d_pentarchy_adj;Pentarchic;;;;;;;;;;;;;x
+d_phrygia;Phrygia;;;;;;;;;;;;;x
+d_phrygia_adj;Phrygian;;;;;;;;;;;;;x
 d_picenum;Picenum;;;;;;;;;;;;;x
 d_picenum_adj;Picenan;;;;;;;;;;;;;x
 d_praevalitana;Praevalitana;;;;;;;;;;;;;x
@@ -272,6 +314,8 @@ d_saxonshore;Rotomagus;;;;;;;;;;;;;x
 d_saxonshore_adj;Rotomagian;;;;;;;;;;;;;x
 d_scalabitanus;Scalabitanus;;;;;;;;;;;;;x
 d_scalabitanus_adj;Scalabitanic;;;;;;;;;;;;;x
+d_scythia;Scythia;;;;;;;;;;;;;x
+d_scythia_adj;Scythian;;;;;;;;;;;;;x
 d_senonia;Senonia;;;;;;;;;;;;;x
 d_senonia_adj;Senonian;;;;;;;;;;;;;x
 d_sitifensis;Sitifensis;;;;;;;;;;;;;x
@@ -294,6 +338,8 @@ d_transjurania;Transjurania;;;;;;;;;;;;;x
 d_transjurania_adj;Transjuranian;;;;;;;;;;;;;x
 d_treveria;Treveria;;;;;;;;;;;;;x
 d_treveria_adj;Treveria;;;;;;;;;;;;;x
+d_thracia;Thracia;;;;;;;;;;;;;x
+d_thracia_adj;Thracian;;;;;;;;;;;;;x
 d_thuringia;Thuringia;;;;;;;;;;;;;x
 d_thuringia_adj;Thuringian;;;;;;;;;;;;;x
 d_tuscia;Tuscia;;;;;;;;;;;;;x
@@ -308,6 +354,8 @@ d_vindelicia;Vindelicia;;;;;;;;;;;;;x
 d_vindelicia_adj;Vindelician;;;;;;;;;;;;;x
 d_volubilis;Volubilis;;;;;;;;;;;;;x
 d_volubilis_adj;Volubilite;;;;;;;;;;;;;x
+d_votadinia;Votadinia;;;;;;;;;;;;;x
+d_votadinia_adj;Votadinian;;;;;;;;;;;;;x
 d_westfalia;Westfalia;;;;;;;;;;;;;x
 d_westfalia_adj;Westfalian;;;;;;;;;;;;;x
 d_zeugitana;Zeugitana;;;;;;;;;;;;;x
@@ -359,6 +407,8 @@ NARBONENSIS_SECUNDA;Narbonensis Secunda;;;;;;;;;;;;;x
 NARBONENSIS_SECUNDA_adj;Narbonensian;;;;;;;;;;;;;x
 NARBONENSIS_TERTIA;Narbonensis Prima;;;;;;;;;;;;;x
 NARBONENSIS_TERTIA_adj;Narbonensian;;;;;;;;;;;;;x
+ORIENS;Oriens;;;;;;;;;;;;;x
+ORIENS_adj;Oriental;;;;;;;;;;;;;x
 SAXON_SHORE;Litus Saxonicum;;;;;;;;;;;;;x
 SAXON_SHORE_adj;Saxonican;;;;;;;;;;;;;x
 vice_royalty_king_roman;Vicarius;;;;;;;;;;;;;x

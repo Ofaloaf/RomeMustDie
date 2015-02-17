@@ -7,7 +7,7 @@ title = c_medjerda
 max_settlements = 5
 
 b_medjerda = castle
-b_lekef = city
+#b_lekef = city
 b_siliana = temple
 b_kasserine = city
 

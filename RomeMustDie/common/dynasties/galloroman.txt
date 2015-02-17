@@ -252,3 +252,8 @@
 	name = "Bautoianus"
 	culture = galloroman
 }
+
+451052 = {
+	name = "Clausentiensis"
+	culture = galloroman
+}

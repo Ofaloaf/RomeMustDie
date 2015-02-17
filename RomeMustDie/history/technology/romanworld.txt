@@ -165,6 +165,10 @@ technology = {
 
 		### EGYPT ###
 		d_cyrenaica
+
+		### GRAECIA ET THRACIA ###
+		d_moesia
+		d_scythia
 	}
 	475= {
 		military = 1.3

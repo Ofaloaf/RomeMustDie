@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = d_bithynia
+}
+467.1.1 = {
+	holder = 610022
+}

@@ -587,3 +587,17 @@
 		death="486.1.1"
 	}
 }
+
+789039 = {
+	name="Evanthius"
+	# PLRE - Evantius I, ?praeses Aquitaniae Primae, 469
+	dynasty=451052
+	culture=galloroman
+	religion=nicene
+	434.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

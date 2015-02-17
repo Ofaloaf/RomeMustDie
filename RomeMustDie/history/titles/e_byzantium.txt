@@ -1,7 +1,7 @@
 3.1.27={
 	holder=145290
-	law = crown_authority_2
-	law = succ_primogeniture
+	law = crown_authority_1
+	law = succ_feudal_elective
 	law = centralization_3
 	law = imperial_administration
 
@@ -221,8 +221,8 @@
 	holder=70533
 }
 450.7.28={
-	holder=145229
-} # Valentinian III
+	holder = 145229 # Valentinian III
+} 
 450.8.25={
 	holder=70518
 }
@@ -233,11 +233,11 @@
 	holder=70516
 }
 474.11.17={
-	holder=70515
+	holder = 610024 # Zeno
 }
-475.1.9={
-	holder=145226
+475.1.9 = {
+	holder = 610013 # Basiliscus
 }
 476.8.15={
-	holder=70515
+	holder = 610024 # Zeno
 }

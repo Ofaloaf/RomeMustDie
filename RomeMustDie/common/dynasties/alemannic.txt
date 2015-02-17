@@ -22,3 +22,53 @@
 	name = "Mederiching"
 	culture = alemannic
 }
+
+1871006 = {
+	name = "Suntgower"
+	culture = alemannic
+}
+
+1871007 = {
+	name = "Nordgower"
+	culture = alemannic
+}
+
+1871008 = {
+	name = "Argungower"
+	culture = alemannic
+}
+
+1871009 = {
+	name = "Swiggerstaler"
+	culture = alemannic
+}
+
+1871010 = {
+	name = "Linzgower"
+	culture = alemannic
+}
+
+1871011 = {
+	name = "vun Mortunova"
+	culture = alemannic
+}
+
+1871012 = {
+	name = "Rammegower"
+	culture = alemannic
+}
+
+1871013 = {
+	name = "Nekargower"
+	culture = alemannic
+}
+
+1871014 = {
+	name = "Trachgower"
+	culture = alemannic
+}
+
+1871015 = {
+	name = "vun Duria"
+	culture = alemannic
+}

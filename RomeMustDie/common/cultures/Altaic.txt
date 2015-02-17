@@ -252,4 +252,5 @@ altaic = {
 		founder_named_dynasties = yes
 		
 		modifier = default_culture_modifier
+	}
 }

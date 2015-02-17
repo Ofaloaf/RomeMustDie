@@ -41,7 +41,7 @@ romantic = {
 			Galla Galeria Gordiana
 			Herennia Honorata Honoria Honorina Helena
 			Julia Juliana Justa Justina
-			Laura Lavinia Lucia Leocadia Leontia Liberia Lucia
+			Laura Lavinia Leocadia Leontia Liberia Lucia
 			Maura Marcia Marcella Marcellina Maria_mary Matrona Maximia Maximiana Maxmilla Melania Minervina Monica Modesta 
 			Narcissa Natalia Oliva Orestilla Otacilia
 			Patricia Paula Paulina Placidia Prisca Prudentia Petiliana
@@ -143,7 +143,7 @@ romantic = {
 			Anastasius Alexander Aristaechmus Anthemius Aristaenetus Apollonius Antiochus Anatolius Alexius Arsenius Asclepiodotus Aurelianus Auxentius Athanasius Arcadius Alcetus Andronicus
 			Belisarius Basiliscus Babylas Balacrus
 			Casianus Cornelius Cornelianus Castinus Chrysantius Caesarius Calendion Constantinus Constans Cyrus Cyriacus Cyrillus Calas
-			Dexippus Dometius Dalmatius Diadochus Dioscorus Domnus Demetrius Diodorus Dionysius
+			Dexippus Dometius Dalmatius Diadochus Dioscorus Domnus Demetrius Diodorus Dionysius_Dionysius
 			Epictetus Eunapius Eudoxius Epigenus Euphemius Eusebius Eustathius Eutychianus Evagrius Epicles
 			Flavianus Florentius
 			Gelasius Gennadius Gessius
@@ -161,7 +161,7 @@ romantic = {
 			Zeno Zebinnus
 		}
 		female_names = {
-			Aedesia Anatolia Ariadne Arsenia Asclepigenia Arcadia Adeia Agnodice Axiothea Antigone Alexia Alexandra Anastasia Anna Angelina Arsinoe Aedesia
+			Aedesia Anatolia Ariadne Arsenia Asclepigenia Arcadia Adeia Agnodice Axiothea Antigone Alexia Alexandra Anastasia Anna Angelina Arsinoe
 			Beroea Berenice Batus
 			Callippa Cassandra Constantina Claudia Campaspe
 			Domnina Didymeia Dripetrua Drusilla Diotima
@@ -174,7 +174,7 @@ romantic = {
 			Leona Leontia Lastheneia Lucia Lanice Licinia Laodice Leaena Lais
 			Maria Marcia Martina Metaneira Melissa
 			Nicarete Neaira Nysa
-			Plinta Paula Petra Procla Prisca Pulcheria Phila Philotera Philotera Perictione
+			Plinta Paula Petra Procla Prisca Pulcheria Phila Philotera  Perictione
 			Sophia Severina Stratonice Sosipatra
 			Theodora Thaïs Theoxena Timoclea Timycha Thecla Thargelia Themistoclea
 			Verina Valeria
@@ -203,7 +203,7 @@ romantic = {
 		color = { 0.8 0.6 0.5 }
 
 		male_names = { 
-			Adiutor Ascanius Artemius Audentius Asurius Aurasius Angelus Alexander Aulus Actius Alexander Agustinus Aemilianus
+			Adiutor Ascanius Artemius Audentius Asurius Aurasius Angelus Aulus Actius Alexander Agustinus Aemilianus
 			Bonitus Bormanicus Berobreus Bonifacius
 			Crisciturus Cyprianus Caesarius Castinus Campeius Celsus Concordius Claudius Corocotta Citonatius
 			Desiderio Deodatus Diocles Didymus Dracontius
@@ -282,7 +282,7 @@ romantic = {
 			Nectovelius Nigrinus Natanus
 			Ostorius Obinus Oudoceus Octavius
 			Prasutagus Paddalius Paulinus Pabius Petrocus Pascentius Porrex
-			Romanus Rufus Restitus Remigius Rivaldus Romanus Romulus Riothamus
+			Rufus Restitus Remigius Rivaldus Romanus Romulus Riothamus
 			Senaculus Setibogius Sennianus Segovax Stephanus Samuvellus Saturnus Serialanus Solomanus Sixtus
 			Sanctanus Sedullus
 			Theanus Terentianus Titus Taximagulus Theonus Tincatus Theodovellaunus Teliaus Tatheus Trillus

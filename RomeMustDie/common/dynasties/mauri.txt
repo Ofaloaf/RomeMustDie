@@ -82,3 +82,23 @@
 	name = "Iomniensis"
 	culture = mauri
 }
+
+1962018 = {
+	name = "Augilensis"
+	culture = mauri
+}
+
+1962019 = {
+	name = "Cucuphas"
+	culture = mauri
+}
+
+1962020 = {
+	name = "Scilliensis"
+	culture = mauri
+}
+
+1962021 = {
+	name = "Nemesianus"
+	culture = mauri
+}

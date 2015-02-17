@@ -1,0 +1,70 @@
+egyptian = {
+	graphical_culture = muslimgfx
+
+	coptic = { # Berber
+		graphical_culture = arabicgfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.5 0.8 0.65 }
+
+		male_names = {
+			Ahmod Aiai Aha Akhom Amon Amakhte An Apanoub Apahour Apamon Aretee Apas Athanasios_Athanasius 
+			Aaron_Aaron Abanoub Abderahman_Abderrahman Abianos_Abijah Abisalom Ablarion Abraam_Abraham 
+			Agathon_Agathos Agathonikos_Agathonikos Agathos_Agathos Arsenios_Arsenios Ashraf_Ashraf 
+			Androus_Andrew Anthinos_Anthimos 
+			Beet Bertouet Biktor_Victor Binyamin_Benjamin Bishoi_Bishara Boutros_Peter
+			Danyal_Daniel Da’oud_David 
+			Ennikeran Erhu Ezra_Ezra 
+			Gerges Gabri’el_Gabriel Georgios_George 
+			Hanouf Habil_Abel Haroun_Aaron 
+			Ilyas_Elijah 
+			Jinti Jori Jerjer_Gregory 
+			Keloj Krystafer_Christopher 
+			Mareten Mei Matta_Matthew Mikail_Michael Mikhael_Michael Milad_Milad Mina_Menas Musa_Moses
+			Naui Nishti Nofr Noub Nakat Nahdi Nishde Nai
+			Ourot Ouini Ounisht Ounouf  
+			Pajro Pakat Patape Pashnona Panous Pakhom Papnouti Pishoui Pisha-eneh Pimen Pimoue Pimoui Psote 
+			Payom Pishai Pikhit Pijimi Pijoul Pasnadi Pamin
+			Rashad Rashi Rami Ruweis 
+			Shenouti Shosi Sok 
+			Taio Tadros_Theodore Touma_Thomas
+			Yared Youssef_Joseph 
+			Zaia_Isaiah
+		}
+		
+		female_names = {
+			Afaf Amunet Asmin 
+			Demiana 
+			Eratee Ese Elpis
+			Fana 
+			Hana Heit Hoeite Hannah_Anna Hawwa_Eve
+			Khnau Khreere Kasrin_Catherine Kristina_Christine
+			Lelou 
+			Mariam_Maria Marta_Martha Maysoon_Maysoon 
+			Nefret 
+			Pernoufe Paisi
+			Piama Piamun Potamina 
+			Raune Ro-oune 
+			Sai-ou Stoi Sawsan Shouree Shoushou Samia_Samira Sofia_Sofia 
+			Taloushem Tanouti Takla Ta-ou Tawaret Talida_Taliba 
+			Uradaa
+			Virina_Veronica
+		}
+		
+		from_dynasty_prefix = ""
+		prefix = yes
+		
+		#dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 20
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 20
+		mother_name_chance = 30
+	}
+}

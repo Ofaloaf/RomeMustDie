@@ -62,3 +62,42 @@
 		death=yes
 	}
 }
+
+449006 = {
+	name="Wehha"
+	dynasty=1066004
+	religion="norse_pagan"
+	culture="saxon"
+	453.1.1={
+		birth=yes
+	}
+	550.1.1={
+		death=yes
+	}
+}
+
+449007 = {
+	name="Osric"
+	dynasty=1066003
+	religion="norse_pagan"
+	culture="saxon"
+	442.6.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+449008 = {
+	name="Eadbald"
+	dynasty=1066005
+	religion="norse_pagan"
+	culture="saxon"
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

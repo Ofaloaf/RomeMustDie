@@ -1,7 +1,7 @@
 1.1.1 = {
-	liege = "d_arvernia"
+	liege = "d_aquitania"
 }
 
-470.1.1 = {
-	holder = 789031
+469.1.1 = {
+	holder = 789039
 }

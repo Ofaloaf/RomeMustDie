@@ -619,6 +619,7 @@ e_gallia = {
 				b_stdenis = {
 					holy_site = aztec
 					holy_site = aztec_reformed
+					holy_site = druidic
 				}
 				b_meaux = {
 					roman = Iantinum
@@ -3855,7 +3856,7 @@ e_gallia = {
 	}
 	
 	k_arles = {
-		color={ 71 120 58 }
+		color={ 205 115 88 }
 		color2={ 255 255 255 }
 		
 		capital	= 221 # Provence
@@ -4446,10 +4447,10 @@ e_gallia = {
 				galloroman = Cabillonum
 				iberoroman = Cabillonum
 				britto = Cabillonum
-				old_frankish = Cabilonisis
-				burgundian = Cabilonisis
-				visigothic = Cabilonisis
-				ostrogothic = Cabilonisis
+				old_frankish = Cabilonensis
+				burgundian = Cabilonensis
+				visigothic = Cabilonensis
+				ostrogothic = Cabilonensis
 				
 				b_brancion = {
 				}

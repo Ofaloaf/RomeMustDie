@@ -2,7 +2,7 @@
 technology = {
 	titles = {
 		d_colonia
-		d_decumantia
+		d_decumatia
 	}
 	475= {
 		military = 0.7

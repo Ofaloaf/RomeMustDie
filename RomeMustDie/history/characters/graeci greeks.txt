@@ -1,14 +1,14 @@
 610001 = {
 	name="Armatus"
 	#
-	dynasty=610001
+	dynasty=610023
 	culture=graeci
 	religion=miaphysite
 	trait="fair"
 	trait="strong"
 	trait="proud"
 	trait="envious"
-	441.1.1={
+	445.1.1={
 		birth=yes
 	}
 	477.1.1={
@@ -18,8 +18,8 @@
 
 610002 = {
 	name="Basiliscus"
-	father=610002
-	dynasty=610001
+	father=610001
+	dynasty=610023
 	culture=graeci
 	religion=miaphysite
 	470.1.1={
@@ -184,5 +184,336 @@
 	}
 	557.1.1={
 		death=yes
+	}
+}
+
+610013 = {
+	name="Basiliscus"
+	dynasty=610023
+	culture=graeci
+	religion=miaphysite
+	martial=9
+	diplomacy=3
+	intrigue=5
+	stewardship=6
+	learning=3
+	trait=ambitious
+	trait=envious
+	trait=greedy
+	trait=zealous
+	trait=proud
+	trait=trusting
+	trait=schemer
+	trait=tough_soldier
+	434.1.1={
+		birth=yes
+	}
+	477.1.1={
+		death=yes
+	}
+}
+
+610014 = {
+	name="Andreas"
+	#Andreas 8	?PPO Illyrici V/VI (?E VI)
+	dynasty=610024
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	add_trait="strong"
+	add_trait="cruel"
+	437.1.1={
+		birth=yes
+	}
+	520.12.10={
+		death=yes
+	}
+}
+
+610015 = {
+	name="Theagenes"
+	dynasty=610025
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="hellenic_pagan"
+	culture="graeci"
+	add_trait="charitable"
+	add_trait="wroth"
+	add_trait="fortune_builder"
+	425.1.2={
+		birth=yes
+	}
+	447.1.1={
+		add_spouse=610016
+	}
+	485.1.1={
+		death=yes
+	}
+}
+
+610016 = {
+	name="Asclepideneia"
+	female=yes
+	martial=3
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="hellenic_pagan"
+	culture="graeci"
+	431.1.2={
+		birth="431.1.2"
+	}
+	490.1.1={
+		death="490.1.1"
+	}
+}
+
+610017 = {
+	name="Hegias"
+	dynasty=610025
+	father=610015
+	mother=610016
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="hellenic_pagan"
+	culture="graeci"
+	add_trait="zealous"
+	add_trait="charitable"
+	add_trait="mystic"
+	add_trait="gregarious"
+	449.1.2={
+		birth="449.1.2"
+	}
+	532.1.1={
+		death="532.1.1"
+	}
+}
+
+610018 = {
+	name="Rhodopaeus"
+	dynasty=610026 #Fictional dynasty, real guy
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="nicene"
+	culture="graeci"
+	add_trait="charitable"
+	439.1.2={
+		birth="439.1.2"
+	}
+	510.1.2={
+		death="510.1.2"
+	}
+}
+
+610019 = {
+	name="Harmonius"
+	# attested bishop of Lampsacus/Lampsakos, in what's Abydos County in-game, in AD 458
+	dynasty=610027
+	culture=graeci
+	religion=nicene
+	trait="zealous"
+	trait="scholarly_theologian"
+	423.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes
+	}
+}
+
+610020 = {
+	name = "Philippus"
+	# ATT(IVS) PHILIPPVS 8	v.c., com. ord. pr., governor (consularis) of Pamphylia	?V
+	dynasty=610028
+	culture=graeci
+	religion=nicene
+	441.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610021 = {
+	name = "Strategius"
+	# Governor of Pisidia IV/VI; PLRE I.
+	dynasty=610032
+	culture = graeci
+	religion=nicene
+	430.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+610022 = {
+	name = "Theophilus"
+	# THEOPHILVS 6 consularis Bithyniae 467
+	dynasty=610033
+	culture = graeci
+	religion=nicene
+	trait=zealous
+	trait=patient
+	428.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+610023 = {
+	name = "Kodisa"
+	dynasty=610034
+	culture = graeci
+	religion=nicene
+	390.1.1 = {
+		birth=yes
+	}
+	440.1.1 = {
+		death=yes
+	}
+}
+
+610024 = {
+	name = "Tarasis"
+	dynasty=610034
+	father=610023
+	culture=graeci
+	religion=nicene
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	learning=6
+	trait=paranoid
+	trait=skilled_tactician
+	425.1.1 = {
+		birth=yes
+	}
+	460.1.1 = {
+		name = "Zeno"
+		add_spouse = 610025
+	}
+	475.1.9 = {
+		add_claim = e_byzantium
+	}
+	491.4.9 = {
+		death=yes
+	}
+}
+
+610025 = {
+	name = "Arcadia"
+	female=yes
+	culture = graeci
+	religion=nicene
+	425.1.1 = {
+		birth=yes
+	}
+	465.1.1 = {
+		death=yes
+	}
+}
+
+610026 = {
+	name = "Zeno"
+	dynasty=610034
+	father=610024
+	mother=610025
+	culture = graeci
+	religion = nicene
+	462.1.1 = {
+		birth=yes
+	}
+	463.1.1 = {
+		death=yes
+	}
+}
+
+610027 = {
+	name = "Theodorus"
+	# Theodorus 47
+	dynasty=610035
+	culture = graeci
+	religion = nicene
+	trait=diligent
+	trait=charitable
+	443.2.1 = {
+		birth = yes
+	}
+	500.1.1 = {
+		death = yes
+	}
+}
+
+610028 = {
+	name = "Euetheius"
+	# Euethius 3
+	dynasty=610036
+	culture = graeci
+	religion = nicene
+	441.1.1 = {
+		birth = yes
+	}
+	464.1.1 = {
+		add_spouse=610029
+	}
+	500.1.1 = {
+		death = yes
+	}
+}
+
+610029 = {
+	name = "Theodora"
+	# Theodora 5
+	female=yes
+	culture = graeci
+	religion = nicene
+	442.1.1 = {
+		birth = yes
+	}
+	500.1.1 = {
+		death = yes
+	}
+}
+
+610030 = {
+	name = "Epinicius"
+	# Epinicius ??? I'm reading this part from preview view in Google Books
+	dynasty=610037
+	culture = graeci
+	religion = nicene
+	441.1.1 = {
+		birth = yes
+	}
+	500.1.1 = {
+		death = yes
+	}
+}
+
+610031 = {
+	name = "Alexander"
+	# 
+	dynasty=610038
+	culture = graeci
+	religion = nicene
+	431.1.1 = {
+		birth = yes
+	}
+	500.1.1 = {
+		death = yes
 	}
 }

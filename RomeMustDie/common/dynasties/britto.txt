@@ -72,3 +72,13 @@
 	name = "Purocoronavis"
 	culture = britto
 }
+
+1589016 = {
+	name = "Vreichvras"
+	culture = britto
+}
+
+1589017 = {
+	name = "Fullofaudes"
+	culture = britto
+}

@@ -1,5 +1,5 @@
 1.1.1 = {
-	liege = "d_bishop_of_rome"
+	liege = "d_pentarchy"
 }
 468.1.1 = {
 	holder = 476015

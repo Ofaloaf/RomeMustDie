@@ -22,3 +22,23 @@
 	name = "Fridinga"
 	culture = vandal
 }
+
+123006 = {
+	name = "Nahanarvalingi"
+	culture = vandal
+}
+
+123007 = {
+	name = "Lugius"
+	culture = vandal
+}
+
+123008 = {
+	name = "Helisius"
+	culture = vandal
+}
+
+123009 = {
+	name = "Harius"
+	culture = vandal
+}

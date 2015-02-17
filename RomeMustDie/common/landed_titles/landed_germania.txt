@@ -717,30 +717,6 @@ e_germany = {
 				b_ivancice = {
 				}
 			}
-			c_osterreich = {
-				color={ 48 48 48 }
-				color2={ 255 255 255 }
-
-				# defaults to Vindobona
-			
-				b_wien = {
-					# defaults to Vindobona
-				}
-				b_linz = {
-				}
-				b_melk = {
-				}
-				b_stpolten = {
-				}
-				b_hohenwarth = {
-				}
-				b_wagram = {
-				}
-				b_krems = {
-				}
-				b_steyr = {
-				}
-			}
 
 		}
 	}
@@ -824,13 +800,13 @@ e_germany = {
 				}
 			}
 		}
-		d_decumantia = { 
+		d_decumatia = { 
 			color={ 117 161 67 }
 			color2={ 255 255 255 }
 			
 			capital = 125 #Baden
 
-			roman = "Agri Decumantes"
+			roman = "Agri Decumates"
 			graeci = "Agri Decumantes"
 			greek = "Agri Decumantes"
 		
@@ -1114,6 +1090,396 @@ e_germany = {
 				b_uffenheim = {
 				}
 				b_crailsheim = {
+				}
+			}
+		}
+	}
+	k_venedia = {
+		color={ 190 185 110 }
+		color2={ 220 220 20 }
+		
+		capital = 366 #Stettin
+		
+		catholic = 400 # Crusade target weight
+		slavic_pagan_reformed = 500 # Crusade target weight
+		norse_pagan_reformed = 100 # Crusade target weight
+		baltic_pagan_reformed = 100 # Crusade target weight
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = pagan_group
+				}
+			}
+		}
+		
+		d_mecklemburg = {
+			color={ 162 160 110 }
+			color2={ 255 255 255 }
+			
+			capital = 260 #mecklemburg
+			
+			pommeranian = Obotritia
+
+			c_mecklemburg = {
+				color={ 207 207 207 }
+				color2={ 255 255 255 }
+
+				pommeranian = Weligrad
+				
+				b_mecklemburg = {
+					pommeranian = Weligrad
+				}
+				b_wismar = {
+					pommeranian = Vesimer
+				}
+				b_gevezin = {
+					pommeranian = Radgosc			
+				}
+				b_schwerin = {
+					pommeranian = Zuarina
+				}
+				b_lutzow = {
+				}
+				b_grevesmuhlen = {
+				}
+				b_parchim = {
+				}
+				b_hagenow = {
+				}
+			}
+			c_rostock = {
+				color={ 204 204 204 }
+				color2={ 255 255 255 }
+
+				pommeranian = Rastokú
+				
+				b_rostock = {
+					pommeranian = Rastokú
+				}
+				b_penzlin = {	
+					pommeranian = Pentzelin	
+				}
+				b_gustrow = {	
+					pommeranian = Guscerov				
+				}
+				b_malchin = {
+				}
+				b_damgarten = {
+				}
+				b_strelitz = {
+					pommeranian = Streltza
+				}
+				b_stargard = {
+				}
+				b_ahrensberg = {
+				}
+			}
+			c_werle = {
+				color={ 202 202 202 }
+				color2={ 255 255 255 }
+
+				pommeranian = Dymin
+				
+				b_waren = {
+				}
+				b_greifswald = {
+					pommeranian = Gripscogh
+				}
+				b_stralsund = {
+
+					pommeranian = Stralow
+				}
+				b_tribsees = {
+				}
+				b_demmin = {
+				}
+				b_treptow = {
+				}
+				b_friedland = {
+					pommeranian = Mirów
+				}
+				b_templin = {
+				}
+			}
+			c_rugen = {
+				color={ 201 201 201 }
+				color2={ 255 255 255 }
+
+				pommeranian = Rana
+				
+				b_charenza = {
+				}
+				b_arkona = {
+					holy_site = slavic_pagan
+					holy_site = slavic_pagan_reformed
+					holy_site = baltic_pagan
+					holy_site = baltic_pagan_reformed
+				}
+				b_rugard = {
+				}
+				b_putbus = {
+				}
+				b_barth = {
+				}
+				b_ralswiek = {
+				}
+				b_hiddensee = {
+				}
+				b_tribuzin = {
+				}
+			}
+		}
+		
+		d_pommerania = {
+			color={ 111 143 51 }
+			color2={ 255 255 255 }
+			
+			capital = 366 # Stettin
+		
+			c_wolgast = {
+				color={ 121 163 58 }
+				color2={ 255 255 255 }
+
+				pommeranian = Wologoszcz
+			
+				b_wolgast = {
+					pommeranian = Wologoszcz
+				}
+				b_usedom = {
+					pommeranian = Uznjöm
+				}
+				b_anklam = {	
+					pommeranian = Taglim			
+				}
+				b_ueckermunde = {
+				}
+				b_zinnowitz = {
+				}
+				b_zussow = {
+				}
+				b_kemnitz = {
+				}
+				b_eggesin = {
+				}
+			}
+			c_stettin = {
+				color={ 91 163 48 }
+				color2={ 255 255 255 }
+				
+				pommeranian = Szczecin
+			
+				b_soldin = {
+				}
+				b_stettin = {
+
+					pommeranian = Szczecin
+				}
+				b_wollin = {
+				} 
+				b_stestargard = {
+				}
+				b_kammin = {
+				}
+				b_kolbatz = {
+				}
+				b_cedene = {
+				}
+				b_pyritz = {
+				}
+			}
+		}
+		d_pomeralia = {
+			color={ 95 135 77 }
+			color2={ 255 255 255 }
+			
+			capital = 368 # Danzig
+		
+			c_danzig = {
+				color={ 115 139 70 }
+				color2={ 255 255 255 }
+				
+				pommeranian = "Gdansk"
+				polish = "Gdansk"
+				bohemian = "Gdansk"
+				russian = "Gdansk"
+				prussian = "Gdansk"
+				lithuanian = "Gdansk"
+				lettigallish = "Gdansk"
+				swedish = "Danzig"
+				norse = "Danzig"
+				norwegian = "Danzig"
+				danish = "Danzig"
+			
+				b_bytow = {
+				}
+				b_danzig = {
+					pommeranian = "Gdansk"
+					polish = "Gdansk"
+					bohemian = "Gdansk"
+					russian = "Gdansk"
+					prussian = "Gdansk"
+					lithuanian = "Gdansk"
+					lettigallish = "Gdansk"
+					swedish = "Danzig"
+					norse = "Danzig"
+					norwegian = "Danzig"
+					danish = "Danzig"
+				}
+				b_oliva = {
+				}
+				b_tuchel = {
+				}
+				b_schwetz = {
+				}
+				b_danlauenburg = {
+				}
+				b_mewe = {
+				}
+				b_schlochau = {
+				}
+			}
+			c_slupsk = {
+				color={ 6 155 25 }
+				color2={ 255 255 255 }
+				
+				german = "Stolp"
+				swedish = "Stolp"
+				norwegian = "Stolp"
+				danish = "Stolp"
+				norse = "Stolp"
+			
+				b_rugenwalde = {
+				}
+				b_slupsk = {
+					german = "Stolp"
+					swedish = "Stolp"
+					norwegian = "Stolp"
+					danish = "Stolp"
+					norse = "Stolp"
+				}
+				b_colberg = {
+				}
+				b_schlawe = {
+				}
+				b_tempelburg = {
+				}
+				b_dramburg = {
+				}
+				b_ustka = {
+				}
+				b_belgard = {
+				}
+			}
+		}
+		
+		d_hevellia = {
+			color={ 123 90 90 }
+			color2={ 255 255 255 }
+			
+			capital = 365 #Brandenburg
+
+			#sclaveni = "Sorbia" # Brennaburg
+			ostrogothic = Brennabaurg
+			visigothic = Brennabaurg
+		
+			
+			c_brandenburg = {
+				color={ 186 186 186 }
+				color2={ 255 255 255 }
+
+				ostrogothic = Brennabaurg
+				visigothic = Brennabaurg
+				
+				b_brandenburg = {
+					ostrogothic = Brennabaurg
+					visigothic = Brennabaurg	
+				}
+				b_havelberg = {
+				}
+				b_berlin = {
+				}
+				b_juterborg = {
+				}
+				b_belzig = {
+				}
+				b_ruppin = {
+				}
+				b_oranienburg = {
+					pommeranian = Bochzowe
+				}
+				b_muncheberg = {
+				}
+			}
+		}
+		d_meissen = {
+			color={ 182 188 181 }
+			color2={ 255 255 255 }
+			
+			capital = 312 #Meissen
+
+			pommeranian = Nisani
+		
+			c_meissen = {
+				color={ 177 177 177 }
+				color2={ 255 255 255 }
+
+				pommeranian = Nisani
+				
+				b_dresden = {
+					pommeranian = Drezdany
+				}
+				b_meissen = {
+					pommeranian = Misni
+				}
+				b_dohna = {
+				}
+				b_belgern = { # Called Altenburg
+				}
+				b_strehla = {
+				}
+				b_rabenau = {
+				}
+				b_wettin = {
+				}
+				b_radeburg = {
+				}
+			}
+			c_lausitz = {
+				color={ 174 174 174 }
+				color2={ 255 255 255 }
+
+				pommeranian = Luzycka
+				
+				b_gorlitz = {
+					pommeranian = Zhorjelc
+				}
+				b_bautzen = {
+					roman = Batinorum # made up, hypothetical
+					graeci = Batinorum
+					greek = Batinorum
+					galloroman = Batinorum
+					iberoroman = Batinorum
+					mauri = Batinorum
+					britto = Batinorum
+					pommeranian = Budysin
+				} 
+				b_lebus = {
+					pommeranian = Lubiazu
+				}
+				b_cottbus = {
+					pommeranian = Chosebuz
+				}
+				b_rothenburg = {
+				}
+				b_forst = {
+				}
+				b_zittau = {
+					pommeranian = Zitawa
+				}
+				b_luckau = {
+					pommeranian = Luckawa
 				}
 			}
 		}

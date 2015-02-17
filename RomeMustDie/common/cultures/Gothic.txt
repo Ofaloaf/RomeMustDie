@@ -10,8 +10,8 @@ gothic = {
 		male_names = {
 			Agiulf Aisso Alaric Alatheus Alavivus Aligern Ansemund Areobindus Argebaud Agrimund Ascaric Ataulf Anawuls
 			Athalric Athaloc Athanaric Ardo Anagastes Arintheus Ansila Ald Alico Aliulf Allobich Andag Andela
-			Apsical Aliulf Albis Arigern Asinar Albilas Andraias_Andrew Albeis Albila
-			Berig Batwin Beremud Berichus Bigelis Baza Bigelis Barthaulaumaiu_bartholomew
+			Apsical Albis Arigern Asinar Albilas Andraias_Andrew Albeis Albila
+			Berig Batwin Beremud Berichus Bigelis Baza Barthaulaumaiu_bartholomew
 			Cniva Chintila
 			Dicineus Dumerit Daweidis_David #sunu Daweidis, son of David
 			Eraric Ermenaric Ermenguer Euric Eutharis Erwig Eutharic Ebremud
@@ -36,7 +36,7 @@ gothic = {
 			Sabbas Sanila Saphrax Segga Sigisbultus Sindered Sisebut Sisenand Scottas Spinas Sisigis Scipuar
 			Seimona_Simon
 			Theodehad Theodemir Theodoric_Theodoric Theodulf Theudimer Thorismund Totila Tribigild Theudis 
-			Theidigisel Tulga Thuruar Triarius Theodimund Tuluin Tata Tuluin Tzalico Thoman_thomas Thaddaiu_thaddeus
+			Theidigisel Tulga Thuruar Triarius Theodimund Tuluin Tata Tzalico Thoman_thomas Thaddaiu_thaddeus
 			Ulfilas Ullibos Ulias Unigis
 			Valamir Vinidarius Vithimiris Veduc Vidimer Vallovic Viliarid
 			Witigas Wereka Wamba Widin Witteric Wallia Winguric Wiligis Wiliarit Wandil Wiliaris Wisibad

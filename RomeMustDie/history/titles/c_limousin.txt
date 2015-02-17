@@ -1,5 +1,5 @@
-473.1.1 = {
-	liege = "k_visigothia"
+1.1.1 = {
+	liege = "d_aquitania"
 }
 475.1.1 = {
 	holder = 789021

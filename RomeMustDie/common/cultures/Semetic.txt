@@ -31,13 +31,13 @@ semitic = {
 	hebrew = { 
 		graphical_culture = muslimgfx #arabicgfx
 		
-		color = { 0.5 0.4 0.7 }
+		color = { 0.4 0.3 0.6 }
 
 		male_names = {
 			Abris_Abrisius Adam_Adam Adi Adina_Adina Adir Agam Aharon_Aaron Akiba_Jacob Akiva_Jacob Almog Alon_Alon Amichai Amir_Amir Amit Amnon Amos Anat Ari Arieh Ariel Arik Aryeh Asa_Asa Asaf Asher_Asher
 			Avi Avidan Avihu Aviram Avishai Aviv Aviya Avner Avraham_Abraham Avram_Abram Ayal Barak_Barak Barukh_Baruch Binyamin_Benjamin Boaz Chaim
 			Chayim Chayyim Chesed Dan Daniyyel_Daniel David_David Dawid_David Dekel Dror Deror Dikla_Dikla Diklah_Dikla Dor Dori Doron Dov Efraim_Ephraim Ehud_Ehud Eiran Eitan_Ethan
-			Eli_Eli Eli'ezer_Eliezer 'Eliyyahu_Elijah Elior Elisha_Elisha Eliyahu_Elijah Eliyyahu_Elijah Elkanah Erez Eyal Eytan_Ethan Ezra Gal Gavriel_Gabriel Gid'on_Gideon
+			Eli_Eli Eli'ezer_Eliezer Eliyyahu_Elijah Elior Elisha_Elisha Eliyahu_Elijah Eliyyahu_Elijah Elkanah Erez Eyal Eytan_Ethan Ezra Gal Gavriel_Gabriel Gid'on_Gideon
 			Gil Gilad_Gilead Gili Hadar Haim Hamon Hayim Hayyim Hebel_Abel Hed Hevel_Abel Hillel Hyam Idan Ilan Immanuel_Emmanuel Ira Itai Itamar Itzhak
 			Iyov Jaffe_Yaffa Keshet Kfir Lavi Lev Levi Li Lior Liron Maayan Mal'akhiy_Malachi Maor Matan Mattithyahu_Matthew Mattityahu_Matthew Meit Melech
 			Melek Menachem Menahem Menashe_Manasseh Meshulam Meshullam Mikha'el_Michael Mor Moran Mordecai Mordechai Moshe_Moses Nachum_Nahum Nadav_Nadab
@@ -76,7 +76,7 @@ semitic = {
 	assyrian = { 
 		graphical_culture = muslimgfx #arabicgfx
 		
-		color = { 0.4 0.3 0.6 }
+		color = { 0.65 0.55 0.80 }
 
 		male_names = {
 			Aba_Abba Abahu_Abahu Abaya_Abaya Abaye_Abaya Abayi_Abaya Abba_Abba Abdima 'Abdisho' Abgar Abimalek Abraham_Abraham Abris Abrisius_Abrisius Acacius Achan Achina Addai_Thaddeus Adlai Aggai Ahai_Ahha Ahadabui Ahha_Ahha "Akha d'abuh'" Akh-es-Samain Aqib-Alaha Asa_Asa Ashur_Asher Avahu Avda_Abahu Avdima_Avdima Avdimi_Avdima Avina Avira Azai

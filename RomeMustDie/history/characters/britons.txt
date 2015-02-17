@@ -330,3 +330,56 @@
 		death=yes
 	}
 }
+
+1589023 = {
+	name="Domnovellaunus"
+	dynasty=1589003
+	culture="britto"
+	religion="pelagian"
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589024 = { # Caradog Freichfas
+	name="Caractacus"
+	dynasty=1589016
+	culture="britto"
+	religion="nicene"
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	learning=7
+	trait=maimed
+	trait=scarred
+	trait=chaste
+	trait=paranoid
+	trait=scholarly_theologian
+	438.1.1={
+		birth=yes
+	}
+	467.1.1={
+		add_spouse=1589025
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589025 = {
+	name="Tegau"
+	female=yes
+	culture="britto"
+	religion="nicene"
+	trait=scarred
+	448.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

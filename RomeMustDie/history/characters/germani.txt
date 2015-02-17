@@ -138,3 +138,34 @@
 		death="477.1.2"
 	}
 }
+
+1871008 = {
+	name="Priar"
+	dynasty=1871006 # Suntgower
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	learning=5
+	culture="alemannic"
+	religion="norse_pagan"
+	449.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1871009 = {
+	name="Suomar"
+	dynasty=1871007 # Nordgower
+	culture="alemannic"
+	religion="norse_pagan"
+	451.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

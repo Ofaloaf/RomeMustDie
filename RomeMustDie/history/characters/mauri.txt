@@ -126,3 +126,17 @@
 		death=yes
 	}
 }
+
+1962009 = {
+	name="Tifan"
+	dynasty=1962018
+	culture=maghreb_arabic
+	religion=pagan
+	trait="zealous"
+	442.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

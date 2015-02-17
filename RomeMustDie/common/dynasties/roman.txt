@@ -577,3 +577,63 @@
 	name="Fabius"
 	culture = roman
 }
+
+753116 = {
+	name = "Spudasius"
+	culture = roman
+}
+
+753117 = {
+	name = "Caelistis"
+	culture = roman
+}
+
+753118 = {
+	name = "Cornix"
+	culture = roman
+}
+
+753119 = {
+	name = "Hardalio"
+	culture = roman
+}
+
+753120 = {
+	name = "Homullus"
+	culture = roman
+}
+
+753121 = {
+	name = "Corbulo"
+	culture = roman
+}
+
+753122 = {
+	name = "Lucullus"
+	culture = roman
+}
+
+753123 = {
+	name = "Ligustinus"
+	culture = roman
+}
+
+753124 = {
+	name = "Maltinus"
+	culture = roman
+}
+
+753125 = {
+	name = "Murena"
+	culture = roman
+}
+
+753126 = {
+	name = "Marcipor"
+	culture = roman
+}
+
+753127 = {
+	name = "Matho"
+	culture = roman
+}

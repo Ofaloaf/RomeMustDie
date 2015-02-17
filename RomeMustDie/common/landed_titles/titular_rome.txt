@@ -45,14 +45,12 @@ e_ere = {
 		}
 	}
 
-	k_noricum = {
-		color={ 226 206 114 }
-		color2={ 255 255 255 }
-		
-	
-		# Creation/usurpation trigger
+	k_isauria = {
+		color = { 107 151 60 }
+		color2= { 255 255 255 }
+
 		allow = {
-			culture_group = romantic
+			always = no
 		}
 	}
 
@@ -137,7 +135,7 @@ e_ere = {
 			location_ruler_title = yes
 	
 			# Always exists
-			landless = yes
+			#landless = yes
 	
 			religion = nicene
 	
@@ -145,6 +143,10 @@ e_ere = {
 			primary = yes
 	
 			dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+
+			allow = {
+				always = no
+			}
 		}
 
 		d_foederati = {
@@ -175,7 +177,7 @@ e_ere = {
 			color={ 198 249 229 }
 			color2={ 220 220 0 }
 	
-			capital = 496 # Constantinople
+			capital = 333 # Rome
 	
 			title = "PRIMATE"
 			foa = "POPE_FOA"
@@ -222,6 +224,17 @@ e_ere = {
 			}
 		}
 
+		d_nasamones = {
+			color = { 243 147 10 }
+			color2= { 255 255 255 }
+
+			culture = maghreb_arabic
+
+			allow = {
+				always=no
+			}
+		}
+
 		d_soissons = {
 			color = { 141 56 44 }
 			color2= { 255 255 255 }
@@ -238,4 +251,11 @@ e_ere = {
 					culture = old_frankish
 				}
 			}
+		}
+
+		d_thracia = {
+			color = { 56 154 98 }
+			color2= { 255 255 255 }
+
+			capital = 497 # Thrake
 		}

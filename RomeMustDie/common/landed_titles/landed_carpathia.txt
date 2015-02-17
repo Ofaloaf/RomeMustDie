@@ -332,7 +332,6 @@ e_carpathia = {
 		allow = {
 			OR = {
 				culture_group = magyar
-				culture = avar
 				AND = {
 					FROM = { # FROM = this title
 						any_previous_holder = {
@@ -384,59 +383,9 @@ e_carpathia = {
 				b_darda = {
 				}
 			}
-			c_szekezfehervar = {
-				color={ 189 74 74 }
-				color2={ 255 255 255 }
-				
-				german = Stuhlweissenburg
-				
-				b_szekezfehervar = {
-				}
-				b_csurgo = {
-				}
-				b_kaposvar = {
-				}
-				b_szigetvar = {
-				}
-				b_barcs = {
-				}
-				b_marcali = {
-				}
-				b_nagyatad = {
-				}
-				b_lengyeltoti = {
-				}
-			}
-			c_vas = {
-				color={ 191 76 76 }
-				color2={ 255 255 255 }
-
-				german = Eisenburg
-				croatian = Zelezna
-				
-				b_szombathely = {
-				}
-				b_szentgotthard = {
-				}
-				b_vasvar = {
-				}
-				b_sarvar = {
-				}
-				b_celldomolk = {
-				}
-				b_kormend = {
-				}
-				b_koszeg = {
-				}
-				b_nemetujvar = {
-				}
-			}
 			c_fejer = {
 				color={ 193 78 78 }
 				color2={ 255 255 255 }
-				
-				german = Stuhlweiss
-				croatian = Bila
 				
 				b_sarbogard = {
 				}
@@ -465,30 +414,7 @@ e_carpathia = {
 			german = Gran
 			bohemian = Ostrihom
 			croatian = Ostrogon
-			
-			c_sopron = {
-				color={ 211 63 63 }
-				color2={ 255 255 255 }
-				
-				german = Ödenburg
-				
-				b_sopron = {
-				}
-				b_gyor = {
-				}
-				b_csorna = {
-				}
-				b_borsmonostor = {
-				}
-				b_csepreg = {
-				}
-				b_kapuvar = {
-				}
-				b_kismarton = {
-				}
-				b_nagymarton = {
-				}
-			}
+		
 			c_esztergom = {
 				color={ 214 66 66 }
 				color2={ 255 255 255 }
@@ -774,8 +700,13 @@ e_carpathia = {
 			c_pest = {
 				color={ 176 67 67 }
 				color2={ 255 255 255 }
+
+				# Aquincum
+				roman = Eraviscia
+				graeci = Eraviscia
 				
 				b_pest = {
+					# Aquincum
 				}
 				b_vac = {
 					holy_site = tengri_pagan

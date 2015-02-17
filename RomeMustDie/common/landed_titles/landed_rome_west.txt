@@ -596,7 +596,7 @@ e_wre = {
 				color2={ 255 255 255 }
 
 				roman = Florentia
-				graecia = Florentia
+				graeci = Florentia
 				greek = Florentia
 				galloroman = Florentia
 				iberoroman = Florentia
@@ -604,7 +604,7 @@ e_wre = {
 					
 				b_firenze = {
 					roman = Florentia
-					graecia = Florentia
+					graeci = Florentia
 					greek = Florentia
 					galloroman = Florentia
 					iberoroman = Florentia
@@ -2468,7 +2468,7 @@ e_wre = {
 					greek = Thaenae
 				}
 				b_msaken = {
-					ised_for_dynasty_names = no
+					used_for_dynasty_names = no
 
 					roman = "Horrea Caelia" # Actually Hergla, Tunisia
 					graeci = "Horrea Caelia"
@@ -2743,6 +2743,740 @@ e_wre = {
 				b_drean = {
 				}
 				b_meroudj = {
+				}
+			}
+		}
+	}
+	k_illyricum = {
+		color={ 117 186 191 }
+		color2={ 255 255 255 }
+		
+		
+		orthodox = 300 # Crusade target weight
+		catholic = 100 # Crusade target weight
+		
+		d_dardania = {
+			color={ 40 52 155 }
+			color2={ 255 255 255 }
+			
+			c_rashka = {
+				color={ 172 139 61 }
+				color2={ 255 255 255 }
+				
+				greek = "Rascia"
+				
+				b_prizren = {
+					greek = "Petrizen"
+				}
+				b_decani = {
+				}
+				b_dioclea = {
+				}
+				b_svetispas = {
+				}
+				b_trepca = {
+				}
+				b_zvecan = {
+				}
+				b_djakovica = {
+				}
+				b_polog = {
+				}
+			}
+			c_hum = { 
+				color={ 58 72 120 }
+				color2={ 255 255 255 }
+				
+				greek = "Arsa"
+				
+				b_plav = {
+				}
+				b_pec = {
+				}
+				b_novipazar = {
+					greek = "Arsa"
+				}
+				b_stupovi = {
+				}
+				b_belacrkva = {
+				}
+				b_bradarevo = {
+				}
+				b_moraca = {
+				}
+				b_medun = {
+				}
+			}
+			c_belgrade = {
+				color={ 79 101 162 }
+				color2={ 255 255 255 }
+				
+				serbian = "Belgrad"
+				croatian = "Belgrad"
+				bulgarian = "Belgrad"
+				roman = "Singidunum"
+				graeci = "Singidunum"
+				greek = "Singidounon"
+				
+				b_belgrade = {
+					serbian = "Belgrad"
+					croatian = "Belgrad"
+					bulgarian = "Belgrad"
+					graeci = "Singidunum"
+					greek = "Singidounon"
+				}
+				b_zemun = {
+				}
+				b_smederevo = {
+				}
+				b_kragujevac = {
+				}
+				b_rudnik = {
+				}
+				b_branicevo = {
+				}
+				b_pozarevac = {
+				}
+				b_lipovic = {
+				}
+			}
+			c_rama = {
+				color={ 197 118 118 }
+				color2={ 255 255 255 }
+	
+				b_rama = {
+				}
+				b_samobor = {
+				}
+				b_usice = {
+				}
+				b_borac = {
+				}
+				b_srebrenica = {
+				}
+				b_srebrnik = {
+				}
+				b_zenica = {
+				}
+				b_zvornik = {
+				}
+			}
+			c_vidin = {
+				color={ 124 105 60 }
+				color2={ 255 255 255 }
+				
+				greek = "Bononia"
+				
+				b_vidin = {
+					greek = "Bononia"
+				}
+				b_viseslav = {
+				}
+				b_kula = {
+				}
+				b_srvljig = {
+				}
+				b_pirot = {
+				}
+				b_bolvan = {
+				}
+				b_kucevo = {
+				}
+				b_zajecar = {
+				}
+			}
+			c_naissus = {
+				color={ 126 107 62 }
+				color2={ 255 255 255 }
+				
+				serbian = "Nish"
+				croatian = "Nish"
+				bulgarian = "Nish"
+				
+				b_nish = {
+					greek = "Naissos"
+				}
+				b_kumanovo = {
+				}
+				b_koprijan = {
+				}
+				b_brdo = {
+				}
+				b_vranje = {
+				}
+				b_lesnovo = {
+				}
+				b_kambelevac = {
+				}
+				b_knjazevac = {
+				}
+			}
+		}
+		d_praevalitana = {
+			color={ 81 189 149 }
+			color2={ 255 255 255 }
+			
+			capital = 468 # Ragusa
+			
+			greek = "Dioclea"
+			serbian = "Duklja"
+			croatian = "Duklja"
+			bulgarian = "Duklja"
+			
+			c_zeta = {
+				color={ 72 162 108 }
+				color2={ 255 255 255 }
+				
+				b_podgorica = {
+					roman = "Dioclea"
+					galloroman = "Dioclea"
+					graeci = "Diocleia"
+					greek = "Birziminion"
+				}
+				b_bar = {
+					italian = Antivari
+					roman = Antibarium
+					galloroman = Antibarium
+					graeci = Antibarium
+					greek = Antivarion
+				}
+				b_kotor = {
+					italian = Cattaro
+					roman = "Acruvium"
+					galloroman = "Acruvium"
+					graeci = "Acruvium"
+					greek = Askrivion
+				}
+				b_skadar = {
+					italian = Scutari
+					roman = "Scodra"
+					galloroman = "Scodra"
+					graeci = "Scodra"
+					greek = Skoutarion
+				}
+				b_ulcinj = {
+					roman = "Olchinium"
+					galloroman = "Olchinium"
+					graeci = "Colchinium"
+					greek = "Olchinion"
+				}
+				b_budva = {
+					roman = "Butua"
+					galloroman = "Butua"
+					graeci = "Bouthoe"
+					greek = "Vouthoe"
+				}
+				b_danj = {
+					italian = "Dagno"
+					roman = "Dagnum"
+					galloroman = "Dagnum"
+					graeci = "Dagnum"
+					greek = "Dagnon"
+				}
+				b_drivast = {
+				}
+			}
+			c_ragusa = {
+				color={ 116 194 165 }
+				color2={ 255 255 255 }
+				
+				roman = "Ragusium"
+				galloroman = "Ragusa"
+				graeci = "Ragusium"
+				greek = "Raugia"
+				croatian = "Dubrovnik"
+				serbian = "Dubrovnik"
+				
+				b_ragusa = {
+					roman = "Ragusa"
+					galloroman = "Ragusa"
+					graeci = "Ragusium"
+					greek = "Ragouza"
+					croatian = "Dubrovnik"
+					serbian = "Dubrovnik"
+				}
+				b_narona = {
+				}
+				b_cavtat = {
+					roman = "Epidaurum"
+					galloroman = "Epidaurum"
+					graeci = "Epidaurum"
+					greek = "Epidauros"
+					italian = "Ragusavecchia"
+				}
+				b_zaton = {
+				} 
+				b_slano = {
+				}
+				b_mljet = {
+					roman = "Melita"
+					galloroman = "Melita"
+					graeci = "Melite"
+					greek = "Melite"
+				}
+				b_kolocep = {
+					italian = "Calamotta"
+					roman = "Calamota"
+					galloroman = "Calamota"
+					graeci = "Calamota"
+					greek = "Kalamota"
+				}
+				b_sipan = {
+				}
+			}
+		}
+		d_dalmatia = {
+			color={ 184 137 137 }
+			color2={ 255 255 255 }
+			
+			capital = 465 # Zadar
+	
+			c_split = {
+				color={ 186 139 139 }
+				color2={ 255 255 255 }
+				
+				italian = "Spalato"
+				roman = "Spalatum"
+				galloroman = "Spalatum"
+				graeci = "Spalatum"
+				greek = "Spalathos"
+	
+				b_split = {
+					italian = "Spalato"
+					roman = "Spalatum"
+					galloroman = "Spalatum"
+					graeci = "Spalatum"
+					greek = "Spalathos"
+				}
+				b_hvar = {
+					italian = "Lesina"
+					roman = "Pharia"
+					galloroman = "Pharia"
+					graeci = "Pharia"
+					greek = "Pharos"
+				}
+				b_trogir = {
+					italian = "Trau"
+					roman = "Tragurium"
+					galloroman = "Tragurium"
+					graeci = "Tragurium"
+					greek = "Tragyrion"
+					hungarian = "Trau"
+				}
+				b_solin = {
+					roman = "Salona"
+					galloroman = "Salona"
+					graeci = "Salona"
+					greek = "Salona"
+				}
+				b_klis = {
+					italian = "Clissa"
+				}
+				b_makarska = {
+					roman = "Muccurum"
+					galloroman = "Muccurum"
+					graeci = "Muccurum"
+					#sclaveni = "Mokro"
+				}
+				b_sinj = {
+					italian = "Signo"
+					roman = "Cetovium"
+					galloroman = "Cetovium"
+					graeci = "Cetovium"
+					german = "Zein"
+				}
+				b_imotski = {
+				}
+			}
+			c_zadar = {
+				color={ 188 141 141 }
+				color2={ 255 255 255 }
+				
+				italian = "Zara"
+				roman = "Iader"
+				galloroman = "Iadera"
+				graeci = "Iader"
+				greek = "Diadora"
+	
+				b_zadar = {
+					italian = "Zara"
+					roman = "Iadera"
+					galloroman = "Iadera"
+					graeci = "Iader"
+					greek = "Diadora"
+				}
+				b_nin = {
+					roman = "Aenona"
+					galloroman = "Aenona"
+					graeci = "Aenona"
+				}
+				b_knin = {
+					roman = "Tinum"
+					galloroman = "Tinum"
+					graeci = "Burnum"
+				}
+				b_sibenik = {
+					italian = "Sebenico"
+					roman = "Sebenicum"
+					galloroman = "Sebenicum"
+					graeci = "Sebenicum"
+				}
+				b_novigrad = {
+				}
+				b_benkovac = {
+					italian = "Bencovazzo"
+				}
+				b_obrovac = {
+				}
+				b_pag = {
+				}
+			}
+			c_zachlumia = {
+				color={ 166 57 57 }
+				color2={ 255 255 255 }
+	
+				b_mostar = {
+				}
+				b_duvno = {
+				}
+				b_livno = {
+				}
+				b_capljina = {
+				}
+				b_sirokibrijeg = {
+				}
+				b_ljubuski = {
+				}
+				b_drvar = {
+				}
+				b_neretva = {
+				}
+			}
+			c_senj = {
+				color={ 170 61 61 }
+				color2={ 255 255 255 }
+				
+				italian = "Segna"
+				roman = "Senia"
+				galloroman = "Senia"
+				graeci = "Attienities"
+				greek = "Attienities"
+				german = "Zengg"
+				hungarian = "Zeng"
+	
+				b_senj = {
+					italian = "Segna"
+					roman = "Senia"
+					galloroman = "Senia"
+					graeci = "Attienities"
+					greek = "Attienities"
+					german = "Zengg"
+					hungarian = "Zeng"
+				}
+				b_kaseg = {
+				}
+				b_brinje = {
+				}
+				b_karlobag = {
+					roman = "Vegia"
+					galloroman = "Vegia"
+					graeci = "Vegia"
+					greek = "Vegia"
+				}
+				b_perusic = {
+				} 
+				b_donjilapac = {
+				}
+				b_udbina = {
+				}
+				b_otocac = {
+				}
+			}
+			c_veglia = {
+				color={ 174 65 65 }
+				color2={ 255 255 255 }
+				
+				roman = "Curicta"
+				galloroman = "Curicta"
+				graeci = "Curicta"
+				greek = "Kyrikon"
+				german = "Vegl"
+	
+				b_veglia = {
+					roman = "Curicta"
+					galloroman = "Curicta"
+					graeci = "Curicta"
+					greek = "Kyrikon"
+					german = "Vegl"
+					croatian = "Krk"
+					serbian = "Krk"
+				}
+				b_absorus = {
+					roman = "Apsorus"
+					galloroman = "Absorus"
+					graeci = "Apsorus"
+					greek = "Apsoros"
+				}
+				b_kraljevica = {
+				}
+				b_frankopan = {
+					roman = "Tarsatica"
+					galloroman = "Tarsatica"
+					graeci = "Tarsatica"
+					greek = "Tarsatika"
+				}
+				b_bakar = {
+					italian = "Buccari"
+				}
+				b_crikvenica = {
+					roman = "Ad Turres"
+					galloroman = "Ad Turres"
+					graeci = "Ad Turres"
+				}
+				b_cres = {
+				}
+				b_vrbovsko = {
+				}
+			}
+		}
+		d_savia = {
+			color={ 201 198 190 }
+			color2={ 255 255 255 }
+			
+			capital = 461 # Zagreb
+	
+			c_krizevci = {
+				color={ 186 139 139 }
+				color2={ 255 255 255 }
+
+				roman = "Mursa"
+				galloroman = "Mursa"
+				graeci = "Mursa"
+				greek = "Mursa"
+				ostrogothic = "Mursa"
+				visigothic = "Mursa"
+	
+				b_krizevci = {
+					roman = "Mursa"
+					galloroman = "Mursa"
+					graeci = "Mursa"
+					greek = "Mursa"
+				}
+				b_koprivnica = {
+				}
+				b_osijek = {
+				}
+				b_vinkovci = {
+				}
+				b_vukovar = {
+				}
+				b_durdevac = {
+				}
+				b_pozega = {
+				}
+				b_virovitica = {
+				}
+			}
+			c_zagreb = {
+				color={ 189 141 141 }
+				color2={ 255 255 255 }
+
+				roman = "Siscia"
+				galloroman = "Siscia"
+				graeci = "Siscia"
+				greek = "Siscia"
+				visigothic = "Siscia"
+				old_frankish = "Siscia"
+	
+				b_zagreb = {
+					roman = "Andautonia"
+					galloroman = "Andautonia"
+					graeci = "Andautonia"
+					greek = "Andautonia"
+				}
+				b_sisak = {
+					roman = "Siscia"
+					galloroman = "Siscia"
+					graeci = "Siscia"
+				}
+				b_karlovac = {
+				}
+				b_cetin = {
+				}
+				b_zrin = {
+				}
+				b_dreznik = {
+				}
+				b_stenicnjak = {
+				} 
+				b_ozalj = {
+				}
+			}
+			c_varadzin = {
+				color={ 191 143 143 }
+				color2={ 255 255 255 }
+
+				roman = "Varasdinum"
+				galloroman = "Varasdinum"
+				graeci = "Varasdinum"
+				greek = "Varasdinon"
+				visigothic = "Varasdinum"
+				old_frankish = "Guarasdino" # Hypothetical
+	
+				b_varazdin = {
+					roman = "Varasdinum"
+					galloroman = "Varasdinum"
+					graeci = "Varasdinum"
+					greek = "Varasdinon"
+					visigothic = "Varasdinum"
+					old_frankish = "Guarasdino" # Hypothetical
+				}
+				b_cakovec = {
+					roman = "Aquama"
+				}
+				b_ludbreg = {
+				}
+				b_lepoglava = {
+				}
+				b_toplice = {
+				}
+				b_krapina = {
+				}
+				b_donjastubica = {
+				}
+				b_oroslavje = {
+				}
+			}
+			c_usora = {
+				color={ 200 121 121 }
+				color2={ 255 255 255 }
+					
+					roman = "Vozora"
+	
+				b_usora = {
+					roman = "Vozora"
+				}
+				b_banjaluka = {
+					roman = "Ad Ladios"
+					galloroman = "Ad Ladios"
+					graeci = "Ad Ladios"
+				} 
+				b_bihac = {
+					roman = "Raetinium"
+					galloroman = "Raetinium"
+					graeci = "Raetinium"
+					greek = "Raetinion"
+				}
+				b_jajce = {
+				}
+				b_bocac = {
+				}
+				b_kuljc = {
+				}
+				b_prijedor = {
+				}
+				b_blagaj = {
+				}
+			}
+		}
+		d_pannonia = {
+			color = { 82 94 43 }
+			color2= { 255 255 255 }
+
+			c_szekezfehervar = {
+				color={ 189 74 74 }
+				color2={ 255 255 255 }
+				
+				# defaults to Gorsium
+				
+				b_szekezfehervar = {
+					# defaults to Gorsium
+				}
+				b_csurgo = {
+				}
+				b_kaposvar = {
+				}
+				b_szigetvar = {
+				}
+				b_barcs = {
+				}
+				b_marcali = {
+				}
+				b_nagyatad = {
+				}
+				b_lengyeltoti = {
+				}
+			}
+			c_vas = {
+				color={ 191 76 76 }
+				color2={ 255 255 255 }
+
+				# defaults to Savaria
+				
+				b_szombathely = {
+					# defaults to Savaria
+				}
+				b_szentgotthard = {
+				}
+				b_vasvar = {
+				}
+				b_sarvar = {
+				}
+				b_celldomolk = {
+				}
+				b_kormend = {
+				}
+				b_koszeg = {
+				}
+				b_nemetujvar = {
+				}
+			}
+			c_osterreich = {
+				color={ 48 48 48 }
+				color2={ 255 255 255 }
+
+				# defaults to Vindobona
+			
+				b_wien = {
+					# defaults to Vindobona
+				}
+				b_linz = {
+				}
+				b_melk = {
+				}
+				b_stpolten = {
+				}
+				b_hohenwarth = {
+				}
+				b_wagram = {
+				}
+				b_krems = {
+				}
+				b_steyr = {
+				}
+			}
+			c_sopron = {
+				color={ 211 63 63 }
+				color2={ 255 255 255 }
+				
+				# defaults to Scarbantia
+				
+				b_sopron = {
+					# defaults to Scarbantia
+				}
+				b_gyor = {
+				}
+				b_csorna = {
+				}
+				b_borsmonostor = {
+				}
+				b_csepreg = {
+				}
+				b_kapuvar = {
+				}
+				b_kismarton = {
+				}
+				b_nagymarton = {
 				}
 			}
 		}
