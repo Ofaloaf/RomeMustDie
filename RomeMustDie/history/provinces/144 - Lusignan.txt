@@ -13,7 +13,8 @@ b_niort = city
 #b_maillezais = temple
 #b_civray = castle
 #b_confolens = castle
-#b_stmaixent = templ
+#b_stmaixent = temple
 
-culture = galloroman
+#Misc
+culture = gallo_roman
 religion = nicene

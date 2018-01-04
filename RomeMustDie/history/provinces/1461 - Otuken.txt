@@ -1,0 +1,16 @@
+# County Title
+title = c_otuken
+
+# Settlements
+max_settlements = 4
+
+b_otuken = tribal
+#b_sayan =
+#b_khori_tumed =
+#b_kyren =
+#b_kutulik =
+#b_tulun =
+
+# Misc
+culture = turkish
+religion = tengri_pagan

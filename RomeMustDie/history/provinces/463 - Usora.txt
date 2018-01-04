@@ -16,5 +16,5 @@ b_banjaluka = temple
 #b_blagaj = castle
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene

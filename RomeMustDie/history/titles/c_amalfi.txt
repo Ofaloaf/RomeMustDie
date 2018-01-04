@@ -1,3 +1,6 @@
 1.1.1 = {
-	liege = "d_lucania"
+	liege = e_wre
+}
+473.1.1 = {
+	holder = 476059
 }

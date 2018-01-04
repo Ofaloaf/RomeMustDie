@@ -16,4 +16,4 @@ b_perre = temple
 
 # Misc
 culture = graeci
-religion = nestorian
+religion = miaphysite

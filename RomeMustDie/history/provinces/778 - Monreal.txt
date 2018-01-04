@@ -9,7 +9,6 @@ b_monreal = castle
 #b_hurmniz = city
 b_sela = temple
 
-#b_wadimusah = castle
 #b_bildad = castle
 #b_tafila = castle
 #b_paran = castle
@@ -17,4 +16,4 @@ b_sela = temple
 
 # Misc
 culture = assyrian
-religion = nicene
+religion = nestorian

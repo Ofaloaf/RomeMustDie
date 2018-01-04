@@ -7,6 +7,14 @@ title = c_westfriesland
 max_settlements = 4
 b_alkmaar = tribal
 
+b_egmond = temple
+#b_hoorn = city
+#b_medemblik = castle
+#b_heerhugowaard = castle
+#b_enkhuizen = city
+#b_texel = castle
+#b_schagen = castle
+
 # Misc
 culture = frisian
 religion = norse_pagan

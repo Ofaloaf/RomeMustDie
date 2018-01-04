@@ -15,7 +15,7 @@ b_calahorra = temple
 #b_zizurmayor = castle
 
 # Misc
-culture = vasconian
+culture = basque
 religion = hellenic_pagan
 
-#
+# History

@@ -18,5 +18,7 @@ b_zaoula = city
 #b_mechreck = castle
 
 # Misc
-culture = maghreb_arabic
+culture = moor
 religion = donatist
+
+# History

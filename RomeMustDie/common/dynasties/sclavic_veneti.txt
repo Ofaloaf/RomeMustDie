@@ -1,0 +1,79 @@
+734001 = {
+	name="Goplan"
+	culture = veneti
+}
+
+734002 = {
+	name="Rerigus"
+	culture = veneti
+}
+
+734003 = {
+	name="Wagrius"
+	culture = veneti
+}
+
+734004 = {
+	name="Ukrianus"
+	culture = veneti
+}
+
+734005 = {
+	name="Polabius"
+	culture = veneti
+}
+
+734006 = {
+	name="Warnabus"
+	culture = veneti
+}
+
+734007 = {
+	name="Golensizus"
+	culture = veneti
+}
+
+734008 = {
+	name="Hevellus"
+	culture = veneti
+}
+
+734009 = {
+	name="Kashubius"
+	culture = veneti
+}
+
+734010 = {
+	name="Kcynianie"
+	culture = veneti
+}
+
+734011 = {
+	name="Sprevjane"
+	culture = veneti
+}
+
+734012 = {
+	name="Smeldingi"
+	culture = veneti
+}
+
+734013 = {
+	name="Bethelici"
+	culture = veneti
+}
+
+734014 = {
+	name="Morizani"
+	culture = veneti
+}
+
+734015 = {
+	name="Opolan"
+	culture = veneti
+}
+
+734016 = {
+	name="Lechitus"
+	culture = veneti
+}

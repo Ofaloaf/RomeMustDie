@@ -16,5 +16,5 @@ b_cholet = castle
 #b_chateaugontier = castle
 #b_treves = temple
 
-culture = galloroman
+culture = gallo_roman
 religion = nicene

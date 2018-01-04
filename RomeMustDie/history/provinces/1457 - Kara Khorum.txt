@@ -1,0 +1,17 @@
+# County Title
+title = c_kara_khorum
+
+# Settlements
+max_settlements = 4
+
+b_kara_khorum = tribal
+#b_luut =
+#b_noin_ula = temple
+#b_zuunmod =
+#b_khamag =
+#b_lun =
+#b_bayan =
+
+# Misc
+culture = mongol
+religion = tengri_pagan

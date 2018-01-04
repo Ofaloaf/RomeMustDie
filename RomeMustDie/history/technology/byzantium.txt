@@ -1,0 +1,133 @@
+technology = {
+	titles = {
+		d_europa
+	}
+
+	475 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_FORTIFICATIONS_CONSTRUCTION = 3.0
+		TECH_CASTLE_CONSTRUCTION = 2.0
+		TECH_TEMPLE_CONSTRUCTION = 2.0
+		TECH_LEGALISM = 2.0
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+		
+		TECH_FORTIFICATIONS_CONSTRUCTION = 5
+		TECH_CASTLE_CONSTRUCTION = 5
+		TECH_TEMPLE_CONSTRUCTION = 5
+		TECH_LEGALISM = 5
+	}
+}
+
+technology = {
+	titles = {
+		d_margensis
+		d_dardania
+		d_macedonia
+		d_epirus
+		d_thessalia
+		d_hellas
+		d_achaia
+		d_krete
+		d_rhodope
+		d_thracia
+		d_moesia
+		d_scythia
+		d_bithynia
+		d_paphlagonia
+		d_galatia
+		d_cappadocia
+		d_helenopontus
+		d_pontus
+		d_asia
+		d_insulae
+		d_hellespontus
+		d_phrygia
+		d_isauria
+		d_cibyraeotarum
+		d_armenia
+		d_mesopotamia
+		d_coloneia
+	}
+	
+	475 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+technology = {
+	titles = {
+		d_antioch
+		d_damascus
+		d_palmyra
+		d_osroene
+		d_euphratensis
+		d_syria
+		d_phoenice
+		d_arabia
+		d_cyprus
+		d_cilicia
+		d_palestina
+		d_petrea
+		d_alexandria
+		d_cyrenaica
+		d_libya
+		d_augustamnica
+		d_arcadia
+		d_thebais
+	}
+
+	475 = {
+		military = 1.0
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_FORTIFICATIONS_CONSTRUCTION = 0.85
+		TECH_CASTLE_CONSTRUCTION = 0.85
+		TECH_RELIGIOUS_CUSTOMS = 1.75
+		TECH_CAVALRY = 2.0
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+technology = {
+	titles = {
+		d_abkhazia
+		d_iberia
+	}
+
+	475 = {
+		military = 1.0
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_FORTIFICATIONS_CONSTRUCTION = 0.85
+		TECH_CASTLE_CONSTRUCTION = 0.85
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}

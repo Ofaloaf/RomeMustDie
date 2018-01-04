@@ -1,0 +1,98 @@
+368001 = {
+	name="Gebowulf"
+	dynasty=496024
+	martial=8
+	diplomacy=10
+	intrigue=4
+	stewardship=8
+	learning=4
+	religion="norse_pagan"
+	culture=alemanni
+	add_trait="ambitious"
+	add_trait="kind"
+	add_trait="arbitrary"
+	add_trait="tough_soldier"
+	443.6.8 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+368002 = {
+	name="Gunzo"
+	dynasty=496027
+	martial=7
+	diplomacy=9
+	intrigue=7
+	stewardship=5
+	learning=7
+	religion="norse_pagan"
+	culture=alemanni
+	add_trait="charitable"
+	436.3.5 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+368003 = {
+	name="Vadomarius"
+	dynasty=496028
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	learning=5
+	religion="norse_pagan"
+	culture=alemanni
+	add_trait="trusting"
+	add_trait="cruel"
+	433.5.4 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+368004 = {
+	name="Konrad"
+	dynasty=496029
+	martial=6
+	diplomacy=9
+	intrigue=10
+	stewardship=7
+	learning=10
+	religion="arian"
+	culture=alemanni
+	add_trait="zealous"
+	add_trait="gregarious"
+	433.5.4 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+368005 = {
+	name="Priar"
+	dynasty=496030
+	martial=9
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	learning=7
+	religion="norse_pagan"
+	culture=alemanni
+	444.11.11 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}

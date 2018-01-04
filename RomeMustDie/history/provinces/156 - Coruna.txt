@@ -16,4 +16,4 @@ b_mondonedo = temple
 
 # Misc
 culture = suebi
-religion = arian
+religion = norse_pagan

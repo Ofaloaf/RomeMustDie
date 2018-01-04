@@ -1,0 +1,17 @@
+400.1.1 = {
+	holder = 632034 # Hamata Salihid
+	set_tribute_suzerain = { who = e_byzantium percentage = 0.25 }
+	law = succ_turkish_succession
+}
+425.1.1 = {
+	holder = 632036 # 'Awf ibn Hamata Salihid
+	set_tribute_suzerain = { who = e_byzantium percentage = 0.25 }
+}
+450.1.1 = {
+	holder = 632037 # Habala ibn 'Awf ibn Hamata Salihid
+	set_tribute_suzerain = { who = e_byzantium percentage = 0.25 }
+}
+468.1.1 = {
+	holder = 632039 # Dawud ibn Habala Salihid
+	set_tribute_suzerain = { who = e_byzantium percentage = 0.25 }
+}

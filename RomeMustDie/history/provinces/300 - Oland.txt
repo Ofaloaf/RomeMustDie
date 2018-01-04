@@ -1,0 +1,22 @@
+# 300 - Öland
+
+# County Title
+title = c_oland
+
+# Settlements
+max_settlements = 2
+
+b_borgholm = tribal
+
+#b_kopingsvik = city
+#b_hulterstad
+#b_ottenby = city
+#b_algutsrum = temple
+#b_glomminge
+#b_gardby
+#b_gronhogen
+
+# Misc
+culture = protonorse
+religion = norse_pagan
+terrain = plains

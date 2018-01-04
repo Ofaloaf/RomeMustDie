@@ -5,9 +5,9 @@ title = c_salamanca
 
 # Settlements
 max_settlements = 4
-b_salamanca = castle
+b_ciudadrodrigo = castle
+b_salamanca = temple
 b_salbejar = city
-b_ciudadrodrigo = temple
 #b_bracamonte = castle
 #b_albadetormes = castle
 #b_terradillos = city
@@ -15,5 +15,5 @@ b_ciudadrodrigo = temple
 #b_lumbrales = castle
 
 # Misc
-culture = iberoroman
-religion = nicene
+culture = hispano_roman
+religion = priscillian

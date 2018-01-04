@@ -1,3 +1,7 @@
-450.1.1 = {
-	holder = 1589023
+406.1.2 = {
+	holder = 1589067 # Germanus sive Garbonian
+}
+
+460.1.1 = {
+	holder = 1589068 # Dumnovellaunus sive Dyfnwal
 }

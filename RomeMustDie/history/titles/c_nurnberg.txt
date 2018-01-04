@@ -1,4 +1,8 @@
-450.1.1 = {
-	liege = "k_thuringia"
-	holder = 1871006
+467.1.1 = {
+	liege = k_rugiland
+	holder = 1871005
+}
+
+475.10.5 = {
+	holder = 1871007
 }

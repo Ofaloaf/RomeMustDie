@@ -4,9 +4,11 @@
 title = c_gent
 
 # Settlements
-max_settlements = 5
-b_oudenaarde = tribal
+max_settlements = 4
+b_oudenaarde = castle
+#b_gent = city
 b_doornik = temple
+#b_kortrijk = city
 
 #b_dendermonde = castle
 #b_geraarsbergen = castle
@@ -17,3 +19,6 @@ b_doornik = temple
 # Misc
 culture = old_frankish
 religion = norse_pagan
+
+
+

@@ -1,4 +1,6 @@
-439.1.1 = {
+467.1.1 = {
+
 	liege = "k_vandalia"
-	holder = 1962001
+
+	holder = 123007
 }

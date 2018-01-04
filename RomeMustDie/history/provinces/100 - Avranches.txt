@@ -17,5 +17,5 @@ b_bayeux = temple #for gp reason, in fact a castle
 #b_mortain = castle
 
 # Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

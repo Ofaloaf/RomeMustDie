@@ -1,6 +1,12 @@
 1.1.1 = {
-	liege = "d_lucania"
+	liege = d_bruttium
 }
-474.1.1 = {
-	holder = 476008
+420.6.9 = {
+	holder = 476056
+}
+452.1.1 = {
+	holder = 476057
+}
+470.1.1 = {
+	holder = 476058
 }

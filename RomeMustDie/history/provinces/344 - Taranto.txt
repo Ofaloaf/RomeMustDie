@@ -16,6 +16,6 @@ b_mottola = temple
 #b_gravina = city
 
 # Misc
-culture = graeci
+culture = roman
 religion = nicene
 terrain = hills

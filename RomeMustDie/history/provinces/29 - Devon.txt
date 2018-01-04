@@ -5,8 +5,8 @@ title = c_devon
 
 # Settlements
 max_settlements = 5
-b_exeter = castle
-b_lydford = temple
+b_lydford = castle
+b_exeter = temple
 b_axminster = city
 
 #b_crediton = castle

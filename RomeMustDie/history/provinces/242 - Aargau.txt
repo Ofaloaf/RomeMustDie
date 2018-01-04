@@ -5,20 +5,18 @@ title = c_aargau
 
 # Settlements
 max_settlements = 4
-b_habsburg = castle
+b_aargau = castle
+#b_schaffhausen = city
 b_basel = temple
 
-#b_aargau = castle
+#b_habsburg = castle
 #b_solothurn = city
 #b_habsburg = castle
 #b_lenzburg = castle
 #b_laufenburg = castle
 
 # Misc
-culture = galloroman
-religion = nicene
+culture = alemanni
+religion = arian
 
 # History
-
-
-

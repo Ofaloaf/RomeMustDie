@@ -1,0 +1,4 @@
+469.1.1 = {
+	liege = d_galindia
+	holder = 194001
+}

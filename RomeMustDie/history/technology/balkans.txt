@@ -1,0 +1,48 @@
+# Roman Balkans
+
+technology = {
+	titles = {
+		d_domavia
+		d_pannonia
+		d_savia
+	}
+	
+	475 = {
+		military = 0.45
+		economy = 0.5
+		culture = 0.5
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# Barbarian Balkans
+technology = {
+	titles = {
+		d_apulensis
+		d_carantania
+		d_carpathia
+		d_iazygia
+		d_malvensis
+		d_nitrava
+		d_olbia
+		d_porolissensis
+		d_roxolania
+	}
+
+	475 = {
+		military = 0.35
+		economy = 0.20
+		culture = 0.10
+	}
+	
+	1337 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}

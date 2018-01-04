@@ -1,6 +1,6 @@
 1.1.1 = {
-	liege = "d_pentarchy"
+	liege = "d_latium"
 }
-468.1.1 = {
-	holder = 476015
+475.10.31 = {
+	holder = 476043
 }

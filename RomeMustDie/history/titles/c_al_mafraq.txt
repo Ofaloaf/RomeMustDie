@@ -1,0 +1,13 @@
+400.1.1 = {
+	liege = d_limes_arabicus
+	holder = 632034 # Hamata Salihid
+}
+425.1.1 = {
+	holder = 632036 # 'Awf ibn Hamata Salihid
+}
+450.1.1 = {
+	holder = 632037 # Habala ibn 'Awf ibn Hamata Salihid
+}
+468.1.1 = {
+	holder = 632039 # Dawud ibn Habala Salihid
+}

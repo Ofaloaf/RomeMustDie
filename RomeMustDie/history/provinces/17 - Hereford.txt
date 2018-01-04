@@ -16,4 +16,4 @@ b_clifford = castle
 
 # Misc
 culture = welsh
-religion = pelagian
+religion = nicene

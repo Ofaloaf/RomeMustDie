@@ -7,6 +7,15 @@ title = c_frisia
 max_settlements = 5
 
 b_groningen = tribal
+#b_stavoren = city
+
+#b_leeuwarden = castle
+#b_bolsward = castle
+#b_franeker = castle
+b_dokkum = temple
+#b_assen = castle
+#b_harlingen = castle
+
 # Misc
 culture = frisian
 religion = norse_pagan

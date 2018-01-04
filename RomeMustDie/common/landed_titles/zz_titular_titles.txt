@@ -1,0 +1,456 @@
+d_pentarchy = {
+	color={ 198 249 229 }
+	color2={ 220 220 0 }
+
+	capital = 333 # Rome
+	
+	title = "PRIMATE"
+	foa = "POPE_FOA"
+	short_name = yes
+	location_ruler_title = yes
+
+	allow = {
+		always = no # Only by special decision
+	}
+	
+	# Always exists
+	landless = yes
+
+	# Controls a religion
+	controls_religion = nicene
+	
+	religion = nicene
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}
+
+d_foederati = {
+	color = { 84 84 92 }
+	color2= { 255 255 255 }
+
+	dignity = 8
+
+	short_name = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = thuida
+}
+
+d_rucconia = {
+	color = { 123 189 225 }
+	color2= { 255 255 255 }
+
+	culture = hispano_roman
+
+	capital = 198
+
+	allow = {
+		culture = hispano_roman
+	}
+}
+
+d_sabaria = {
+	color = { 219 228 31 }
+	color2= { 255 255 255 }
+
+	culture = hispano_roman
+
+	capital = 192
+
+	allow = {
+		culture = hispano_roman
+	}
+}
+
+d_arragonia = {
+	color = { 55 39 129 }
+	color2= { 255 255 255 }
+
+	culture = hispano_roman
+
+	capital = 195
+
+	allow = {
+		culture = hispano_roman
+	}
+}
+
+d_chatti = { 
+	color={ 114 171 184 }
+	color2={ 255 255 255 }
+	
+	culture = old_frankish
+	tribe = yes
+	
+	capital = 121 # Nassau/Nassova/Buchonia
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_aurasium = {
+	color = { 76 111 61 }
+	color2= { 255 255 255 }
+
+	culture = moor
+
+	capital = 823
+
+	allow = {
+		culture = moor
+	}
+}
+
+d_semnones = { 
+	color={ 175 31 10 }
+	color2={ 255 255 255 }
+	
+	culture = suebi
+	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_langobardi = { 
+	color={ 145 70 130 }
+	color2={ 255 255 255 }
+	
+	culture = lombard
+	tribe = yes
+	
+	short_name = yes
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_herules = { 
+	color={ 254 205 175 }
+	color2={ 255 255 255 }
+	
+	culture = thuida
+	tribe = yes
+	
+	short_name = yes
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_scirii = { 
+	color={ 175 254 205 }
+	color2={ 255 255 255 }
+	
+	culture = thuida
+	tribe = yes
+	
+	short_name = yes
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_ostrogoths = {
+	color = { 102 102 204 }
+	color2= { 10 10 10 }
+	
+	culture = ostrogothi
+	
+	short_name = yes
+	
+	allow = {
+		culture = ostrogothi
+	}
+}
+
+d_rhegin = {
+	color = { 40 78 115 }
+	color2= { 255 255 255 }
+
+	culture = romano_british
+
+	capital = 25
+
+	allow = {
+		OR = {
+			culture = romano_british
+			culture = welsh
+		}
+	}
+}
+
+d_shanshan = {
+	color = { 66 145 80 }
+	color2= { 255 255 255 }
+
+	capital = 1441
+	
+	culture = tocharian
+}
+
+d_kucha = {
+	color = {224 119 69 }
+	color2= { 255 255 255 }
+
+	capital = 1444
+	
+	culture = tocharian
+}
+
+d_setomaa = {
+	color = { 203 223 254 }
+	color2= { 255 255 255 }
+
+	capital = 413
+	
+	culture = ugricbaltic
+}
+
+d_kutrigurs = {
+	color = { 201 199 190 }
+	color2= { 10 10 10 }
+	
+	capital = 557
+	
+	culture = hun
+	
+	short_name = yes
+	
+	allow = {
+		culture = hun
+	}
+}
+
+d_utrigurs = {
+	color = { 159 179 70 }
+	color2= { 10 10 10 }
+	
+	culture = hun
+	
+	short_name = yes
+}
+
+d_acatziri = {
+	color = { 150 163 193 }
+	color2= { 10 10 10 }
+	
+	culture = hun
+	
+	short_name = yes
+}
+
+d_onoguria = {
+	color = { 152 145 118 }
+	color2= { 10 10 10 }
+	
+	culture = hun
+	
+	capital = 598 # Phanagoria
+	
+	allow = {
+		culture = hun
+	}
+}
+
+d_saragurs = {
+	color = { 88 101 105 }
+	color2= { 10 10 10 }
+	
+	culture = hun
+}
+
+d_inaunxes = {
+	color = { 70 147 51 }
+	color2= { 10 10 10 }
+	
+	culture = sarmatian
+	
+	capital = 425 # Podlasie
+	
+	allow = {
+		culture = sarmatian
+	}
+}
+
+d_galindia = {
+	color = { 92 44 52 }
+	color2= { 10 10 10 }
+	
+	culture = prussian
+	
+	capital = 427 # Galindia
+	
+	allow = {
+		culture = prussian
+	}
+}
+
+d_antes = {
+	color = { 82 194 75 }
+	color2= { 10 10 10 }
+	
+	culture = antes
+	
+	allow = {
+		culture = antes
+	}
+}
+
+d_marcomanni = {
+	color = { 181 198 62 }
+	color2= { 255 255 255 }
+	
+	capital = 437
+	
+	allow = {
+		always = no
+	}
+	
+	culture = suebi
+}
+
+d_mecca = {
+	color = { 3 105 209 }
+	color2= { 255 255 255 }
+	
+	capital = 719
+	
+	culture = bedouin_arabic
+}
+
+d_limes_arabicus = {
+	color = { 169 54 48 }
+	color2= { 255 255 255 }
+	
+	capital = 727 # Auranitis / c_syria
+	
+	allow = {
+		always = no
+	}
+}
+
+k_rugiland = {
+	color= { 198 196 176 }
+	color2={ 220 220 0 }
+
+	culture = thuida
+
+	capital = 449
+
+	allow = {
+		always = no
+	}
+}
+
+k_vandalia = {
+	color= { 130 151 52 } #{ 198 196 176 }
+	color2={ 220 220 0 }
+
+	culture = vandal
+
+	capital = 817
+
+	allow = {
+		culture = vandal
+	}
+}
+
+k_visigothia = {
+	color={ 230 173 40 }
+	color2={ 255 255 255 }
+
+	culture = visigothic
+
+	capital = 214
+		
+	# Creation/usurpation trigger
+	allow = {
+		culture = visigothic
+	}
+}
+
+k_gepidia = {
+	color={ 106 87 72 }
+	color2={ 255 255 255 }
+
+	culture = gepid
+
+	capital = 505
+		
+	# Creation/usurpation trigger
+	allow = {
+		culture = gepid
+	}
+}
+
+e_wre = {
+	color={ 200 30 0 }
+	culture = roman
+	
+	capital = 351 #Ravenna
+
+	purple_born_heirs = yes
+
+	short_name = yes
+	
+	allow = {
+		always = no
+	}
+}
+
+e_hunnic_empire = {
+	color= { 80 80 90 }
+	color2={ 220 220 0 }
+
+	culture = hun
+
+	capital = 511
+	
+	short_name = yes
+
+	allow = {
+		always = no
+	}
+}
+
+e_rouran = {
+	color= { 100 90 90 }
+	color2={ 220 220 0 }
+
+	culture = mongol
+
+	capital = 1457
+	
+	short_name = yes
+
+	allow = {
+		always = no
+	}
+}

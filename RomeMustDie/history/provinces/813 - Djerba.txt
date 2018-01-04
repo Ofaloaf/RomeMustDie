@@ -17,5 +17,6 @@ b_ajim = temple
 #b_taguermess = castle
 
 # Misc
-culture = punic
+culture = moor
 religion = donatist
+terrain = desert

@@ -18,5 +18,5 @@ b_whithorn = temple
 
 # Misc
 culture = welsh
-religion = pelagian
+religion = celtic_pagan
 terrain = hills

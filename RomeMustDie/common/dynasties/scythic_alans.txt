@@ -1,0 +1,19 @@
+735001 = {
+	name="Asparid"
+	culture = alan
+}
+
+735002 = {
+	name="Sadagarius"
+	culture = alan
+}
+
+735003 = {
+	name="Anosid"
+	culture = alan
+}
+
+735004 = {
+	name="Cumhuriyeti"
+	culture = alan
+}

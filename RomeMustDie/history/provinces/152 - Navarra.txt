@@ -15,7 +15,5 @@ b_tafalla = castle
 #b_estella = castle
 
 # Misc
-culture = vasconian
+culture = basque
 religion = hellenic_pagan
-
-# History

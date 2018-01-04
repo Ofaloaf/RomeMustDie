@@ -15,5 +15,6 @@ b_osona = castle
 #b_provencana = temple
 
 # Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene
+

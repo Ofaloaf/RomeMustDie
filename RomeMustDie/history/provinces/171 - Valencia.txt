@@ -15,5 +15,6 @@ b_alacuas = castle
 #b_torrent = castle
 
 # Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene
+

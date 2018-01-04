@@ -1,0 +1,89 @@
+411001 = {
+	name = "Triggws"
+	culture = visigothi
+}
+
+411002 = {
+	name = "Taifaling"
+	culture = alan
+}
+
+411003 = {
+	name = "Rhedaeneis"
+	culture = visigothi
+}
+
+411004 = {
+	name = "Afetja"
+	culture = visigothi
+}
+
+411005 = {
+	name = "Gabeigs"	# 'Rich'
+	culture = visigothi
+}
+
+411006 = {
+	name = "Qairrus"	# 'Friendly', 'Meek, Gentle, Kingly'
+	culture = visigothi
+}
+
+411007 = {
+	name = "Quixotus"
+	used_for_random = no
+}
+
+411008 = {
+	name = "Goddasing"
+	culture = visigothi
+}
+
+411009 = {
+	name = "Austris"
+	culture = visigothi
+}
+
+411010 = {
+	name = Vesus
+	culture = visigothi
+}
+
+411011 = {
+	name = Walabonsus
+	culture = visigothi
+}
+
+411012 = {
+	name = Widesindus
+	culture = visigothi
+}
+
+411013 = {
+	name = Abundius
+	culture = visigothi
+}
+
+411014 = {
+	name = Wistremundus
+	culture = visigothi
+}
+
+411015 = {
+	name = Gumesindus
+	culture = visigothi
+}
+
+411016 = {
+	name = Rogellus
+	culture = visigothi
+}
+
+411017 = {
+	name = Sandolus
+	culture = visigothi
+}
+
+411018 = {
+	name = Rudericus
+	culture = visigothi
+}

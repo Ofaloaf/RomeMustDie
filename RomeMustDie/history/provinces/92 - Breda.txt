@@ -8,6 +8,13 @@ title = c_breda
 max_settlements = 4
 
 b_breda = tribal
+#b_shertogenbosch = city
+b_tilburg = temple 
+#b_willemstad = castle
+#b_bergenopZoom = castle
+#b_cuijck = castle
+#b_ravenstein = castle
+#b_horn = castle
 
 # Misc
 culture = old_frankish

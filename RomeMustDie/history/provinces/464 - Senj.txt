@@ -16,5 +16,5 @@ b_kaseg = temple
 #b_otocac = castle
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene

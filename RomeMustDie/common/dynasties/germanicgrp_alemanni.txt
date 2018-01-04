@@ -1,0 +1,149 @@
+496001 = {
+	name = Dhonaring
+	culture = alemanni
+}
+
+496002 = {
+	name = Wodaning
+	culture = alemanni
+}
+
+496003 = {
+	name = Deofiling
+	culture = alemanni
+}
+
+496004 = {
+	name = Rezianing
+	culture = alemanni
+}
+
+496005 = {
+	name = Nekaring
+	culture = alemanni
+}
+
+496006 = {
+	name = Filiwiging
+	culture = alemanni
+}
+
+496007 = {
+	name = Britging
+	culture = alemanni
+}
+
+496008 = {
+	name = Intuergus
+	culture = alemanni
+}
+
+496009 = {
+	name = Vispus
+	culture = alemanni
+}
+
+496010 = {
+	name = Caritnus
+	culture = alemanni
+}
+
+496011 = {
+	name = Abnobanus
+	culture = alemanni
+}
+
+496012 = {
+	name = Sedusius
+	culture = alemanni
+}
+
+496013 = {
+	name = Decumating
+	culture = alemanni
+}
+
+496014 = {
+	name = Augiensis
+	culture = alemanni
+}
+
+496015 = {
+	name = Lanfredinus
+	culture = alemanni
+}
+
+496016 = {
+	name = Hnabing
+	culture = alemanni
+}
+
+496017 = {
+	name = Huochingianus
+	culture = alemanni
+}
+
+496018 = {
+	name = Armalausus
+	culture = alemanni
+}
+
+496019 = {
+	name = Drocton
+	culture = alemanni
+}
+
+496020 = {
+	name = Juthunging
+	culture = alemanni
+}
+
+496021 = {
+	name = Unceleninus
+	culture = alemanni
+}
+
+496022 = {
+	name = Vestralpus
+	culture = alemanni
+}
+
+496023 = {
+	name = Rätovaring
+	culture = alemanni
+}
+
+496024 = {
+	name = Gibulding
+	culture = alemanni
+}
+
+496025 = {
+	name = Ahalolfing
+	culture = alemanni
+}
+
+496026 = {
+	name = Agilolfing
+	culture = alemanni
+}
+
+496027 = {
+	name = Iburning
+	culture = alemanni
+}
+
+496028 = {
+	name = Breisgauer
+	culture = alemanni
+}
+
+496029 = {
+	name = Argovius
+	culture = alemanni
+}
+
+496030 = {
+	name = Elisaz
+	culture = alemanni
+}

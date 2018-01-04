@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = d_palestina
+}
+472.1.1 = {
+	holder = 1337001
+}

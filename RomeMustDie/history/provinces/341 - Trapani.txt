@@ -5,15 +5,15 @@ title = c_trapani
 
 # Settlements
 max_settlements = 4
-b_erice = castle
-b_trapani = temple
-b_mazara = city
+b_lilybaeum = castle
+b_eryx = city
+b_drepanum = temple
+#b_mazaria = city
 
-#b_sanguiseppelato = castle #San Giuseppe Lato
-#b_castelvertrano = castle
-#b_santaninfa = castle #Santa Ninfa
-#b_marsala = city
-#b_alcarno = castle
+#b_selinus
+#b_halicyae
+#b_motya
+#b_segesta
 
 # Misc
 culture = roman

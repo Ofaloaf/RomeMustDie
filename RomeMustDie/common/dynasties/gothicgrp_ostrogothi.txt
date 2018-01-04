@@ -1,0 +1,139 @@
+410001 = {
+	name = "Amaling"
+	culture = ostrogothi
+}
+
+410002 = {
+	name = "Triarius"
+	culture = ostrogothi
+}
+
+410003 = {
+	name = "Afouim"
+	culture = ostrogothi
+}
+
+410004 = {
+	name = "Airzjands"
+	culture = ostrogothi
+}
+
+410005 = {
+	name = "Diups"
+	culture = ostrogothi
+}
+
+410006 = {
+	name = "Fuls"
+	culture = ostrogothi
+}
+
+410007 = {
+	name = "Afdrunkja"
+	culture = ostrogothi
+}
+
+410008 = {
+	name = "Balths"
+	culture = ostrogothi
+}
+
+410009 = {
+	name = "Koneis"
+	culture = ostrogothi
+}
+
+410010 = {
+	name = "Bihaitja"
+	culture = ostrogothi
+}
+
+410011 = {
+	name = "Bairhts"
+	culture = ostrogothi
+}
+
+410012 = {
+	name = "Rampa"
+	culture = ostrogothi
+}
+
+410013 = {
+	name = "Ubils"
+	culture = ostrogothi
+}
+
+410014 = {
+	name = "Launawargs"
+	culture = ostrogothi
+}
+
+410015 = {
+	name = "Hwota"
+	culture = ostrogothi
+}
+
+410016 = {
+	name = "Motareis"
+	culture = ostrogothi
+}
+
+410017 = {
+	name = "Hardus"
+	culture = ostrogothi
+}
+
+410018 = {
+	name = "Bidagwa"
+	culture = ostrogothi
+}
+
+410019 = {
+	name = "Tharba"
+	culture = ostrogothi
+}
+
+410020 = {
+	name = "Baurgja"
+	culture = ostrogothi
+}
+
+410021 = {
+	name = "Atleweis"
+	culture = ostrogothi
+}
+
+410022 = {
+	name = "Untriggws"
+	culture = ostrogothi
+}
+
+410023 = {
+	name = "Switering"
+	culture = ostrogothi
+}
+
+410024 = {
+	name = "Grews"		# 'Grey/Gray'
+	culture = ostrogothi
+}
+
+410025 = {
+	name = "Waithja"	# 'Huntsman'
+	culture = ostrogothi
+}
+
+410026 = {
+	name = "Rugius"
+	culture = ostrogothi
+}
+
+410027 = {
+	name = Aedoingianus
+	culture = ostrogothi
+}
+
+410028 = {
+	name = Cemandrius
+	culture = ostrogothi
+}

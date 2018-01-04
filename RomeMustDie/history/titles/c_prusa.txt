@@ -2,5 +2,5 @@
 	liege = d_bithynia
 }
 467.1.1 = {
-	holder = 610022
+	holder = 610067
 }

@@ -10,5 +10,5 @@ b_arques = city
 b_fecamp = temple
 
 # Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

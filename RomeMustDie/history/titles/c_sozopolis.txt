@@ -1,6 +1,6 @@
-312.1.1 = {
-	liege = d_lycia
+1.1.1 = {
+	liege = e_byzantium
 }
-465.1.1 = {
-	holder=610021
+474.1.1 = {
+	holder = 610024
 }

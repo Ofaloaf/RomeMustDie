@@ -1,6 +1,5 @@
 1.1.1 = {
 	liege = "e_wre"
-	de_jure_liege = k_sicily
 }
 475.10.31 = {
 	holder = 476001

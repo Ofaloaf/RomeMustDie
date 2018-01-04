@@ -18,4 +18,3 @@ b_servia = castle
 # Misc
 culture = graeci
 religion = nicene
-

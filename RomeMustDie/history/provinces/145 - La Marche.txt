@@ -15,5 +15,8 @@ b_aubusson = city
 #b_bourganeuf = city
 #b_jouillat = castle
 
-culture = galloroman
+#Misc
 religion = nicene
+culture = gallo_roman
+
+# History

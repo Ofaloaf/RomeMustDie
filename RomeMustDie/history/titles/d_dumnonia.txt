@@ -1,6 +1,4 @@
-435.1.1 = {
-	holder = 1589015
-}
 443.1.1 = {
-	holder = 1589016
+	holder = 1589002
+	law = succ_elective_gavelkind
 }

@@ -16,7 +16,5 @@ b_rammala = castle
 #b_saintsamuel = temple
 
 # Misc
-culture = hebrew
-religion = jewish
-
-# History
+culture = graeci
+religion = nicene

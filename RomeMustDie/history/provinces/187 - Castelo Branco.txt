@@ -15,5 +15,5 @@ b_guarda = temple
 #b_almeida = castle
 
 # Misc
-culture = iberoroman
-religion = nicene
+culture = hispano_roman
+religion = priscillian

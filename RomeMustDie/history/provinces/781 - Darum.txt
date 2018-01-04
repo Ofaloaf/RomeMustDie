@@ -16,5 +16,5 @@ b_gaza = temple
 #b_abasan = castle
 
 # Misc
-culture = assyrian
-religion = nicene
+culture = graeci
+religion = miaphysite

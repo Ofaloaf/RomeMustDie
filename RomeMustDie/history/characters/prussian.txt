@@ -1,0 +1,25 @@
+194001 = {
+	name = "Alvydas"
+	dynasty = 9541
+	religion = baltic_pagan
+	culture = prussian
+	433.1.1 = {
+		birth = yes
+	}
+	500.1.1 = {
+		death = yes
+	}
+}
+
+194002 = {
+	name = "Bajoras"
+	dynasty = 1918001
+	religion = baltic_pagan
+	culture = prussian
+	442.1.1 = {
+		birth = yes
+	}
+	500.1.1 = {
+		death = yes
+	}
+}

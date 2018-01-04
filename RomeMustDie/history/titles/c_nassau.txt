@@ -1,4 +1,4 @@
 470.1.1 = {
-	liege = "d_mosella"
-	holder = 1789007
+	liege = "d_chatti"
+	holder = 1940017
 }

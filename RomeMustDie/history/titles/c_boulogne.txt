@@ -1,10 +1,10 @@
-448.1.1 = {
-	liege = "d_toxandria"
-	holder = 1789008 # Meroch
-}
+#1.1.1 = {
+#	liege = "e_wre"
+#}
 457.1.1 = {
-	holder = 1789009 # Childeric I
+	liege = "d_soissons"
+	holder = 789006
 }
-481.1.1 = {
-	holder = 1789010 # Clovis I
+464.1.1 = {
+	holder = 789005
 }

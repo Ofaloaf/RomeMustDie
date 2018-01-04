@@ -1,9 +1,7 @@
 1.1.1 = {
-	liege = "e_wre"
-	de_jure_liege = k_sicily
+	liege = e_wre
 	vice_royalty = yes
 }
-
-459.1.1 = {
+465.1.1 = {
 	holder = 476006
 }

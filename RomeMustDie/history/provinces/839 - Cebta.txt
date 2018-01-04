@@ -17,5 +17,6 @@ b_Xauen = temple
 #b_martil = castle
 
 # Misc
-culture = mauri
+culture = mauro_roman
 religion = nicene
+

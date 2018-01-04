@@ -15,5 +15,5 @@ b_chatillon = castle
 #b_roucy = castle
 #b_vertus = city
 
-culture = galloroman
+culture = gallo_roman
 religion = nicene

@@ -6,9 +6,9 @@ title = c_tlemcen
 # Settlements
 max_settlements = 4
 
-b_altava = castle
-b_tlemcen = temple
+b_tlemcen = castle
 b_sidibelabbes = city
+b_muaskar = temple
 
 #b_bedrabine = castle
 #b_tessala = castle
@@ -17,5 +17,5 @@ b_sidibelabbes = city
 #b_dhaya = castle
 
 # Misc
-culture = mauri
+culture = mauro_roman
 religion = nicene

@@ -1,0 +1,21 @@
+# 554 - Chernigov
+
+# County Title
+title = c_chernigov
+
+# Settlements
+max_settlements = 6
+b_chernigov = tribal
+
+#b_nizhyn = city
+#b_kozelets = temple
+
+#b_borzna = castle
+#b_horodnia = castle
+#b_gorodets = castle
+#b_sosnytsia = castle
+#b_mglin = castle
+
+# Misc
+culture = antes
+religion = slavic_pagan

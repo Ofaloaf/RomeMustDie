@@ -16,5 +16,5 @@ b_pau = city
 #b_tarbes = temple
 
 #Misc
-culture = vasconian
-religion = nicene
+religion = hellenic_pagan
+culture = basque

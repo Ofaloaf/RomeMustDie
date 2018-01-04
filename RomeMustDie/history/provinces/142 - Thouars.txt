@@ -15,5 +15,5 @@ b_lucon = temple
 #b_mauleon = temple
 #b_fontenay = castle
 
-culture = galloroman
+culture = gallo_roman
 religion = nicene

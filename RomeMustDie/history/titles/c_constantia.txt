@@ -1,0 +1,4 @@
+465.1.1 = {
+	liege = d_scythia
+	holder = 600005
+}

@@ -1,6 +1,6 @@
 1.1.1 = {
-	liege = "e_byzantium"
+	liege = d_rhodope
 }
-471.1.1 = {
-	holder = 610001
+453.1.1 = {
+	holder = 610037
 }

@@ -1,0 +1,44 @@
+4321001 = {
+	name = Warner
+	culture = thuringi
+}
+
+4321002 = {
+	name = Ukrianer
+	culture = thuringi
+}
+
+4321003 = {
+	name = Bainochaiming
+	culture = thuringi
+}
+
+4321004 = {
+	name = Teuriochaemus
+	culture = thuringi
+}
+
+4321005 = {
+	name = Weldelphing
+	culture = thuringi
+}
+
+4321006 = {
+	name = Hardrading
+	culture = thuringi
+}
+
+4321007 = {
+	name = Fisuding
+	culture = thuringi
+}
+
+4321008 = {
+	name = Suarting
+	culture = thuringi
+}
+
+4321009 = {
+	name = Athalarich
+	culture = thuringi
+}

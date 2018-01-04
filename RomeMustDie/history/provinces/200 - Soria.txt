@@ -14,5 +14,6 @@ b_osma = temple
 #b_sanleonardodeyague = castle
 #b_covaleda = castle
 
-culture = iberoroman
-religion = nicene
+culture = hispano_roman
+religion = priscillian
+

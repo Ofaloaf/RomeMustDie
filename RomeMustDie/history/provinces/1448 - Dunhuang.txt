@@ -1,0 +1,17 @@
+# County Title
+title = c_dunhuang
+
+# Settlements
+max_settlements = 6
+
+b_fangpan = castle
+b_dunhuang = city
+b_mogao = temple
+#b_yumenquan = castle
+#b_yueyaquan = castle
+#b_hongliuwan =
+#b_xuanquanzhi =
+
+# Misc
+culture = sogdian
+religion = buddhist

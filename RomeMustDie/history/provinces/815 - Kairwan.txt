@@ -7,9 +7,9 @@ title = c_kairwan
 max_settlements = 4
 
 b_kairouan = castle
-b_gafsa = city
-b_tozeur = temple
-b_sidibouzid = city
+b_gafsa = temple
+#b_tozeur = temple
+#b_sidibouzid = city
 
 #b_haffouz = castle
 #b_chebika = castle
@@ -17,7 +17,7 @@ b_sidibouzid = city
 #b_meknassy = castle
 
 # Misc
-culture = mauri
+culture = moor
 religion = donatist
 
 # History

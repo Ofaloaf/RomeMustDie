@@ -16,5 +16,5 @@ b_attur = castle
 #b_nabq = castle
 
 # Misc
-culture = assyrian
-religion = nicene
+culture = bedouin_arabic
+religion = miaphysite

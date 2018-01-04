@@ -4,8 +4,10 @@
 title = c_nassau
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_nassau = tribal
+#b_wetzlar = city
+#b_fulda = temple
 
 #b_marburg = city
 #b_katzenelnbogen = castle

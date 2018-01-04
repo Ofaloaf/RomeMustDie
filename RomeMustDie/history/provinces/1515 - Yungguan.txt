@@ -1,0 +1,12 @@
+# County Title
+title = c_yungguan
+
+# Settlements
+max_settlements = 3
+
+b_yungguan = castle
+b_shouchang = city
+
+# Misc
+culture = mongol
+religion = buddhist

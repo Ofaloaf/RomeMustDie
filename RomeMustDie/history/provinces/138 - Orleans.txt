@@ -15,5 +15,5 @@ b_fleury = temple
 #b_meung = temple
 #b_jargeau = city
 
-culture = galloroman
+culture = gallo_roman
 religion = nicene

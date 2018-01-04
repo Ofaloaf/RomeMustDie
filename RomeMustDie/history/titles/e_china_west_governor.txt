@@ -1,0 +1,4 @@
+472.1.1 = {
+	holder = 244001
+	government = confucian_bureaucracy
+}

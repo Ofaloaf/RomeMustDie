@@ -16,5 +16,5 @@ b_bar = temple
 #b_drivast = castle
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene

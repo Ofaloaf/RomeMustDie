@@ -1,0 +1,3396 @@
+e_gallic_empire = {
+	color= { 90 122 153 }
+	color2={ 255 255 255 }
+
+	culture = gallo_roman
+
+	short_name = yes
+
+	#purple_born_heirs = yes
+
+	old_frankish = "Frankish Empire"
+
+	k_gallia = {
+		color={ 39 100 157 }
+		color2= { 255 255 255 }
+
+		culture = gallo_roman
+
+		d_parisiorum = {
+			color={ 20 50 210 }
+			color2={ 255 255 255 }
+			capital = 112 # Ile de France
+			
+			c_ile_de_france = {
+				color={ 38 144 211 }
+				color2={ 255 255 255 }
+
+				# Parisiorum
+
+				greek = Loukotekia
+				graeci = Lutetia
+				roman = Lutetia
+
+				holy_site = aztec
+				holy_site = aztec_reformed
+				
+				b_paris = {
+					# Parisius
+
+					greek = "Loukotekia"
+					graeci = "Lutetia"
+					roman = "Lutetia"
+				}
+				b_melun = {
+					# Meledunum
+				}
+				b_stdenis = {
+					# Catulliacus
+
+					roman = Catulliacum
+				}
+				b_meaux = {
+					# Meldorum
+
+					roman = Iantinum
+
+					old_frankish = Meldis
+				}
+				b_etampes = {
+					# Stampae
+				}
+				b_montfortlamaury = {
+					# Nemetodurum # actually Nanterre
+				}
+				b_senlis = {
+					# Silvanectium
+
+					roman = Augustomagus
+				}
+				b_compiegne = {
+					# Compendium
+				}
+			}
+			c_chartres = {
+				color={ 174 150 132 }
+				color2={ 255 255 255 }
+
+				# Carnutum
+				
+				b_chateaudun = {
+					# Castrodunum
+				}
+				b_chartres = {
+					# Carnutum
+				}
+				b_dreux = {
+					# Durocassium
+				}
+				b_nogent = {
+					# Novientum
+				}
+				b_gallardon = {
+					# Anchae # actually Hanches, FR, from a 12th century latin text
+				}
+				b_epernon = {
+					# Sparnodunum # speculative
+				}
+				b_bonneval = {
+					# Avallocium # 6th century # actually Ablis
+				}
+				b_tiron = {
+					# Avalocum # actually Havelu
+				}
+			}
+		}
+		d_soissons = {
+			color={ 197 61 46 }
+			color2={ 255 255 255 }
+
+			capital = 95
+
+			c_vermandois = {
+				color={ 41 147 214 }
+				color2={ 255 255 255 }
+
+				# Viromandensis
+				# Viromandia
+				
+				b_coucy = {
+					# Viromandis # actually Vermand
+				}
+				b_stquentin = {
+					# Viromanduorum
+				}
+				b_laon = {
+					# Laudunum
+				}
+				b_crepy = {
+					# Crispiacum # presumed
+				}
+				b_montaigu = {
+					# Mons Acutus
+				}
+				b_rethel = {
+					# Reistete
+				}
+				b_guise = {
+					# Cutium # guessing
+				}
+				b_signy = {
+					# Contra Aginnum # actually Congren
+				}
+			}
+			c_amiens = {
+				color={ 44 151 217 }
+				color2={ 255 255 255 }
+
+				# Suessionensis
+				
+				b_peronne = {
+					# Perunna
+				}
+				b_amiens = {
+					# Ambianorum
+
+					roman = Samarobriva
+				}
+				b_beauvais = {
+					# Bellovacum
+				}
+				b_soissons = {
+					# Suessionum
+
+					roman = Noviodunum
+				}
+				b_corbie = {
+					# Setuci # possibly Fresnoy-en-Chaussée
+				}
+				b_noyon = {
+					# Noviomagus
+				}
+				b_montdidier = {
+					# Desideriacum
+				}
+				b_breteuil = {
+					# Brituogilum # 6th century
+				}
+			}
+			c_reims = {
+				color={ 101 30 232 }
+				color2={ 255 255 255 }
+
+				# Rhemus
+				
+				b_reims = {
+					# Rementium # 314
+
+					roman = Durocortorum
+					graeci = Durocortorum
+				}
+				b_chateauthierry = {
+					# Odomagus
+				}
+				b_provins = {
+					# Profundis
+				}
+				b_chalons = {
+					# Catalaunum
+				}
+				b_chatillon = {
+					# Castellum
+				}
+				b_vertus = {
+					# Virotus
+				}
+				b_epernay = {
+					# Sparnacum
+				}
+				b_roucy = {
+					# Rosci
+				}
+			}
+		}
+		d_senonia = {
+			color = { 102 166 42 }
+			color2= { 255 255 255 }
+
+			capital = 131
+
+			c_troyes = {
+				color={ 28 99 230 }
+				color2={ 255 255 255 }
+
+				# Tricassium
+				
+				b_brienne = {
+					# Briavenna
+				}
+				b_troyes = {
+					# Tricassium
+
+					roman = Augustobona
+					old_frankish = Trecassis # Chronicle of Fredegar, 6th century
+				}
+				b_langres = {
+					# Lingonum
+				}
+				b_chaumont = {
+					# Calmontium
+				}
+				b_clairvaux = {
+					# Claravallis
+				}
+				b_rosnay = {
+					# Rodenaium
+				} 
+				b_chacenay = {
+					# Cassanus
+				}
+			}
+			c_sens = {
+				color={ 40 102 242 }
+				color2={ 255 255 255 }
+
+				# Senonia
+				
+				b_montargis = {
+					# Aridiacus
+				}
+				b_sens = {
+					# Senonum
+
+					roman = Agedincum
+				}
+				b_nemours = {
+					# Nemausus
+				}
+				b_chateaulandon = {
+					# Vellonodunum
+				}
+				b_nogentsurseine = {
+					# Novientum
+				}
+				b_joigny = {
+					# Joviniacum
+				}
+				b_montereau = {
+					# Monasterellum
+				}
+				b_villeneuveleroi = {
+					# Villanova
+				}
+			}
+			c_auxerre = {
+				color={ 97 26 228 }
+				color2={ 255 255 255 }
+
+				# Autissiodorensis
+				
+				b_auxerre = {
+					# Autissiodorum
+				}
+				b_druyes = {
+					# Desiniacum # actually Saint-Cyr-les-Colons
+				}
+				b_tonnerre = {
+					# Tornodurum
+				}
+				b_pontigny = {
+					# Pontiniacum
+				}
+				b_cravant = {
+					# Crevennus
+				}
+				b_crisenon = {
+					# Bracerna # actually Bazarnes
+				}
+				b_stsauveurenpuisaye = {
+					# Bonaritum # actually Bonnard
+				}
+				b_mailly = {
+					# # Bandritum # actually Bassou
+				}
+			}
+		}
+		d_aurelianum = {
+			color={ 111 122 184 }
+			color2={ 255 255 255 }
+			
+			capital = 138 # Orleans
+			
+			c_blois = {
+				color={ 205 189 177 }
+				color2={ 255 255 255 }
+
+				# Blesum
+				
+				b_beaugency = {
+					# Balgentiacus
+				}
+				b_blois = {
+					# Blesum
+				}
+				b_staignan = {
+					# Anianiacus
+				}
+				b_chaumontsurloire = {
+					# Mons Calus
+				}
+				b_montrichard = {
+					# Colonica # actually Coulanges
+				}
+				b_fougeressurbievre = {
+					# Fornax
+				}
+				b_romorantin = {
+					# Sodobria # actually Suèvres
+				}
+				b_stgeorgesdubois = {
+					# Georgiacum
+				}
+			}
+			c_orleans = {
+				color={ 153 125 108 }
+				color2={ 255 255 255 }
+
+				# Aurelianum
+				
+				b_gien = {
+					# Genabum
+				}
+				b_orleans = {
+					# Aurelianum
+				}
+				b_fleury = {
+					# Floriacum
+				}
+				b_lepuiset = {
+					# Puteittum # oh god it's puteus + -ittum what do i doooo
+				}
+				b_sully = {
+					# Sulliacum
+				}
+				b_meung = {
+					# Miciacum # actually Saint-Pryvé-Saint-Mesmin
+				}
+				b_janville = {
+					# Iohannacum # 'Janville' basically breaks down to 'Iohannes' + Villa
+				}
+				b_jargeau = {
+					# Garrigoïalum
+				}
+			}
+		}
+		d_rotomagus = {
+			color={ 131 138 116 }
+			color2={ 255 255 255 }
+			
+			capital = 97 # Rouen
+			
+			c_evreux = {
+				color={ 149 155 142 }
+				color2={ 255 255 255 }
+
+				# Ebroicensis
+				
+				b_evreux = {
+					# Eburovicas
+				}
+				b_falaise = {
+					# Falesia
+				}
+				b_lisieux = {
+					# Lexoviorum
+				}
+				b_alencon = {
+					# Alencione
+				}
+				b_argentan = {
+					# Argentomagus
+				}
+				b_sees = {
+					# Sagiensis
+				}
+				b_verneuil = {
+					# Vernoialum
+				}
+				b_honfleur = {
+					# Huneflevum # Latinizing shit
+				}
+			}
+			c_avranches = {
+				color={ 105 113 98 }
+				color2={ 255 255 255 }
+
+				# Baiocassinus
+				
+				b_caen = {
+					# Aregenua # actually Vieux-la-Romaine
+				}
+				b_coutances = {
+					# Constantia
+				}
+				b_bayeux = {
+					# Baiocassium
+
+					roman = Augustodurum
+				}
+				b_avranches = {
+					# Abrincas
+				}
+				b_mortain = {
+					# Mauritanum
+				}
+				b_domfront = {
+					# Frontinacum
+				}
+				b_barfleur = {
+					# Barbeflevum # Latinizing shit
+				}
+				b_cherbourg = {
+					# Corivallo # Coriallum, Coriallo
+				}
+			}
+			c_vexin = {
+				color={ 140 147 134 }
+				color2={ 255 255 255 }
+
+				# Veliocassinus
+				
+				b_larocheguyon = {
+					# Rupes
+				}
+				b_mantes = {
+					# Meduantum
+				}
+				b_pontoise = {
+					# Brivisara
+				}
+				b_harcourt = {
+					# Harecotium
+				}
+				b_gisors = {
+					# Gisortum
+				}
+				b_andely = {
+					# Andelaium # 588
+				}
+				b_ivry = {
+					# Eburiacum
+				}
+				b_abbayedemortemer = {
+					# Gacicuria # actually Gassicourt, 13th century attestation BUT DON'T TELL ANYONE
+				}
+			}
+			c_arques = { # actually Rouen
+				color={ 157 165 150 }
+				color2={ 255 255 255 }
+
+				# Rotomagus
+				
+				b_fecamp = {
+					# Fiscannum
+				}
+				b_rouen = {
+					# Rotomagus
+				}
+				b_lillebonne = {
+					# Juliobona
+				}
+				b_harfleur = {
+					# Caracotinum
+				}
+				b_arques = {
+					# Arcas
+				}
+				b_dieppe = {
+					# Tella # old name of the Bethune River
+				}
+				b_jumieges = {
+					# Gemeticum # 9th century
+				}
+				b_longueville = {
+					# Villa Longa # Latinizing shit
+				}
+			}
+			c_eu = {
+				color={ 74 80 69 }
+				color2={ 255 255 255 }
+
+				# Auvae
+				
+				b_eu = {
+					# Auvae
+				}
+				b_mortemer = {
+					# Mortuum # 'Mortuum Mare', 1035
+				}
+				b_gournay = {
+					# Gornacum
+				}
+				b_aumale = {
+					# Albamargila # theoretically
+				}
+				b_forges = {
+					# Fabrica
+				}
+				b_drincourt = {
+					# Drugocortium # making up shit
+				}
+				b_neufchatel-en-bray = {
+					# Novientum
+				}
+				b_serqueux = {
+					# Caemeterium
+				}
+			}
+		}
+		d_andegavia = {
+			color={ 233 200 69 }
+			color2={ 255 255 255 }
+			
+			capital = 107 # Anjou
+			
+			c_anjou = {
+				color={ 220 172 82 }
+				color2={ 255 255 255 }
+
+				# Andegavia
+				
+				b_vihiers = {
+					# Vierium
+				}
+				b_angers = {
+					# Andecavorum
+				}
+				b_fontevraud = {
+					# Andarta # possibly the Roman Latin name for Andard
+				}
+				b_saumur = {
+					# Salamurus
+				}
+				b_montsoreau = {
+					# Mons Sorelli # Medieval
+				}
+				b_cholet = {
+					# Cauletum
+				}
+				b_treves = {
+					# Clementiniacum # speculative
+
+					old_frankish = Clementiniaeum # 769 attestation
+				}
+				b_chateaugontier = {
+					# Basilicas # 1037 attestation
+				}
+			}
+			c_maine = {
+				color={ 240 218 128 }
+				color2={ 255 255 255 }
+
+				# Cenomanica
+
+				old_frankish = Celmannico
+				
+				b_le_mans = {
+					# Cenomanorum
+
+					old_frankish = Celmans
+				}
+				b_beaumont = {
+					# Bellus Mons
+				}
+				b_evron = {
+					# Eburodunum
+				}
+				b_mayenne = {
+					# Medoena
+				}
+				b_laval = {
+					# Vallis
+				}
+				b_sable = {
+					# Diablintum # actually Jublains
+
+					old_frankish = Diablintica
+				}
+				b_craon = {
+					# Crodeno # 7th century
+				}
+				b_montenay = {
+					# Montaniacum
+				}
+			}
+		}
+		d_turonum = {
+			color={ 56 118 41 }
+			color2={ 255 255 255 }
+			
+			capital = 140 # Tours
+
+			c_tourraine = {
+				color={ 94 190 69 }
+				color2={ 255 255 255 }
+
+				# Turonensis
+				
+				b_chinon = {
+					# Caino
+				}
+				b_tours = {
+					# Turonum
+				}
+				b_beaulieu = {
+					# Bellus Locus
+				}
+				b_amboise = {
+					# Ambacia
+				}
+				b_loches = {
+					# Loccae # Vicus Loccae, 6th century
+				}
+				b_langeais = {
+					# Alingavia # according to Gregory of Tours
+				}
+				b_fierbois = {
+					# Gaudiaco # actually Joué-lès-Tours
+				}
+				b_montbazon = {
+					# Navicellis # actually Nazelles-Négron
+				}
+			}
+			c_vendome = {
+				color={ 101 141 71 }
+				color2={ 255 255 255 }
+
+				# Vindocinensis
+				
+				b_lavardin = {
+					# Labrocinum
+				}
+				b_vendome = {
+					# Vindocinum
+				}
+				b_cloyes = {
+					# Turnacum # actually Ternay, FR
+				}
+				b_freteval = {
+					# Solonacum # actually Saunay
+				}
+				b_chateaurenault = {
+					# Vastum # shit I made up
+				}
+				b_montoire = {
+					# Aureum Mons
+				}
+				b_montmirail = {
+					# Mons Mirabilis
+				}
+				b_stavit = {
+					# Avitacum
+				}
+			}
+		}
+		d_armorica = {
+			color={ 118 99 151 }
+			color2={ 255 255 255 }
+			
+			capital = 105 # Vannes
+			
+			culture = breton
+			
+			norse = Bertangaland
+			breton = Breizh
+			welsh = Llydaw
+			irish = Briotáine
+			frankish = Bretagne
+			
+			c_nantes = {
+				color={ 170 50 23 }
+				color2={ 255 255 255 }
+				
+				# Namnetum
+				
+				b_nantes = {
+					# Namnetum
+				}
+				b_chateaubriant = {
+					# Castellum Brientii
+				}
+				b_redon = {
+					# Ratiatum # actually Rezé
+				}
+				b_guerande = {
+					# Guarranda
+
+					romano_british = Uuenran
+					old_frankish = Werran
+					norse = Varrandi
+				}
+				b_clisson = {
+					# Cliccionem # guessing
+
+					old_frankish = Clicio
+				}
+				b_donges = {
+					# Vertavus # actually Vertou
+
+					romano_british = Vertavon
+				}
+				b_la_roche-bernard = {
+					# Vetraria # might be Saint-Meme-le_tenu
+				}
+				b_st_nazaire = {
+					# Sinnuario # 'Sanctus Nazarius de Sinnuario' attested in 1051
+				}
+			}
+			c_vannes = {
+				color={ 140 30 13 }
+				color2={ 255 255 255 }
+
+				# Venetensis
+				
+				b_vannes = {
+					# Venetum
+
+					old_frankish = Vednedia
+				}
+				b_josselin = {
+					# Ouidana (Limen) # not Josselin
+				}
+				b_st_gildas = {
+					# Duretie
+				}
+				b_locmine = {
+					# Locus Monarchrum
+				}
+				b_hennebont = {
+					# Vetus Pontus # direct translation of Breton etymology
+				}
+				b_pontivy = {
+					# Pontus Davidus # oh god is this how i translate it
+
+					old_frankish = Pontivi
+				}
+				b_auray = {
+					# Aula Regia
+				}
+				b_ploermel = {
+					# Sulis # actually Castennec, Bieuzy, Pontivy
+				}
+			}
+			c_cornouaille = {
+				color={ 138 109 171 }
+				color2={ 255 255 255 }
+				
+				# Cornugallia
+				
+				b_quimper = {
+					# Confluentia
+				}
+				b_carhaix = {
+					# Vorgium
+
+					romano_british = "Kaer Ahes"
+				}
+				b_quimperle = {
+					# Kemperelegium # 1050
+				}
+				b_landevennec = {
+					# Sena
+				}
+				b_corlay = {
+					# Coryletum
+				}
+				b_huelgoat = {
+					# Artacum # Camp d'Artus
+				}
+				b_langonnet = {
+					# Asceterium
+				}
+				b_lezergue = {
+					# Arkae
+				}
+			}
+			c_french_leon = {
+				color={ 166 67 14 }
+				color2={ 255 255 255 }
+
+				# Legionensis
+
+				holy_site = celtic_pagan # Asterix
+				
+				b_brest = {
+					# Gesocribate
+				}
+				b_guingamp = {
+					# Albacampa
+				}
+				b_st_pol_de_leon = {
+					# Pauliacum
+				}
+				b_treguier = {
+					# Trigarensis
+				}
+				b_morlaix = {
+					# Mons Relaxus
+				}
+				b_roscoff = {
+					# Roscovia
+				}
+				b_plougonven = {
+					# Vorganium # actually Kérilien
+				}
+				b_plourivo = {
+					# Osismis # might be doubling up on toponymy here
+				}
+			}
+			c_penthievre = {
+				color={ 176 79 24 }
+				color2={ 255 255 255 }
+				
+				# Domnonia
+				
+				b_verdelet = {
+					# Aletum
+				}
+				b_st_brieuc = {
+					# Briacum
+				}
+				b_monkontour = {
+					# Monconturium
+				}
+				b_peran = {
+					# Peraniacum
+				}
+				b_loudeac = {
+					# Lodiacensis
+				}
+				b_paimpol = {
+					# Regnica
+				}
+				b_chatelaudren = {
+					# Castelaodrenum
+				}
+				b_quintin = {
+					# Coriosolitum # actually Corseul
+
+					old_frankish = Corsolt
+				}
+			}
+			c_rennes = {
+				color={ 106 42 8 }
+				color2={ 255 255 255 }
+				
+				# Redonensis
+				
+				b_rennes = {
+					# Redonum
+				}
+				b_fougeres = {
+					# Sipia
+				}
+				b_st_michel = {
+					# Michaelacum
+				}
+				b_st_malo = {
+					# Macloviacum
+				}
+				b_dol = {
+					# Dola
+				}
+				b_dinan = {
+					# Dinnanum
+				}
+				b_st_meen = {
+					# Mevenniacum
+				}
+				b_porhoet = {
+					# Transsylvam
+				}
+			}
+		}
+	}
+	k_austrasia = {
+		color={ 235 200 127 }
+		color2= { 255 255 255 }
+		
+		roman = Belgica
+		graeci = Belgica
+		gallo_roman = Belgica
+		hispano_roman = Belgica
+		romano_british = Belgica
+		mauro_roman = Belgica
+		pannonian = Belgica
+		greek = Belgica
+		welsh = Belg
+
+		d_menapiorum = {
+			color={ 43 141 172 }
+			color2={ 255 255 255 }
+			
+			capital = 78
+			
+			frisian = Flandra
+			old_frankish = Flandris
+			saxon = Flandras
+			old_saxon = Flandras
+			
+			c_artois = {
+				color={ 234 110 90 }
+				color2={ 255 255 255 }
+
+				# Atrebatensis
+				
+				b_arras = {
+					# Atrebatum
+				}
+				b_terwaan = {
+					# Tervanna
+				}
+				b_bethune = {
+					# Minariacum # actually Estaires
+				}
+				b_lens = {
+					# Lenna
+				}
+				b_lille = {
+					# Treola # might've been the name of a Gallo-Roman settlement in the area
+				}
+				b_bouvines = {
+					# Bovinum
+				}
+				b_beaumetz = {
+					# Bellomansum
+				}
+				b_bapaume = {
+					# Lambrus # actually Lambres-lez-Douai
+				}
+			}
+			c_boulogne = {
+				color={ 224 140 90 }
+				color2={ 255 255 255 }
+
+				# Boloniensis
+				
+				b_boulogne = {
+					# Bolonia
+
+					roman = Gesoriacum
+				}
+				b_montreuil = {
+					# Monasteriolum
+				}
+				b_saintpol = {
+					# Portus Itius # it's not actually known where exactly Portus Itius was
+				}
+				b_hesdin = {
+					# Lintomagus # might actually be Brimeux
+				}
+				b_fauquembergues = {
+					# Marcis # actually Marquise
+				}
+				b_ternouis = {
+					# Ad Lullia # might actually be Douriez
+				}
+				b_therouanne = {
+					# Taruana # possible corrupted form of Tervanna
+				}
+				b_ardres = {
+					# Briga # actually Bois l'Abbé
+				}
+			}
+			c_guines = {
+				color={ 194 145 100 }
+				color2={ 255 255 255 }
+
+				# Caletensis
+				
+				b_guines = {
+					# Ghisnae
+				}
+				b_saintomer = {
+					# Sithiu
+				}
+				b_calais = {
+					# Calesium
+				}
+				b_dunkerque = {
+					# Dunquerca
+				}
+				b_bourbourg = {
+					# Burgusinbroco
+				}
+				b_marck = {
+					# Merca
+				}
+				b_gravelines = {
+					# Garouinum # making up some shit
+				}
+				b_coulogne = {
+					# Colonia
+				}
+			}
+			c_yperen = {
+				color={ 194 115 40 }
+				color2={ 255 255 255 }
+
+				# Menapiorum
+
+				# frankish: (pagus) Mempiscus
+				
+				b_ypres = {
+					# Ypra
+				}
+				b_rosebeke = {
+					# Legia # possible etymology of the River Lys, 'super fluvio Legia'
+				}
+				b_cassel = {
+					# Menapiorum
+				}
+				b_roeselare = {
+					# Rollare
+				}
+				b_poperinge = {
+					# Pupurningahem
+				}
+				b_menen = {
+					# Halleuinum # making up some Latinization of Halluin
+				}
+				b_diksmuide = {
+					# Dicasmutha
+				}
+				b_wervik = {
+					# Viroviacum
+				}
+			}
+			c_brugge = {
+				color={ 250 120 0 }
+				color2={ 255 255 255 }
+
+				# Flandrensis
+				
+				b_brugge = {
+					# Bruccia
+				}
+				b_damme = {
+					# Dammum
+				}
+				b_sluys = {
+					# Sclusa # possible old form
+				}
+				b_oostende = {
+					# Dicasmuda # actually Diksmuide
+				}
+				b_male = {
+					# Mallum
+				}
+				b_nieuwpoort = {
+					# Novus Portus
+				}
+				b_torhout = {
+					# Turholt
+				}
+				b_aardenburg = {
+					# Rodanum
+				}
+			}
+			c_gent = {
+				color={ 234 110 5 }
+				color2={ 255 255 255 }
+
+				# Gandensis
+				
+				b_gent = {
+					# Ganda
+				}
+				b_doornik = {
+					# Tornacum
+				}
+				b_oudenaarde = {
+					# Aldenarda
+				}
+				b_aalst = {
+					# Alost
+				}
+				b_st_niklaas = {
+					# Blandinium
+				}
+				b_dendermonde = {
+					# Scaldis # latin name for the Scheldt River
+				}
+				b_kortrijk = {
+					# Cortoriacum
+				}
+				b_geraardsbergen = {
+					# Wasia # Waasgouw, the Waasland
+				}
+			}
+		}
+		d_argentoratensis = { 
+			color={ 246 223 15 }
+			color2={ 255 255 255 }
+			
+			capital = 134 #Sundgau
+
+			old_frankish = Alesatio # 630
+			burgundi = Alesatio
+			thuringi= Alesatio
+			alemanni = Alesatio
+			old_saxon = Alesatio
+		
+			c_nordgau = {
+				color={ 160 160 210 }
+				color2={ 255 255 255 }
+
+				# Argentoratum
+
+				old_frankish = Septentrionalis
+			
+				b_egisheim = {
+					# Egino
+				}
+				b_strassburg = {
+					# Argentoratum
+
+					old_frankish = Stratiburg
+					burgundi = Stratiburg
+					thuringi = Stratiburg
+					alemanni = Stratiburg
+					old_saxon = Stratiburg
+				}
+				b_lauterburg = {
+					# Tribuni
+				}
+				b_selz = {
+					# Saletio
+				}
+				b_erstein = {
+					# Tabernis # Tres Taberae Cesaris # actually Saverne, France
+				}
+				b_molsheim = {
+					# Helvetum # actually Ehl
+				}
+				b_brumath = {
+					# Brocomagus
+				}
+				b_schlettstadt = {
+					# Scletistata
+				}
+			}
+			c_sundgau = {
+				color={ 152 152 197 }
+				color2={ 255 255 255 }
+
+				# Vosegus
+
+				old_frankish = Meridionalis
+			
+				b_ensisheim = {
+					# Argentovaria # actually Oedenbourg, FR
+				}
+				b_kolmar = {
+					# Columbarium
+				}
+				b_murbach = {
+					# Maurobaccus # 730
+				}
+				b_mulhouse = {
+					# Rubiacum
+				}
+				b_landser = {
+					# Uruncis # actually Illzach, FR
+				}
+				b_thann = {
+					# Tanne
+				}
+				b_altkirch = {
+					# Serecia # actually Sierentz, FR
+				}
+				b_ferette = {
+					# Cambete # actually Kembs, FR
+				}
+			}
+		}
+		d_mosella = {
+			color={ 115 142 205 }
+			color2={ 255 255 255 }
+				
+			c_lorraine = {
+				color={ 92 92 127 }
+				color2={ 255 255 255 }
+
+				# Nanciacum
+			
+				b_nancy = {
+					# Nanciacum
+				}
+				b_toul = {
+					# Tullum
+				}
+				b_sarrebourg = {
+					# Pontesarvix
+				}
+				b_epinal = {
+					# Spinalium
+				}
+				b_luneville = {
+					# Lineatis (Villa)
+				}
+				b_charpeigne = {
+					# Scarponna
+				}
+				b_mortagnedevosges = {
+					# Mauritania
+				}
+				b_saintavoid = {
+					# Hilariacum
+				}
+			}
+			c_saintois = {
+				color={ 105 105 135 }
+				color2={ 255 255 255 }
+
+				# Sugentensis # 709
+		
+				b_saintois = {
+					# Segodunum # speculative
+				}
+				b_vaudemont = {
+					# Votanumons
+				}
+				b_brixey = {
+					# Briccius
+				}
+				b_sorcystmartin = {
+					# Sorcia
+				}
+				b_ivios = {
+					# Ivosium
+				}
+				b_ornois = {
+					# Onnensis
+				}
+				b_saulnois = {
+					# Salinensis
+				}
+				b_dompaire = {
+					# Solimariaca # actually Soulosse-sous-Saint-Élophe
+				}
+			}
+			c_bar = {
+				color={ 115 115 145 }
+				color2={ 255 255 255 }
+
+				# Caturices
+				# Le premier nom de la commune est Caturices, comme l'atteste la table de Peutinger du iiie siècle. 
+				# Elle devient Caturiges sur l'itinéraire d'Antonin du ive siècle, du gaulois catu (combat) et riges (rois).
+				
+				b_barleduc = {
+					# Caturiges
+				}
+				b_vaucouleurs = {
+					# Valliscolore
+				}
+				b_saintmihel = {
+					# Michaelacum
+				}
+				b_commercy = {
+					# Commercium
+				}
+				b_joinville = {
+					# Jovinus
+				}
+				b_saintdizier = {
+					# Desideriacum
+				}
+			}
+			c_trier = {
+				color={ 144 144 177 }
+				color2={ 255 255 255 }
+
+				# Treveria
+			
+				b_andernach = {
+					# Antunnacum
+				}
+				b_trier = {
+					# Treverorum
+				}
+				b_coblenz = {
+					# Confluentes
+				}
+				b_sponheim = {
+					# Contionacum # actually Konz, German
+				}
+				b_wittlich = {
+					# Tabernae # actually Tawern, Germany
+				}
+				b_gerolstein = {
+					# Rigodulum # actually Riol, Germany
+				}
+				b_laach = {
+					# Palatiolum # actually Pfalzel, Germany
+				}
+				b_bitburg = {
+					# Beda
+				}
+			}
+			c_metz = {	
+				color={ 150 150 185 }
+				color2={ 255 255 255 }
+
+				# Mettis
+
+				roman = Mediomatricorum
+			
+				b_metz = {
+					# Mettis
+
+					roman = Mediomatricorum
+				}
+				b_thionville = {
+					# Caranusca # possibly Hettange-Grande
+				}
+				b_saintjulien = {
+					# Contiomagus # actually Pachten, Germany
+				}
+				b_marslatour = {
+					# Castrum Martium # guessing
+				}
+				b_bouzonville = {
+					# (Ad) Duodecimum # actually Delme, FR
+				}
+				b_briey = {
+					# Bricium # 1105
+				}
+				b_joudreville = {
+					# Scarponna # actually Scarpone, France
+				}
+				b_audunleroman = {
+					# Aquaeducta
+				}
+			}
+			c_verdun = {
+				color={ 130 130 165 }
+				color2={ 255 255 255 }
+
+				# Verodunensis
+			
+				b_verdun = {
+					# Verodunum
+				}
+				b_grandpre = {
+					# Ibliodurum # actually Vionville
+				}
+				b_barlecomte = {
+					# Vungovicus # actually Voncq
+				}
+				b_longuyon = {
+					# Longagio # 634
+				}
+				b_doaumont = {
+					# Mosomagus # actually Mouzon
+				}
+				b_stenay = {
+					# Epossum # actually Carignan
+				}
+				b_etain = {
+					# Castrum Vabrense # actually Chatillon-sous-les-Cotes
+				}
+			}
+		}
+		d_toxandria = {
+			color={ 118 193 153 }
+			color2={ 255 255 255 }
+		
+			c_brabant = {
+				color={ 103 178 138 }
+				color2={ 255 255 255 }
+
+				# Bracbantensis
+			
+				b_leuven = {
+					# Lovanium
+				}
+				b_mechelen = {
+					# Maslinas
+				}
+				b_brussel = {
+					# Brosella
+				}
+				b_antwerpen = {
+					# Anduerpis
+				}
+				b_aarschot = {
+					# Arescod
+				}
+				b_grimbergen = {
+					# Grentberghis
+				}
+				b_herstal = {
+					# Heristal
+				}
+				b_lier = {
+					# Renensium # actually the Land van Rijen
+				}
+			}
+			c_hainaut = {
+				color={ 103 62 185 }
+				color2={ 255 255 255 }
+
+				# Fanomartensis
+			
+				b_valenciennes = {
+					# Valentiana
+				}
+				b_cambrai = {
+					# Camaracum
+				}
+				b_avesnes = {
+					# Bagacum # actually Bavay, France
+				}
+				b_mons = {
+						# Montes
+				}
+				b_chievres = {
+					# Cervia
+				}
+				b_enghien = {
+					# Hermoniacum # actually Bermerain
+				}
+				b_charleroi = {
+					# Carnotus
+				}
+				b_ath = {
+					# Fanum Martis # actually Famars
+				}
+			}
+			c_breda = {
+				color={ 234 145 54 }
+				color2={ 255 255 255 }
+
+				# Batavia
+			
+				b_breda = {
+					# Levefanum # actually Wijk bij Duurstede
+				}
+				b_shertogenbosch = {
+					# Silvaducis
+				}
+				b_tilburg = {
+					# Fectio # actually Vechten
+				}
+				b_willemstad = {
+					# Ruigenhil
+				}
+				b_bergenopzoom = {
+					# Zomam
+				}
+				b_cuijck = {
+					# Ceuclum
+				}
+				b_ravenstein = {
+					# Martinacum # Princehage is a district of Breda, which used to be called Mertersem, which might've originally been 'Meertensheim', referring to a St. Martin
+				}
+				b_horn = {
+					# Carvo # actually Kesteren
+				}
+			}
+		}
+		d_ripuaria = {
+			color={ 149 186 37 }
+			color2={ 255 255 255 }
+			
+			c_luxembourg = {
+				color={ 113 113 158 }
+				color2={ 255 255 255 }
+
+				# Arduennensis
+			
+				b_luxembourg = {
+					# Caviniacum # guessed name for Sainte-Marie-Chevigny, Belgium
+				}
+				b_bouillon = {
+					# Bullionium
+				}
+				b_saintvith = {
+					# Vitacum
+				}
+				b_arlon = {
+					# Orolaunum
+				}
+				b_neufchateau = {
+					# Novacastra
+				}
+				b_longwy = {
+					# Longovicus
+				}
+				b_differdange = {
+					# Belsonancum # actually Niederbesslingen/Basbellain
+				}
+				b_ettelbruck = {
+					# Ettelbriga
+				}
+			}
+			c_liege = {
+				color={ 120 120 165 }
+				color2={ 255 255 255 }
+
+				# Leodicum # could be Legia. whatever, fight me irl
+
+				# Merovingian: (Pagus) Leuhius
+			
+				b_liege = {
+					# Leodicum
+				}
+				b_bastogne = {
+					# Bastonica # 887
+				}
+				b_namur = {
+					# Namurcum
+				}
+				b_huy = {
+					# Amanium # actually Amay
+				}
+				b_laroche = {
+					# Perniciacum # actually Braves maybe????
+				}
+				b_cine = {
+					# Vervigium # actually Vervoz
+				}
+				b_salm = {
+					# Salwa
+				}
+				b_stavelot = {
+					# Stabelaco
+				}
+			}
+			c_julich = {
+				color={ 100 100 141 }
+				color2={ 255 255 255 }
+
+				# Juliacensis
+			
+				b_julich = {
+					# Juliacum
+				}
+				b_aachen = {
+					# Aquisgranum
+				}
+				b_prum = {
+					# Prumia
+				}
+				b_geldern = {
+					# Tiberiacum # possible Roman name for Thorr, Zieverich, DE
+				}
+				b_roermond = {
+					# Mederiacum # actually Melick, NL
+				}
+				b_duren = {
+					# Marcodurum
+				}
+				b_moers = {
+					# Calo
+				}
+				b_monschau = {
+					# Gelduba
+				}
+			}
+			c_loon = {
+				color={ 115 115 175 }
+				color2={ 255 255 255 }
+
+				# Haspinga
+				# Hasbaniensis
+			
+				b_loon = {
+					# Lens
+				}
+				b_maastricht = {
+					# Triecto
+				}
+				b_hasselt = {
+					# Catualium # actually Heel, NL
+				}
+				b_valkenburg = {
+					# Falconiacum
+				}
+				b_heinsberg = {
+					# Teudurum # actually Tuddern
+				}
+				b_hesbaie = {
+					# Hesbania
+				}
+				b_wassenberg = {
+					# Coriovallum # actualy Heerlen
+				}
+				b_tongeren = {
+					# Tungrorum
+				}
+			}
+			c_koln = {
+				color={ 141 141 141 }
+				color2={ 255 255 255 }
+
+				# Colonia
+
+				holy_site = catholic
+								
+				b_koln = {
+					# Colonia
+				}
+				b_berg = {
+					# Thusila
+				}
+				b_mark = {
+					# Marca
+				}
+				b_bonn = {
+					# Bonna
+				}
+				b_dietz = {
+					# Theodissa
+				}
+				b_saffenburg = {
+					# Sentiacum # actually Sinzig
+				}
+				b_hochstaden = {
+					# Rigomagus # actually Remagen
+				}
+				b_brauweiler = {
+					# Brunivilare
+				}
+			}
+		}
+		d_moguntiacum = {
+			color={ 178 145 87 }
+			color2={ 255 255 255 }
+
+			capital = 123 #Mainz
+		
+			c_mainz = {
+				color={ 129 129 129 }
+				color2={ 255 255 255 }
+
+				# Moguntiacensis
+			
+				b_mainz = {
+					# Moguntiacum
+				}
+				b_frankfurt = {
+					# Nida
+				}
+				b_eppstein = {
+					# (Aquae) Mattiacorum # actually Wiesbaden
+				}
+				b_ingelheim = {
+					# (Vicus) Augustanus # actually Trebur
+				}
+				b_mannheim = {
+					# Moenus # actually the Main River
+				}
+				b_weilburg = {
+					# Laugana # actually the Lahn River
+				}
+				b_dornburg = {
+					# Fridechuba # actually Frickhofen
+				}
+				b_hanau = {
+					# Hagenovia
+				}
+			}
+			c_pfalz = {
+				color={ 140 140 170 }
+				color2={ 255 255 255 }
+
+				# Bormatia
+			
+				b_kaiserslautern = {
+					# Rouphiniana
+				}
+				b_worms = {
+					# Borbetomagus
+				}
+				b_hagenau = {
+					# Cruciniacum # actually Bad Kreuznach
+				}
+				b_stahleck = {
+					# Volsolvia # acutally Oberwesel
+				}
+				b_trifels = {
+					# Bingium
+				}
+				b_speyer = {
+					# Spira
+				}
+				b_zweibrucken = {
+					# Buconica # actually Nierstein
+				}
+				b_saarbrucken = {
+					# Altaripa # actually Altrip
+				}
+			}
+		}
+	}
+
+	k_aquitania = {
+		color={ 127 170 146 }
+		color2={ 255 255 255 }
+
+		capital = 214
+
+		d_bituricensis = {
+			color={ 235 103 139 }
+			color2={ 255 255 255 }
+
+			capital = 146 # Bourges/Biturigum
+			
+			c_bourges = {
+				color={ 221 117 133 }
+				color2={ 255 255 255 }
+
+				# Biturigum
+
+				old_frankish = Bituricus
+				
+				b_chateauroux = {
+					# Brivas # actually Brives
+				}
+				b_deols = {
+					# Dolus $ 6th century
+				}
+				b_bourges = {
+					# Biturigum
+				}
+				b_issoudun = {
+					# Uxelodunum
+				}
+				b_stsatur = {
+					# Ernodorum # actually Saint-Ambroix
+				}
+				b_sancerre = {
+					# Gartona # 1st century
+				}
+				b_mehun = {
+					# Pontiniacum
+				}
+				b_vierzon = {
+					# Virsionis (Oppidum) # 843
+				}
+			}
+			c_bourbon = {
+				color={ 207 63 84 }
+				color2={ 255 255 255 }
+
+				# Borvonia
+
+				old_frankish = Borbonia
+				
+				b_bourbon = {
+					# Borvonia
+
+					old_frankish = Borbonia
+				}
+				b_moulins = {
+					# Cenconio # actually Sancoins
+				}
+				b_lancy = {
+					# Flaviniacum # actually Flavigny
+				}
+				b_montlucon = {
+					# Mons Lucii
+				}
+				b_vichy = {
+					# Vippiacum
+				}
+				b_murat = {
+					# Muratus
+				}
+				b_souvigny = {
+					# Cantilia # actually Chantelle-la-Vielle
+				}
+				b_montpensier = {
+					# Mediocantus # actually La Celle
+				}
+			}
+			c_la_marche = {
+				color={ 221 174 183 }
+				color2={ 255 255 255 }
+
+				# Andra # Indre
+
+				old_frankish = Marcha
+				
+				b_crozant = {
+					# Crosentum # speculative
+				}
+				b_bellac = {
+					# Bellacum
+				}
+				b_gueret = {
+					# Vervactum
+
+					old_frankish = Waractus
+				}
+				b_aubusson = {
+					# Albucius
+				}
+				b_boussac = {
+					# Bociacum
+				}
+				b_lasouterraine = {
+					# Subterranea
+				}
+				b_bourganeuf = {
+					# Argentomagus # actually Saint-Marcel
+				}
+				b_jouillat = {
+					# Idunum # actually Dun-le-Palestel
+				}
+			}
+		}
+		d_arvernia = {
+			color={ 87 130 66 }
+			color2={ 255 255 255 }
+			
+			capital = 217 # Auvergne
+			
+			culture = gallo_roman
+			
+			c_auvergne = {
+				color={ 72 102 62 }
+				color2={ 255 255 255 }
+
+				# Arvernia
+				
+				b_tournoel = {
+					# Turnoialium # technically a medieval Latin thing
+				}
+				b_clermont = {
+					# Arvernorum
+
+					gallo_roman = Arvernis
+					romano_british = Arvernis
+					old_frankish = "Clarus Mons"
+				}
+				b_mozac = {
+					# Mussiacum # Gregory of Tours mentions 'Mussiacas' in the 6th century
+
+					old_frankish = Mussiacas
+				}
+				b_murol = {
+					# Merolium # sort of guess. Gregory of Tours mentioned a 'Castrum Meroliencense' in the 6th century, which I figured is a messed-up version of 'Castrum Meroliensis'
+
+					old_frankish = Meroliencense
+				}
+				b_aurillac = {
+					# Aureliacum
+				}
+				b_carlat = {
+					# Caratillatum
+				}
+				b_brioude = {
+					# Brivate
+				}
+				b_domeyrat = {
+					# Armariacum
+				}
+				### WHOA WHOA WHOA SPECIAL ADDITION ###
+				b_avitacum = {
+					# SIDONIUS APPOLINARIS' ESTATE
+				}
+			}
+			c_gevaudan = {
+				color={ 103 177 78 }
+				color2={ 255 255 255 }
+
+				# Gabalum
+				
+				b_grezes = {
+					# Gredonum
+				}
+				b_mende = {
+					# Mimate
+				}
+				b_lepuy = {
+					# Anicium
+				}
+				b_apchier = {
+					# Ruessium # actually Saint-Paulien
+				}
+				b_marvejols = {
+					# Gabalum
+
+					roman = Anderitum
+				}
+				b_florac = {
+					# Floracum
+				}
+				b_stsauveur = {
+					# Adsilanum # actually Puech Crémat-Bas, Nasbinals
+				}
+				b_tournel = {
+					# Condate # actually Condres
+				}
+			}
+		}
+		d_tolosa = {
+			color={ 198 200 155 }
+			color2={ 255 255 255 }	
+			
+			capital = 214 # Toulouse		
+
+			c_toulouse = {
+				color={ 192 191 163 }
+				color2={ 255 255 255 }
+
+				# Tolosa
+
+				old_frankish = Tholosanus
+				
+				b_castelnaudary = {
+					# Badera # actually Baziège
+				} 
+				b_toulouse = {
+					# Tolosa
+
+					old_frankish = Tholose
+				} 
+				b_lavaur = {
+					# Vobero
+				} 
+				b_montauban = {
+					# Fines # actually Montauban
+				} 
+				b_lombez = {
+					# Lomberium
+				} 
+				b_hautpoul = {
+					# Semelingus # actually Sémalens
+				} 
+				b_montgiscard = {
+					# Mauringus # actually Maurens
+				} 
+				b_muret = {
+					# Ad Iovem # actually Pibrac
+				} 
+			}
+			c_rouergue = {
+				color={ 217 216 198 }
+				color2={ 255 255 255 }
+
+				# Rutenia
+				
+				b_rodez = {
+					# Rutenorum
+
+					old_frankish = Ruteni
+				} 
+				b_millau = {
+					# Condatomagus # Millavensis?
+				} 
+				b_vabres = {
+					# Vobero
+				} 
+				b_najac = {
+					# Tribonum # actually Trébosc
+				} 
+				b_villefranche = {
+					# Catiriacum # actually Cadayrac
+				} 
+				b_caylus = {
+					# Marenavas # actually Marnaves
+				} 
+				b_staffrique = {
+					# Carantomagus # actually Cranton
+				} 
+				b_estaing = {
+					# Stagno
+				} 
+			}
+			c_foix = {
+				color={ 168 171 101 }
+				color2={ 255 255 255 }
+
+				# Fuxium
+				
+				b_foix = {
+					# Fuxium
+				} 
+				b_pamiers = {
+					# Appamiae # probably a crusader-related name, but OH WELL
+				} 
+				b_mirepoix = {
+					# Mirium Podium
+				} 
+				b_montsegur = {
+					# Mons Securus
+				} 
+				b_stbertrand = {
+					# Convenarum
+
+					old_frankish = Convenae
+					visigothi = Convenae
+					ostrogothi = Convenae
+				}  
+				b_roquefeuil = {
+					# Rocafolium # 1241 attestation
+				} 
+				b_stgaudens = {
+					# Tarusco # actually Tarascon-sur-Ariège
+				}  
+				b_usson = {
+					# Iccium # speculative
+				} 
+			}
+			c_limousin = {
+				color={ 171 172 138 }
+				color2={ 255 255 255 }
+
+				# Lemovicensis
+				
+				b_turenne = {
+					# Uscerca # actually Uzerche
+				}
+				b_limoges = {
+					# Lemovicum
+
+					gallo_roman = Lemovecas
+					romano_british = Lemovecas
+
+					roman = Augustoritum
+				}
+				b_comborn = {
+					# Solemniacum # actually Solignac
+				}
+				b_rochechouart = {
+					# Cavardum # Believe me, people, I do the best Latinizations. The best. No one Latinizes better than I do.
+				}
+				b_thiviers = {
+					# Tiberium # speculative
+
+					old_frankish = Tiverius
+				}
+				b_stleonard = {
+					# Canaviacum # actually Chenevieres
+				}
+				b_ventadour = {
+					# Gricium # actually Bois-la-Gresse
+				}
+				b_chalus = {
+					# Leucus # 6th century
+				}
+			}
+		}
+		d_septimania = {
+			color={ 225 174 68 }
+			color2={ 255 255 255 }
+
+			capital = 212 # Narbonensis / Narbo / Narbonne
+			
+			c_montpellier = {
+				color={ 188 149 41 }
+				color2={ 255 255 255 }
+
+				# Arauris # Hérault River
+				
+				b_beaucaire = {
+					# Ugernum
+				}
+				b_montpellier = {
+					# Arandunum # actually Calvisson
+				}
+				b_maguelone = {
+					# Magalona
+				}
+				b_nimes = {
+					# Nemausus
+				}
+				b_aiguesmortes = {
+					# Varatunnum # actually Saint-Julien
+				}
+				b_bagnolssurceze = {
+					# Ambrussum # actually Pont-Ambroix
+				}
+				b_saintguilhemledesert = {
+					# Sextantio # actually Substantion
+				}
+				b_melgueil = {
+					# Virinnae # actually Védrines
+				}
+			}
+			c_narbonne = {
+				color={ 192 150 71 }
+				color2={ 255 255 255 }
+
+				# Narbonensis
+				
+				b_albi = {
+					# Albiga
+				} 
+				b_narbonne = {
+					# Narbo
+
+					visigothi = Narbona
+					ostrogothi = Narbona
+					old_frankish = Narbona
+				} 
+				b_agde = {
+					# Agatha
+
+					graeci = Agathe
+					greek = Agathe
+				} 
+				b_beziers = {
+					# Baeterrae
+				} 
+				b_puisserguier = {
+					# Cessero # actually Saint-Thibéry
+				} 
+				b_stponsdethomieres = {
+					# Embonne # actually Port Ambonne
+				} 
+				b_castres = {
+					# Medilianum # actually Saint-Jean, Roujan
+				} 
+				b_queribus = {
+					# Luetva # actually Lodève
+				} 
+			}
+			c_carcassonne = {
+				color={ 232 167 32 }
+				color2={ 255 255 255 }
+
+				# Carcasso
+				
+				b_saissac = {
+					# Saxiago
+				} 
+				b_carcassonne = {
+					# Carcasso
+				} 
+				b_alet = {
+					# Cedros # actually Caux-et-Sauzens
+				} 
+				b_termes = {
+					# Terminus
+				} 
+				b_lagrasse = {
+					# Hebromagus # actually Bram
+				} 
+				b_lastours = {
+					# Tricensimum # actually Crémadeills
+				} 
+				b_cabaret = {
+					# Liviana # actually Douzens
+				} 
+				b_minerve = {
+					# Minerva
+
+					old_frankish = Menerba
+				}
+			}
+		}
+		d_novempopulania = {
+			color={ 91 172 156 }
+			color2={ 255 255 255 }
+			
+			capital = 209 # Armagnac
+
+			visigothi = Wasconia
+			ostrogothi = Wasconia
+			old_frankish = Guasconia
+			burgundi = Guasconia
+			
+			c_bearn = {
+				color={ 145 183 175 }
+				color2={ 255 255 255 }
+
+				# Beneharnum
+				
+				b_pau = {
+					# Bigorra # actually Saint-Lézer
+				}
+				b_morlaas = {
+					# Sexciacum # actually Saint-Justin, Gers
+				} 
+				b_lescar = {
+					# Beneharnum
+				}
+				b_tarbes = {
+					# Tarba
+				}
+				b_mauleonlicharre = {
+					# Atura # actually Aire-sur-l'Adour
+				}
+				b_orthez = {
+					# Ortesium # 1194
+				}
+				b_oloron = {
+					# Iluro
+				}
+				b_montaner = {
+					# Montanerius # 1030
+				}
+			}
+			c_armagnac = {
+				color={ 78 146 132 }
+				color2={ 255 255 255 }
+
+				# Ausciensis
+				
+				b_castelnau = {
+					# Besinum # actually Vic-Fezensac
+				}
+				b_auch = {
+					# Ausciorum
+				}
+				b_condom = {
+					# Condomagus
+				}
+				b_lectoure = {
+					# Lactora
+				}
+				b_lisle = {
+					# Vanesia # actually Saint-Jean-Poutge
+				}
+				b_eauze = {
+					# Elusa
+				}
+				b_mirande = {
+					# Miranda
+				}
+				b_laplume = {
+					# Praemiacum # actually Preignan
+				}
+			}
+			c_labourd = {
+				color={ 54 209 179 }
+				color2={ 255 255 255 }
+
+				# Lapurdum
+
+				old_frankish = Lasburdensis # 980
+				
+				b_sauveterre = {
+					# Salvaterra
+				}
+				b_bayonne = {
+					# Lapurdum
+				}
+				b_stsever = {
+					# Carasa # actually Garris
+				}
+				b_dax = {
+					# Aquensium # later Latin form of the name
+				}
+				b_aire = {
+					# Ager
+				}
+				b_labastideclairence = {
+					# Gaudacium # actually Gaujacq
+
+					visigothi = Gothacium
+					ostrogothi = Gothacium
+				}
+				b_sorde = {
+					# Belenus # making a guess about the etymology of Bélus, France
+				}
+				b_hasparren = {
+					# Elisaberris # Elizaberri is a neighborhood of Hasparren
+				}
+			}
+			c_albret = {
+				color={ 82 162 146 }
+				color2={ 255 255 255 }
+
+				# Martianum
+				
+				b_labrit = {
+					# Martianum # the actual town of Marsan
+				}
+				b_tartas = {
+					# Mosconnum # actually Mixe
+				}
+				b_bazas = {
+					# Basatica
+				}
+				b_roquefort = {
+					# Coequosa # actuallyy Sindères
+				}
+				b_montdemarsan = {
+					# Segosa # actually Saint-Paul-en-Born
+				}
+				b_gabarret = {
+					# Salis # actually Salles, Gironde
+				}
+				b_mimizan = {
+					# Mimisianum
+				}
+				b_latestedebuch = {
+					# Boios # actually Biganos, with name from the Antonine Itinerary
+				}
+			}
+		}
+		d_aquitania = {
+			color={ 54 10 243 }
+			color2={ 255 255 255 }
+
+			capital = 149 # Bordaeux
+			
+			c_bordeaux = {
+				color={ 58 14 247 }
+				color2={ 255 255 255 }
+
+				# Burdigalensis
+				
+				b_castillon = {
+					# Vodollacum # actually Bouliac
+				}
+				b_bordeaux = {
+					# Burdigala
+				}
+				b_stemilion = {
+					# Ascumbas # the 7th(?) century name for Saint-Émilion. Might be a corrupted Merovingian form, i dunno.
+				}
+				b_blaye = {
+					# Blavia
+				}
+				b_bourg = {
+					# Burgus
+				}
+				b_lasauve = {
+					# Modogarnomum # actually Tabanac
+				}
+				b_lareole = {
+					# Stomatas # actually La Brède
+				}
+				b_libourne = {
+					# Moviomagus # actually Brion
+				}
+			}
+			c_agen = {
+				color={ 62 18 251 }
+				color2={ 255 255 255 }
+
+				# Aginnum
+				
+				b_agen = {
+					# Aginnum
+				}
+				b_penne = {
+					# Fines # actually Damazan
+				}
+				b_cahors = {
+					# Cadurcorum
+
+					old_frankish = Cadurcum
+				}
+				b_luzech = {
+					# Lucetecia # guessing
+				}
+				b_moissac = {
+					# Pompeiacum # actually Caumont-sur-Garonne
+				}
+				b_figeac = {
+					# Figiacus # attested in the 7th century. Probably Figiacum with an m there in the 5th century, but whatever, there's a bajillion -acum names in Gaul already
+				}
+				b_rocamadour = {
+					# Sotium # actually Sos
+				}
+				b_blanquefort = {
+					# Domeciaco # actually Donzac # I bet it was Domeciacum in the 4th/5th centuries
+				}
+			}
+			c_perigord = {
+				color={ 66 22 255 }
+				color2={ 255 255 255 }
+
+				# Petrocorensis
+				
+				b_baneuil = {
+					# Bannialo # Banno + -ialo.
+
+					old_frankish = Banolium # 13th century, fight me
+				}
+				b_perigueux = {
+					# Petrucoriorum
+				}
+				b_sarlat = {
+					# Corterate # actually Coutras
+				}
+				b_biron = {
+					# Condatis # actually Condat
+				}
+				b_auberoche = {
+					# Marciaco # actually Marsas
+				}
+				b_bergerac = {
+					# Bracariacum # probably
+				}
+				b_chancelade = {
+					# Diolindum # actually Lalinde
+				}
+				b_bonaguil = {
+					# Primuliacum # actually Prémilhac
+				}
+			}
+			c_angouleme = {
+				color={ 70 26 255 }
+				color2={ 255 255 255 }
+
+				# Inculisma
+				
+				b_jarnac = {
+					# Agannagum # 800 attestation
+				}
+				b_angouleme = {
+					# Inculisma
+				}
+				b_bassac = {
+					# Baciacum
+				}
+				b_larochefoucauld = {
+					# Sermanicomago # actually Les Bouchauds, Saint-Cybardeaux
+				}
+				b_cognac = {
+					# Conniacum
+
+					old_frankish = Comniaco
+				}
+				b_richemont = {
+					# Siroialum # actually Sireuil
+				}
+				b_fontdouce = {
+					# Sarrum # actually Charmant
+				}
+				b_latranchade = {
+					# Cassinomagus # actually Chassenon
+				}
+			}
+		}
+		d_pictavensis = {
+			color={ 20 157 231 }
+			color2={ 255 255 255 }
+			
+			capital = 141 # Poitiers
+
+			visigothi = Thifalia
+			ostrogothi = Thifalia
+			
+			c_lusignan = {
+				color={ 28 97 228 }
+				color2={ 255 255 255 }
+
+				# Liciniacum
+
+				old_frankish = Liciniacus
+				
+				b_lusignan = {
+					# Liciniacum
+
+					old_frankish = Liciniacus
+				}
+				b_charroux = {
+					# Quadrivium # speculative
+
+					old_frankish = Karrofium # 789 attestation
+				}
+				b_niort = {
+					# Novioritum # sort of putting bits together
+				}
+				b_melle = {
+					# Metullum
+				}
+				b_civray = {
+					# Severacum # guessing
+				}
+				b_maillezais = {
+					# Rauranum # actually Rom
+				}
+				b_confolens = {
+					# Confluens
+				}
+				b_stmaixent = {
+					# Amborigia # speculative classical name for Embourie
+
+					old_frankish = Emborisio
+				}
+			}
+			c_saintonge = {
+				color={ 30 99 230 }
+				color2={ 255 255 255 }
+
+				# Santonica
+				
+				b_montguyon = {
+					# Novioregum # actually by Barzan
+				}
+				b_saintes = {
+					# Santonum
+				}
+				b_stjeandangely = {
+					# Angeliacum
+				}
+				b_villeneuve = {
+					# Lamnum # actually Pons
+				}
+				b_tonnay = {
+					# Talniacum
+				}
+				b_aulnay = {
+					# Aunedonacum
+
+					old_frankish = Odenaco # 973
+				}
+				b_royan = {
+					# Roianum # Speculative
+				}
+				b_taillebourg = {
+					# Naiogialo # actually Nieul-lès-Saintes
+				}
+			}
+			c_poitiers = {
+				color={ 32 101 232 }
+				color2={ 255 255 255 }
+
+				# Pictavis
+				
+				b_chauvigny = {
+					# Calviniacum
+				}
+				b_poitiers = {
+					# Pictavis
+				}
+				b_stsavin = {
+					# Voglada # actually Vouillé LIKE THE BATTLE OF VOUILLE
+				}
+				b_moncontour = {
+					# Locoteiacus # actually Ligugé
+				}
+				b_mirebeau = {
+					# Mirabellum
+				}
+				b_parthenay = {
+					# Exidualum # actually Civaux
+				}
+				b_loudun = {
+					# Lugdunum
+
+					old_frankish = Lauzdun
+				}
+				b_chatellerault = {
+					# Sanonno # actually Cenon-sur-Vienne
+				}
+			}
+			c_thouars = {
+				color={ 34 103 234 }
+				color2={ 255 255 255 }
+
+				# Toarcius
+
+				old_frankish =  Toareca # Merovingian
+				
+				b_thouars = {
+					# Toarcius
+
+					old_frankish = Toareca # Merovingian
+				}
+				b_larochelle = {
+					# Teodeberciaco
+				}
+				b_lucon = {
+					# Lucianum # speculative
+
+					old_frankish = Lucio # 11th century
+				}
+				b_chatelaillon = {
+					# Becciacum # actually Bessay
+				}
+				b_bressuire = {
+					# Segora # attested in the 4th century, but the same changed to Berzoriacum by 1030, so something weird happened there in the early middle ages
+				}
+				b_olonne = {
+					# Olona
+				}
+				b_mauleon = {
+					# Vultaconum # actually Voultegon
+				}
+				b_fontenay = {
+					# Ruson 
+				}
+			}
+		}
+		d_provincia = {
+			color={ 93 160 163 }
+			color2={ 255 255 255 }
+			
+			capital = 221 # Provence
+			
+			c_provence = {
+				color={ 108 170 173 }
+				color2={ 255 255 255 }
+
+				# Provincia
+				
+				b_arles = {
+					# Arelate
+				}
+				b_aix = {
+					# Aquae Sextiae
+
+					old_frankish = Aquis
+				}
+				b_marseille = {
+					# Massilia
+
+					graeci = Massalia
+					greek = Massalia
+				}
+				b_grimaud = {
+					# Ernaginum # Actually Saint-Gabriel
+				}
+				b_frejus = {
+					# Forum Julium # 2nd Century
+
+					old_frankish = Forojulii # Peutinger Table
+				}
+				b_grasse = {
+					# (Podium) Grassum
+				}
+				b_castellane = {
+					# Rhodanousia # actually L'Argentière
+				}
+				b_tarascon = {
+					# Tarusco
+				}
+			}
+			c_forcalquier = {
+				color={ 151 42 72 }
+				color2={ 255 255 255 }
+
+				# Druentia # 1st century Latin
+
+				old_frankish = Furnocalcario
+				
+				b_forcalquier = {
+					# Forum Neronis
+
+					old_frankish = Furnocalcario
+				}
+				b_nyons = {
+					# Noviomagus
+				}
+				b_embrun = {
+					# Eburodunensium
+				}
+				b_sisteron = {
+					# Segustero
+				}
+				b_briancon = {
+					# Brigantium
+
+					gallo_roman = Virgantiam # Ammianus Marcellinus called it that and he was a Gallo-Roman, so
+				}
+				b_vaison = {
+					# Vasio (Vocontiorum)
+				}
+				b_gap = {
+					# Vappincum
+
+					old_frankish = Vappum
+				}
+				b_apt = {
+					# Apta Iulia
+				}
+			}
+			c_venaissin = {
+				color={ 153 44 74 }
+				color2={ 255 255 255 }
+
+				# Vendaceninus
+				
+				b_orange = {
+					# Arausio
+				}
+				b_avignon = {
+					# Avennio
+				}
+				b_cavaillon = {
+					# Cavellicus
+				}
+				b_venasque = {
+					# Vindasca
+
+					old_frankish = Venasca # 982
+				}
+				b_carpentras = {
+					# Carpentorate
+				}
+				b_chateauneufdupape = {
+					# Cypresseta # actually Sorgues
+				}
+				b_stpaul = {
+					# Vindalium # actually Mourre-de-Sève
+				}
+				b_mondragon = {
+					# Bellintum # actually Graveson/Rognonas
+				}
+			}
+			c_nice = {
+				color={ 147 39 69 }
+				color2={ 255 255 255 }
+
+				# Nicaea
+
+				greek = Nikaia
+
+				old_frankish = Nicia
+				
+				b_nizza = {
+					# Nicaea
+
+					greek = Nikaia
+
+					old_frankish = Nicia
+				}
+				b_monaco = {
+					# Monoecus
+				}
+				b_mentone = {
+					# Vintium # actually Vence
+				}
+				b_antibes = {
+					# Antipolis
+				}
+				b_sanremo = {
+					# Matutiae
+				}
+				b_campogrosso = {
+					# Cemenelum # actually Cimiez
+				}
+				b_lantosque = {
+					# Navelis # actually Saint-Pons, Nice
+				}
+				b_contes = {
+					# Cuntinus # speculative
+				}
+			}
+		}
+	}
+	k_burgundy = {
+		color={ 134 0 37 }
+		color2={ 220 220 0 }
+		
+		capital	= 227 # lyon
+		
+		d_transjurania = {
+			color={ 198 192 132 }
+			color2={ 255 255 255 }
+			
+			capital = 237 # Savoie
+			
+			c_savoie = {
+				color={ 208 196 121 }
+				color2={ 255 255 255 }
+
+				# Sapaudia
+				
+				b_savosusa = {
+					# Segusio
+				}
+				b_tarentaise = {
+					# Tarentasia
+				}
+				b_ciamberi = {
+					# Lemencum
+				}
+				b_aosta = {
+					# Augusta (Praetoria Salassorum)
+				}
+				b_pombia = {
+					# (Flavia) Plumbia
+				}
+				b_montjovet = {
+					# Mons Joviculus
+				}
+				b_vercelli = {
+					# Vercelum
+				}
+				b_bussoleno = {
+					# Buxolinum
+				}
+			}
+			c_valais = {
+				color={ 180 163 63 }
+				color2={ 255 255 255 }
+
+				# Vallis
+				
+				b_brig = {
+					# Briva
+				}
+				b_monthey = {
+					# Acaunum # actually Saint-Maurice
+				}
+				b_aigle = {
+					# Aquilegia
+				}
+				b_martigny = {
+					# Octodurum
+				}
+				b_siders = {
+					# Sidrium # 800 attestation
+				}
+				b_sitten = {
+					# Sedunum
+				}
+				b_greyerz = {
+					# Grueria
+				}
+				b_chateaudoex = {
+					# Eudracinum # actually Saint-Rhémy-en-Bosses
+				}
+			}
+			c_geneve = {
+				color={ 156 155 103 }
+				color2={ 255 255 255 }
+
+				# Genavensis
+				
+				b_geneve = {
+					# Genava
+				}
+				b_romainmotier = {
+					# Namascae # actually Annemasse
+				}
+				b_nyon = {
+					# Noviodunum
+				}
+				b_lausanne = {
+					# Lausanna
+
+					old_frankish = Losanna # 990 attestation
+				}
+				b_echallens = {
+					# Condatiscone # actually Saint-Claude
+				}
+				b_aubonne = {
+					# Albona # 1177
+				}
+				b_orbe = {
+					# Urba # 280
+				}
+				b_thonon = {
+					# Ariolica # actually Pontarlier
+
+					old_frankish = Abrolica
+				}
+			}
+		}
+		d_lugdunensis = {
+			color={ 79 128 114 }
+			color2={ 255 255 255 }
+			
+			capital = 227 # Lyon
+
+			c_lyon = {
+				color={ 799 148 134 }
+				color2={ 255 255 255 }
+
+				# Lugdunensis
+				
+				holy_site = arian
+				
+				b_brindas = {
+					# Briendaco
+				}
+				b_stjeanbaptiste = {
+					# Octavus
+				}
+				b_lyon = {
+					# Lugdunum
+				}
+				b_anse = {
+					# Ansa
+				}
+				b_chessy = {
+					# Mediolanum
+				}
+				b_lacenas = {
+					# Insula Barbara
+				}
+				b_pusignan = {
+					# Pusinianum
+				}
+				b_irigny = {
+					# Ireniacum
+				}
+			}
+			c_forez = {
+				color={ 88 118 104 }
+				color2={ 255 255 255 }
+
+				# Forensis
+				
+				b_couzan = {
+					# Volautrum # actually Vollore-Ville
+				}
+				b_montbrison = {
+					# Aquae Segetae
+				}
+				b_thiers = {
+					# Thigernum
+				}
+				b_feurs = {
+					# Forum Segusiavorum
+
+					old_frankish = Forum
+				}
+				b_roanne = {
+					# Rodumna
+				}
+				b_charlieu = {
+					# Linio # actually the Lignon du Forez river
+				}
+				b_chalmazel = {
+					# Poncinum # Poncins
+				}
+				b_stetienne = {
+					# Albiniacum # actually Balbigny
+				}
+			}
+		}
+		d_viennensis = {
+			color={ 74 63 120 }
+			color2={ 255 255 255 }
+			
+			c_dauphine_viennois = {
+				color={ 103 87 166 }
+				color2={ 255 255 255 }
+
+				# Viennensis
+				
+				b_montelimar = {
+					# Acunum
+				}
+				b_vienne = {
+					# Vienna
+				}
+				b_valence = {
+					# Valentia
+
+					old_frankish = Valentinam
+				}
+				b_grenoble = {
+					# Gratianopolis
+				}
+				b_chartreuse = {
+					# Figlinae # actually Saint-Rambert-d'Albon
+				}
+				b_albon = {
+					# Epaone
+
+					old_frankish = Eppaonis # 831
+				}
+				b_stantoine = {
+					# Ursolis # actually Saint-Vallier
+				}
+				b_valreas = {
+					# Valeriacum
+				}
+			}
+			c_viviers = {
+				color={ 48 40 79 }
+				color2={ 255 255 255 }
+
+				# Vivarium
+				
+				b_aubenas = {
+					# Albenate
+				}
+				b_tournon = {
+					# Muzolium # technically Tournon was a suburb OF Muzolium but whatever
+				}
+				b_viviers = {
+					# Vivarium
+				}
+				b_albalaromaine = {
+					# Alba Helviorum
+				}
+				b_privas = {
+					# Briva
+				}
+				b_lecheylard = {
+					# Tricastinorum # actually Saint-Paul-Trois-Chateux
+				}
+				b_largentiere = {
+					# Segualeriae
+				}
+				b_joyeuse = {
+					# Gaudeosa
+
+					old_frankish = Gaudisso
+				}
+			}
+		}
+		d_sequanica = {
+			color={ 116 56 41 }
+			color2={ 255 255 255 }
+			
+			capital = 135 # Bourgogne
+			
+			c_neuchatel = {
+				color={ 191 96 72 }
+				color2={ 255 255 255 }
+
+				# Aventicensis
+				
+				b_neuchatel = {
+					# Minnodunum # actually Moudon/Milden
+				}
+				b_stimier = {
+					# Uromagus # actually Oron-la-Ville
+				}
+				b_fribourg = {
+					# Aspi # actually Kallnach
+				}
+				b_grandson = {
+					# Grantio
+				}
+				b_yverdon = {
+					# Eburodunum
+				}
+				b_estavayer = {
+					# Staviacum
+				}
+				b_avences = {
+					# Aventicum
+				}
+				b_murten = {
+					# Muratum
+				}
+			}
+			c_bern = {
+				color={ 155 96 89 }
+				color2={ 255 255 255 }
+
+				# Arola # 7th century name for the River Aar, which passes through Bern
+				
+				b_bern = {
+					# Arurensis # Actually Muri bei Bern, I think. I used google translate to translate a Swiss German article into English, and hahaha oh god why did i do that i'm so STUPID aurgh
+				}
+				b_interlaken = {
+					# Interlacus
+				}
+				b_luzern = {
+					# Luciaria
+				}
+				b_biel = {
+					# Belna
+				}
+				b_sempach = {
+					# Murensia # after Muri Abbey, nearish Sempach
+				}
+				b_langenthal = {
+					# Langadunum
+				}
+				b_kyburg = {
+					# Dunum # speculative, actually Thun
+				}
+				b_sursee = {
+					# Brienzola # actually Brienz, 840 attestation
+				}
+			}
+			c_aargau = {
+				color={ 124 53 33 }
+				color2={ 255 255 255 }
+
+				# Vindonissa
+				
+				b_aargau = {
+					# Vindonissa # actually Windisch
+				}
+				b_basel = {
+					# Basilia
+				}
+				b_solothurn = {
+					# Salodurum
+				}
+				b_habsburg = {
+					# Tenedo # actually Bad Zurzach
+				}
+				b_rheinfelden = {
+					# (Augusta) Raurica # actually Kaiseraugst
+
+					roman = "Augusta Raurica"
+
+					old_frankish = "Augusta"
+					burgundi = "Augusta"
+				}
+				b_schaffhausen = {
+					# Aquae Helveticae # actually Baden
+				}
+				b_lenzburg = {
+					# Lentia
+				}
+				b_laufenburg = {
+					# Arialbinnum # actually Allschwil
+				}
+			}
+			c_besancon = {
+				color={ 141 68 50 }
+				color2={ 255 255 255 }
+
+				# Vesontio
+
+				old_frankish = Besontion
+				burgundi = Besantio
+				visigothi = Besantio
+				ostrogothi = Besantio
+				thuida = Besantio
+				
+				b_besancon = {
+					# Vesontio
+
+					old_frankish = Besontion
+					burgundi = Besantio
+					visigothi = Besantio
+					ostrogothi = Besantio
+					thuida = Besantio
+				}
+				b_belfort = {
+					# Logosagium # actually Luxiol
+				}
+				b_vesoul = {
+					# Vesulium
+				}
+				b_montbeliard = {
+					# Filomusiacum # actually Nods
+				}
+				b_beaucourt = {
+					# Crucinae # actually Rochefort-sur-Nenon
+				}
+				b_valdahon = {
+					# Aumum # guessing. earliest attestation says "Aums"
+				}
+				b_maiche = {
+					# Mataxa
+				}
+				b_morteau = {
+					# Estalanus # actually Étalans
+				}
+			}
+		}
+		d_divio = {
+			# French, or Lower Burgundy
+			color={ 153 67 108 }
+			color2={ 255 255 255 }
+			capital = 136 # Dijon
+			
+			c_chalons = {
+				color={ 161 22 60 }
+				color2={ 255 255 255 }
+
+				# Cabillonum
+				
+				b_brancion = {
+					# Hubiliacus # actually Saint-Marvel
+				}
+				b_chalon = {
+					# Cabillonum
+
+					roman = Cavillonum # that's what Caesar called it waaay back when
+
+					old_frankish = Cabiloninsis # 779
+				}
+				b_tournus = {
+					# Tinurtium
+				}
+				b_louhans = {
+					# Lovingos # speculative
+				}
+				b_chamilly = {
+					# Pons Dubris # actually Pontoux
+				}
+				b_seurre = {
+					# Saburra
+				}
+				b_stjeandelosne = {
+					# Arar # an ancient name for the Saône
+				}
+				b_cuisery = {
+					# Casuriacum # speculative
+
+					old_frankish = Cuisiriaco # 1119
+				}
+			}
+		
+			c_macon = {
+				color={ 27 165 229 }
+				color2={ 255 255 255 }
+
+				# Matisco
+
+				gallo_roman = Matiscone
+				old_frankish = Matescense
+				
+				b_fuisse = {
+					# Buissanta # region that Limas sat in according to an 838 document
+				}
+				b_macon = {
+					# Matisco
+
+					gallo_roman = Matiscone
+					old_frankish = Matescense
+				}
+				b_cluny = {
+					# Cluniacum
+				}
+				b_davaye = {
+					# Brigoulus # another name for the Saône
+				}
+				b_beaujeu = {
+					# Ludna # actually Saint-Georges-de-Reneins
+				}
+				b_lugny = {
+					# Luviniacum # speculative
+				}
+				b_berze = {
+					# Souconna # another name for the Saône
+				}
+				b_villefranchesursaone = {
+					# Lunna # actually Belleville SWINGEZ BELLEVILLE RENDEZ-VOUS
+				}
+			}
+			c_dijon = {
+				color={ 30 168 232 }
+				color2={ 255 255 255 }
+
+				# Divionensis
+
+				old_frankish = Divionense
+				
+				b_semur = {
+					# Sinemuro # 545 attestation
+				}
+				b_dijon = {
+					# Divio
+
+					old_frankish = Divione
+				}
+				b_autun = {
+					# Augustodunum
+				}
+				b_vezelay = {
+					# Vercellatus
+
+					old_frankish = Videliacus # Merovingian
+				}
+				b_avallon = {
+					# Aballo
+
+					old_frankish = Aballone # Antonine Itinerary
+				}
+				b_citeaux = {
+					# Mediolanum # actually Mâlain
+				}
+				b_beaune = {
+					# Belena
+
+					old_frankish = Balna # 861 attestation
+				}
+				b_noyers = {
+					# Noviomagus
+				}
+			}
+			c_nevers = {
+				color={ 33 171 235 }
+				color2={ 255 255 255 }
+
+				# Nevirnum
+
+				old_frankish = Nevernis
+				burgundi = Nevernis
+				
+				b_courtenay = {
+					# Decetia # actually Decize
+				}
+				b_nevers = {
+					# Nevirnum
+
+					old_frankish = Nevernis
+					burgundi = Nevernis
+				}
+				b_lacharite = {
+					# Marciacum # actually Marzy, speculative
+
+					old_frankish = Marsiaco # 887
+				}
+				b_donzy = {
+					# Domitiacum
+				}
+				b_chateauchinon = {
+					# Tincontium # actually Sancoins
+				}
+				b_vandenesse = {
+					# Vindonnissa # speculative
+
+					old_frankish = Vendenossa # 1032
+				}
+				b_clamecy = {
+					# Clamiciacum # speculative
+
+					old_frankish = Clamiciacus # 634
+					burgundi = Clamiciacus
+				}
+				b_cosne = {
+					# Condate
+				}
+			}
+			c_charolais = {
+				color={ 36 174 238 }
+				color2={ 255 255 255 }
+
+				# Quadrella
+				
+				b_montstvincent = {
+					# Genelaritum # actually Génelard, speculative
+				}
+				b_charolles = {
+					# Quadrella
+
+					gallo_roman = Cadrella
+
+					old_frankish = Kadrela # 924
+					burgundi = Kadrela # 924
+				}
+				b_paray = {
+					# Paradum # speculative
+				}
+				b_semurenbrionnais = {
+					# Sinemuro
+
+					old_frankish = Senmurusen # 879 attestation
+				}
+				b_toulonsurarroux = {
+					# Telonnum
+				}
+				b_perrecy = {
+					# Pritiacum # actually Prizy
+				}
+				b_digoine = {
+					# Marciniacum # speculative
+
+					old_frankish = Martiniacus # 1054
+					burgundi = Martiniacus
+				}
+				b_joncy = {
+					# Valeta # how the hell did it go from Valeta in 1165 to Joncy now?
+				}
+			}
+		}
+	}
+}

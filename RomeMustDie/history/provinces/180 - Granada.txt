@@ -4,16 +4,16 @@
 title = c_granada
 
 # Settlements
-max_settlements = 6
+max_settlements = 5
 b_granada = castle
 b_jaen = temple
 b_elvira = city
-b_baeza = castle
-b_guadix = city
+#b_baeza = castle
+#b_guadix = city
 
 #b_moclin = castle
 #b_iznajar = castle
 #b_huelma = castle
 
-culture = iberoroman
+culture = hispano_roman
 religion = nicene

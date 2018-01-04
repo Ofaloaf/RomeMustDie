@@ -15,5 +15,5 @@ b_villareal = city
 #b_almodovardelcampo = castle
 
 # Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene

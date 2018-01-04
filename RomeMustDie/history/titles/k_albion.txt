@@ -1,0 +1,9 @@
+412.1.1 = {
+	holder = 1707004
+	law = cognatic_succession
+	law = succ_tanistry
+}
+
+456.1.1 = {
+	holder = 1707005
+}

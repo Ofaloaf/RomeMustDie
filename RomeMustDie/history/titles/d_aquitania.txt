@@ -1,9 +1,14 @@
-1.1.1 = {
-	liege = "e_wre"
+470.1.1 = {
+
+	liege = "k_visigothia"
 	vice_royalty = yes
+	name = AQUITANIA_SECUNDA
+	adjective = AQUITANIA_SECUNDA_adj
 }
 
-469.1.1 = {
-	liege = "k_visigothia"
-	holder = 789039
+
+475.1.1 = {
+
+	holder = 789023
+
 }

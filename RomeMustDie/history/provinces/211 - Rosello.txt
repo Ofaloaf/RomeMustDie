@@ -15,5 +15,5 @@ b_cotlliure = city
 #b_ceret = city
 
 #Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

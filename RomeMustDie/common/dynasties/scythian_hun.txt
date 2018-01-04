@@ -1,0 +1,84 @@
+434001 = {
+	name = "Atär"
+	culture = hun
+}
+
+434002 = {
+	name = "Atlïg"
+	culture = hun
+}
+
+434003 = {
+	name = "Mundiuching"
+	culture = hun
+}
+
+434004 = {
+	name = "Octaring"
+	culture = hun
+}
+
+434005 = {
+	name="Mundzukid"
+	culture = hun
+}
+
+434006 = {
+	name = Uturkar
+	culture = hun
+}
+
+434007 = {
+	name = Qudurmaq
+	culture = hun
+}
+
+434008 = {
+	name = Uturghur
+	culture = hun
+}
+
+434009 = {
+	name = Kötrügür
+	culture = hun
+}
+
+434010 = {
+	name = Toqur-Oghur
+	culture = hun
+}
+
+434011 = {
+	name = Quturoghur
+	culture = hun
+}
+
+434012 = {
+	name = Duch'i
+	culture = hun
+}
+
+434013 = {
+	name = Kutrigur
+	culture = hun
+}
+
+434014 = {
+	name = Curidachus
+	culture = hun
+}
+
+434015 = {
+	name = Sandilkos
+	culture = hun
+}
+
+434016 = {
+	name = Oghur
+	culture = hun
+}
+
+434017 = {
+	name = Saraghur
+	culture = hun
+}

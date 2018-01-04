@@ -8,7 +8,7 @@ max_settlements = 2
 
 b_kufra = tribal
 
-#b_jalu = city
+b_jalu = temple
 #b_jakharrah = temple
 #b_gabr = castle
 #b_attallab = castle
@@ -17,5 +17,5 @@ b_kufra = tribal
 #b_attaj = castle
 
 # Misc
-culture = maghreb_arabic
-religion = pagan
+culture = moor
+religion = kemetic_pagan

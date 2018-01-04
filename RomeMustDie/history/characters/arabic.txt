@@ -1,0 +1,771 @@
+632001 = {
+	name="Nu'man" # Naamanes II, attested in the reign of ERE Anastasius and Persian Emperor Kavadh
+	dynasty=1042117 # Banu Tayy
+	diplomacy=6
+	martial=8
+	intrigue=8
+	stewardship=7
+	learning=5
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	448.1.1 = {
+		birth=yes
+	}
+	510.1.1 = {
+		death=yes
+	}
+}
+
+632002 = {
+	name="Amr"
+	# Amorcesus in the PLRE, possibly also known as Imru'-al-Qays BUT HE'S NOT THE 6TH CENTURY POET
+	dynasty=632001
+	diplomacy=7
+	martial=7
+	intrigue=8
+	stewardship=7
+	learning=5
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	trait=ambitious
+	trait=cynical
+	trait=gregarious
+	444.1.1 = {
+		birth=yes
+	}
+	473.1.1 = {
+		religion=nicene
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632003 = {
+	name="Luhay'ath"
+	# good god the online scholarship on Himyar is fucking atrocious
+	dynasty=632002
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="jewish"
+	437.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632004 = {
+	name="Al-Haarith"
+	# Arethas (Martyr), but super-young
+	dynasty=632003
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="miaphysite"
+	453.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632005 = {
+	name="Amr"
+	dynasty=632004 # Lakhmid
+	culture="bedouin_arabic"
+	religion="nestorian"
+	235.1.1 = {
+		birth=yes
+	}
+	295.1.1 = {
+		death=yes
+	}
+}
+
+632006 = {
+	name="Imru' al-Qays"
+	father=632005
+	dynasty=632004 # Lakhmid
+	culture="bedouin_arabic"
+	religion="nestorian"
+	270.1.1 = {
+		birth=yes
+	}
+	328.1.1 = {
+		death=yes
+	}
+}
+
+632007 = {
+	name="Amr"
+	father=632006
+	dynasty=632004 # Lakhmid
+	culture="bedouin_arabic"
+	religion="nestorian"
+	300.1.1 = {
+		birth=yes
+	}
+	363.1.1 = {
+		death=yes
+	}
+}
+
+632008 = {
+	name="Aws"
+	dynasty=632005
+	culture="bedouin_arabic"
+	religion="nestorian"
+	320.1.1 = {
+		birth=yes
+	}
+	368.1.1 = {
+		death=yes
+	}
+}
+
+632009 = {
+	name="Imru' al-Qays"
+	father=632007
+	dynasty=632004 # Lakhmid
+	culture="bedouin_arabic"
+	religion="nestorian"
+	335.1.1 = {
+		birth=yes
+	}
+	390.1.1 = {
+		death=yes
+	}
+}
+
+632010 = {
+	name="Nu'man"
+	father=632009
+	dynasty=632004 # Lakhmid
+	culture="bedouin_arabic"
+	religion="nestorian"
+	370.1.1 = {
+		birth=yes
+	}
+	418.1.1 = {
+		death=yes
+	}
+}
+
+632011 = {
+	name="Al-Mundhir"
+	father=632010
+	dynasty=632004 # Lakhmid
+	culture="bedouin_arabic"
+	religion="nestorian"
+	400.1.1 = {
+		birth=yes
+	}
+	462.1.1 = {
+		death=yes
+	}
+}
+
+632012 = {
+	name="Aswad"
+	father=632011
+	dynasty=632004 # Lakhmid
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="nestorian"
+	430.1.1 = {
+		birth=yes
+	}
+	490.1.1 = {
+		death=yes
+	}
+}
+
+632013 = {
+	name="Al-Mundhir"
+	father=632011
+	dynasty=632004 # Lakhmid
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="nestorian"
+	435.1.1 = {
+		birth=yes
+	}
+	497.1.1 = {
+		death=yes
+	}
+}
+
+632014 = {
+	name="Nu'man"
+	father=632012
+	dynasty=632004 # Lakhmid
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="nestorian"
+	453.1.1 = {
+		birth=yes
+	}
+	503.1.1 = {
+		death=yes
+	}
+}
+
+632015 = {
+	name="Kilab"
+	# Kilab ibn Murrah
+	dynasty=100695 # Quraishid
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	372.1.1 = {
+		birth=yes
+	}
+	410.1.1 = {
+		death=yes
+	}
+}
+
+632016 = {
+	name="Fatima"
+	female=yes
+	# Fatimah bint Sa'd
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	375.1.1 = {
+		birth=yes
+	}
+	450.1.1 = {
+		death=yes
+	}
+}
+
+632017 = {
+	name="Zuhrah"
+	# Zuhrah ibn Kilab
+	dynasty=100695 # Quraishid
+	father=632015
+	mother=632016
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	398.1.1 = {
+		birth=yes
+	}
+	485.1.1 = {
+		death=yes
+	}
+}
+
+632018 = {
+	name="Abd Manaf"
+	# Abd Manaf ibn Zuhrah
+	dynasty=100695 # Quraishid
+	father=632017
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	423.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632019 = {
+	name="Qusai"
+	# Qusai ibn Kilab
+	dynasty=100695 # Quraishid
+	father=632015
+	mother=632016
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	trait=charitable
+	trait=proud
+	trait=martial_cleric
+	400.1.1 = {
+		birth=yes
+	}
+	420.1.1 = {
+		add_spouse = 632020
+	}
+	480.1.1 = {
+		death=yes
+	}
+}
+
+632020 = {
+	name="Hubba"
+	female=yes
+	# Hubba bint Hulail
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	405.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632021 = {
+	name="Abd-al-Dar"
+	# Abd-al-Dar ibn Qusai
+	dynasty=100695 # Quraishid
+	father=632019
+	mother=632020
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	trait=arbitrary
+	425.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632022 = {
+	name="Abd Manaf"
+	# Abd Manaf ibn Qusai
+	dynasty=100695 # Quraishid
+	father=632019
+	mother=632020
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	428.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632023 = {
+	name="Abd-al-Uzza"
+	# Abd-al-Uzza ibn Qusai
+	dynasty=100695 # Quraishid
+	father=632019
+	mother=632020
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	432.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632024 = {
+	name="Habib"
+	# Fictional. I only know that the Banu Hanifa occupied the area that this character rules in-game, but I don't know who actually led the Banu Hanifa during this period.
+	dynasty=632006 # Hanifid / Banu Hanifa
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="nestorian" # apparently they were Christians!
+	449.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632025 = {
+	name="Nizar"
+	# Fictional. I only know that the Banu Tamim occupied the area that this character rules in-game, but I don't know who actually led the Banu Hanifa during this period.
+	dynasty=632007 # Tamimid / Banu Tamim
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="nestorian" # apparently they were Christians!
+	442.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632026 = {
+	name="Suhayl"
+	# Fictional.
+	dynasty=1042121 # Abd al-Qays
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	431.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632027 = {
+	name="Hakim"
+	# Fictional.
+	dynasty=632008
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	452.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632028 = {
+	name="Akil al-Murar"
+	dynasty=632009
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="jewish"
+	400.1.1 = {
+		birth=yes
+	}
+	458.1.1 = {
+		death=yes
+	}
+}
+
+632029 = {
+	name="Amr"
+	dynasty=632009
+	father = 632028 # Amr's patronymic is "ibn al-Mansour Hudjr" but I'm doing this just because.
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="jewish"
+	426.1.1 = {
+		birth=yes
+	}
+	489.1.1 = {
+		death=yes
+	}
+}
+
+632030 = {
+	name="Al-Harith"
+	dynasty=632009
+	father = 632029 # 
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="jewish"
+	455.1.1 = {
+		birth=yes
+	}
+	528.1.1 = {
+		death=yes
+	}
+}
+
+632031 = {
+	name="Amr Talaban"
+	dynasty=632009 # A branch of the Kindites remained in northern Hadramut, I think??? 
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="jewish"
+	438.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632031 = {
+	name="Tufayl"
+	# Fictional. I have no idea who led the Banu Daws at any time in the 5th century, but I'm pretty sure the Banu Daws at least /existed/.
+	dynasty=632010 # al-Dawsi. Banu Daws, Dawsid.
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	430.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632032 = {
+	name="Masud"
+	# Fictional. I have no idea who led the Ghatafan at any time in the 5th century, but I'm pretty sure it at least /existed/.
+	dynasty=632011 # al-Ghatafani. Ghatafan.
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="arabic_pagan"
+	445.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632033 = {
+	name="Sa'ad"
+	# Fictional.
+	dynasty=632012 # al-Udhrahi. Banu Udhrah
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="jewish"
+	441.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632034 = {
+	name="Hamata"
+	# don't know exact dates
+	dynasty=632015 # Salihid
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="miaphysite"
+	370.1.1 = {
+		birth=yes
+	}
+	# fl. 400
+	425.1.1 = {
+		death=yes
+	}
+}
+
+632035 = {
+	name="Amr"
+	# don't know exact dates
+	dynasty=632015 # Salihid
+	father = 632034 # Hamata al-Salihi
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="miaphysite"
+	395.1.1 = {
+		birth=yes
+	}
+	445.1.1 = {
+		death=yes
+	}
+}
+
+632036 = {
+	name="'Awf"
+	# don't know exact dates
+	dynasty=632015 # Salihid
+	father = 632034 # Hamata al-Salihi
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="miaphysite"
+	400.1.1 = {
+		birth=yes
+	}
+	450.1.1 = {
+		death=yes
+	}
+}
+
+632037 = {
+	name="Habala"
+	# don't know exact dates
+	dynasty=632015 # Salihid
+	father = 632036 # 'Awf ibn Hamata al-Salihi
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="miaphysite"
+	425.1.1 = {
+		birth=yes
+	}
+	468.1.1 = {
+		death=yes
+	}
+}
+
+632038 = {
+	name="Hawthara"
+	# don't know exact dates
+	dynasty=632015 # Salihid
+	father = 632036 # 'Awf ibn Hamata al-Salihi
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="miaphysite"
+	425.1.1 = {
+		birth=yes
+	}
+	475.1.1 = {
+		death=yes
+	}
+}
+
+632039 = {
+	name="Dawud"
+	# don't know exact dates
+	dynasty=632015 # Salihid
+	father = 632037 # Habala ibn 'Awf ibn Hamata al-Salihi
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="miaphysite"
+	trait=zealous
+	trait=trusting
+	trait=misguided_warrior
+	445.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+632040 = {
+	name="Masud"
+	# Fictional.
+	dynasty=632013 # al-Kalbi. Banu Kalb.
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="bedouin_arabic"
+	religion="miaphysite"
+	448.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}

@@ -1,0 +1,256 @@
+453001 = {
+	name="Mundzuk"
+	dynasty=434005 # Mundzukid
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	380.1.1= {
+		birth=yes
+	}
+	430.1.1 = {
+		death=yes
+	}
+}
+
+453002 = {
+	name="Bleda"
+	dynasty=434005 # Mundzukid
+	father = 453001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	trait=arbitrary
+	403.1.1= {
+		birth=yes
+	}
+	445.1.1 = {
+		death=yes
+	}
+}
+
+453003 = {
+	name="Attila"
+	dynasty=434005 # Mundzukid
+	father = 453001
+	martial=10
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	trait=ambitious
+	trait=brilliant_strategist
+	trait=cruel
+	trait=strong
+	406.1.1= {
+		birth=yes
+	}
+	430.1.1 = {
+		add_spouse = 453004
+	}
+	453.3.1 = {
+		death=yes
+	}
+}
+
+453004 = {
+	name="Erecan"
+	female=yes
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	410.1.1= {
+		birth=yes
+	}
+	470.1.1 = {
+		death=yes
+	}
+}
+
+453005 = {
+	name="Ellac"
+	dynasty=434005 # Mundzukid
+	father = 453003
+	mother = 453004
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	433.1.1= {
+		birth=yes
+	}
+	454.1.1 = {
+		death=yes
+	}
+}
+
+453006 = {
+	name="Dengizich"
+	dynasty=434005 # Mundzukid
+	father = 453003
+	mother = 453004
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	435.1.1= {
+		birth=yes
+	}
+	469.1.1 = {
+		death=yes
+	}
+}
+
+453007 = {
+	name="Ernak"
+	dynasty=434005 # Mundzukid
+	father = 453003
+	mother = 453004
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	trait=content
+	trait=brave
+	trait=tough_soldier
+	436.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+453008 = {
+	name="Rugila"
+	dynasty=434005 # Mundzukid
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	378.1.1= {
+		birth=yes
+	}
+	434.1.1 = {
+		death=yes
+	}
+}
+
+453009 = {
+	name="Ambazuces"
+	# named in the PLRE as a ruler of the Huns who offered "the Caspian Gates" to the EREmperor Anastasius. The Caspian Gates were somewhere along the edge of the Caucasus, so he'd be a Hunnic ruler in Transcaucasia. The Utrigurs were in Transcaucasia!
+	dynasty=434008 # Utughur
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	trait=greedy
+	436.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+453010 = {
+	name="Grodas"
+	dynasty=434013 # Kutrigur
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	451.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+453011 = {
+	name="Karadach"
+	dynasty=434014 # Curidachus
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	427.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+453012 = {
+	name="Alciocus"
+	# fictional/placeholder. I know the Onogurs existed in the 470s, but I don't know who led them.
+	dynasty=434016 # Oghur
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	440.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+453013 = {
+	name="Hülek"
+	# fictional/placeholder. I know the Saragurs existed in the 470s, but I don't know who led them.
+	dynasty=434017 # Saraghur
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="hun"
+	443.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}

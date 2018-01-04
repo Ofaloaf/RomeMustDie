@@ -18,4 +18,4 @@ b_melrose = temple
 
 # Misc
 culture = welsh
-religion = pelagian
+religion = celtic_pagan

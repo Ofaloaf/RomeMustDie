@@ -16,7 +16,7 @@ b_massada = temple
 #b_ofakim = castle
 
 # Misc
-culture = hebrew
-religion = jewish
+culture = graeci
+religion = miaphysite
 
 # History

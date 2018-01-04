@@ -5,9 +5,9 @@ title = c_mainz
 
 # Settlements
 max_settlements = 5
+b_frankfurt = tribal
 b_mainz = temple
-b_eppstein = castle
-b_frankfurt = city
+#b_eppstein = castle
 
 #b_ingelheim = castle
 #b_mannheim = city
@@ -16,5 +16,5 @@ b_frankfurt = city
 #b_hanau = castle
 
 # Misc
-culture = galloroman
-religion = nicene
+culture = old_frankish
+religion = norse_pagan

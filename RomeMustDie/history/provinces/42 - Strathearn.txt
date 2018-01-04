@@ -17,4 +17,4 @@ b_dunblane = temple
 
 # Misc
 culture = pictish
-religion = druidic
+religion = nicene

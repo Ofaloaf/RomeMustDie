@@ -1,4 +1,0 @@
-632001 = {
-	name = "al-Qays"
-	culture = bedouin_arabic
-}

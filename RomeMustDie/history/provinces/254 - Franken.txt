@@ -6,6 +6,8 @@ title = c_wurzburg
 # Settlements
 max_settlements = 5
 b_schweinfurt = tribal
+b_wurzburg = temple
+#b_aschaffenburg = city
 
 #b_marienberg = castle
 #b_hammelburg = castle
@@ -14,5 +16,5 @@ b_schweinfurt = tribal
 #b_mainderheim = castle
 
 # Misc
-culture = thuringian
+culture = thuringi
 religion = norse_pagan

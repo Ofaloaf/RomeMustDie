@@ -1,0 +1,70 @@
+777001 = {
+	name="Kyi"
+	dynasty=1991017
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	culture=antes
+	religion=slavic_pagan
+	453.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+777002 = {
+	name="Olgasus"
+	# Fictional. Made only so /someone/ could lead the Dulebs
+	dynasty=475009
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	culture=antes
+	religion=slavic_pagan
+	437.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+777003 = {
+	name="Chort"
+	# Fictional. 
+	dynasty=475001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	culture=antes
+	religion=slavic_pagan
+	447.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+777004 = {
+	name="Orekh"
+	# Fictional. 
+	dynasty=475010 # the Neuri were a tribe from Old Antiquity that /might/ have lived in the Galicia-Lodomeria area
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	culture=sklaveni
+	religion=slavic_pagan
+	420.1.1={
+		birth=yes # Thus I shall make its leader old as well.
+	}
+	500.1.1={
+		death=yes
+	}
+}

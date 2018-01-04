@@ -17,5 +17,5 @@ b_alhasun = temple
 #b_gioda = castle
 
 # Misc
-culture = maghreb_arabic
-religion = donatist
+culture = moor
+religion = kemetic_pagan

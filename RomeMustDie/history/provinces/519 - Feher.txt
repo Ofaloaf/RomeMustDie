@@ -1,0 +1,21 @@
+# 519 - Feher
+
+# County Title
+title = c_feher
+
+# Settlements
+max_settlements = 4
+
+b_gyulafehervar = tribal
+b_feher = temple
+
+#b_arad = temple
+#b_elek = castle
+#b_abrudbanya = castle
+#b_nagyenyed = castle
+#b_vizakna = castle
+#b_tovis = castle
+
+# Misc
+culture = gepid
+religion = arian

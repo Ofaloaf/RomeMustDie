@@ -1,7 +1,9 @@
-435.1.1 = {
+430.1.1 = {
 	liege = "d_dumnonia"
-	holder = 1589015
+	holder = 1589057
 }
 443.1.1 = {
-	holder = 1589017
+	liege = 0
+	set_tribute_suzerain = { who = d_dumnonia percentage = 0.25 }
+	holder = 1589059
 }

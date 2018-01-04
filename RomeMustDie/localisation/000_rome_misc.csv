@@ -1,0 +1,167 @@
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#
+CB_NAME_FALL_OF_ROME;Depose the Emperor;;;;;;;;;;;;;x
+cb_anglosaxon_invasion;Anglo-Saxon Invasion;;;;;;;;;;;;;x
+#
+roman_group;Roman;;;;;;;;;;;;;x
+roman;Roman;;;;;;;;;;;;;x
+gallo_roman;Gallic;;;;;;;;;;;;;x
+hispano_roman;Hispanian;;;;;;;;;;;;;x
+romano_british;Britannian;;;;;;;;;;;;;x
+mauro_roman;Maurian;;;;;;;;;;;;;x
+graeci;Graeci;;;;;;;;;;;;;x
+pannonian;Illyrian;;;;;;;;;;;;;x
+#
+germani;Germani;;;;;;;;;;;;;x
+franci;Frankish;;;;;;;;;;;;;x
+thuringi;Thuringian;;;;;;;;;;;;;x
+burgundi;Burgundian;;;;;;;;;;;;;x
+alemanni;Alemannic;;;;;;;;;;;;;x
+langobardi;Langobard;;;;;;;;;;;;;x
+angli;Anglo-Saxon;;;;;;;;;;;;;x
+saxoni;Saxon;;;;;;;;;;;;;x
+frisii;Frisian;;;;;;;;;;;;;x
+#
+gothic;Gothic;;;;;;;;;;;;;x
+visigothi;Visigothic;;;;;;;;;;;;;x
+ostrogothi;Ostrogothic;;;;;;;;;;;;;x
+burgundi;Burgundian;;;;;;;;;;;;;x
+vandal;Vandal;;;;;;;;;;;;;x
+suebi;Suebian;;;;;;;;;;;;;x
+thuida;Thuida;;;;;;;;;;;;;x
+gepid;Gepid;;;;;;;;;;;;;x
+#
+vasconic;Vasconic;;;;;;;;;;;;;x
+vasconian;Vasconian;;;;;;;;;;;;;x
+aquitanian;Aquitanian;;;;;;;;;;;;;x
+#
+moorish;Moorish;;;;;;;;;;;;;x
+moor;Moor;;;;;;;;;;;;;x
+#
+early_slavic;Slavic;;;;;;;;;;;;;x
+veneti;Veneti;;;;;;;;;;;;;x
+sklaveni;Sclavenian;;;;;;;;;;;;;x
+antes;Antean;;;;;;;;;;;;;x
+#
+scythic;Scythic;;;;;;;;;;;;;x
+hun;Hun;;;;;;;;;;;;;x
+sarmatian;Sarmatian;;;;;;;;;;;;;x
+#
+protonorse;Scandian;;;;;;;;;;;;;x
+#
+coptic;Coptic;;;;;;;;;;;;;x
+#
+bedouin_arabic;Arabic;;;;;;;;;;;;;x
+#
+roman_imperial_government;Imperial;;;;;;;;;;;;;x
+roman_imperial_government_desc;The Imperial form of government depends on a strong bureaucracy and centralized administration to function properly. In the hands of a weak ruler, the entire realm can unravel at the seams.;;;;;;;;;;;;;x
+gov_roman_empire;Roman Empire;;;;;;;;;;;;;x
+gov_barbarian_pretender;Barbarian Pretender;;;;;;;;;;;;;x
+gov_persian_empire;Persian Empire;;;;;;;;;;;;;x
+sub_roman_government;Sub-Roman;;;;;;;;;;;;;x
+sub_roman_government_desc;Sub-Roman Government is a despotic and organised system of governance employed by former territories of the Roman Empire as part of their weakening understanding of Roman culture and practices.;;;;;;;;;;;;;x
+gov_barbarian_kingdom;Barbarian Kingdom;;;;;;;;;;;;;x
+gov_petty_tyranny;Petty Tyranny;;;;;;;;;;;;;x
+gov_independent_civitas;Independent Civitas;;;;;;;;;;;;;x
+warlord_government;Warlord;;;;;;;;;;;;;x
+warlord_government_desc;Warlordism relies on a "strong man" to exercise military, economic and political power on a disorganized, ad hoc basis. Warlord realms have few political institutions and even less rule of law.;;;;;;;;;;;;;x
+gov_heroic_realm;Heroic Realm;;;;;;;;;;;;;x
+gov_barbarian_realm;Barbarian Realm;;;;;;;;;;;;;x
+gov_civilized_refuge;Civilized Refuge;;;;;;;;;;;;;x
+#
+PRIMATE;Primate;;;;;;;;;;;;;x
+nicene;Nicene;;;;;;;;;;;;;x
+nicene_DESC;When the Roman Emperor Constantine I ended centuries of persecution and began embracing early Christianity, one of his major projects was to seek theological conformity within Christendom. To this end, he convened the First Council of Nicaea in 325. After much debate, this council produced the Nicene Creed, outlining explicitly some of the central tenets of mainstream Christianity. This form of Christianity, embraced by the Roman Empire in the 4th and 5th centuries, is thus called 'Nicene' Christianity, although 'Chalcedonian', in reference to the 451 Council of Chalcedon, is also sometimes used.;;;;;;;;;;;;;x
+arian;Arian;;;;;;;;;;;;;x
+arian_DESC;Arianism was branded a heresy at the 325 Council of Nicaea for its rejection of the Holy Trinity. Arians viewed Jesus, the Son of God, as subordinate to God the Father, rather than his equal, which is the Trinitarian view endorsed by the Nicene Creed. Although Arianism was thus rejected by authorities within the Roman Empire, Arianism fluorished amongst Germanic Christian converts, in particular gaining much influence among the Gothic tribes.;;;;;;;;;;;;;x
+donatist;Donatist;;;;;;;;;;;;;x
+donatist_DESC;Donatism was a product of and reaction to the last major persecution of Christians, under Diocletian. Some Roman governors had persecuted with a relatively light touch, and had simply demanded that Christians hand over copies of the Scriptures, make a token recanting, and/or just kinda sorta vow that the Emperor was still top dog. Those that submitted to these demands rather than be imprisoned, martyred or otherwise have a rough time of it were deemed 'traditores' by more purestrain types, who refused to ever let those guys come back into the fold, and went absolutely apoplectic when one of these 'traditores' was later nominated to be Bishop of Carthage. Donatus Magnus, nominated in opposition to the 'traditor', became the namesake of this puritanical branch of the Church.;;;;;;;;;;;;;x
+pelagian;Pelagian;;;;;;;;;;;;;x
+pelagian_DESC;The core of Pelagianism was a rejection of the idea of original sin and an early advocacy of salvation through good works, rather than faith alone. Pelagianism was, in part, a reaction to the Christian tendency to excuse bad behaviors with ideas of human frailty and original sin. Pelagianism's advocates claimed that Adam's sins did not innately taint all humanity, but merely set a bad example which modern people could do better than if they just bothered trying to live moral lives.;;;;;;;;;;;;;x
+priscillian;Priscillian;;;;;;;;;;;;;x
+priscillian_DESC;Strongly influenced by Gnostic and Manichaeist thought, Priscillianists expounded a dualistic view of the universe, where Light and Darkness are in conflict. Jesus' death was meant to free mankind from the base constraints of earthly matter and be released into a purely spiritual state of being. Thus viewing earthly matters as forces of darkness, Priscillians were also early Christian ascetics.;;;;;;;;;;;;;x
+valentinian;Valentinian;;;;;;;;;;;;;x
+valteninian_DESC;One of the first major Gnostic movements in Christendom, Valentinianism has its roots in the second century. Rather than believing in a Christian salvation grounded in faith and good works, Gnostics such as the Valentinians believed that salvation came through gnosis- a 'spiritual knowledge', or enlightenment- and that mainstream Christian practice, as exemplified by the Nicene Creed, totally missed the point of it all.;;;;;;;;;;;;;x
+adoptionist;Adoptionist;;;;;;;;;;;;;x
+adoptionist_DESC;Like Arianism, Adoptionism is a Christological heresy that rejects the doctrine of the Holy Trinity. Adoptionists believe that Jesus was just a human 'adopted' by God after his birth, due to his sinless nature. Historically, Adoptionism appeared twice in antiquity and the early modern ages, first being one of several Christologies in 2nd and 3rd century Levant and then reappearing in 8th and 9th-century Spain.;;;;;;;;;;;;;x
+celtic_pagan;Celtic;;;;;;;;;;;;;x
+celtic_pagan_DESC;stone-henge! stone-henge! stone-hEnGE! sTONE-HENGE! STONE-HENGE!;;;;;;;;;;;;;x
+kemetic_pagan;Kemetic;;;;;;;;;;;;;x
+kemetic_pagan_DESC;The Ancient Egyptian (or 'Kemetic') faith was polytheist, comprised of an intricate web of deities and rituals observed at varying times of the day and year. Although once an integral part of Ancient Egyptian society, by Late Antiquity the old faith was mostly limited to peoples on the periphery of Egypt, among the pagan Berbers and Nubians.;;;;;;;;;;;;;x
+early_islam;Islam;;;;;;;;;;;;;x
+early_islam_DESC;The.;;;;;;;;;;;;;x
+mulhid;Mulhid;;;;;;;;;;;;;x
+mulhid_DESC;Words to go here later.;;;;;;;;;;;;;x
+GOD_RA;Ra;;;;;;;;;;;;;x
+GOD_OSIRIS;Osiris;;;;;;;;;;;;;x
+GOD_PTAH;Ptah;;;;;;;;;;;;;x
+GOD_ANUBIS;Anubis;;;;;;;;;;;;;x
+GOD_HORUS;Horus;;;;;;;;;;;;;x
+GOD_GURZIL;Gurzil;;;;;;;;;;;;;x
+GOD_SET;Set;;;;;;;;;;;;;x
+GOD_HATHOR;Hathor;;;;;;;;;;;;;x
+ISFET;Isfet;;;;;;;;;;;;;x
+arabic_pagan;Arabian;;;;;;;;;;;;;x
+arabic_pagan_DESC;Arabian paganism was a polytheistic faith with little structure and different deities among different tribes. Depending on what region was studied, different influences could be found- some pagans near ancient Egypt included old Egyptian gods in their pantheon, others had deities with names that could be found in the Bible, and others still might worship gods with no foreign equivalents.;;;;;;;;;;;;;x
+GOD_DUSHARA;Dushara;;;;;;;;;;;;;x
+GOD_AL-QUAM;Al-Quam;;;;;;;;;;;;;x
+GOD_AL-LAT;Al-Lat;;;;;;;;;;;;;x
+GOD_HUBAL;Hubal;;;;;;;;;;;;;x
+GOD_MANAT;Manat;;;;;;;;;;;;;x
+#
+county_of_roman_group;Comitatus;;;;;;;;;;;;;x
+count_roman_group;Comes;;;;;;;;;;;;;x
+duchy_of_roman_group;Ducatus;;;;;;;;;;;;;x
+duke_roman_group;Dux;;;;;;;;;;;;;x
+vice_royalty_duke_roman_group;Governor;;;;;;;;;;;;;x
+vice_royalty_king_roman_group;Vicarius;;;;;;;;;;;;;x
+vice_royalty_duchy_roman_group;Province;;;;;;;;;;;;;x
+vice_royalty_duchy_of_roman_group;Province of;;;;;;;;;;;;;x
+vice_royalty_kingdom_roman_group;Diocese;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_roman_group;Diocese of;;;;;;;;;;;;;x
+county_old_frankish;Pagus;;;;;;;;;;;;;x
+county_of_old_frankish;Pagus;;;;;;;;;;;;;x
+vice_royalty_duke_gothic;Governor;;;;;;;;;;;;;x
+vice_royalty_duchy_gothic;Province;;;;;;;;;;;;;x
+vice_royalty_duchy_of_gothic;Province of;;;;;;;;;;;;;x
+duke_iranian;Satrap;Satrape;Satrap;;Sátrapa;;;;;;;;;x
+duchy_of_iranian;Satrapy of;Satrapie de;Satrap von;;Satrapía de;;;;;;;;;x
+county_iranian;Marzpanate;Marzpanat;Marzpanat;;Marzpanate;;;;;;;;;x
+duchy_iranian;Satrapy;Satrapie;Satrapie;;Satrapía;;;;;;;;;x
+vice_royalty_duke_iranian;Shahrab;;;;;;;;;;;;;x
+vice_royalty_duchy_iranian;Satrapy;;;;;;;;;;;;;x
+vice_royalty_duchy_of_iranian;Satrapy of;;;;;;;;;;;;;x
+#
+nick_the_prophet;the Prophet;;;;;;;;;;;;;x
+nick_germanicus;Germanicus;;;;;;;;;;;;;x
+nick_germanica;Germanica;;;;;;;;;;;;;x
+nick_anticus;Anticus;;;;;;;;;;;;;x
+nick_antica;Antica;;;;;;;;;;;;;x
+nick_arabicus;Arabicus;;;;;;;;;;;;;x
+nick_arabica;Arabica;;;;;;;;;;;;;x
+nick_britannicus;Britannicus;;;;;;;;;;;;;x
+nick_britannica;Britannica;;;;;;;;;;;;;x
+nick_augustulus;Augustulus;;;;;;;;;;;;;x
+nick_augustula;Augustula;;;;;;;;;;;;;x
+#
+LOADING_TIP_10;An ambitious vassal of the Western Roman Empire may overthrow the emperor and proclaim himself King of Italy.;;;;;;;;;;;;;x
+LOADING_TIP_12;The recent migration of Vandals, Goths and other Germanic tribes into Roman territory means that lands in old Germania are susceptible to Slavic expansion.;;;;;;;;;;;;;x
+LOADING_TIP_16;The Prosopography of the Later Roman Empire is a collection of books with information on all known governors, senators, and other significant officials in the later Roman Empire. A nearby university library may have copies available!;;;;;;;;;;;;;x
+LOADING_TIP_17;Both the Western and Eastern Roman Emperors are usurpers with precarious grasps on their thrones.;;;;;;;;;;;;;x
+LOADING_TIP_28;Imperial and Sub-Roman governments still have a strong bureaucracy, and can dismiss most subordinates at will.;;;;;;;;;;;;;x
+LOADING_TIP_33;The Greeks of the Eastern Roman Empire may eventually re-orient themselves to the east, making it more difficult for them to hold territories in the west.;;;;;;;;;;;;;x
+LOADING_TIP_35;Britain needs a unified realm with a strong leader to fend off Anglo-Saxon incursions.;;;;;;;;;;;;;x
+LOADING_TIP_45;Keep an eye on Arabia.;;;;;;;;;;;;;x
+LOADING_TIP_47;Soissons is not powerful.;;;;;;;;;;;;;x
+LOADING_TIP_48;There's nothing wrong with a little feudalization.;;;;;;;;;;;;;x
+LOADING_TIP_54;Over generations, some isolated Romanized cultures may lose their Roman-ness.;;;;;;;;;;;;;x
+#
+ze_administration_laws_0;Warlordism;;;;;;;;;;;;;x
+ze_administration_laws_0_desc;Warlordism is a .;;;;;;;;;;;;;x
+ze_administration_laws_0_option;Warlord;;;;;;;;;;;;;x
+ze_administration_laws_1;Feudal Administration;Administration féodale;Feudale Verwaltung;;Administración Feudal;;;;;;;;;x
+ze_administration_laws_1_option;Feudal;Féodale;Feudal;;Feudal;;;;;;;;;x
+ze_administration_laws_1_desc;A feudal society is a hierarchy of landed lords, where each person in the system owes fealty to those directly above and commands those directly below. It is the way most of the medieval world works, and it means that the ruler depends greatly on the loyalty of [Player.GetHerHis] more powerful vassals.;Une société féodale est une hiérarchie de seigneurs terriens. Chaque personne dans ce système jure allégeance à celles qui se trouvent au-dessus d'elle et commande à celles qui se trouvent en dessous. C'est ainsi que la majorité du monde médiéval fonctionne. Cela signifie qu'un souverain dépend grandement de la loyauté de ses plus puissants vassaux.;Eine Feudalgesellschaft bezeichnet ein hierarchisches System von Fürsten mit Landbesitz. Jede Person hat einen Lehnsherrn, dem sie direkt unterstellt ist, sowie Lehnsmänner, die ihr direkt unterstellt sind. Der Großteil der mittelalterlichen Welt folgte diesem Prinzip. Als Konsequenz davon war der Herrscher stark von der Loyalität [Player.GetHerHis]er einflussreicheren Vasallen abhängig.;;Una sociedad feudal es una jerarquía de terratenientes en la cual cada persona del sistema debe lealtad a sus superiores y dan órdenes a los que tienen por debajo. La mayor parte del mundo medieval funciona de este modo, lo que significa que el gobernante depende, en gran medida, de la lealtad de [Player.GetHerHis] vasallos más poderosos.;;;;;;;;;x
+ze_administration_laws_2;Imperial Administration;Administration impériale;Kaiserlich-imperiale Verwaltung;;Administración Imperial;;;;;;;;;x
+ze_administration_laws_2_option;Imperial;Impériale;Imperial;;Imperial;;;;;;;;;x
+ze_administration_laws_2_desc;This system of administration is similar to that of the Roman Empire, with a hierarchy of magistrates and functionaries running daily business in the name of the emperor. It allows for a power structure that hands less power to permanently landed vassals.;Ce système est similaire à celui qui existait dans l'Empire romain : une hiérarchie de magistrats et de fonctionnaires s'occupe de la gestion au quotidien au nom de l'empereur. Ce système permet une structure puissante qui accorde moins de pouvoirs aux vassaux définitivement attachés à leur terre.;Dieses Verwaltungssystem ähnelt dem des Römischen Reiches. Eine Hierarchie von Magistraten und Funktionären erledigt die Regierungsgeschäfte im Namen des Kaisers. Dabei entsteht ein Machtgefüge, bei dem weniger Macht in die Hände der Fürsten bzw. Grundherren übergeht.;;Este sistema de administración es similar al del Imperio Romano, cuenta con una jerarquía de magistrados y funcionarios que llevan diariamente los asuntos en nombre del emperador. Esto permite crear una estructura de poder que ofrece menos poder a los vasallos que poseen tierras de forma permanente.;;;;;;;;;x

@@ -8,5 +8,12 @@ max_settlements = 5
 b_stquentin = castle
 b_laon = temple
 
-culture = galloroman
+#b_rethel = castle
+#b_crepy = city
+#b_montaigu = castle
+#b_coucy = castle
+#b_guise = castle
+#b_signy = temple
+
+culture = gallo_roman
 religion = nicene

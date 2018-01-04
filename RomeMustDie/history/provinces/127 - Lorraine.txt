@@ -5,8 +5,8 @@ title = c_lorraine
 
 # Settlements
 max_settlements = 5
-b_nancy = castle
-b_sarrebourg = city
+b_nancy = tribal
+#b_sarrebourg = city
 b_toul = temple
 
 #b_epinal = city
@@ -15,5 +15,6 @@ b_toul = temple
 #b_mortagnedevosges = castle
 #b_saintavoid = castle
 
-culture = galloroman
-religion = nicene
+# Misc
+culture = alemanni
+religion = norse_pagan

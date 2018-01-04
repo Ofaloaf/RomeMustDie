@@ -15,5 +15,6 @@ b_piedra = temple
 #b_cimballa = castle
 
 # Misc
-culture = iberoroman
-religion = nicene
+culture = hispano_roman
+religion = priscillian
+

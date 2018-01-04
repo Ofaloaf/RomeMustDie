@@ -1,0 +1,20 @@
+# 858 - Aden
+
+# County Title
+title = c_aden
+
+# Settlements
+max_settlements = 6
+b_aden = castle		# Eudaemon
+b_dhala = city		# Ocelis
+b_lahej = temple 	# Lachchere
+
+#b_alawbhali = castle
+#b_jaar = castle
+#b_alkawd = castle
+#b_almilah = castle
+#b_alarbadi = castle
+
+# Misc
+culture = bedouin_arabic
+religion = jewish

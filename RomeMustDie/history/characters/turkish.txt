@@ -1,0 +1,17 @@
+144001 = {
+	name="Tuwu"
+	# father of Buman Qaghan, first Khan of the Gokturk Khaganate
+	dynasty=12269 # Ashina
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	culture="turkish"
+	religion="tengri_pagan"
+	459.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}

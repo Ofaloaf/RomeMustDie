@@ -6,8 +6,9 @@ title = c_liege
 # Settlements
 max_settlements = 4
 
-b_bastogne = tribal
+b_namur = castle
 b_liege = temple
+#b_bastogne = city
 
 #b_huy = castle
 #b_laroche = castle

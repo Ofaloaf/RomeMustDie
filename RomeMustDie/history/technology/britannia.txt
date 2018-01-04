@@ -1,0 +1,65 @@
+# britannia romanica
+technology = {
+	titles = {
+		d_anglia
+		d_atrebatia
+		d_bernicia
+		d_cantia
+		d_catuvellaunia
+		d_coritania
+		d_cornovia
+		d_dumnonia
+		d_eboracum
+		d_glevensis
+		d_recet
+		d_trinovantia
+	}
+	
+	475 = {
+		military = 0.4
+		economy = 0.5
+		culture = 0.5
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+
+# britannia celtica
+technology = {
+	titles = {
+		d_connacht
+		d_damnonia
+		d_demetia
+		d_gallovidia
+		d_hebudes
+		d_the_isles
+		d_leinster
+		d_leudonia
+		d_meath
+		d_munster
+		d_pagensis
+		d_tava
+		d_ultonia
+		d_venedotia
+		d_verturio
+	}
+	
+	475 = {
+		military = 0.35
+		economy = 0.20
+		culture = 0.35
+		
+		TECH_LIGHT_INFANTRY = 1
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}

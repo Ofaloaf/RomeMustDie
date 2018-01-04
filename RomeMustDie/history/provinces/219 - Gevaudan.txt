@@ -16,5 +16,5 @@ b_marvejols = city
 #b_tournel = castle
 
 #Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

@@ -6,13 +6,17 @@ title = c_baden
 # Settlements
 max_settlements = 5
 b_baden = tribal
+#b_karlsruhe = city
+#b_wimpfen = temple
+#b_calw = castle
 
+b_pforzheim = temple
 #b_durlach = castle
 #b_neuhausen = castle
 #b_rastatt = city
 
 # Misc
-culture = alemannic
+culture = alemanni
 religion = norse_pagan
 
 # History

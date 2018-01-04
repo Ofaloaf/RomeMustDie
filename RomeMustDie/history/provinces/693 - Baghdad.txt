@@ -1,0 +1,27 @@
+# 693 - Baghdad / Ctesiphon
+
+# County Title
+title = c_baghdad
+
+# Settlements
+max_settlements = 7
+
+b_bagdad = castle # Ctesiphon
+b_hillah = castle # Babylon
+b_baqubah = temple # Veh-Ardashir
+b_iskandariya = city # Alexandria
+
+
+
+
+b_taji = temple #Vologesias
+
+#b_latifiya = castle
+#b_madain = castle
+#b_babel = city
+
+#Misc
+culture = persian
+religion = zoroastrian
+
+# History

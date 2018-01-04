@@ -1,4 +1,8 @@
-470.1.1 = {
+1.1.1 = {
 	liege = e_byzantium
-	holder = 410006
+	vice_royalty = yes
+}
+
+471.1.1 = {
+	holder = 410002
 }

@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = d_coloneia
+}
+471.9.1 = {
+	holder = 610072
+}

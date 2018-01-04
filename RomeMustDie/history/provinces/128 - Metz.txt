@@ -7,6 +7,7 @@ title = c_metz
 max_settlements = 4
 b_thionville = tribal
 b_metz = temple
+#b_briey = city
 
 #b_saintjulien = temple
 #b_marslatour = castle
@@ -14,5 +15,6 @@ b_metz = temple
 #b_joudreville = castle
 #b_audunleroman = castle
 
+# Misc
 culture = old_frankish
 religion = norse_pagan

@@ -15,5 +15,6 @@ b_chateauroux = city
 #b_mehun = city
 #b_vierzon = temple
 
-culture = galloroman
+#Misc
 religion = nicene
+culture = gallo_roman

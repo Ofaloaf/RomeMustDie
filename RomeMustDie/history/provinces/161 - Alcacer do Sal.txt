@@ -15,5 +15,5 @@ b_espinheiro = temple
 #b_sines = castle
 
 # Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene

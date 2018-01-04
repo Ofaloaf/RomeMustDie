@@ -16,5 +16,5 @@ b_beaujeu = city
 #b_berze = temple
 
 # Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

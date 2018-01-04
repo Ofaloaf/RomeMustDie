@@ -1,0 +1,20 @@
+# 568 - Smolensk
+
+# County Title
+title = c_smolensk
+
+# Settlements
+max_settlements = 5
+b_smolensk = tribal
+
+#b_velizh = temple
+#b_rodnya = city
+
+#b_demidov = castle
+#b_krasnoi = castle
+#b_przhevalskoye = castle
+#b_yartsevo = castle
+
+# Misc
+culture = mordvin
+religion = finnish_pagan

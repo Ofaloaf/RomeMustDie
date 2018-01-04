@@ -5,9 +5,15 @@ title = c_northumberland
 
 # Settlements
 max_settlements = 4
-b_coria = castle
+b_bamburgh = castle
+
+#b_norham = castle
+#b_morpeth = castle
+#b_hexham = castle
 b_newcastle = city
+#b_alnwick = castle
 b_lindisfarne = temple
+#b_mitford = castle
 
 # Misc
 culture = welsh

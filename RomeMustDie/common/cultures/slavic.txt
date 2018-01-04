@@ -1,0 +1,169 @@
+early_slavic = {
+	graphical_cultures = { easterngfx }
+
+	veneti = {
+		graphical_cultures = { easternslavicgfx }
+		
+		color = { 0.3 0.6 0.45 }
+
+		male_names = {
+			Buissentius Bravlin_Bravlin Borzivogius Boleslaus Blus Butue
+			Cedragus Cimusclus
+			Drogoviz Dervanus
+			Eburisus
+			Godescalcus Gaudentius
+			Jaromar Jaxa
+			Kruto
+			Lescus Lecho
+			Mistiuis Mistislaus Miliduoch
+			Nacco Nussito Nyklot
+			Premislaus Pribislaus
+			Ratibor Radim
+			Stoigniew
+			Thrasco Tunglo Tugumir
+			Udo
+			Vratislaus Vitslaus
+			Witzlaus Wago Wenceslaus
+			Zistibor
+		}
+		female_names = {
+			Agafya_Agatha Agrafena Astryda Andela
+			Biagota Berta Bohuslava Bozena Branislava
+			Drahomira Danuta
+			Ludmila
+			Magda_Magdalena Magdalena_Magdalena Malgorzata Maria_Maria Markéta Martyna Mateja Matylda_Matilda Milena Miroslava
+			Pechna
+			Róza Radomila Radomira Radoslava Raina Regelinda Rycheza
+			Strhezislava Salomea Smiechna Stanislava Svetlana
+			Václava Vladislava
+			Wera Wojslawa 
+			Zdenka Zwinislawa
+		}
+		from_dynasty_prefix = "of "
+
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 40
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	antes = {
+		graphical_cultures = { easternslavicgfx }
+		
+		color = { 0.45 0.65 0.55 }
+
+		male_names = {
+			Ardagast Abeakos Adaukt Arslanei
+			Boz Boraspos Baiormaios Banas Bolda Buiak Bezui
+			Chanakê Chodainos Chernek Chort
+			Dabragezas Dadagos Domaslav Domazhir Drozd
+			Gadas Gosôn Grechin
+			Idariz Irbis
+			Kelagast Khuddan Khoryv
+			Mezamir Musokios Megis
+			Nezhek Nesdits
+			Olgasus Orekh
+			Pirogast Putok
+			Radoslav Radok
+			Saroes Shchek Syp Sbyslav Shchuka Shuba Sobol' Stanimir
+			Tvorimir Tekh
+			Voislav Volchok
+			Zub Zhiznobud Zhiroslav Zavid Zaiats
+		}
+		female_names = {
+			Austrigusa Alde Ababa Aritê Aksiutka
+			Bozena Baia Borena Bezubaia Bezuevaia
+			Chiudka
+			Dedenia Deretka
+			Gostiata
+			Iarina
+			Kosenila Korotskovaia
+			Leimeiê Lybid
+			Mada Maiôsara Milka
+			"Nedel'ka" Negoshka Nezhka Nesoditesvaia
+			Peredeslava Putokovaia Puteshineia
+			Sarukê Storanê
+			Tamura Tirgataô Tesheia
+			Zarya
+		}
+		from_dynasty_prefix = "of "
+
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 40
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	sklaveni = {
+		graphical_cultures = { easternslavicgfx }
+		
+		color = { 0.2 0.5 0.6 }
+
+		male_names = {
+			Beloje Borna Branimir Budimir Bran Branimir
+			Chatzon
+			Drosaico Diodur Domagoj Dauritas
+			Gojnik
+			Hvalimir
+			Iljko
+			Krajina Klonimir Kosentzis Kloukas Khoryv
+			Ljudislav Ljudevit Lobelos
+			Malamir Mutimir Mouchlo 
+			Neboulo
+			Petar_Peter Prosigoj Porga
+			Perbundo
+			Strojimir Shchek
+			Trpimir
+			Uneslaf
+			Vlastimir Vojislav Vojnomir Valuk
+			Zaharija Zvonimir Zdeslav
+		}
+		female_names = {
+			Agata_Agatha
+			Branimira Bouga
+			Desislava Dubravka Dragana Dragoslava Dusica
+			Gordana Grana Grubana
+			Hicela 
+			Jelena Jagoda Jovana Jovanka
+			Keratza 
+			Lovorka Lybid
+			Medeni Meki Mudra
+			Neda Namena
+			Touga
+			Zdenka
+		}
+		from_dynasty_prefix = "of "
+
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 40
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}

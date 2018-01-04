@@ -1,0 +1,80 @@
+1919001 = {
+	name="Erc"
+	dynasty=1919001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="celtic_pagan"
+	culture="irish"
+	add_trait=ambitious
+	400.1.1 = {
+		birth=yes
+	}
+	474.1.1 = {
+		death=yes
+	}
+}
+
+1919002 = {
+	name="Fergus Mór"
+	dynasty=1919001
+	father=1919001
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	learning=6
+	religion="celtic_pagan"
+	culture="irish"
+	add_trait=ambitious
+	add_trait=honest
+	add_trait=charitable
+	add_trait=brave
+	426.1.1 = {
+		birth=yes
+	}
+	501.1.1 = {
+		death=yes
+	}
+}
+
+1919003 = {
+	name="Loarn"
+	dynasty=1919001
+	father=1919001
+	martial=5
+	diplomacy=7
+	intrigue=2
+	stewardship=7
+	learning=7
+	religion="celtic_pagan"
+	culture="irish"
+	trait=trusting
+	428.1.1 = {
+		birth=yes
+	}
+	505.1.1 = {
+		death=yes
+	}
+}
+
+1919004 = {
+	name="Oengus"
+	dynasty=1919001
+	father=1919001
+	martial=5
+	diplomacy=7
+	intrigue=2
+	stewardship=7
+	learning=7
+	religion="celtic_pagan"
+	culture="irish"
+	430.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}

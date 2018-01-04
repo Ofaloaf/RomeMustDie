@@ -1,5 +1,0 @@
-1.1.1 = {
-	#name = MAXIMA_SEQUANORUM
-	#adjective = MAXIMA_SEQUANORUM_adj
-	de_jure_liege = k_arles
-}

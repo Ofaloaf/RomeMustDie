@@ -5,9 +5,9 @@ title = c_perfeddwlad
 
 # Settlements
 max_settlements = 3
-b_rhuddlan = castle
+b_rhuddlan = tribal
 
-b_denbigh = city
+#b_denbigh = city
 b_llanelwy = temple
 #b_flint = castle
 #b_ruthin = castle
@@ -17,7 +17,7 @@ b_llanelwy = temple
 
 # Misc
 culture = welsh
-religion = druidic
+religion = celtic_pagan
 terrain = hills
 
 # History

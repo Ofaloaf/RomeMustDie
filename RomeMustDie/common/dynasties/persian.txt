@@ -1,0 +1,59 @@
+8888001 = {
+	name = Gushnasp
+	culture = persian
+	religion = zoroastrian
+}
+
+8888002 = {
+	name = Khosrow
+	culture = persian
+	religion = zoroastrian
+}
+
+8888003 = {
+	name = "Bakhsh"
+	culture = persian
+	religion = zoroastrian
+}
+
+8888004 = {
+	name = Behruwan
+	culture = persian
+	religion = zoroastrian
+}
+
+8888005 = {
+	name = Adurmah
+	culture = persian
+	religion = zoroastrian
+}
+
+8888006 = {
+	name = Buzmihr
+	culture = persian
+	religion = zoroastrian
+}
+
+8888007 = {
+	name = Khuragen
+	culture = persian
+	religion = zoroastrian
+}
+
+8888008 = {
+	name = Gavbara
+	culture = persian
+	religion = zoroastrian
+}
+
+8888009 = {
+	name = Yeztayar
+	culture = persian
+	religion = zoroastrian
+}
+
+8888010 = {
+	name = Jadhuyih
+	culture = persian
+	religion = zoroastrian
+}

@@ -1,0 +1,109 @@
+911001 = {
+	name = "Edeking"
+	culture = thuida
+}
+
+911002 = {
+	name = "Thorcilingi"
+	culture = thuida
+}
+
+911003 = {
+	name = "Skyring"
+	culture = thuida
+}
+
+911004 = {
+	name = "Bastarning"
+	culture = thuida
+}
+
+911005 = {
+	name = "Wargs"		# Wolf
+	culture = thuida
+}
+
+911006 = {
+	name = "Fauho"		# Fox
+	culture = thuida
+}
+
+911007 = {
+	name = "Hunds"		# Dog
+	culture = thuida
+}
+
+911008 = {
+	name = "Hrukjan"	# Crow
+	culture = thuida
+}
+
+911009 = {
+	name = "Hriggs"		# Ring
+	culture = thuida
+}
+
+911010 = {
+	name = "Bagms"		# Tree
+	culture = thuida
+}
+
+911011 = {
+	name = "Bairgs"		# Mountain
+	culture = thuida
+}
+
+911012 = {
+	name = "Sauljan"	# Swamp
+	culture = thuida
+}
+
+911013 = {
+	name = "Bloth"		# Blood
+	culture = thuida
+}
+
+911014 = {
+	name = "Rugius"
+	culture = thuida
+}
+
+911015 = {
+	name = "Ulmerugus" # More Rugians
+	culture = thuida
+}
+
+911016 = {
+	name = "Theuvanus"
+	culture = thuida
+}
+
+911017 = {
+	name = "Leonas"
+	culture = thuida
+}
+
+911018 = {
+	name = "Favonaus"
+	culture = thuida
+}
+
+911019 = {
+	name = "Haruder"
+	culture = thuida
+}
+
+911020 = {
+	name = "Cidna"
+	culture = thuida
+}
+
+911021 = {
+	name = Heorthasius
+	culture = thuida
+}
+
+911022 = {
+	name = Elouri
+	culture = thuida
+}

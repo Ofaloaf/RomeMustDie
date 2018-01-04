@@ -16,5 +16,5 @@ b_tyrus = temple
 #b_syrbelfort = castle
 
 # Misc
-culture = assyrian
-religion = nestorian
+culture = graeci
+religion = miaphysite

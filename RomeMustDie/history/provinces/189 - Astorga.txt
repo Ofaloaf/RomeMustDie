@@ -15,5 +15,5 @@ b_astorga = temple
 #b_toreno = castle
 
 # Misc
-culture = suebi
-religion = arian
+culture = hispano_roman
+religion = nicene

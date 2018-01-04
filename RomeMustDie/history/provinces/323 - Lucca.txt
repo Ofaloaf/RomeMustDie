@@ -18,3 +18,4 @@ b_pistoia = city
 # Misc
 culture = roman
 religion = nicene
+

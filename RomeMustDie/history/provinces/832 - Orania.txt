@@ -16,5 +16,5 @@ b_maghnia = castle
 #b_merselhadjad = castle
 
 # Misc
-culture = mauri
+culture = mauro_roman
 religion = nicene

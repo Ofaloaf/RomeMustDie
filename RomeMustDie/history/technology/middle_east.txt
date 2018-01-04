@@ -1,0 +1,71 @@
+#MIDDLE EAST
+
+technology = {
+	titles = {
+		d_adiabene
+		d_albania
+		d_asoristan
+		d_assyria
+		d_atropatene
+		d_balkh
+		d_baluchistan
+		d_characene
+		d_corduene
+		d_garamaea
+		d_herat
+		d_hira
+		d_hyrcania
+		d_kerman
+		d_khorasan
+		d_khozistan
+		d_kurdistan
+		d_mazun
+		d_media
+		d_pars
+		d_sistan
+		d_spahan
+		d_zabulistan
+	}
+
+	475 = {
+		military = 1.0
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_FORTIFICATIONS_CONSTRUCTION = 0.85
+		TECH_CASTLE_CONSTRUCTION = 0.85
+		TECH_CAVALRY = 2.0
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# Arabia Deserta
+technology = {
+	titles = {
+		d_hadramut
+		d_medina
+		d_nefoud
+		d_oman
+		d_saba
+		d_saracenia
+		d_sinai
+		d_taizz
+	}
+	
+	475 = {
+		military = 0.65
+		economy = 0.50
+		culture = 0.50
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}

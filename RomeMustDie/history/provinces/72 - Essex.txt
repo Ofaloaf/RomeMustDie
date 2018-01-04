@@ -7,8 +7,8 @@ title = c_essex
 max_settlements = 5
 b_colchester = castle
 
-b_chelmsford = city
-b_othona = temple
+#b_maldon = city
+b_waltham = temple
 #b_havering = castle
 #b_barking = castle
 #b_pleshey = castle

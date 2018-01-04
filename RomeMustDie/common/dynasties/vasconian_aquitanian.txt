@@ -1,0 +1,424 @@
+2468001 = {
+	name = "Airenosinis"
+	culture = basque
+}
+
+2468002 = {
+	name = "Aspiat"
+	culture = basque
+}
+
+2468003 = {
+	name = "Aturensis"
+	culture = basque
+}
+
+2468004 = {
+	name = "Consorannis"
+	culture = basque
+}
+
+2468005 = {
+	name = "Venarnis"
+	culture = basque
+}
+
+2468006 = {
+	name = "Bercoratis"
+	culture = basque
+}
+
+2468007 = {
+	name = "Bigerrionis"
+	culture = basque
+}
+
+2468008 = {
+	name = "Camponal"
+	culture = basque
+}
+
+2468009 = {
+	name = "Cocosatus"
+	culture = basque
+}
+
+2468010 = {
+	name = "Consoral"
+	culture = basque
+}
+
+2468011 = {
+	name = "Convenus"
+	culture = basque
+}
+
+2468012 = {
+	name = "Datius"
+	culture = basque
+}
+
+2468013 = {
+	name = "Elusatal"
+	culture = basque
+}
+
+2468014 = {
+	name = "Auscal"
+	culture = basque
+}
+
+2468015 = {
+	name = "Gatus"
+	culture = basque
+}
+
+2468016 = {
+	name = "Elural"
+	culture = basque
+}
+
+2468017 = {
+	name = "Lectoratus"
+	culture = basque
+}
+
+2468018 = {
+	name = "Monesius"
+	culture = basque
+}
+
+2468019 = {
+	name = "Onobrisatis"
+	culture = basque
+}
+
+2468020 = {
+	name = "Lassal"
+	culture = basque
+}
+
+2468021 = {
+	name = "Oscidatus"
+	culture = basque
+}
+
+2468022 = {
+	name = "Suburatus"
+	culture = basque
+}
+
+2468023 = {
+	name = "Sotiatus"
+	culture = basque
+}
+
+2468024 = {
+	name = "Succassus"
+	culture = basque
+}
+
+2468025 = {
+	name = "Tarbal"
+	culture = basque
+}
+
+2468026 = {
+	name = "Umbranicus"
+	culture = basque
+}
+
+2468027 = {
+	name = "Vasatal"
+	culture = basque
+}
+
+2468028 = {
+	name = "Vellatus"
+	culture = basque
+}
+
+2468029 = {
+	name = "Venamus"
+	culture = basque
+}
+
+2468030 = {
+	name = "Zuberoanal"
+	culture = basque
+}
+
+2468031 = {
+	name = "Antistius"
+	culture = basque
+}
+
+2468032 = {
+	name = "Odanni"
+	culture = basque
+}
+
+2468033 = {
+	name = "Belastar"
+	culture = basque
+}
+
+2468034 = {
+	name = "Andolin"
+	culture = basque
+}
+
+2468035 = {
+	name = "Latorlegui"
+	culture = basque
+}
+
+2468036 = {
+	name = "Viquentize"
+	culture = basque
+}
+
+2468037 = {
+	name = "Bitacoz"
+	culture = basque
+}
+
+2468038 = {
+	name = "Ecte"
+	culture = basque
+}
+
+2468039 = {
+	name = "Acenare"
+	culture = basque
+}
+
+2468040 = {
+	name = "Hoco"
+	culture = basque
+}
+
+2468041 = {
+	name = "Anaat"
+	culture = basque
+}
+
+2468042 = {
+	name = "Aperrit"
+	culture = basque
+}
+
+2468043 = {
+	name = "Echeverri"
+	culture = basque
+}
+
+2468044 = {
+	name = "Dolquiti"
+	culture = basque
+}
+
+2468045 = {
+	name = "Txomin"
+	culture = basque
+}
+
+2468046 = {
+	name = "Garro"
+	culture = basque
+}
+
+2468047 = {
+	name = "Goldaraz"
+	culture = basque
+}
+
+2468048 = {
+	name = "Enecones"
+	culture = basque
+}
+
+2468049 = {
+	name = "Etxatxu"
+	culture = basque
+}
+
+2468050 = {
+	name = "Uassoco"
+	culture = basque
+}
+
+2468051 = {
+	name = "Fortungones"
+	culture = basque
+}
+
+2468052 = {
+	name = "Garbisxi"
+	culture = basque
+}
+
+2468053 = {
+	name = "Zurie"
+	culture = basque
+}
+
+2468054 = {
+	name = "Garseanis"
+	culture = basque
+}
+
+2468055 = {
+	name = "Aitzol"
+	culture = basque
+}
+
+2468056 = {
+	name = "Polit"
+	culture = basque
+}
+
+2468057 = {
+	name = "Guenduliz"
+	culture = basque
+}
+
+2468058 = {
+	name = "Sugabarra"
+	culture = basque
+}
+
+2468059 = {
+	name = "Barrenco"
+	culture = basque
+}
+
+2468060 = {
+	name = "Ulaquide"
+	culture = basque
+}
+
+2468061 = {
+	name = "Enneci"
+	culture = basque
+}
+
+2468062 = {
+	name = "Xoanexco"
+	culture = basque
+}
+
+2468063 = {
+	name = "Munione"
+	culture = basque
+}
+
+2468064 = {
+	name = "Goyena"
+	culture = basque
+}
+
+2468065 = {
+	name = "Miliane"
+	culture = basque
+}
+
+2468066 = {
+	name = "Nabar"
+	culture = basque
+}
+
+2468067 = {
+	name = "Nequege"
+	culture = basque
+}
+
+2468068 = {
+	name = "Tauar"
+	culture = basque
+}
+
+2468069 = {
+	name = "Munneoni"
+	culture = basque
+}
+
+2468070 = {
+	name = "Miotaco"
+	culture = basque
+}
+
+2468071 = {
+	name = "Oggando"
+	culture = basque
+}
+
+2468072 = {
+	name = "Garvixi"
+	culture = basque
+}
+
+2468073 = {
+	name = "Gascueco"
+	culture = basque
+}
+
+2468074 = {
+	name = "Sanccionis"
+	culture = basque
+}
+
+2468075 = {
+	name = "Aruego"
+	culture = basque
+}
+
+2468076 = {
+	name = "Cecondi"
+	culture = basque
+}
+
+2468077 = {
+	name = "Iturrico"
+	culture = basque
+}
+
+2468078 = {
+	name = "Vazterreco"
+	culture = basque
+}
+
+2468079 = {
+	name = "Arauidio"
+	culture = basque
+}
+
+2468080 = {
+	name = "Bicuondoco"
+	culture = basque
+}
+
+2468081 = {
+	name = "Elarr"
+	culture = basque
+}
+
+2468082 = {
+	name = "Sagar"
+	culture = basque
+}
+
+2468083 = {
+	name = "Fruyto"
+	culture = basque
+}
+
+2468084 = {
+	name = "Coscote"
+	culture = basque
+}
+
+2468085 = {
+	name = "Musugorri"
+	culture = basque
+}

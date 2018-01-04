@@ -17,5 +17,5 @@ b_kula = city
 #b_kucevo = castle
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene

@@ -1,6 +1,0 @@
-409.1.1 = {
-	liege = "k_spanish_galicia"
-}
-469.1.1 = {
- 	holder = 409001
-}

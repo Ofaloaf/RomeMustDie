@@ -7,7 +7,7 @@ title = c_ouled_nail
 max_settlements = 3
 
 b_tubirett = castle
-b_msila = city
+#b_msila = city
 b_sidiheg = temple
 
 #b_roumana = castle
@@ -17,5 +17,5 @@ b_sidiheg = temple
 #b_beneldir = castle
 
 # Misc
-culture = maghreb_arabic
+culture = moor
 religion = donatist

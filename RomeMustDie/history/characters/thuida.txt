@@ -1,0 +1,234 @@
+1871001 = {
+	name="Odoaker"
+	dynasty=911001 
+	father=1871002
+	mother=1871003
+	martial=10
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	learning=5
+	culture="thuida"
+	religion="arian"
+	trait="ambitious"
+	trait="greedy"
+	trait="brave"
+	trait="strong"
+	trait="skilled_tactician"
+	433.1.1={
+		birth=yes
+	}
+	493.1.1={
+		death=yes
+	}
+}
+
+1871002 = {
+	name="Edeko"
+	dynasty=911001 
+	culture="thuida"
+	religion="arian"
+	409.1.1={
+		birth=yes
+	}
+	428.1.1={
+		add_spouse=1871003
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+1871003 = {
+	name="Edeca"
+	female = yes
+	culture="thuida"
+	religion="arian"
+	409.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+1871004 = {
+	name="Onoulf"
+	dynasty=911001 
+	father=1871002
+	mother=1871003
+	martial=9
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	culture="thuida"
+	religion="arian"
+	trait="trusting"
+	trait="honest"
+	trait="brave"
+	trait="tough_soldier"
+	435.1.1={
+		birth=yes
+	}
+	493.1.1={
+		death=yes
+	}
+}
+
+1871005 = {
+	name="Flaccitheus"
+	dynasty=911014
+	martial=8
+	diplomacy=9
+	intrigue=7
+	stewardship=7
+	learning=9
+	culture="thuida"
+	religion="arian"
+	trait="kind"
+	trait="cynical"
+	421.1.2={
+		birth=yes
+	}
+	475.10.5={
+		death=yes
+	}
+}
+
+1871006 = {
+	name="Feletheus"
+	dynasty=911014
+	father=1871005
+	martial=5
+	diplomacy=8
+	intrigue=11
+	stewardship=7
+	learning=9
+	culture="thuida"
+	religion="arian"
+	trait="paranoid"
+	trait="cynical"
+	trait="kind"
+	trait="erudite"
+	trait="charismatic_negotiator"
+	443.8.8={
+		birth=yes
+	}
+	464.1.1={
+		add_spouse=1871008
+	}
+	487.1.1={
+		death=yes
+	}
+}
+
+1871007 = {
+	name="Ferderuchus"
+	dynasty=911014
+	father=1871005
+	martial=6
+	diplomacy=9
+	intrigue=9
+	stewardship=7
+	learning=7
+	culture="thuida"
+	religion="arian"
+	trait="deceitful"
+	trait="zealous"
+	trait="flamboyant_schemer"
+	445.6.9={
+		birth=yes
+	}
+	487.1.1={
+		death=yes
+	}
+}
+
+1871008 = {
+	name="Gisa"
+	female = yes
+	culture="ostrogothi"
+	religion="arian"
+	443.7.18={
+		birth=yes
+	}
+	487.1.1={
+		death=yes
+	}
+}
+
+1871009 = {
+	name="Sindila"
+	dynasty=911020
+	martial=9
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	learning=6
+	culture="thuida"
+	religion="arian"
+	trait="honest"
+	trait="misguided_warrior"
+	444.5.5={
+		birth=yes
+	}
+	493.1.1={
+		death=yes
+	}
+}
+
+1871010 = {
+	name="Rodulfus"
+	dynasty=911022
+	martial=8
+	diplomacy=12
+	intrigue=7
+	stewardship=8
+	learning=5
+	culture="thuida"
+	religion="norse_pagan"
+	trait="charismatic_negotiator"
+	431.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1871011 = {
+	name="Hunulfus"
+	dynasty=911003
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	learning=6
+	culture="thuida"
+	religion="norse_pagan"
+	trait="misguided_warrior"
+	428.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1871012 = {
+	name="Hagano"
+	dynasty=911015 # Holmrygiz, Rugian
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="thuida"
+	religion="norse_pagan"
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

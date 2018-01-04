@@ -6,6 +6,7 @@ title = c_st_gallen
 # Settlements
 max_settlements = 4
 b_rheineck = tribal
+#b_appenzell = city
 b_stgallen = temple
 
 #b_frauenfeld = city
@@ -15,7 +16,8 @@ b_stgallen = temple
 #b_herisau = castle
 
 # Misc
-culture = alemannic
+culture = alemanni
 religion = norse_pagan
 
 # History
+

@@ -1,0 +1,4 @@
+470.1.1 = {
+	set_tribute_suzerain = { who = k_albion percentage = 0.25 }
+	holder = 1707007
+}

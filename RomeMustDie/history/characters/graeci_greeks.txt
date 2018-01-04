@@ -1,0 +1,1618 @@
+610001 = {
+	name="Armatus"
+	#
+	dynasty=610023
+	culture=graeci
+	religion=miaphysite
+	trait="fair"
+	trait="strong"
+	trait="proud"
+	trait="envious"
+	445.1.1={
+		birth=yes
+	}
+	477.1.1={
+		death=yes
+	}
+}
+
+610002 = {
+	name="Basiliscus"
+	father=610001
+	dynasty=610023
+	culture=graeci
+	religion=miaphysite
+	470.1.1={
+		birth=yes
+	}
+	540.1.1={
+		death=yes
+	}
+}
+
+610003 = {
+	name="Doricus"
+	dynasty=492041
+	culture=graeci
+	religion=nicene
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610004 = {
+	name="Dionysius"
+	dynasty=610007
+	culture=graeci
+	religion=nicene
+	trait="fair"
+	trait="strong"
+	trait="proud"
+	trait="envious"
+	441.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610005 = {
+	name="Julianus"
+	dynasty=610010
+	culture=graeci
+	religion=nicene
+	443.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610006 = {
+	name="Hiero"
+	dynasty=610011
+	culture=graeci
+	religion=nicene
+	434.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610007 = {
+	name="Iohannes"
+	# consul 467, fl. 467-479, family from Lychnidus
+	dynasty=610020
+	culture=graeci
+	religion=nicene
+	trait=just
+	trait=craven
+	438.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes # Died at the age of 42.
+	}
+}
+
+610008 = {
+	name="Vivianus"
+	# fl. 459-463
+	dynasty=610020
+	culture=graeci
+	religion=nicene
+	trait=charitable
+	420.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+610009 = {
+	name="Adamantius"
+	# fl. 459-463
+	dynasty=610020
+	culture=graeci
+	religion=nicene
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	learning=6
+	trait=brave
+	trait=naive_appeaser
+	father=610008
+	450.1.1={
+		birth=yes
+	}
+	510.1.1={
+		death=yes
+	}
+}
+
+610010 = {
+	name="Paulus"
+	# Consul in 512
+	dynasty=610020
+	culture=graeci
+	religion=nicene
+	trait=greedy
+	trait=zealous
+	father=610008
+	465.1.1={
+		birth=yes
+	}
+	525.1.1={
+		death=yes
+	}
+}
+
+610011 = {
+	name="Stephanus"
+	dynasty=610022
+	culture=graeci
+	religion=nicene
+	trait=martial_cleric
+	trait=scholar
+	441.1.1={
+		birth=yes
+	}
+	510.1.1={
+		death=yes
+	}
+}
+
+610012 = {
+	name="Anthemius"
+	dynasty=610022
+	culture=graeci
+	religion=nicene
+	trait=midas_touched
+	trait=architect
+	474.1.1={
+		birth=yes
+	}
+	557.1.1={
+		death=yes
+	}
+}
+
+610013 = {
+	name="Basiliscus"
+	dynasty=610023
+	culture=graeci
+	religion=miaphysite
+	martial=7
+	diplomacy=3
+	intrigue=5
+	stewardship=6
+	learning=3
+	trait=ambitious
+	trait=envious
+	trait=greedy
+	trait=zealous
+	trait=proud
+	trait=trusting
+	trait=schemer
+	trait=misguided_warrior
+	434.1.1={
+		birth=yes
+	}
+	477.1.1={
+		death=yes
+	}
+}
+
+610014 = {
+	name="Andreas"
+	#Andreas 8	?PPO Illyrici V/VI (?E VI)
+	dynasty=610024
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	add_trait="strong"
+	add_trait="cruel"
+	437.1.1={
+		birth=yes
+	}
+	520.12.10={
+		death=yes
+	}
+}
+
+610015 = {
+	name="Theagenes"
+	dynasty=610025
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="hellenic_pagan"
+	culture="graeci"
+	add_trait="charitable"
+	add_trait="wroth"
+	add_trait="fortune_builder"
+	425.1.2={
+		birth=yes
+	}
+	447.1.1={
+		add_spouse=610016
+	}
+	485.1.1={
+		death=yes
+	}
+}
+
+610016 = {
+	name="Asclepideneia"
+	female=yes
+	martial=3
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="hellenic_pagan"
+	culture="graeci"
+	431.1.2={
+		birth="431.1.2"
+	}
+	490.1.1={
+		death="490.1.1"
+	}
+}
+
+610017 = {
+	name="Hegias"
+	dynasty=610025
+	father=610015
+	mother=610016
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=5
+	religion="hellenic_pagan"
+	culture="graeci"
+	add_trait="zealous"
+	add_trait="charitable"
+	add_trait="mystic"
+	add_trait="gregarious"
+	449.1.2={
+		birth="449.1.2"
+	}
+	532.1.1={
+		death="532.1.1"
+	}
+}
+
+610018 = {
+	name="Rhodopaeus"
+	dynasty=610026 #Fictional dynasty, real guy
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="nicene"
+	culture="graeci"
+	add_trait="charitable"
+	439.1.2={
+		birth="439.1.2"
+	}
+	510.1.2={
+		death="510.1.2"
+	}
+}
+
+610019 = {
+	name="Harmonius"
+	# attested bishop of Lampsacus/Lampsakos, in what's Abydos County in-game, in AD 458
+	dynasty=610027
+	culture=graeci
+	religion=nicene
+	trait="zealous"
+	trait="scholarly_theologian"
+	423.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes
+	}
+}
+
+610020 = {
+	name = "Philippus"
+	# ATT(IVS) PHILIPPVS 8	v.c., com. ord. pr., governor (consularis) of Pamphylia	?V
+	dynasty=610028
+	culture=graeci
+	religion=nicene
+	441.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610021 = {
+	name = "Strategius"
+	# Governor of Pisidia IV/VI; PLRE I.
+	dynasty=610032
+	culture = graeci
+	religion=nicene
+	430.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+610022 = {
+	name = "Theophilus"
+	# THEOPHILVS 6 consularis Bithyniae 467
+	dynasty=610033
+	culture = graeci
+	religion=nicene
+	trait=zealous
+	trait=patient
+	428.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+610023 = {
+	name = "Kodisa"
+	dynasty=610034
+	culture = graeci
+	religion=nicene
+	390.1.1 = {
+		birth=yes
+	}
+	440.1.1 = {
+		death=yes
+	}
+}
+
+610024 = {
+	name="Strategius"
+	# Strategius 1 in the PLRE
+	dynasty=610004
+	culture=graeci
+	religion=nicene
+	martial=6
+	diplomacy=3
+	intrigue=6
+	stewardship=6
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610025 = {
+	name = "Arcadia"
+	female=yes
+	culture = graeci
+	religion=nicene
+	425.1.1 = {
+		birth=yes
+	}
+	465.1.1 = {
+		death=yes
+	}
+}
+
+610026 = {
+	name="Zenophanes"
+	# Fl. Patricius Claudius Zenophanes 1
+	dynasty=610060
+	culture=graeci
+	religion=nicene
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	433.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610027 = {
+	name = "Theodorus"
+	# Theodorus 47
+	dynasty=610035
+	culture = graeci
+	religion = nicene
+	trait=diligent
+	trait=charitable
+	443.2.1 = {
+		birth = yes
+	}
+	500.1.1 = {
+		death = yes
+	}
+}
+
+610028 = {
+	name = "Euetheius"
+	# Euethius 3
+	dynasty=610036
+	culture = graeci
+	religion = nicene
+	441.1.1 = {
+		birth = yes
+	}
+	464.1.1 = {
+		add_spouse=610029
+	}
+	500.1.1 = {
+		death = yes
+	}
+}
+
+610029 = {
+	name = "Theodora"
+	# Theodora 5
+	female=yes
+	culture = graeci
+	religion = nicene
+	442.1.1 = {
+		birth = yes
+	}
+	500.1.1 = {
+		death = yes
+	}
+}
+
+610030 = {
+	name = "Epinicius"
+	# Epinicius ??? I'm reading this part from preview view in Google Books
+	dynasty=610037
+	culture = graeci
+	religion = nicene
+	441.1.1 = {
+		birth = yes
+	}
+	500.1.1 = {
+		death = yes
+	}
+}
+
+610031 = {
+	name = "Alexander"
+	# 
+	dynasty=610038
+	culture = graeci
+	religion = nicene
+	431.1.1 = {
+		birth = yes
+	}
+	500.1.1 = {
+		death = yes
+	}
+}
+
+610032 = {
+	name="Aurelius Hermogenes"
+	dynasty=753141
+	culture=graeci
+	religion=hellenic_pagan
+	250.1.1={
+		birth=yes
+	}
+	272.1.1={
+		add_spouse = 476045
+	}
+	300.1.1={
+		death=yes
+	}
+}
+
+610033 = {
+	name="Gelasius"
+	dynasty=610039
+	culture=graeci
+	religion=nicene
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=9
+	learning=8
+	trait=humble
+	trait=naive_appeaser
+	440.1.1={
+		birth=yes
+	}
+	520.1.1={
+		death=yes
+	}
+}
+
+610034 = {
+	name="Sabinianus"
+	# Sabinianus Magnus 4
+	dynasty=610042
+	culture=graeci
+	religion=nicene
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	learning=6
+	trait=brave
+	trait=proud
+	trait=zealous
+	trait=wroth
+	trait=skilled_tactician
+	437.1.1={
+		birth=yes
+	}
+	481.1.1={
+		death=yes # screaming "MY ONLY REGRET IS THAT I, THE GUARDIAN OF ROMANITAS, COULD NOT KILL MORE BARBARIANS AHHHHHHHH-"
+	}
+}
+
+610035 = {
+	name="Sabinianus"
+	# Sabinianus 5
+	dynasty=610042
+	father = 610034
+	culture=graeci
+	religion=nicene
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	learning=6
+	trait=brave
+	trait=proud
+	trait=misguided_warrior
+	462.1.1={
+		birth=yes
+	}
+	510.1.1={
+		death=yes
+	}
+}
+
+610036 = {
+	name="Miltiades"
+	# fictional
+	dynasty=610043
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning = 6
+	religion=nicene
+	culture=graeci
+	add_trait="charitable"
+	add_trait="chaste"
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610037 = {
+	name="Basilius"
+	# BASILIVS MACEDONIVS 8, aka Basilianus Macedonius 8. Probably belongs to an earlier period, but he's the /only/ attested governor of Rhodope I know of that was even in the 5th century at all.
+	dynasty=610024
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning = 6
+	health = 8
+	religion=nicene
+	culture=graeci
+	add_trait="lustful"
+	add_trait="strong"
+	429.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610038 = {
+	name="Ioannes"
+	# fictional
+	dynasty=610045
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	learning = 7
+	religion=nicene
+	culture=graeci
+	add_trait="fortune_builder"
+	441.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610039 = {
+	name="Nicagoras"
+	# Eponymous Archon of Athens from 484 to 485
+	dynasty=610046
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	learning = 9
+	religion=nicene
+	culture=graeci
+	add_trait=scholar
+	add_trait=genius
+	add_trait=chaste
+	add_trait=craven
+	add_trait="fortune_builder"
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610040 = {
+	name="Diogenes"
+	# Diogenes 5
+	dynasty=610044
+	martial=7
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	learning = 7
+	religion=nicene
+	culture=graeci
+	add_trait=shy
+	add_trait=charitable
+	add_trait="misguided_warrior"
+	437.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610041 = {
+	name="Andreas"
+	# Andreas 4
+	dynasty=610047
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	learning = 4
+	religion=nicene
+	culture=graeci
+	add_trait=strong
+	add_trait=just
+	add_trait=trusting
+	add_trait=zealous
+	add_trait=naive_appeaser
+	437.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610042 = {
+	name="Paulus"
+	# combining Paulus 13 and Ianuarius 6 into A SUPER PATRICIAN
+	dynasty=610048
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning = 5
+	religion=nicene
+	culture=graeci
+	add_trait=architect
+	add_trait=just
+	add_trait=charitable
+	add_trait=wrothful
+	add_trait=thrifty_clerk
+	443.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610043 = {
+	name="Moschianus"
+	# Moschianus 1
+	dynasty=610049
+	martial=4
+	diplomacy=3
+	intrigue=5
+	stewardship=5
+	learning = 6
+	religion=nicene
+	culture=graeci
+	add_trait=trusting
+	add_trait=gluttonous
+	add_trait=lustful
+	add_trait=naive_appeaser
+	436.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610044 = {
+	name="Antigonianus"
+	# fictional
+	dynasty=610050
+	martial=8
+	diplomacy=3
+	intrigue=5
+	stewardship=5
+	learning = 5
+	religion=nicene
+	culture=graeci
+	add_trait=proud
+	add_trait=wrothful
+	add_trait=tough_soldier
+	448.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610045 = {
+	name="Aeacides"
+	# fictional
+	dynasty=610052
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	learning = 6
+	religion=nicene
+	culture=graeci
+	add_trait=brave
+	add_trait=cruel
+	add_trait=greedy
+	add_trait=misguided_warrior
+	440.3.19={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610046 = {
+	name="Anastasius"
+	# Anastasius 5, historically praeses of Osroene twenty years later, in 496-497
+	dynasty=610053
+	martial=3
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	learning = 6
+	religion=nicene
+	culture=graeci
+	add_trait=gluttonous
+	add_trait=indulgent_wastrel
+	441.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610047 = {
+	name="Aphthonius"
+	# Aphthonius 4, comes and native of Zeugma
+	dynasty=2424001
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	learning = 7
+	religion=nicene
+	culture=graeci
+	add_trait=poet # actually subject of a poem but whatever
+	add_trait=charismatic_negotiator
+	430.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610048 = {
+	name="Timostratus"
+	# Timostratus
+	dynasty=610033 # making shit up
+	martial=8
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	learning = 5
+	religion=nicene
+	culture=graeci
+	add_trait=humble
+	add_trait=paranoid
+	add_trait=diligent
+	add_trait=skilled_tactician
+	452.1.1={
+		birth=yes
+	}
+	525.1.1={
+		death=yes
+	}
+}
+
+610049 = {
+	name="Polycarpus"
+	# PPO Orientis in 498
+	dynasty=610054 # making shit up
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	learning = 8
+	religion=nicene
+	culture=graeci
+	add_trait=temperate
+	add_trait=scholar
+	add_trait=thrifty_clerk
+	452.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610050 = {
+	name="Macedonius"
+	# Macedonius 6
+	dynasty=610055 # making shit up
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=8
+	learning = 6
+	religion=nicene
+	culture=graeci
+	add_trait=content
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610051 = {
+	name="Alexander"
+	# Fl. Arcadius Alexander 20
+	dynasty=753150
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=8
+	learning = 6
+	religion=nicene
+	culture=graeci
+	add_trait=content
+	441.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610052 = {
+	name="Hilarion"
+	# HILARION in the PLRE
+	dynasty=610041
+	martial=3
+	diplomacy=5
+	intrigue=2
+	stewardship=8
+	learning = 8
+	religion=nicene
+	culture=graeci
+	add_trait=diligent
+	add_trait=architect
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610053 = {
+	name="Antiochus"
+	# fictional
+	dynasty=753151
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	learning = 6
+	religion=nicene
+	culture=graeci
+	trait=cruel
+	trait=zealous
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+
+610054 = {
+	name="Codissa"
+	# also Codisa, Kodisa
+	dynasty=610056
+	religion=nicene
+	culture=graeci
+	400.1.1={
+		birth=yes
+	}
+	421.1.1 = {
+		add_spouse = 610055
+	}
+	466.1.1={
+		death=yes
+	}
+}
+
+610055 = {
+	name="Lallis"
+	female = yes
+	religion=nicene
+	culture=graeci
+	401.1.1={
+		birth=yes
+	}
+	491.1.1={
+		death=yes
+	}
+}
+
+610056 = {
+	name="Zeno"
+	dynasty=610056
+	father=610054
+	mother=610055
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	learning = 6
+	religion=nicene
+	culture=graeci
+	trait=cynical
+	trait=brave
+	trait=paranoid
+	trait=skilled_tactician
+	425.1.1={
+		birth=yes
+	}
+	446.1.1 = {
+		add_spouse = 610058 # Arcadia
+	}
+	475.1.10 = {
+		add_claim = e_byzantium
+	}
+	467.1.1 = {
+		add_spouse = 610060 # Ariadne
+	}
+	491.4.9={
+		death=yes
+	}
+}
+
+610057 = {
+	name="Longinus"
+	dynasty=610056
+	father=610054
+	mother=610055
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	learning = 6
+	religion=nicene
+	culture=graeci
+	trait=charitable
+	430.1.1={
+		birth=yes
+	}
+	498.1.1={
+		death=yes
+	}
+}
+
+610058 = {
+	name="Arcadia"
+	female = yes
+	religion=nicene
+	culture=graeci
+	425.1.1={
+		birth=yes
+	}
+	465.1.1={
+		death=yes
+	}
+}
+
+610059 = {
+	name="Zeno"
+	dynasty=610056
+	father=610056
+	mother=610058
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning = 6
+	religion=nicene
+	culture=graeci
+	449.1.1={
+		birth=yes
+	}
+	491.4.9={
+		death=yes
+	}
+}
+
+610060 = {
+	name="Ariadne"
+	female=yes
+	dynasty=610023
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning = 6
+	religion=nicene
+	culture=graeci
+	449.1.1={
+		birth=yes
+	}
+	515.1.1={
+		death=yes
+	}
+}
+
+610061 = {
+	name="Leo"
+	dynasty=610056
+	father=610056
+	mother=610060
+	religion=nicene
+	culture=graeci
+	467.9.1={
+		birth=yes
+	}
+	474.11.17={
+		death=yes
+	}
+}
+
+610062 = {
+	name="Laurentius"
+	# Laurentius 5
+	dynasty=610016
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning = 6
+	religion=miaphysite
+	culture=graeci
+	trait=diligent
+	trait=just
+	432.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610063 = {
+	name="Sebastianus"
+	# Sebastianus 5
+	dynasty=610013
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning = 6
+	religion=nicene
+	culture=graeci
+	trait=greedy
+	trait=thrifty_clerk
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610064 = {
+	name="Quadratus"
+	# conflating Quadratus with Thalasius 2 in the PLRE, and making them appear early
+	dynasty=610079
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning = 6
+	religion=nicene
+	culture=graeci
+	442.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+} 
+
+
+610065 = {
+	name="Ioannes"
+	# fictional
+	dynasty=610063
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	learning = 6
+	religion=nicene
+	culture=graeci
+	439.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610066 = {
+	name="Epinicus"
+	# Epinicus in the PLRE
+	dynasty=610062
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	learning = 6
+	religion=nicene
+	culture=graeci
+	trait=greedy
+	trait=gluttonous
+	trait=arbitrary
+	trait=envious
+	trait=proud
+	trait=indulgent_wastrel
+	429.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610067 = {
+	name="Theophilus"
+	# Theophilus 6 in the PLRE
+	dynasty=610061
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning = 6
+	religion=nicene
+	culture=graeci
+	439.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610068 = {
+	name="Theophilus"
+	# Fl. Axius Arcadius Phlegethius 2 in the PLRE. Probably a little earlier than historical.
+	dynasty=610064
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610069 = {
+	name="Firminus"
+	# fictional
+	dynasty=610065
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	442.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610070 = {
+	name="Leo"
+	# fictional
+	dynasty=610072
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	444.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610071 = {
+	name="Paulus"
+	# fictional
+	dynasty=610071
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion=nicene
+	culture=graeci
+	trait=zealous
+	431.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610072 = {
+	name="Pasinicus"
+	# Pasinicus in the PLRE, actually governor of Armenia in 491
+	dynasty=610068
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610073 = {
+	name="Eugenius"
+	# EVGENIVS 6 in the PLRE. 'Dux Melitene' in 502. I'm being generous with dates, if you haven't noticed.
+	dynasty=610066
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	trait=tough_soldier
+	450.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610074 = {
+	name="Ioannes"
+	# basically fictional. The PLRE notes that Ioannes 83 was buried in Sinope in Helenopontus, but says nothing about him being a governor.
+	dynasty=610066
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	trait=tough_soldier
+	450.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610075 = {
+	name="Heraclius"
+	# basically fictional. There was a Heraclianus 1 who was governor of Paphlagonia waaay back in 395, and I'm just using that as a springboard for making this dude up.
+	dynasty=610076
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	trait=honest
+	446.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610076 = {
+	name="Timotheus"
+	# fictional
+	dynasty=610075
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	trait=cruel
+	439.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610077 = {
+	name="Athanasius"
+	# fictional
+	dynasty=610074
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	trait=trusting
+	430.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610078 = {
+	name="Ioannes"
+	# Apio Theodosius Ioannes 100 in the PLRE
+	dynasty=610077
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610079 = {
+	name="Alexander"
+	# Fl. Alexander 23
+	dynasty=610078
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	trait=honest
+	trait=tough_soldier
+	422.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610080 = {
+	name="Hieronymus"
+	# fictional
+	dynasty=610069
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	429.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610081 = {
+	name="Archelaus"
+	# Archelaus 4
+	dynasty=610080
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	427.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610082 = {
+	name="Petrus"
+	# fictional
+	dynasty=610070
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610083 = {
+	name="Leontius"
+	# fictional
+	dynasty=610067
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610084 = {
+	name="Valerius"
+	# Fl. Antiochus Ammianus Valerius 8
+	dynasty=610081
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610085 = {
+	name="Martinus"
+	# fictional and definitely not based on anyone who did a LP about Crete
+	dynasty=610082
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=norse
+	trait=ambitious
+	445.1.1={
+		birth=yes
+		culture = graeci
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+610086 = {
+	name="Marcus"
+	# definitely fictional
+	dynasty=610083
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=nicene
+	culture=graeci
+	trait=erudite
+	448.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

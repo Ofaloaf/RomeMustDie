@@ -5,9 +5,9 @@ title = c_palermo
 
 # Settlements
 max_settlements = 6
-b_monreale = castle
+b_palermo = castle
+b_monreale = city
 b_cefalu = temple #Cefalù
-b_palermo = city
 b_gratteri = castle
 
 #b_caltavuturo = castle

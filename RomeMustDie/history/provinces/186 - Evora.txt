@@ -15,5 +15,6 @@ b_avis = temple
 #b_ouguela = castle
 
 # Misc
-culture = iberoroman
-religion = nicene
+culture = hispano_roman
+religion = priscillian
+

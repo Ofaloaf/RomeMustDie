@@ -1,0 +1,458 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+
+# Culture-specific opinion can be added to modifiers (E.G., norse_opinion = 5), but the modifier *has* to be defined in 00_modifier_definitions.txt as well. It also needs localisation. Works for groups as well
+
+# Culture modifiers: modifier (applies to provinces), character_modifier, and settlement modifiers.
+# The ID of the modifier can be defined here (E.G., modifier = modifier_name or character_modifier = modifier_name), while the effect of it must be defined in static_modifiers.txt, and the localisation in localisation. For the settlement modifiers you don't need to (and can't) define the ID; it defaults to culture name + settlement type. E.G., norse_temple
+
+roman_group = {
+	graphical_cultures = { easterngfx }
+
+	roman = {
+		graphical_cultures = { byzantinegfx occitangfx }
+		
+		color = { 0.8 0.7 0.2 }
+
+		male_names = {
+			Alexander_Alexander Ausanus Ambrosius_Ambrosius Antoninus_Antoninus Aurelianus_Aurelianus Aurelius_Aurelius Agapitus_Agapitus Agnellus_Agnellus Augustinus_Augustinus Agricola_Agricola Arcadius_Arcadius Andreas_Andreas Aulus
+			Benignus Benedictus_Benedictus Bonus_Bonus Boethius_Boethius
+			Constantinus_Constantinus Constans_Constans Calimerus Castricianus Caius_Gaius Calocerus_Calocerus Cassiodorus_Cassiodorus Callinicus Claudius_Claudius Cornelius_Cornelius Crescentius_Crescentius Conon_Conon Cosmas_Cosmas Clemens_Clemens Caecilius_Caecilius
+			Dacius Decimus Dionysius_Dionysius Datus_Datus David_David Deodatus_Deodatus Demetrius_Demetrius Daniel_Daniel Domitianus_Domitianus Domitius_Domitius
+			Epiphanius_Epiphanius Eustorgius_Eustorgius Eusebius_Eusebius Eleucadius Ecclesius Exuperantius Eleutherius_Eleutherius Eutychius_Eutychius
+			Florentius_Florentius Felix_Felix Faustus_Faustus Fortunatus_Fortunatus
+			Gerontius_Gerontius Gregorius_Gregorius Georgius_Georgius Glycerius_Glycerius Gaius_Gaius Gnaeus_Gnaeus Gratianus_Gratianus Gratiosus_Gratiosus Germanus_Germanus
+			Honorius_Honorius Honoratus_Honoratus Hadrianus_Hadrianus
+			Innocentius_Innocentius Ioannes_John
+			Julius_Julius Julianus_Julianus Justus_Justus Justinus_Justinus
+			Lazarus_Lazarus Laurentius_Laurentius Lucas_Lucas Liberius_Liberius Longinus_Longinus Lucius_Lucius Lucianus_Lucianus
+			Mirocles Martinus_Martinus Marolus Marius_Marius Martinianus Magnus_Magnus Marcus_Marcus Maternus_Maternus Maurilius Marcianus Maximianus_Maximianus Maximus_Maximus Marinianus Maurus_Maurus Mauritius_Mauritius Marcellinus_Marcellinus Michael_Michael
+			Natalis Nicomachus_Nicomachus Nicodemus_Nicodemus Nicolaus_Nicolaus
+			Olympius_Olympius Octavianus_Octavianus
+			Petrus_Petrus Paulus_Paulus Probus_Probus Proculus_Proculus Procopius_Procopius Postumus_Postumus
+			Romaeus_Romaeus Romulus_Romulus Reparatus_Reparatus Romanus_Romanus Rusticus_Rusticus
+			Senator_Senator Stephanus_Stephanus Simplicianus Severus_Severus Severinus_Severinus Sergius_Sergius Symmachus_Symmachus Silvanus_Silvanus Sextus_Sixtus Sylvius_Sylvius
+			Theodorus_Theodorus Theodosius_Theodosius Theophylactus_Theophylactus Tiberius_Tiberius Titus_Titus Thomas_Thomas Theophilus_Theophilus Trajanus_Trajanus
+			Ursus_Ursus Ursicinus_Ursicinus
+			Vitalis_Vitalis Venerius Victor_Victor Valerius_Valerius Valentinianus_Valentinianus Valens_Valens Valentinus_Valentinus
+			Zenobius_Zeno
+		}
+		female_names = {
+			Albia Alba Aemilia_Aemilia Augusta_Augusta Agrippina_Agrippina Aurelia_Aurelia Avita_Avita Aelia_Aelia Anna_Anna
+			Cornelia_Cornelia Claudia_Claudia Clodia Constantina_Constantina
+			Domitia_Domitia Domna_Domna Dionysia_Dionysia
+			Eudoxia_Eudoxia Eugenia_Eugenia Eulalia_Eulalia
+			Fabia_Fabia
+			Galla_Galla
+			Honoria_Honoria Helena_Helena
+			Iohanna_Johanna Justina_Justina
+			Licinia_Licinia Lucilla_Lucilla Livia_Livia
+			Maria_Maria Messalina Marcia_Marcia
+			Octavia_Octavia
+			Placidia_Placidia Pomponia Publilia Plautia Paula_Paula Paulina_Paulina
+			Regina_Regina Romana_Romana
+			Stephania_Stephania Scribonia Severina_Severina
+			Theodora_Theodorus
+			Ursa_Ursa Urgulanilla Ursula_Ursula
+			Zenobia_Zenobia
+		}
+		from_dynasty_prefix = "of "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 50
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+	gallo_roman = {
+		graphical_cultures = { occitangfx }
+
+		color = { 0.7 0.8 0.35 }
+
+		male_names = {
+			Andreas_Andreas Amabilis_Amabilis Alexander_Alexander Ambrosius_Ambrosius Antoninus_Antoninus Antonius_Antonius Auspicius Avitus_Avitus Avitianus_Avitianus Austremonius Aphrodius Acius Aurelianus_Aurelianus Anianus_Anianus Achilleus Ausonius_Ausonius Abascantus Agricola_Agricola Aegidius_Aegidius Aëtius_Aetius Aelianus_Aelianus Agroecius Augustalis Apollinaris Ansegisus
+			Bassus_Bassus Benignus_Benignus Brictius_Brictius Benedictus_Benedictus
+			Caprasius_Caprasius Cassianus_Cassianus Cassius_Cassius Castor_Castor Clemens_Clemens Crispinus_Crispinus Crispinianus_Crispinianus Cyrillus Celsus_Celsus Caesarius_Caesarius Carausius Chrysolius Contumeliosus
+			Decius_Decius David_David Dionysius_Dionysius Dutherius Domitianus_Domitianus Domitius_Domitius Desiderius_DEsiderius
+			Eucherius_Eucherius Eugendus Euphronius_Euphronius Exuperius_Exuperius Eleutherius_Eleutherius Eligius Eustochius Eulalius Emerius
+			Felix_Felix Ferrolus_Ferreolus Ferrutius_Ferrutius Fortunatus_Fortunatus Fibicius Fuscianus Faustus_Faustus Flavius_Flavius Florentinus
+			Gatianus_Gatianus Gratianus_Gratianus Georgius_Georgius Gregorius_Gregorius Gelsimus_Gelsimus Germanus_Germanus Gratus_Gratus Gaius_Gaius
+			Helius_Helius Hilarius_Hilarius Honestus_Honestus Honoratus_Honoratus
+			Illidius_Illidius Irenaeus_Irenaeus
+			Julius_Julius Justinus_Justinus Justus_Justus Julianus_Julianus Joannes_John
+			Latuinus_Latuinus Lazarus_Lazarus Leontius_Leontius Luperculus Lupus_Lupus Lucianus_Lucianus Lucius_Lucius Lucas_Lucas Leo_Leo Laelianus_Laelianus
+			Mamertinus_Mamertinus Mamertus_Mamertus Martinus_Martinus Martialis_Martialis Maturinus_Maturinus Maximinus_Maximinus Mellonius Memmius Mauritius_Mauritius Maurilius Montanus_Montanus Marcellus_Marcellus Mansuetus Mummolus Mummolinus
+			Namatius Nazarius_Nazarius Nectarius_Nectarius Nicasius_Nicasius Nicolaus_Nicolaus Nicetius_Nicetius
+			Orientius_Orientius Orontius
+			Priapus Petrus_Petrus Paulus_Paulus Patricius_Patricius Palladius_Palladius Papulus Paternus_Paternus Patiens_Patiens Patroclus_Patroclus Paulinus_Paulinus Peregrinus_Peregrinus Peonius Perpetuus_Perpetuus Pontius_Pontius Pothinus_Pothinus Pragmatius_Pragmatius Postumus_Postumus
+			Quinidius Quintinus_Quintinus
+			Rasyphus Ravennus Renatus_Renatus Remigius_Remigius Reticius_Reticius Romanus_Romanus Rusticus_Rusticus Rufinus_Rufinus
+			Sabinianus_Sabinianus Stephanus_Stephanus Saturninus_Saturninus Severus_Severus Severinus_Severinus Silvanus_Silvanus Sixtus_Sixtus Symphorianus_Symphorianus Sylvius_Sylvius Scubiculus Socratius Sacerdos
+			Tetricus_Tetricus Timotheus_Timotheus Thomas_Thomas Taurinus Trophimus Torpetius
+			Ursus_Ursus
+			Valerius_Valerius Victricius Victorius_Victor Volusianus_Volusianus Vincentius_Vincentius Viventiolus Victor_Victor Viator_Viator Victoricus_Victor Victricius Victorinus_Victorinus Veredemus Virus
+			Zacharias_Zacharias
+		}
+		female_names = {
+			Abra Avita_Avita Alcima Arcadia_Arvadia Armentaria Amata Angela Aurea Aventina Asteriola Arthemia
+			Britta_Britta Barbara_Barbara Benedicta_Benedicta Benigna Beata
+			Columba_Columba Claudia_Claudia
+			Devota_Devota
+			Fides_Fides
+			Genovefa_Genovefa
+			Julia_Julia Juliana_Juliana Justina_Justina
+			Honorina_Honorina
+			Maura_Maura Marcia_Marcia Marcellina Margarita_Margarita Matrona Modesta Monica Melania Mauricia
+			Narcissa Natalia
+			Petra_Petra Pientia Papianilla Placidia Pia Pimeniola
+			Quiteria_Quiteria
+			Regina_Regina Romana_Romana Renata Rosalia
+			Seraphina Serena Sibylla Secundina
+			Theodora_Theodora Therasia Tetradia
+			Valeria_Valeria Venera Veronica_Veronica Viatrix Victoria_Victoria
+		}
+
+		from_dynasty_prefix = "of "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 20
+		mother_name_chance = 30
+		
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+
+	hispano_roman = {
+		graphical_cultures = { southerngfx occitangfx }
+
+		color = { 0.78 0.5 0.1 }
+
+		male_names = {
+			Augurius Ascanius Asiaticus Artemius Athanasius_Athanasius Aulus_Aulus Actius Alexander_Alexander
+			Burdunellus Basianus Benedictus_Benedictus
+			Castorius_Castor Cyprianus_Cyrpianus Caesarius_Caesarius Comenciolus_Comentiolus Castus Clemens_Clemens Caius_Gaius Crinitus
+			Damasus Deodatus_Deodatus
+			Elogius Eusebius_Eusebius Epictetus Eterius
+			Fructuosus Felix_Felix
+			Gregorius_Gregorius
+			Himerius_Himerius Hilarius_Hilarius Hadrianus_Hadrianus
+			Iohannes_John Ireneus Isidorus
+			Julianus_Julianus Julius_Julius
+			Liberius_Liberius Licinianus_Licinianus Lucius_Lucius Lampius Lucas_Lucas Laurentius_Laurentius
+			Marcus_Marcus Maximus_Maximus Michael_Michael
+			Nebridius Nicolaus_Nicolaus
+			Octavius_Octavius
+			Probatius Paulus_Paulus Protasius Prudentius Priscillianus_Priscillianus Pacianus Paternus_Paternus Petrus_Petrus Peneguardus Praetextatus Priscillianus_Priscillianus
+			Quiricus_Quiricus
+			Siricius Sergius_Sergius Simplicius_Simplicius Severus_Severus Sisiclus
+			Theodorus_Theodorus Theodosius_Theodosius Theolycus
+			Vincentius_Vincentius Valerius_Valerius Valentinianus_Valentinianus Valentinus_Valentinus Valens_Valens Victor_Victor Viator_Viator
+		}
+		female_names = {
+			Acantia Auriola Aunia Alcestis Aurea
+			Bonifacia
+			Claudia_Claudia Coventina Camina Cessea Cilia Cilura Columba
+			Domitia Demetria Dobiteina Dutia Digna
+			Eulalia Eusebia Euphemia
+			Fortuna Fructuosa Felicitas Flora
+			Galla Gordiana
+			Junia Julia_Julia
+			Lubana Leocritia Lucretia Leticia Laura
+			Maria_Maria Meliosa Martina Maila Maria Marciana
+			Nabia Natalia
+			Placidia Petra Potamia Perpetua Pelagia Potenciana Peregrina
+			Sabina Stephania Sunua Severina Senorina
+			Tuouta
+			Ulea
+			Valeria Valentina
+		}
+
+		from_dynasty_prefix = "of "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 20
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 40
+		mother_name_chance = 20
+		
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+
+	romano_british = {
+		graphical_cultures = { celticgfx occitangfx }
+
+		color = { 0.45 0.75 0.6 }
+
+		male_names = {
+			Alexander_Alexander Ambrosius_Ambrosius Augustus_August Andreas_Andrew Aetius_Aetius Agricola_Agricola Antoninus_Antoninus Arcadius_Arcadius Artorius_Artorius Asaphus_Asaphus Amonnius_Amonnius Aldroenus_Aldroenus Albanus_Albanus Amphibalus_Amphibalus
+			Brutus_Brutus Bivitas_Bivitas Brigacus_Brigacus Beduvius_Beduvius Bonus_Bonus Brocanus_Brocanus 
+			Catacus_Cadog Clutorix_Clodri Constans_Constans Constantinus_Constantine Caius_Gaius Coimagnus_Coimagnus Coelius_Coelius Caesar_Caesar Caecilius_Caecilius Caedicius_Caedicius Catullus_Catullus Concarius_Concarius Cantigernus_Cantigernus Catomaglus_Catomaglus Cuuris_Cuuris Cunocennus_Cyngen Cunotamus_Cunotamus Catamanus_Catamanus Cepius_Cepius Catuvellaunus_Catuvellaunus Cunetacius_Cunetacius Clutonus_Clutonus Crallus_Crallus
+			Drustanus_Tristan Dubricius_Dubricius David_Dacid Dainiolus_Daniel Disilius_Disilius Donatus_Donatus Dunocatus_Dunocatus Dobagnus
+			Eugenius_Eugenius Eternus_Eternus Edelicus_Edelicus Elidurus_Elidurus Ennianus_Ennianus
+			Fanucus
+			Guriatus_Guriat Gildas_Gildas Gurgantius_Fergus Gundleus_Gundleus Grifudus_Grifudus Georgius_Georgius Gregorius_Gregorius
+			Heracles_Heracles Hovelius_Hywel Honorius_Honorius 
+			Icorigas Ismaglus_Ismaglus Itonus_Itonus Itellus_Itellus Ituvellaunus_Ituvellaunus
+			Justinus_Justin Jacobus_Jacob Julius_Julius Judicallus_Judicallus
+			Lovernacus_Llywernog Lucius_Lucius Lovarcus_Lovarcus Lifris_Lifris
+			Michael_Michael Maximus_Maximus Mauritius_Maurice Marcus_Marcus Marcianus_Marcianus Maglocunus_Maglocunus Mescagnus Maqqas_Maqqas Mangusenus Malorius_Malorius Muncius Morganus_Morgan Monedorix
+			Natanus_Natanus
+			Octavius_Octavius
+			Paternus_Paternus Paulus_Paul Petrus_Peter Petrocus_Petrocus Pepianus_Pepianus Pascentius_Pascentius Pelagius_Pelagius
+			Riothamus_Riothamus Romanus_Roman Ricenus_Ricenus Rialobranus
+			Stephanus_Stephen Sanctus_Sanctus Sergius_Sergius Sampsonius_Samson Samuvellus_Samuel Severinus_Severin Salomon_Solomon Seniltus_Seniltus Serialanus_Serialanus Saturnus_Saturnus
+			Tacitus_Tacitus Totavalus_Tudwal Theodorus_Theodore Thomas_Thomas Telesinus_Telesinus Tegernacus_Tegernacus Turpilus Tegernomalus_Teyrnfal Teliaus_Teliaus
+			Urbanus_Urban Uturius_Victor Victor_Victor Urbigenius_Urbgenius Umbramaglus_Umbramaglus
+			Vorteporix_Vorteporix Vendumaglos_Gwynfael Vitalinus_Vitalinus Vitalis_Vitalis Vortigernus_Vortigern Vendusetlus_Vendusetlus
+		}
+		female_names = {
+			Anna_Anna Abrelda_Abrelda Almheda_Almheda Aurelia_Aurelia Agnes_Agnes Avitoria Avittoriges
+			Boudibiua Beatrix_Beatrix Buriana_Buriana
+			Caterina_Catherine Christina_Christina Claudia_Claudia Cegincara_Cegincara Cagintria_Cagintria Civa_Civa Columba_Columba Clara_Clara Caecilia_Cecilia
+			Detha_Detha Dionysia_Denise
+			Eva_Eve Endelienta_Endelienta Eugenia_Eugenia Euphrasia_Euphrasia
+			Flora_Flora Felicia_Felicia
+			Genuissa_Genuissa
+			Helena_Helena Hersilia_Hersilia Hilaria_Hilaria Hancarate_Hancarate
+			Ida_Ida Iutwara_Iutwara Igerna_Igerna
+			Johanna_Joan
+			Lucia_Lucia Laura_Laura
+			Machuta_Machuta Muganna_Muganna Maria_Maria Margarita_Margaret Materiana_Matrona Matrona_Matrona Mariota_Maria Menbreda_Menbreda Marwenna_Marwenna Morvenna_Morvenna Mabena_Mabena Marcella_Marcella
+			Nonita_Nonna Nonna_Nonna
+			Reginbelta_Reginbelta Rigantona_Rigantona
+			Susana_Susana Sibylla_Sibylla
+			Tania_Tania Tudbalda_Tudbalda Thecla_Thecla
+			Velvela_Velvela
+		}
+
+		dukes_called_kings = yes
+
+		from_dynasty_prefix = "of "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 20
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 40
+		mother_name_chance = 20
+		
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+
+	mauro_roman = {
+		graphical_cultures = { byzantinegfx arabicgfx }
+
+		color = { 0.75 0.85 0.65 }
+
+		male_names = {
+			Aurelius Augustinus Arius Apiarius Augustalis Ampelius Adeodatus Alypius Antalas Athanasius Apocorius
+			Bonifacius
+			Cyprianus Cassianus Caecilianus Clautus Cosmas Caecilius Crescens Cutzinas Carcasan
+			Donatus Dativus Dacianus Dorotheus Daniel
+			Emilianus Emeritus Epenetus Ezechiel
+			Fortunatus Felix Fulgentius Faustus Firmus
+			Garmules Gelasius Gratus Gaudiosus Givalius Gantal Guenfan Gildo
+			Hilarion Hilarius Hippolytus
+			Iaudas Ifisdaias Ialdas Ierna Iutungun Ioannes_John
+			Juba Julius_Julius Januarius Johannis_John Josephus_Joseph Jesaias Julianus_Julianus
+			Lactantius
+			Masuna Mastigas Metcum Marius Maximus Martinus Marculus Masguinus Marcellinus Masties Melangus Maccus
+			Ninellus 
+			Optatus Ortaias
+			Pelusius Petrus_Petrus Paulus_Paulus Patricius_Patricius
+			Quodvultdeus Quintus
+			Reparatus Rogatianus Rogatus Romanianus
+			Severus Septimius Saturninus Simplicianus Speratus Solomon Stotzas Sinzira Sidisan Sisinniolus
+			Therentius Tertullianus Ticonius Tiberius Theodorus
+			Victor Victorianus Vincentius
+		}
+		female_names = {
+			Adelah_Adela
+			Berectina Baria
+			Caecilia Camila
+			Dido Dihya Dua
+			Eva Esther
+			Fulvia
+			Honorata
+			Januaria Judith
+			Leila
+			Monica_Monica Maria_Maria Margarita_Margarita Matrona
+			Pia Prima Pomponiua
+			Restituta Regiola
+			Saturnina Secunda
+			Tazelita
+			Victoria
+		}
+
+		dukes_called_kings = yes
+
+		from_dynasty_prefix = "of "
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
+
+
+		modifier = default_culture_modifier
+	}
+
+	graeci = {
+		graphical_cultures = { byzantinegfx }
+		
+		color = { 0.8 0.5 0.5 }
+
+		male_names = {
+			Anthemius_Anthemius Aristophantus Anastasius_Anastasius Athanasius_Athanasius Alexander_Alexander Alexius_Alexius Arcadius_Arcadius Apollodorus Aristoxenus Apollogenes Athenodorus Acacius_Acacius Aëtius_Aetius Asclepius Avienus Ammonius_Ammonius Andronicus_Andronicus
+			Boethius_Boethius Basiliscus_Basiliscus Belisarius_Belisarius Basilides Basilius Bassus Bonus Bonitus
+			Constantinus_Constantinus Constans_Constans Comentiolus_Comentiolus Conon_Conon Claudius_Claudius Constantiolus Callinicus Calonymus Celer Christodorus Christophorus_Christophorus Choricius Cyriacus_Cyriacus Cosmas_Cosmas Corippus Cyrus_Cyrus
+			Demostratus Demetrius_Demetrius Dionysius_Dionysius Daniel_Daniel Diocles Demostratus Dionysodorus Dagisthaeus Domnentiolus Domnicus Decius_Decius Dioscorus Domentziolus Dorotheus
+			Eucles
+			Fabius_Fabius Faustus_Faustus
+			Gregorius_Gregorius Georgius_Georgius Gratianus_Gratianus Germanus_Germanus Gennadius_Gennadius Gabriel_Gabriel
+			Hagnotheus Helius_Helius Heraclius_Heraclius Heraclianus_Heraclianus Hermogenes Hypatius_Hypatius Heliodorus_Heliodorus Hegias Hierocles Hesychius Hadrianus_Hadrianus Hegeias
+			Inportunus Isidorus_Isidorus Ino
+			Justinus_Justinus Justus_Justus Julius_Julius Julianus_Julianus Jovianus_Jovianus
+			Leo_Leo Lysandrus Leontius_Leontius Longinus_Longinus Liberatus Junillus Laurentius_Laurentius Liberius_Liberius
+			Metrophanes Menandrus Marcus_Marcus Marcianus_Marcianus Maricius_Mauritius Maurus_Maurus Marcellus_Marcellus Marcellinus_Marcellinus Michael_Michael Menogenes
+			Narses_Narses Nicomachus_Nicomachus Nicodemus_Nicodemus Nicias Nicephorus_Nicephorus Nonnosus Nicetas_Nicetas Nicolaus_Nicolaus
+			Olympiodorus
+			Petrus_Petrus Paulus_Paulus Polycritus_Polycritus Philogenes Phocas_Phocas Philippicus_Philippicus Procopius_Procopius Probus_Probus Priscus Proclus Porphyrius_Porphyrius Pelagius_Pelagius Philostratus
+			Romanus_Romanus
+			Symmachus_Symmachus Sosicrates Stephanacius Solomon_Solomon Sampson_Sampson Stauracius_Stauracius Sergius_Sergius Sebastianus_Sebastianus Samuel_Samuel
+			Tiberius_Tiberius Timarchus Theocles Theodotus Theodorus_Theodorus Theodosius_Theodosius Theoxenus Thrasyllus Titus_Titus Theophanes Thomas_Thomas Thomasinus Theophilus_Theophilus Theagenes Timotheus
+			Vitalianus_Vitalianus Valentinianus_Valentinianus Valens_Valens Valentinus_Valentinus
+			Xenagoras Xanthus_Xanthus
+			Zeno_Zeno
+		}
+		female_names = {
+			Arcadia_Arcadia Aelia_Aelia Anastasia_Anastasia Augustina_Augustina Angelina Asclepigenia Antonina_Antonina Antonia_Antonia Arthelais Ariadne_Ariadne Arabia Antipatra
+			Barbara_Barbara
+			Constantina_Constantina Clementina_Clementina Constantia_Constantia
+			Domentzia Dorothea Danielis Demetra Dionysia_Dionysia
+			Eudoxia_Eudoxia Epiphania_Epiphania Euphrosyne Emmelia Euphemia_Euphemia Eugenia_Eugenia Eulalia_Eulalia
+			Febronia Fabia_Fabia
+			Gregoria_Gregoria Garyphallia
+			Helena_Helena Hypatia
+			Irene_Irene Ioanna_Johanna
+			Juliana_Juliana Justina_Justina 
+			Leontia_Leontia Laura
+			Martina_Martina Macrina_Macrina Megale Margarita_Margarita
+			Nonna_Nonna
+			Pulcheria_Pulcheria Procopia_Procopia Prisca Patricia_Patricia Praejecta Parthena Philippa_Philippa Phyllis Porphyria Pelagia_Pelagia
+			Romana_Romana
+			Sophia_Sophia Simonis
+			Thecla_Thecla Theodora_Theodora Theodosia_Theodosia Thomais Theognosia Theophano
+			Vigilantia Verina Valeria_Valeria
+			Zoe_Zoe Zenobia_Zenobia
+		}
+
+		from_dynasty_prefix = "of "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 20
+		mother_name_chance = 30
+		
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+
+	pannonian = {
+		graphical_cultures = { byzantinegfx occitangfx }
+		
+		color = { 0.75 0.7 0.35 }
+
+		male_names = {
+			Apricanus Arelius_Aurelius Artebus Artas Antigonus Alexander Andromachus Andreas_Andrew 
+			Anastasius Athanasius
+			Batsio Broguos Brutus_Brutus Bonosus Burebistas Bardyllis Bato
+			Constantinus_Constantine Constans_Constans Comentiolus Cornelius Comosicus Cothelas Cleitus
+			Domentziolus Dionysius_Dionysius Decebalus Duras Diurpaneus Diegis Domitianus Demetrius Didas
+			Eugenius_Eugene Euergetes
+			Galaurus Grabus Glaucias Gentius Georgius Gregorius
+			Hadreanus_Hadrianus
+			Ilias
+			Julius_Julius Justinus_Justin Justinianus_Justinian
+			Lucinius Lugnus Langarus Leo Leontius
+			Marcus_Marcus Mesala Mauricius Monunius Marcellus Marcellinus
+			Nepotianus Nicomachus Nicharchus
+			Opis
+			Paulus_Paulus Petrus_Peter Priscus Phocas Pieporus Pleuratus Pinnes
+			Rholes Regalianus Rhemaxos Romanus_Roman
+			Severus_Severus Scorilo Sabinus Sirras Sitalces Stephanus_Stephen
+			Theophilus_Theophilus Tiognis Tiberius Tarbus Thiamarcus Thomas_Thomas
+			Ursus_Ursus
+			Valerius_Valerius Vidassus
+		}
+		female_names = {
+			Aelia Anna_Anna Antonia Alexia Alexandra Anastasia
+			Catherina Cassandra
+			Deane_Diana Domnica Domentzia Daortho Dassaro
+			Harmonia
+			Julia_Julia
+			Lucea_Lucia
+			Mara Maria_Maria Meda Margareta
+			Partho Petra Paula
+			Ruxandra
+			Sabina Sofea_Sofia Stephanita
+			Thana Theodora_Theodora Theophila_Theophila Teuta
+			Utsia
+			Valerea_Valeria
+		}
+
+		from_dynasty_prefix = "of "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 20
+		mother_name_chance = 30
+		
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+}

@@ -14,6 +14,7 @@ b_castrobarte = castle
 #b_arandadeduero = temple
 #b_carrion = castle
 
-culture = iberoroman
-religion = hellenic_pagan
+culture = hispano_roman
+religion = nicene
 terrain = hills
+

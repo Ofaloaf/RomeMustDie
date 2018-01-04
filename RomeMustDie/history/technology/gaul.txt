@@ -1,0 +1,94 @@
+# southern gaul
+technology = {
+	titles = {
+		d_aquitania
+		d_arvernia
+		d_bituricensis
+		d_divio
+		d_lugdunensis
+		d_pictavensis
+		d_provincia
+		d_septimania
+		d_sequanica
+		d_tolosa
+		d_transjurania
+		d_viennensis
+	}
+	
+	475 = {
+		military = 0.75
+		economy = 0.85
+		culture = 1.0
+		
+		TECH_LIGHT_INFANTRY = 0.75
+		TECH_HEAVY_INFANTRY = 1.0
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# northern gaul
+technology = {
+	titles = {
+		d_andegavia
+		d_argentoratensis
+		d_armorica
+		d_aurelianum
+		d_menapiorum
+		d_moguntiacum
+		d_mosella
+		d_parisiorum
+		d_ripuaria
+		d_rotomagus
+		d_senonia
+		d_soissons
+		d_toxandria
+		d_turonum
+	}
+	
+	475 = {
+		military = 0.7
+		economy = 0.8
+		culture = 0.85
+		
+		TECH_LIGHT_INFANTRY = 0.85
+		TECH_HEAVY_INFANTRY = 0.9
+		TECH_FORTIFICATIONS_CONSTRUCTION = 0.95
+		TECH_CASTLE_CONSTRUCTION = 0.95
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+
+		TECH_FORTIFICATIONS_CONSTRUCTION = 6.0
+		TECH_CASTLE_CONSTRUCTION = 6.0
+	}
+}
+
+# Gallia Vasconica
+technology = {
+	titles = {
+		d_novempopulania
+	}
+	
+	475 = {
+		military = 0.5
+		economy = 0.7
+		culture = 0.7
+		
+		TECH_LIGHT_INFANTRY = 1.0
+		TECH_HEAVY_INFANTRY = 1.0
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}

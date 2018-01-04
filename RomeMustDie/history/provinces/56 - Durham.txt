@@ -5,15 +5,15 @@ title = c_durham
 
 # Settlements
 max_settlements = 4
-b_vindomora = castle
+b_durham = castle
 b_chester-le-street = temple
-b_hartlepool = city
+b_st_cuthbert = city
 
 #b_gateshead = castle
-#b_chester-le-street = temple
 #b_jarrow = temple
 #b_auckland = castle
 #b_raby = castle
+#b_hartlepool = city
 
 # Misc
 culture = welsh

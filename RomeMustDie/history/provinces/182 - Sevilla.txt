@@ -9,12 +9,12 @@ b_sevilla = castle
 b_carmona = temple
 b_ecija = city
 b_utrera= castle
-b_sevimoron = city
+#b_sevimoron = city
 
 #b_alcaladeguadaira
 #b_doshermanas = city
 #b_utrera = castle
 #b_laalgaba = castle
 
-culture = iberoroman
+culture = hispano_roman
 religion = nicene

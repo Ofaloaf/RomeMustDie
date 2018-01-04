@@ -53,3 +53,17 @@
 		death=yes
 	}
 }
+
+600005 = {
+	name="Candac"
+	dynasty=735002
+	culture="alan"
+	religion="tengri_pagan"
+	trait="cynical"
+	430.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

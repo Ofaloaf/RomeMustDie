@@ -4,9 +4,17 @@
 title = c_hainaut
 
 # Settlements
-max_settlements = 5
-b_ath = tribal
+max_settlements = 4
+b_ath = castle
+
 b_cambrai = temple
+
+#b_valenciennes = city
+#b_mons = city
+#b_chievres = castle
+#b_enghien = castle
+#b_charleroi = city
+#b_avesnes = castle
 
 # Misc
 culture = old_frankish

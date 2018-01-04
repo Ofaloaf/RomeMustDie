@@ -1,5 +1,5 @@
 410.1.1 = {
-	liege = "d_iberia"
+	liege = "d_tarraconensis"
 }
 
 466.1.1 = {

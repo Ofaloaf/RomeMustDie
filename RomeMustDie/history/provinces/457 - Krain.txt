@@ -7,9 +7,9 @@ title = c_krain
 max_settlements = 4
 
 b_auersperg = castle
-b_krainburg = city
-b_gurk = temple
-b_gorz = castle
+#b_krainburg = city
+#b_gurk = temple
+b_gorz = temple
 
 #b_stain = castle
 #b_guetenegg = castle
@@ -18,5 +18,5 @@ b_gorz = castle
 #b_stveit = temple
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene

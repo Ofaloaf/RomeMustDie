@@ -1,0 +1,74 @@
+# carthage
+technology = {
+	titles = {
+		d_zeugitana
+		d_byzacena
+	}
+	
+	475 = {
+		military = 0.6
+		economy = 0.85
+		culture = 1.0
+
+		TECH_NAVAL = 0.9
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# AFRICA ROMANA
+technology = {
+	titles = {
+		d_altava
+		d_caesarea
+		d_numidia
+		d_sitifis
+		d_tingitana
+		d_volubilis
+	}
+	
+	475 = {
+		military = 0.5
+		economy = 0.65
+		culture = 0.75
+
+		TECH_CAVALRY = 1.7
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+
+		TECH_CAVALRY = 6.0
+	}
+}
+
+# AFRICA BARBARICA
+technology = {
+	titles = {
+		d_darae
+		d_gaetulia
+		d_tripolitania
+	}
+	
+	475 = {
+		military = 0.35
+		economy = 0.20
+		culture = 0.10
+		
+		TECH_CAVALRY = 2.0
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+
+		TECH_CAVALRY = 6.0
+	}
+}

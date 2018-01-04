@@ -1,0 +1,1250 @@
+e_africa = {
+	color = { 174 167 73 }
+	color2 = { 255 255 255 }
+
+	capital = 817
+
+	k_africa = {
+		color={ 141 84 75 }
+		color2={ 255 255 255 }
+		
+		capital = 817 # Tunis
+		
+		orthodox = 10 # Crusade target weight
+		muslim = 200 # Crusade target weight
+		west_african_pagan_reformed = 50
+		zoroastrian_group = 50 # Crusade target weight
+		
+		d_zeugitana = {
+			color={ 20 232 95 }
+			color2={ 255 255 255 }
+			
+			capital = 817 # Tunis
+		
+			c_tunis = {
+				color={ 23 235 98 }
+				color2={ 255 255 255 }
+
+				# Carthago
+
+				holy_site = nicene
+				holy_site = arian
+			
+				b_tunis = {
+					# Tunes
+				}
+				b_ariana = {
+					# Carpis # actually modern-day Marisa
+				}
+				b_sousse = {
+					# Hadrumetum
+				}
+				b_cartaghe = {
+					# Carthago
+				}
+				b_zaghouan = {
+					# Zica
+				}
+				b_benarous = {
+					# Uthina # actually modern Oudna
+				}
+				b_kelibia = {
+					# Clypia
+				}
+				b_hammamet = {
+					# Pupput
+				}
+			}
+			c_medjerda = {
+				color={ 26 238 101 }
+				color2={ 255 255 255 }
+
+				# Bagrada
+
+				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed			
+				
+				b_medjerda = {
+					# Bagrada
+				}
+				b_lekef = {
+					# Sicca
+				}
+				b_siliana = {
+					# Zama # not modern-day Siliana	
+				}
+				b_kasserine = {
+					# Cillium
+				}
+				b_qaafur = {
+					# Naraggara
+				}
+				b_sidimubarak = {
+					# Admedera # not modern-day Sidi Mubarak, best I can tell
+				}
+				b_dougga = {
+					# Thugga
+
+					greek = "Tokaï"
+				}
+				b_elkrib = {
+					# Lares # not modern-day El Krib
+				}
+			}
+			c_bizerte = {
+				color={ 216 125 103 }
+				color2={ 255 255 255 }
+
+				# Zarytus
+
+				roman = "Hipponitis"
+				graeci = Hipponitis
+				greek = "Hipponitis"
+			
+				b_bizerte = {
+					# Zarytus
+
+					roman = "Diarrhytus"
+					graeci = Diarrhytus
+					greek = Diarrhytos
+				}
+				b_tunbeja = {
+					# Vacca
+				}
+				b_jendouba = {
+					# Utica # not Jendouba
+				}
+				b_ghezala = {
+					# Tirna # not Ghezala
+				}
+				b_manziljamal = {
+					# Canopissoe # no idea what Manzil Jamal(?) even /is/
+				}
+				b_almatin = {
+					# Tusca # not Al Matin. Wikipedia says Al Matin is just a name of God???
+				}
+				b_tamra = {
+					# Thisitana # actually probably Henchir-Bou-Chater
+				}
+				b_netza = {
+					# Gunela # actually probably Henchir-Goungla
+				}
+			}
+		}
+		d_byzacena = {
+			color = { 67 101 112 }
+			color2= { 255 255 255 }
+
+			c_kairwan = {
+				color={ 91 151 142 }
+				color2={ 255 255 255 }
+
+				# Capsa
+			
+				b_kairouan = {
+					# Iubaltiana
+				}
+				b_gafsa = {
+					# Capsa
+				}
+				b_tozeur = {
+					# Tisurus
+
+					greek = "Tisouros"
+				}
+				b_sidibouzid = {
+					# Sufetula # actually Sbeitla
+				}
+				b_haffouz = {
+					# Aqua Regiae
+				}
+				b_chebika = {
+					# Adspeculam
+				}
+				b_meknassy = {
+					# Septimunicia # no idea where Septimunicia actually is
+				}
+				b_sidimansour = {
+					# Marazanae # Mezzouna
+				}
+			}
+			c_mahdia = {
+				color={ 139 174 186 }
+				color2={ 255 255 255 }
+
+				# Africa
+			
+				b_mahdia = {
+					# Africa
+
+					roman = "Aphrodisium"
+					greek = "Aphrodision"
+				}
+				b_monastir = {
+					# Ruspina
+				}
+				b_sfax = {
+					# Thaenae
+				}
+				b_msaken = {
+					# Leptis # Leptis Minor
+				}
+				b_agareb = {
+					# Macomades # not Agareb
+				}
+				b_neffatia = {
+					# Usilla # I have no idea where Neffatia even is
+				}
+				b_lalaouza = {
+					# Caputvada # what the shit even is 'Lalaouza'
+				}
+				b_lacroix = {
+					# Crucium # shit I made up
+				}
+			}
+		}
+		d_tripolitania = {
+			color={ 63 175 117 }
+			color2={ 255 255 255 }
+			
+			capital = 811 # Tripolitania
+		
+			c_tripolitana = {
+				color={ 45 192 107 }
+				color2={ 255 255 255 }
+
+				# Tripolitania
+			
+				b_libtripoli = {
+					# Tripolis
+				}
+				b_sabratah = {
+					# Sabratha
+				}
+				b_nalut = {
+					# Assaria # actually Lmaia
+				}
+				b_baniwaled = {
+					# Villa Repentina # not Bani Walid
+				}
+				b_gherlan = {
+					# Ad Ammonem # actually Mellita
+				}
+				b_funduq = {
+					# Locri # actually Ras Sidi Giogghig
+				}
+				b_aljamil = {
+					# Villa Aniciorum # actually Zuara
+				}
+				b_mazuzah = {
+					# Turris ad Algam # not Mazuzah
+				}
+			}
+			c_djerba = {
+				color={ 49 196 111 }
+				color2={ 255 255 255 }
+
+				# Gerba
+			
+				b_houmtsouk = {
+					# Girba
+				}
+				b_midoun = {
+					# Zitha # actually Zian
+				}
+				b_ajim = {
+					# Tipasa # Adjin. Is that the name as 'Ajim', just transliterated differently?
+				}
+				b_aghir = {
+					# Meninge # actually Bordj el-Kantara
+				}
+				b_abarda = {
+					# Gigthis # actually Boughrara
+				}
+				b_elmey = {
+					# Gidaphta # actually Ras Segala
+				}
+				b_cedriane = {
+					# Gergis # actually Jarjis
+				}
+				b_taguermess = {
+					# Augemmi # actually Henchir Kredema
+				}
+			}
+			c_leptis_magna = {
+				color={ 53 200 115 }
+				color2={ 255 255 255 }
+
+				moor = Lubta
+			
+				b_leptismagna = {
+					moor = Lubta
+				}
+				b_misratah = {
+					# Thubactis
+				}
+				b_alhasun = {
+					# Kinyps # actually a place near mouth of Wadi Caam
+				}
+				b_abunujaym = {
+					# Sugolin # not Abunujaym
+				}
+				b_qirdah = {
+					# Nivirgi Tabernae # not Qirdah
+				}
+				b_alghiran = {
+					# Simnana # not Zaviet el-Mahgiub
+				}
+				b_naimah = {
+					# Virga # not Naimah
+				}
+				b_gioda = {
+					# Quintiliana # actually Fondugh el-Allus
+				}
+			}
+			c_syrte = {
+				color={ 57 204 119 }
+				color2={ 255 255 255 }
+
+				# Syrtis
+			
+				b_syrte = {
+					# Syrtis
+				}
+				b_abuhadi = {
+					# Euphranta # actually also Syrte
+				}
+				b_assultan = {
+					# Zure # actually Magen er-Rumia
+				}
+				b_assidr = {
+					# Charax # actually Medina Sultan
+				}
+				b_lanuf = {
+					# Astiagi # actually Bir Bu Giarada
+				}
+				b_bishr = {
+					# Putea Nigrorum # actually Qbeba
+				}
+				b_qaryatbishr = {
+					# Auxiu # actually near Bir el-Amari
+				}
+				b_nawfalliyah = {
+					# Ad Speluncas # not that place
+				}
+			}
+			c_gabes = {
+				color={ 47 69 94 }
+				color2={ 255 255 255 }
+
+				# Tacape
+			
+				b_gabes = {
+					# Tacape
+				}
+				b_kebili = {
+					# Turris Tamalleni
+				}
+				b_medenine = {
+					# Agma # actually Zarat
+				}
+				b_tataouine = {
+					# Tabalati # probably erroneous
+				}
+				b_aljanain = {
+					# Agarlabas # actually probably Henchir Mgarine
+				}
+				b_haddej = {
+					# Timezegeri (Turris) # actually probably Henchir Merteba
+				}
+				b_steftimi = {
+					# Aves # mmmaybe ed Debdaba or el-Hamma?
+				}
+				b_alqalah = {
+					# Ad Templum # actually Jamnah
+				}
+			}
+		}
+		d_numidia = {
+			color={ 164 247 131 }
+			color2={ 255 255 255 }
+
+			capital = 820 # Hippo Regius
+
+			c_constantine = {
+				color={ 45 251 102 }
+				color2={ 255 255 255 }
+
+				# Constantina
+
+				vandal = Abaritana	# name attested in 442 treaty, but it's not actually know what place 'Abaritana' refers to.
+				ostrogothi = Abaritana
+				visigothi = Abaritana
+			
+				b_constantine = {
+					# Constantina
+				}
+				b_guelma = {
+					# Calama
+				}
+				b_tebessa = {
+					# Theveste
+				}
+				b_elkhroub = {
+					# Emadaucapensis # actually Ain Kerma
+				}
+				b_tadjenanet = {
+					# Vasampus # actually Morsot
+				}
+				b_oumelbouaghi = {
+					# Casae # actually El Mahder
+				}
+				b_mechtakebira = {
+					# Macomades # actually Mrikeb Thala
+				}
+				b_guerrah = {
+					# (Castellum) Subzuaritanum # actually Ain Sadjar
+				}
+			}
+			c_annaba = {
+				color={ 51 255 108 }
+				color2={ 255 255 255 }
+
+				# Hippo Regius
+			
+				b_annabah = {
+					# Hippo Regius
+				}
+				b_eltarf = {
+					# Zacca # actually Cap de Fer
+				}
+				b_soukahras = {
+					# Thagaste
+				}
+				b_skikda = {
+					# Rusicade
+				}
+				b_elbouni = {
+					# Tacatua # actually Takouch
+				}
+				b_boudjama = {
+					# Asuccuris # actually Ascours
+				}
+				b_drean = {
+					# Thullio # actually Ksar beni-Feredj
+				}
+				b_meroudj = {
+					# Culucitanis # actually Sidi bou Mérouane
+				}
+			}
+		}
+	}
+
+	k_mauretania = {
+		color={ 191 110 62 }
+		color2={ 255 255 255 }
+		
+		capital = 834 # Altava
+		
+		culture = mauro_roman
+		
+		muslim = 100 # Crusade target weight
+		west_african_pagan_reformed = 100
+
+		d_sitifis = {
+			color = { 26 88 134 }
+			color2= { 249 216 104 }
+
+			roman = Sitifensis
+			graeci = Sitifensis
+
+			capital = 822
+
+			c_bejaija = {
+				color={ 49 255 106 }
+				color2={ 255 255 255 }
+
+				# Sitifis
+
+				moor = Stif
+			
+				b_bejaija = {
+					# Saldae
+				}
+				b_setif = {
+					# Sitifis
+
+					moor = Stif
+				}
+				b_mila = {
+					# Milevum
+				}
+				b_elbekara = {
+					# Choba # actually Ziama
+				}
+				b_jijel = {
+					# Igilgili
+				}
+				b_boudaoud = {
+					# Muslubium # actually Sidi Rehane
+				}
+				b_gantas = {
+					# Lesbi # actually Tirermine Oulemouta
+				}
+				b_eldjabia = {
+					# Aqua Frigida # actually Tala K'frida
+				}
+			}
+			c_biskra = {
+				color={ 47 253 104 }
+				color2={ 255 255 255 }
+
+				# Vescera
+			
+				b_biskra = {
+					# Vescera
+
+					roman = "Ad Piscinam"
+					graeci = "Ad Piscinam"
+				}
+				b_batna = {
+					# Gemellae # actually El-Kasbat
+				}
+				b_khenchela = {
+					# Mascula
+				}
+				b_sidiokba = {
+					# Tabudium (Oppidum) # actually Tehouda
+				}
+				b_nebka = {
+					# Badias # actually Badès.
+				}
+				b_bigou = {
+					# Tfilzi # actually Menaa
+				}
+				b_branis = {
+					# Aquae Herculis # actually Hammam Sidi el-Hadj
+				}
+				b_mekhadma = {
+					# Mesarfelta # actually el Outaya
+				}
+			}
+		}
+
+		d_caesarea = {
+			color = { 205 79 18 }
+			color2= { 10 10 10 }
+
+			roman = Caesariensis
+			graeci = Caesariensis
+
+			c_al_djazair = {
+				color={ 53 200 87 }
+				color2={ 255 255 255 }
+
+				# Caesarea
+			
+				b_algiers = {
+					# Icosium
+				}
+				b_tipasa = {
+					# Tipasa
+				}
+				b_chiffa = {
+					# Caesarea
+
+					roman = "Iol Caesarea"
+				}
+				b_sidiakacha = {
+					# Gunugu # actually Sidi-Brahim
+				}
+				b_rhedadoua = {
+					# Cartennae # actually Ténès
+				}
+				b_elachour = {
+					# Castra Germanorum # actually near Oued Damous
+				}
+				b_elRdair = {
+					# Cartili # actually near Damous
+				}
+				b_tirourda = {
+					# Monumentum Regiae Gentis # not Tirourda
+				}
+			}
+			c_beni_yanni = {
+				color={ 35 153 46 }
+				color2={ 255 255 255 }
+
+				# Iomnium
+			
+				b_bourmedes = {
+					# Rusippisir # actually Taksebt
+				}
+				b_tafoughalt = {
+					# Rusuccuru # actually Dellys
+				}
+				b_tigzirt = {
+					# Iomnium
+				}
+				b_bujima = {
+					# Cissi # actually Cissi. Huh. Same name then and now.
+				}
+				b_azeffoun = {
+					# Rusadus
+				}
+				b_azazga = {
+					# Tigisi # actually Tawerga
+				}
+				b_taoudouch = {
+					# (Castellum) Tulei # actually Diar MAmi
+				}
+				b_thiza = {
+					# Tubusuctu # actually El-Kseur
+				}
+			}
+			c_tell_atlas = {
+				color={ 37 155 48 }
+				color2={ 255 255 255 }
+
+				# Mons Ferratus
+			
+				b_tiziouzou = {
+					# Bida
+				}
+				b_zaoula = {
+					# Ausum # actually Sadouri
+				}
+				b_akaoudj = {
+					# Vanisnesi # actually Oum Sekak
+				}
+				b_mirabeau = {
+					# Rapidi # not Mirabeau
+				}
+				b_nacina = {
+					# Auzia # actually Aumale
+				}
+				b_draaelmizan = {
+					# Tubusuptus # not Draa el Mizan
+				}
+				b_tagoughalt = {
+					# Usar # not Tagoughalt. Actually a river!
+				}
+				b_mechreck = {
+					# Sisar # not Mechreck. Actually another name for the name river!!
+				}
+			}
+			c_lemdiyya = {
+				color={ 51 198 85 }
+				color2={ 255 255 255 }
+
+				# Transcellensis (Mons)
+			
+				b_medea = {
+					# Medix
+				}
+				b_relizane = {
+					# Sufasar # actually Dolfussville
+				}
+				b_aindefla = {
+					# Succhabar # actually Miliana
+				}
+				b_elrhenb = {
+					# Manliana # actually Khemis Miliana
+				}
+				b_aintorki = {
+					# Oppidum Novum # actually Aiin Defla
+				}
+				b_blida = {
+					# Tigava # el Kherba/Ksar Soltane
+				}
+				b_elhachem = {
+					# (Castellum) Tingitanum # actually El Asnam
+				}
+				b_sidimohammed = {
+					# Aquae Calidae # actually Hammam Righa
+				}
+			}
+		}
+	
+		d_gaetulia = {
+			color = { 244 249 166 }
+			color2= { 10 10 10 }
+
+			c_atlas_mnt = {
+				color={ 102 142 217 }
+				color2={ 255 255 255 }
+
+				# Atlas, just Atlas
+
+				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed
+				holy_site = ibadi
+			
+				b_tiaret = {
+					# Tingartia
+
+					maghreb_arabic = Tahert
+				}
+				b_djelfa = {
+					# Fallaba # I think?
+				}
+				b_bordj = {
+					# Tamanouna # I think?
+				}
+				b_elyourh = {
+					# Columnata # actually Sidi Hosni/Waldeck-Rousseau
+				}
+				b_selmana = {
+					# Cellense # technically 'Castellum Cellense' # also actually Sidi Hosni/Waldeck-Rousseau
+				}
+				b_ainrich = {
+					# Breucorum # technically 'Cohors Breucorum' # actually Henchir Souik near Takhemaret/Tagremaret
+				}
+				b_ainzmila = {
+				}
+				b_hassibenmadjeb = {
+					# Garmulana # making shit up
+				}
+			}
+			c_mzab = {
+				color={ 62 126 247 }
+				color2={ 255 255 255 }
+
+				# Cinnaba
+			
+				b_mzab = {
+					# Cinnaba # actually a mountain range
+				}
+				b_noumerat = {
+				}
+				b_sebseb = {
+				}
+				b_elalia = {
+				}
+				b_ouargla = {
+				}
+				b_zelfana = {
+				}
+				b_bermane = {
+				}
+				b_elbour = {
+				}
+			}
+			c_ouled_nail = {
+				color={ 174 138 30 }
+				color2={ 255 255 255 }
+
+				# Dimmidi
+			
+				b_tubirett = {
+					# Dimmidi
+				}
+				b_msila = {
+					# Aras # actually Tarmount
+				}
+				b_sidiheg = {
+					# Zabi # actually Bechilga
+				}
+				b_roumana = {
+					# Tatilti # actually Taraess
+				}
+				b_ainzia = {
+				}
+				b_sidinhar = {
+					# Equizeto # possibly actually Ouled Agla
+				}
+				b_beneldir = {
+				}
+				b_bordjelcaid = {
+				}
+			}
+			c_hanyan = {
+				color={ 141 131 71 }
+				color2={ 255 255 255 }
+
+				# Garaphi. I'm not sure if it's "Garaphi Mons" or "Garaphi Montes", but it's a thing.
+			
+				b_hanyan = {
+					# Lucu # actually Timziouine
+				}
+				b_naama = {
+				}
+				b_saida = {
+					# Tigit # actually Bénian
+				}
+				b_alkasdir = {
+					# Alamiliaria # 'Ala Miliaria', technically # actually also Bénian
+				}
+				b_alancha = {
+					# Aquae Sirenses # actually Hammam bou Hanifa
+				}
+				b_magoura = {
+				}
+				b_raselma = {
+				}
+				b_bougtob = {
+				}
+			}
+		}
+
+		d_darae = {
+			color={ 43 150 32 }
+			color2={ 255 255 255 }
+		
+			c_tharasset = {
+				color={ 47 154 36 }
+				color2={ 255 255 255 }
+			
+				b_tharasset = {
+				}
+				b_tartaya = {
+				}
+				b_tantan = {
+				}
+				b_akhfennir = {
+				}
+				b_chbika = {
+				}
+				b_tidergit = {
+				}
+				b_amot = {
+				}
+				b_tiglit = {
+				}
+			}
+			c_sijilmasa = {
+				color={ 72 214 60 }
+				color2={ 255 255 255 }
+			
+				b_sijilmasa = {}
+				b_merzouga = {}
+				b_tanamouste= {}
+				b_ertoud = {}
+				b_merzane = {}
+				b_hannabou = {}
+				b_tadaout = {}
+				b_tisserdmine = {}
+			}
+			c_ifni = {
+				color={ 49 156 38 }
+				color2={ 255 255 255 }
+			
+				b_ifni = {
+				}
+				b_tiznit = {
+				}
+				b_ouaouteit = {
+				}
+				b_rgab = {
+				}
+				b_guelmim = {
+				}
+				b_belkassem = {
+				}
+				b_mihrleft = {
+				}
+				b_tizgui = {
+				}
+			}
+			c_anti-atlas = {
+				color={ 51 158 40 }
+				color2={ 255 255 255 }
+			
+				b_agadir = {
+				}
+				b_taroudaut = {
+				}
+				b_tata = {
+				}
+				b_biourga = {
+				}
+				b_kasbaeljoua = {
+				}
+				b_argana = {
+				}
+				b_illrh = {
+				}
+				b_alogoum = {
+				}
+			}
+			c_canarias = {
+				color={ 60 190 43 }
+				color2={ 255 255 255 }
+		
+				b_grancanaria = {
+				}
+				b_tenerife = {
+				}
+				b_lagomera = {
+				}
+				b_lanzarote = {
+				}
+				b_fuerteventura = {
+				}
+				b_lagraciosa = {
+				}
+				b_alegranza = {
+				}
+				b_lapalma = {
+				}
+			}
+		}
+		d_tingitana = {
+			color={ 79 89 59 }
+			color2={ 255 255 255 }
+			
+			capital = 841 # Tangiers
+		
+			c_tangiers = {
+				color={ 92 106 81 }
+				color2={ 255 255 255 }
+				
+				# Tingitana
+			
+				b_tangiers = {
+					# Tingis
+				}
+				b_laraiche = {
+					# Zilis # actually Dchar Jdid
+					
+					mauro_roman = Zilil
+					moor = Zilil
+				}
+				b_mulaybuselham = {
+					# Cottae # actually cape spartel or thereabouts
+				}
+				b_alcazarquivir = {
+					# Tabernae # actually Lalla Djilaliya
+				}
+				b_asilah = {
+					# Ad Mercuri # actually Bled Mers
+				}
+				b_ainbenamar = {
+					# Ermaia (Akra) # actually Ras el Kouass
+				}
+				b_barrha = {
+					# Ampelusia (Promontory)
+				}
+				b_charkia = {
+				}
+			}
+			c_cebta = {
+				color={ 102 115 77 }
+				color2={ 255 255 255 }
+				
+				# Septem
+			
+				b_cueta = {
+					# Septem
+				}
+				b_tetouan = {
+					# Tamuda
+				}
+				b_Xauen = {
+					# Abyla # actually just another old name for Ceuta/Septem
+				}
+				b_aulef = {
+					# Oleastrum (Promontory)
+				}
+				b_babtaza = {
+					# Iagath
+				}
+				b_targuist = {
+					# Phoebi (Promontory)
+				}
+				b_mdiq = {
+					# Castellum # making shit up
+				}
+				b_martil = {
+					# Martinacum # Martil is the Moroccan name for what the Spanish had previously called the "Rio Martin"
+				}
+			}
+			c_el_rif = {
+				color={ 45 152 34 }
+				color2={ 255 255 255 }
+				
+				# Rusadir
+			
+				b_melilla = {
+					# Rusadir
+				}
+				b_alhoceima = {
+					# Cobucta # not Al Hoceima
+				}
+				b_midar = {
+					# Toenia # not Midar
+				}
+				b_ketama = {
+					# Parietina # not Ketama
+				}
+				b_nador = {
+					# IN THE FROZEN LAND OF NADOR, THEY WERE FORCED TO EAT ROBIN'S MINSTRELS
+					# AND THERE WAS MUCH REJOICING
+				}
+				b_driouch = {
+					# Cannarum (Promontory)
+				}
+				b_saka = {
+				}
+				b_geurcif = {
+				}
+			}
+			c_infa = {
+				color={ 48 255 6 }
+				color2={ 255 255 255 }
+				
+				# Lixus
+			
+				b_infa = {
+					# Lixus # not Ifna
+				}
+				b_rabat = {
+					# Rabatum
+				}
+				b_sale = {
+					# Sala
+				}
+				b_tiflet = {
+					# Oppidum Novum # actually Alcazarquivir, which is technically in the Tangiers province
+				}
+				b_berrechid = {
+					# Frigidae
+				}
+				b_azemmour = {
+					# Thamusida # actually Sidi Ali ben Ahmed
+				}
+				b_khouribga = {
+					# Thymiaterium # a Carthaginian settlement in the area
+				}
+				b_oulmes = {
+					# Pontium # not Oulmes
+				}
+			}
+			c_massat = {
+				color={ 53 160 42 }
+				color2={ 255 255 255 }
+				
+				# Zama
+			
+				b_essaouira = {
+					# Zama
+				}
+				b_akermoud = {
+				}
+				b_safi = {
+				} 
+				b_haddraa = {
+				}
+				b_aitelaouni = {
+				}
+				b_qumelaioun = {
+				}
+				b_aguedal = {
+				}
+				b_agouidir = {
+				}
+			}
+		}
+		d_volubilis = {
+			color={ 184 29 68 }
+			color2={ 255 255 255 }
+			
+			capital = 840 # Fes
+		
+			c_fes = {
+				color={ 148 48 78 }
+				color2={ 255 255 255 }
+				
+				# Volubilis
+				
+				moor = Walili
+			
+				b_fes = {
+					# Volubilis # nearby
+					
+					moor = Walili
+				}
+				b_meknes = {
+					# Vopisciana # not Meknes
+				}
+				b_zerhoun = {
+					# Tocolosida # actually by Bled Takourart
+				}
+				b_elhajeb = {
+					# Aquae Dacicae # actually Sidi Moulay Yakoub
+				}
+				b_sefrou = {
+					# Castrum Parthorum # there was a fort near present-day Sidi Moussa constructed to protect Volubilis, which was manned by Parthian soldiers. I don't know its actual name.
+				}
+				b_missour = {
+					# Castrum Gallorum # by Sidi Said was a Roman fort which served as the headquarters of the Cohors IV Gallorum. I have no idea what its actual name was.
+				}
+				b_enjil = {
+					# Castrum Asturum # by Ain Schkor was a fort which was manned by the Cohors I Asturum et Callaecorum. I have no idea what its actual name was.
+				}
+				b_bouanane = {
+					# Castrum Callaecorum # by Ain Schkor was a fort which was manned by the Cohors I Asturum et Callaecorum. I have no idea what its actual name was.
+				}
+			}
+			c_marrakech = {
+				color={ 201 88 122 }
+				color2={ 255 255 255 }
+				
+				# Pacatiana
+
+				holy_site = aztec
+				holy_site = aztec_reformed
+				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed
+				
+				b_marrakech = {
+					# Marrochium
+				}
+				b_sidirahhal = {
+					# Pacatiana # not sure where it exactly was!
+				}
+				b_ouarzazate = {
+					# Vesunorum # The Vesuni were an inland tribe in the area.
+				}
+				b_elanakir = {
+					# Macanitorum # The Macanitae were a tribe in the area.
+				}
+				b_demnat = {
+				}
+				b_asni = {
+				}
+				b_thineghir = {
+				}
+				b_alnif = {
+				}
+			}
+			c_figuig = {
+				color={ 198 15 51 }
+				color2={ 255 255 255 }
+				
+				# Molochath # IT'S A RIVERRRRR
+			
+				b_figuig = {
+					# Galapha # gonna be honest, not sure where this is
+				}
+				b_bouarfa = {
+					# Mulucha # another name for the Molochath
+				}
+				b_safsaf = {
+					# (Mons) Diur
+				}
+				b_benitajjit = {
+					# Malva # another name for the Molochath
+				}
+				b_ainechchair = {
+					# Herpeditanium # Herpeditani was a tribe in the area.
+				}
+				b_ich = {
+				}
+				b_bechar = {
+				}
+				b_boudnib = {
+					# Maurensium # Maurensii was a tribe in the area
+				}
+			}
+		}
+		d_altava = {
+			color={ 125 118 87 }
+			color2={ 255 255 255 }
+			
+			capital = 834 # Tlemcen
+			
+			c_tlemcen = {
+				color={ 88 83 61 }
+				color2={ 255 255 255 }
+
+				# Altava
+			
+				b_tlemcen = {
+					# Pomaria
+				}
+				b_sidibelabbes = {
+					# Altava # actually Ouled Mimoun
+				}
+				b_muaskar = {
+					# Siga # actually Takembrit
+				}
+				b_bedrabine = {
+					# Tepidae # actually Ain el Hammam/Sidi Abdelli
+				}
+				b_tessala = {
+					# Camarata # possibly Sidi Djelloul
+				}
+				b_letelagh = {
+					# Albulae # also Praesidium Sufative # actually Ain Temouchent
+				}
+				b_dhaya = {
+					# Portus Sigensis # actually the mouth of Oued Tafna
+				}
+				b_elhaicaiba = {
+					# Kaputtasaccora # actually Sidi Ali ben Yub / Chanzy
+				}
+			}
+			c_orania = {
+				color={ 45 192 79 }
+				color2={ 255 255 255 }
+
+				# Unica
+			
+				b_oran = {
+					# Unica
+				}
+				b_mostaganem = {
+					# Murustaga
+				}
+				b_aintemouchent = {
+					# Albulae
+				}
+				b_maghnia = {
+					# Numerus Syrorum
+				}
+				b_benisaf = {
+					# Camarata # actually Sidi Djelloul
+				}
+				b_ainelberd = {
+					# Ad Dracones # actually Hammam bou Hadjar
+				}
+				b_merselhadjad = {
+					# Portus Paulus
+				}
+				b_gdyel = {
+				}
+			}
+			c_snassen = {
+				color={ 163 157 135 }
+				color2={ 255 255 255 }
+
+				# Malva # 'Malva' is the Latin name for the Moulouya River, which runs along the eastern edge of this prov
+			
+				b_oujda = {
+					# Lemnis
+				}
+				b_jerada = {
+					# Ad Fratres
+					# Jerada only dates back to 1927, if I'm reading this French right.
+				}
+				b_saldia = {
+					# Artisiga
+					# Saldia only dates back to 1883
+				}
+				b_ainbenimathar = {
+					# Tres Insulae
+				}
+				b_debdou = {
+					# Mutha # damned if I know what Mutha is now.
+				}
+				b_tendrara = {
+				}
+				b_berkane = {
+				}
+				b_ahfir = {
+				}
+			}
+		}
+	}
+}

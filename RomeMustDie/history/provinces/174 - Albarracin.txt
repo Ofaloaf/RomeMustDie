@@ -5,9 +5,9 @@ title = c_albarracin
 
 # Settlements
 max_settlements = 4
-b_hijar = castle
+b_albarracin = castle
 b_teruel = city
-b_albarracin= temple
+b_hijar = temple
 #b_utrillas = castle
 #b_calanda = city
 #b_montalban = castle
@@ -15,5 +15,6 @@ b_albarracin= temple
 #b_alcaniz = castle
 
 # Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene
+

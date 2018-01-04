@@ -1,0 +1,16 @@
+# County Title
+title = c_muztau
+
+# Settlements
+max_settlements = 3
+
+b_muztau = tribal
+#b_zyryan =
+#b_oskemen =
+#b_urunkhayka =
+#b_kurchum =
+#b_uryl =
+
+# Misc
+culture = kirghiz
+religion = tengri_pagan

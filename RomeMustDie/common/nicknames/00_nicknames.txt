@@ -1,0 +1,53 @@
+#############################################
+# CHARACTER NICKNAMES
+# Independent dukes, kings and emperors only
+#
+# 'factor' is the percentage per year of 
+# gaining the nickname
+#
+#############################################
+
+# TRIGGERED ONLY
+################
+
+nick_the_prophet = {}
+
+# Roman conquests
+nick_germanicus = {}
+nick_germanica = {}
+nick_anticus = {}
+nick_antica = {}
+nick_arabicus = {}
+nick_arabica = {}
+nick_britannicus = {}
+nick_britannica = {}
+
+# GIVEN BY TRAITS
+#################
+nick_augustulus = {
+	allow = {
+		NOT = { age = 16 }
+		is_female = no
+		OR = {
+			has_landed_title = e_wre
+			has_landed_title = e_byzantium
+		}
+	}
+	chance = {
+		factor = 5
+	}
+}
+
+nick_augustula = {
+	allow = {
+		NOT = { age = 16 }
+		is_female = yes
+		OR = {
+			has_landed_title = e_wre
+			has_landed_title = e_byzantium
+		}
+	}
+	chance = {
+		factor = 5
+	}
+}

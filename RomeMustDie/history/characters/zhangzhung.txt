@@ -1,0 +1,46 @@
+243001 = {
+	name="Mukhö" 
+	# Fictional
+	# I have no idea who was king of Zhang Zhung in the 5th century, and I don't think anyone does.
+	dynasty=105809 #Lig
+	# but whoever ruled Zhangzhung was probably of the Lig or Ligmi dynasty, so, like, it's sort of in the spirit of what's right
+	culture = zhangzhung
+	religion=bon
+	
+	434.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+243002 = {
+	name="Göwar" 
+	# Fictional
+	dynasty=19110 # Pangong
+	
+	culture = zhangzhung
+	religion = bon
+	
+	450.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+243003 = {
+	name="Zutse"
+	# Fictional
+	dynasty=105900 # Ngam
+	religion="bon"
+	culture="zhangzhung"
+	431.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

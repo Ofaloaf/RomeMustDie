@@ -1,0 +1,141 @@
+1848001 = {
+	name="Viator"
+	# a comes under Nepos in Dalmatia
+	dynasty=1859002 # random
+	culture="pannonian"
+	religion="nicene"
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	learning=6
+	trait=temperate
+	trait=wrothful
+	trait=misguided_warrior
+	447.8.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1848002 = {
+	name="Nicetas"
+	# fictional
+	dynasty=753149
+	culture="pannonian"
+	religion="nicene"
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	learning=6
+	trait=kind
+	trait=greedy
+	trait=fortune_builder
+	429.8.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1848003 = {
+	name="Caius"
+	# fictional
+	dynasty=1859053
+	culture="pannonian"
+	religion="nicene"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=5
+	learning=4
+	trait=proud
+	442.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1848004 = {
+	name="Camundus"
+	# attested in 472
+	dynasty=1859043 # fictional dynasty
+	culture="pannonian"
+	religion="nicene"
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	learning=7
+	trait=proud
+	trait=misguided_warrior
+	448.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1848005 = {
+	name="Valerius"
+	# fictional
+	dynasty=1859020 # random
+	culture="pannonian"
+	religion="nicene"
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	learning=6
+	451.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1848006 = {
+	name="Thiamarcus"
+	# fictional
+	dynasty=1859021 # random
+	culture="pannonian"
+	religion="nicene"
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1848007 = {
+	name="Duras"
+	# fictional
+	dynasty=1859019 # random
+	culture="pannonian"
+	religion="nicene"
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

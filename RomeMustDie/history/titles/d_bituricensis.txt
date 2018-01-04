@@ -1,0 +1,17 @@
+1.1.1 = {
+
+	liege = "e_wre"
+
+}
+
+
+469.1.1 = {
+
+	liege = "k_visigothia"
+
+	vice_royalty = yes
+	name = AQUITANIA_PRIMA
+	adjective = AQUITANIA_PRIMA_adj
+	holder = 789039
+
+}

@@ -1,14 +1,17 @@
 1066001 = {
 	name="Hubaldus"
 	dynasty=1066001
-	martial=6
+	martial=7
 	diplomacy=6
 	intrigue=6
 	stewardship=6
+	learning=5
 	religion="norse_pagan"
 	culture="old_saxon"
 	trait="cruel"
+	trait=zealous
 	trait="greedy"
+	trait="ambitious"
 	431.1.1={
 		birth=yes
 	}
@@ -23,6 +26,184 @@
 	religion="norse_pagan"
 	culture="old_saxon"
 	433.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1066003 = {
+	name="Sigegato"
+	dynasty=1066006
+	martial=11
+	diplomacy=9
+	intrigue=7
+	stewardship=7
+	learning=6
+	religion="norse_pagan"
+	culture="old_saxon"
+	trait="proud"
+	439.3.9={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1066004 = {
+	name="Liemar"
+	dynasty=1066007
+	martial=7
+	diplomacy=8
+	intrigue=10
+	stewardship=9
+	learning=7
+	religion="norse_pagan"
+	culture="old_saxon"
+	443.2.2={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1066005 = {
+	name="Froda"
+	dynasty=1066008
+	martial=7
+	diplomacy=8
+	intrigue=10
+	stewardship=9
+	learning=7
+	religion="norse_pagan"
+	culture="old_saxon"
+	trait="proud"
+	trait="wroth"
+	trait="tough_soldier"
+	420.8.5={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1066006 = {
+	name="Hroða"
+	dynasty=1066009
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	learning=6
+	religion="norse_pagan"
+	culture="saxon"
+	trait="trusting"
+	trait="brave"
+	trait="lustful"
+	trait="fortune_builder"
+	445.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1066007 = {
+	name="Hengist"
+	dynasty=1066010
+	martial=9
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	learning=5
+	religion="norse_pagan"
+	culture="saxon"
+	trait="ambitious"
+	trait="brave"
+	trait="deceitful"
+	trait="fortune_builder"
+	428.1.1={
+		birth=yes
+	}
+	475.1.1 = {
+		wealth = 200
+	}
+	488.1.1={
+		death=yes
+	}
+}
+
+1066008 = {
+	name="Oisc"
+	dynasty=1066010
+	father=1066007
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=4
+	religion="norse_pagan"
+	culture="saxon"
+	457.1.1={
+		birth=yes
+	}
+	516.1.1={
+		death=yes
+	}
+}
+
+1066009 = {
+	name="Rippa"
+	dynasty=418
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	learning=5
+	religion="norse_pagan"
+	culture="saxon"
+	trait="scarred"
+	trait="just"
+	trait="misguided_warrior"
+	437.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1066010 = {
+	name="Wehha"
+	dynasty=418
+	father = 1066009
+	culture = saxon
+	religion="norse_pagan"
+	474.1.1={
+		birth=yes
+	}
+	560.1.1={
+		death=yes
+	}
+}
+
+1066011 = {
+	name="Offa"
+	dynasty=1047002
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="norse_pagan"
+	culture="old_saxon"
+	trait=shy
+	439.1.1={
 		birth=yes
 	}
 	500.1.1={

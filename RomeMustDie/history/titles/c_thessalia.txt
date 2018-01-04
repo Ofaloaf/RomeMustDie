@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = d_thessalia
+}
+468.1.1 = {
+	holder = 610043
+}

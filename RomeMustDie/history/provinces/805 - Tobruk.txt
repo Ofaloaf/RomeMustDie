@@ -18,5 +18,5 @@ b_tobruk = castle
 #b_rukbah = castle
 
 # Misc
-culture = graeci
-religion = nicene
+culture = moor
+religion = kemetic_pagan

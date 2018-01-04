@@ -1,4 +1,6 @@
+1.1.1 = {
+	liege = d_rhodope
+}
 470.1.1 = {
-	liege = d_thracia
-	holder = 410006
+	holder = 610036
 }

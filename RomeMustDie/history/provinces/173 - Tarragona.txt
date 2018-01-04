@@ -15,5 +15,6 @@ b_sancugat = temple
 #b_vendrell = city
 
 # Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene
+

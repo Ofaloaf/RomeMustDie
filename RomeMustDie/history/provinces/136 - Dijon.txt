@@ -15,5 +15,6 @@ b_autun = temple
 #b_noyers = castle
 #b_beaune = city
 
-culture = galloroman
+# Misc
+culture = gallo_roman
 religion = nicene

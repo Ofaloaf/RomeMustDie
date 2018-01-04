@@ -18,5 +18,5 @@ b_portella = city
 
 # Misc
 culture = graeci
-religion = nestorian
+religion = miaphysite
 terrain = mountain

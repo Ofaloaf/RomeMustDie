@@ -16,5 +16,5 @@ b_interlaken = temple
 #b_sursee = castle
 
 # Misc
-culture = galloroman
-religion = nicene
+culture = burgundi
+religion = arian

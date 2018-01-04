@@ -1,0 +1,49 @@
+475001 = {
+	name="Sporoi"
+	culture = antes
+}
+
+475002 = {
+	name = Trivestius
+	culture = antes
+}
+
+475003 = {
+	name = Ulichius
+	culture = antes
+}
+
+475004 = {
+	name = Bozid
+	culture = antes
+}
+
+475005 = {
+	name = Idarizid
+	culture = antes
+}
+
+475006 = {
+	name = Musocianus
+	culture = antes
+}
+
+475007 = {
+	name = Drevlyani
+	culture = antes
+}
+
+475008 = {
+	name = Severyani
+	culture = antes
+}
+
+475009 = {
+	name = Duljebi
+	culture = antes
+}
+
+475010 = {
+	name = Neuri
+	culture = antes
+}

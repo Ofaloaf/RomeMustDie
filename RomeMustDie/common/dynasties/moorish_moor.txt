@@ -1,0 +1,114 @@
+1954001 = {
+	name = "Icawiyen"
+	culture = moor
+}
+
+1954002 = {
+	name = "Iznasen"
+	culture = moor
+}
+
+1954003 = {
+	name = "Meshwesh"
+	culture = moor
+}
+
+1954004 = {
+	name = "Iqvayliyen"
+	culture = moor
+}
+
+1954005 = {
+	name = "Demagh"
+	culture = moor
+}
+
+1954006 = {
+	name = "Benflis"
+	culture = moor
+}
+
+1954007 = {
+	name = "Yahia"
+	culture = moor
+}
+
+1954008 = {
+	name = "Annab"
+	culture = moor
+}
+
+1954010 = {
+	name = "Azhnag"
+	culture = moor
+}
+
+1954011 = {
+	name = "Masmuda"
+	culture = moor
+}
+
+1954012 = {
+	name = "Barghawata"
+	culture = moor
+}
+
+1954013 = {
+	name = "Ghomara"
+	culture = moor
+}
+
+1954014 = {
+	name = "Zejeli"
+	culture = moor
+}
+
+1954015 = {
+	name = "Regraga"
+	culture = moor
+}
+
+1954016 = {
+	name = "Ihahan"
+	culture = moor
+}
+
+1954017 = {
+	name = "Hezerga"
+	culture = moor
+}
+
+1954018 = {
+	name = "Idukalen"
+	culture = moor
+}
+
+1954019 = {
+	name = "Tinmel"
+	culture = moor
+}
+
+1954020 = {
+	name = "Jarawa"
+	culture = moor
+}
+
+1954021 = {
+	name = Luwata
+	culture = moor
+}
+
+1954022 = {
+	name = "Ilaguas"
+	culture = moor
+}
+
+1954023 = {
+	name = "Ichenwiyen"
+	culture = moor
+}
+
+1954024 = {
+	name = "Awilan"
+	culture = moor
+}

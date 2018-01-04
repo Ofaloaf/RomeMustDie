@@ -1,4 +1,0 @@
-470.1.1 = {
-	liege = "d_numidia"
-	holder = 1962006
-}

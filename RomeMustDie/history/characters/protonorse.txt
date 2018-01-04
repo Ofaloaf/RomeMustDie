@@ -1,0 +1,349 @@
+3182001 = {
+	name = "Bjæring"
+	dynasty = 3182005 # Augandzi
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=5
+	culture="protonorse"
+	religion="norse_pagan"
+	440.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182002 = {
+	name = "Halbadaniz"
+	dynasty = 3182001 #
+	diplomacy=6
+	martial=7
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	trait=cruel
+	442.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182003 = {
+	name = "Raumiz"
+	# Raum the Old, but young.
+	dynasty = 3182016
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	trait=ugly
+	459.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182004 = {
+	name = "Þewa-alfaz"
+	# Þjálfi
+	dynasty = 3182017
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	444.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182005 = {
+	name = "Hölgi"
+	# fictional
+	dynasty = 3182018
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	430.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182006 = {
+	name = "Godgest"
+	# king of Halogaland in the Heimskringla. Snorri Sturlson menstions a Gudlög/Guðlaugr.
+	dynasty = 3182018
+	father = 3182005
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	450.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182007 = {
+	name = "Hroðiwulfaz"
+	# A "Roduulf Rex" of the "Ranii" showed up at Theoderic the Great's around AD 500. The above name is the reconstructed Proto-Norse form of that name.
+	dynasty = 3182019 # 'Ranius' is just latin tho, sorry
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	459.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182008 = {
+	name = "Fulcagaizaz"
+	# Jordanes, writing in the 6th century, mentions the 'Ahelmil' in what seems to be Halland. No idea who actually led it tho.
+	dynasty = 3182020 # Ahelmil
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	440.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+
+3182009 = {
+	name = "Hrøðingaz"
+	# Fucking TACITUS wrote about the Aviones. Then Widsith, goddamned centuries later, mentions the 'Eowan'. Turns out the two are connected! And the tribe could've either be near Frisian and Jutland, or on Oland. I'm putting the Aviones on Oland!
+	dynasty = 3182021 # Awioniz
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	432.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182010 = {
+	name = "Wulfaz"
+	# I don't know who lived in Rogaland!
+	dynasty = 3182022 #
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	429.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182011 = {
+	name = "Þjoðrikiz"
+	# Fictional, pretty much.
+	dynasty = 3182023 # 'Vakiagautiz' is my incredibly novice attempt at deriving a Proto-Norse tribal name from the 'Vagoth' people that Jordanes briefly mentions.
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	448.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182012 = {
+	name = "Swartingaz"
+	# Swerting
+	dynasty = 3182024 # Hretheling
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	410.1.1 = {
+		birth=yes
+	}
+	465.1.1 = {
+		death=yes
+	}
+}
+
+3182013 = {
+	name = "Hroþilon"
+	# Hrethel
+	dynasty = 3182024 # Hretheling
+	father = 3182012
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	433.1.1 = {
+		birth=yes
+	}
+	480.1.1 = {
+		death=yes
+	}
+}
+
+3182014 = {
+	name = "Harjabalðraz"
+	# Taking a wild, novice attempt at rendering a Proto-Norse form of 'Herebeald'
+	dynasty = 3182024 # Hretheling
+	father = 3182013
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	452.1.1 = {
+		birth=yes
+	}
+	480.1.1 = {
+		death=yes
+	}
+}
+
+3182015 = {
+	name = "Haþukunjaz"
+	# Haeþcyn
+	dynasty = 3182024 # Hretheling
+	father = 3182013
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	455.1.1 = {
+		birth=yes
+	}
+	515.1.1 = {
+		death=yes
+	}
+}
+
+3182016 = {
+	name = "Hugilaikaz"
+	# Hygelac
+	dynasty = 3182024 # Hretheling
+	father = 3182013
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	457.1.1 = {
+		birth=yes
+	}
+	521.1.1 = {
+		death=yes
+	}
+}
+
+3182017 = {
+	name = "Ansufriþioz"
+	# arbitrary name for the name of Beowulf's mother!
+	female=yes # IMPORTANT!!!
+	dynasty = 3182024 # Hretheling
+	father = 3182013
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	456.1.1 = {
+		birth=yes
+	}
+	515.1.1 = {
+		death=yes
+	}
+}
+
+3182018 = {
+	name = "Anganaþewaz"
+	# Ongentheow/Agantyr
+	dynasty = 3182025 # Scylfing
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	445.1.1 = {
+		birth=yes
+	}
+	510.1.1 = {
+		death=yes
+	}
+}

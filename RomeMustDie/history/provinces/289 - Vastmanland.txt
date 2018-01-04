@@ -1,0 +1,20 @@
+# 289 - Västmanland
+
+# County Title
+title = c_vastmanland
+
+# Settlements
+max_settlements = 4
+b_kopingshus = tribal
+
+#b_vasteras = city
+#b_koping = city
+#b_arboga = city
+#b_norberg 
+#b_skinnskatteberg 
+#b_badelunda 
+#b_munktorp 
+
+# Misc
+culture = protonorse
+religion = norse_pagan

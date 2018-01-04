@@ -1,4 +1,0 @@
-1.1.1 = {
-	#name = LUGDUNENSIS_TERTIA
-	#adjective = LUGDUNENSIS_TERTIA_adj
-}

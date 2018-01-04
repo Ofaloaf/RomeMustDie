@@ -17,4 +17,4 @@ b_praha = tribal
 
 # Misc
 culture = suebi
-religion = norse_pagan
+religion = arian

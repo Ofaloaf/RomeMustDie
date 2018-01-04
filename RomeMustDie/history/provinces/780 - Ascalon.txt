@@ -16,5 +16,5 @@ b_agelen = temple
 #b_semsem = castle
 
 # Misc
-culture = assyrian
-religion = nicene
+culture = graeci
+religion = miaphysite

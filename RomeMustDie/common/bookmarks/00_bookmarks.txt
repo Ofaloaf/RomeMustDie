@@ -1,0 +1,144 @@
+bm_britannia = {
+	name = "BM_BRITANNIA_ERA"
+	desc = "BM_BRITANNIA_ERA_INFO"
+	date = 475.11.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	
+	selectable_character = {
+		id = 1589011	# Cadell of Powys
+		age = 16
+		#name = ERA_CHAR_NAME_6392
+		title = d_pagensis
+		
+		character = {
+			dna = aldccxlhgaf
+			properties = ai0afa000000
+			religion="nicene"
+			culture="romano_british"
+			government = warlord_government
+			dynasty=1589013
+		}
+	}
+	
+	selectable_character = {
+		id = 1066007	# Hengist of Kent
+		age = 16
+		title = d_cantia
+		
+		character = {
+			dna = tctbpftnsvn
+			properties = tg0djd000000
+			religion="norse_pagan"
+			culture="saxon"
+			government = warlord_government
+			dynasty=1066010
+		}
+	}
+}
+
+bm_the_old_gods = {
+	name = "BM_THE_OLD_GODS_ERA"
+	desc = "BM_THE_OLD_GODS_ERA_INFO"
+	date = 475.11.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_2
+
+	selectable_character = {
+		id = 789005
+		age = 39
+		#name = ERA_CHAR_NAME_6392
+		title = c_amiens
+		#title_name = WEST_FRANCIA
+		
+		character = {
+			dna = bcedirmbfcy
+			properties = aj00bc00000
+			religion="catholic"
+			culture="gallo_roman"
+			government = feudal_government
+			dynasty=451032
+		}
+	}
+}
+
+bm_fate_of_england = {
+	name = "BM_FATE_OF_ENGLAND_ERA"
+	desc = "BM_FATE_OF_ENGLAND_ERA_INFO"
+	date = 475.11.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_3
+	custom_start = yes				## Choosing "Custom Start" will open this bookmark
+
+	selectable_character = {
+		id = 789005
+		age = 39
+		#name = ERA_CHAR_NAME_6392
+		title = c_amiens
+		#title_name = WEST_FRANCIA
+		
+		character = {
+			dna = bcedirmbfcy
+			properties = aj00bc00000
+			religion="catholic"
+			culture="gallo_roman"
+			government = feudal_government
+			dynasty=451032
+		}
+	}	
+}
+
+bm_the_mongols = {
+	name = "BM_THE_MONGOLS_ERA"
+	desc = "BM_THE_MONGOLS_ERA_INFO"
+	date = 475.11.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_4
+	
+	selectable_character = {
+		id = 789005
+		age = 39
+		#name = ERA_CHAR_NAME_6392
+		title = c_amiens
+		#title_name = WEST_FRANCIA
+		
+		character = {
+			dna = bcedirmbfcy
+			properties = aj00bc00000
+			religion="catholic"
+			culture="gallo_roman"
+			government = feudal_government
+			dynasty=451032
+		}
+	}
+}
+
+bm_100_years_war = {
+	name = "BM_100_YEARS_WAR_ERA"
+	desc = "BM_100_YEARS_WAR_ERA_INFO"
+	date = 475.11.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_5
+	
+	selectable_character = {
+		id = 789005
+		age = 39
+		#name = ERA_CHAR_NAME_6392
+		title = c_amiens
+		#title_name = WEST_FRANCIA
+		
+		character = {
+			dna = bcedirmbfcy
+			properties = aj00bc00000
+			religion="catholic"
+			culture="gallo_roman"
+			government = feudal_government
+			dynasty=451032
+		}
+	}
+}

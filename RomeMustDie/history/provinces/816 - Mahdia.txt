@@ -17,5 +17,5 @@ b_msaken = castle
 #b_lacroix = castle
 
 # Misc
-culture = punic
-religion = donatist
+culture = mauro_roman
+religion = nicene

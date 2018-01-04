@@ -1,0 +1,28 @@
+244001 = {
+	name="Kui" # making up a dude
+	dynasty=1055021
+	religion="taoist"
+	culture="han"
+	trait=tough_soldier
+	martial = 10
+	430.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+244002 = {
+	name="Bozhou"
+	dynasty=463001 # Kan
+	religion="buddhist"
+	culture="han"
+	trait=craven
+	430.1.1={
+		birth=yes
+	}
+	477.1.1={
+		death=yes
+	}
+}

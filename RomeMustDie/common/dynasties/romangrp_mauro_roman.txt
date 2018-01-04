@@ -1,0 +1,144 @@
+1962001 = {
+	name = "Awras"
+	culture = mauro_roman
+}
+
+1962002 = {
+	name = "Barghawata"
+	culture = maghreb_arabic
+}
+
+1962003 = {
+	name = "Baquatus"
+	culture = mauro_roman
+}
+
+1962004 = {
+	name = "Ucutamanus"
+	culture = mauro_roman
+}
+
+1962005 = {
+	name = "Miknasa"
+	culture = mauro_roman
+}
+
+1962006 = {
+	name = "Musonius"
+	culture = mauro_roman
+}
+
+1962007 = {
+	name = "Rulasen"
+	culture = mauro_roman
+}
+
+1962008 = {
+	name = "Mastracianus"
+	culture = mauro_roman
+}
+
+1962009 = {
+	name = "Rogathinus"
+	culture = mauro_roman
+}
+
+1962010 = {
+	name = "Frexenses"
+	culture = mauro_roman
+}
+
+1962011 = {
+	name = "Ruspensis"
+	culture = mauro_roman
+}
+
+1962012 = {
+	name = "Saldaensis"
+	culture = mauro_roman
+}
+
+1962013 = {
+	name = "Tacapensis"
+	culture = mauro_roman
+}
+
+1962014 = {
+	name = "Ruspinensis"
+	culture = mauro_roman
+}
+
+1962015 = {
+	name = "Rusadirensis"
+	culture = mauro_roman
+}
+
+1962016 = {
+	name = "Volubiliensis"
+	culture = mauro_roman
+}
+
+1962017 = {
+	name = "Iomniensis"
+	culture = mauro_roman
+}
+
+1962018 = {
+	name = "Augilensis"
+	culture = mauro_roman
+}
+
+1962019 = {
+	name = "Cucuphas"
+	culture = mauro_roman
+}
+
+1962020 = {
+	name = "Scilliensis"
+	culture = mauro_roman
+}
+
+1962021 = {
+	name = "Nemesianus"
+	culture = mauro_roman
+}
+
+1962022 = {
+	name = Lenusaeus
+	#culture = mauro_roman
+}
+
+1962023 = {
+	name = Massonas
+	culture = mauro_roman
+}
+
+1962024 = {
+	name = Austurianus
+	culture = mauro_roman
+}
+
+1962025 = {
+	name = Sebastenus
+	culture = mauro_roman
+}
+
+1962026 = {
+	name = Quinquegentianus
+	culture = mauro_roman
+}
+
+1962027 = {
+	name = Fraxinensis
+	culture = mauro_roman
+}
+
+1962028 = {
+	name = Musulamius
+	culture = mauro_roman
+}
+
+1962029 = {
+	name = Cinithius
+	culture = mauro_roman
+}

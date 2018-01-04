@@ -1,0 +1,83 @@
+632001 = {
+	name = "Ghassanid"
+	culture = bedouin_arabic
+}
+
+632002 = {
+	name = Tubba
+	culture = bedouin_arabic
+	religion = jewish
+}
+
+632003 = {
+	name = "al-Najrani"
+	culture = bedouin_arabic
+}
+
+632004 = {
+	name = "Lakhmid"
+	culture = bedouin_arabic
+}
+
+632005 = {
+	name = "al-Lihyani"
+	culture = bedouin_arabic
+}
+
+632006 = {
+	name = "Hanifid" # Banu Hanifa
+	culture = bedouin_arabic
+	religion = sunni
+}
+
+632007 = {
+	name = Tamimid # Banu Tamim
+	culture = bedouin_arabic
+	religion = sunni
+}
+
+632008 = {
+	name = "Al-'Uyuni"
+	culture = bedouin_arabic
+	religion = sunni
+}
+
+632009 = {
+	name = "Kindah"
+	culture = bedouin_arabic
+	religion = sunni
+}
+
+632010 = {
+	name = "al-Dawsi"	# Dawsid? Banu Daws
+	culture = bedouin_arabic
+	religion = sunni
+}
+
+632011 = {
+	name = "al-Ghatafani" # Ghatafan
+	culture = bedouin_arabic
+	religion = sunni
+}
+
+632012 = {
+	name = "al-Udhrahi" # Banu Udhrah
+	culture = bedouin_arabic
+	religion = sunni
+}
+
+632013 = {
+	name = "al-Kalbi"
+	culture = bedouin_arabic
+	religion = sunni
+}
+
+632014 = {
+	name = Tanukhid
+	culture = bedouin_arabic
+}
+
+632015 = {
+	name = Salihid
+	culture = bedouin_arabic
+}

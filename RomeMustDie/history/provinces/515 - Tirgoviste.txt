@@ -17,5 +17,5 @@ b_curteadearges = temple
 #b_ploiesti = city
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene

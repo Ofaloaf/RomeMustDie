@@ -1,4 +1,7 @@
 473.1.1 = {
-	liege = "d_lugdunensis"
-	holder = 793007
+
+	liege = "k_burgundy"
+
+	holder = 793004
+
 }

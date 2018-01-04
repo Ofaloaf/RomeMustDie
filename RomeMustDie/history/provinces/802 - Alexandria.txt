@@ -4,12 +4,12 @@
 title = c_alexandria
 
 # Settlements
-max_settlements = 6
+max_settlements = 7
 b_abukir = castle
-b_alexandria = temple
 b_burgelarab = castle
+b_alexandria = temple
 b_marabout = city
-b_hammam = castle
+b_hammam = city
 
 #b_damanhur = temple
 #b_naucratis = castle
@@ -18,5 +18,3 @@ b_hammam = castle
 # Misc
 culture = graeci
 religion = miaphysite
-
-# History

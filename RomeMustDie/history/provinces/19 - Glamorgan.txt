@@ -17,5 +17,7 @@ b_swansea = city
 
 # Misc
 culture = welsh
-religion = pelagian
+religion = nicene
 terrain = hills
+
+# History

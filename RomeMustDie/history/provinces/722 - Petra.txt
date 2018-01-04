@@ -17,6 +17,6 @@ b_petra = temple
 
 # Misc
 culture = assyrian
-religion = nicene
+religion = nestorian
 
 # History

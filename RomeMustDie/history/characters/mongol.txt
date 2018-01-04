@@ -1,0 +1,76 @@
+217001 = {
+	name = "Hong" #
+	dynasty = 1029317 # Tuoba
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion = buddhist
+	culture = mongol
+	467.10.13 = {
+		birth = yes
+	}
+	471.9.20 = {
+		name = "Xiaowen"
+		dynasty = 499001 # Yuan
+	}
+	499.4.26 = {
+		death = yes
+	}
+}
+
+217002 = {
+	name = "Yucheng" #
+	dynasty = 499002 # Yujiulü
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion = tengri_pagan
+	culture = mongol
+	435.1.1 = {
+		birth = yes
+	}
+	485.1.1 = {
+		death = yes
+	}
+}
+
+217003 = {
+	name="Shùluògan"
+	dynasty = 105818
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="mongol"
+	religion="buddhist"
+	430.1.1={
+		birth=yes
+	}
+	481.1.1={
+		death=yes
+	}
+}
+
+217004 = {
+	name="Afúzhìluó"
+	# 12 years early
+	dynasty = 1051141
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="mongol"
+	religion="tengri_pagan"
+	450.1.1={
+		birth=yes
+	}
+	503.1.1={
+		death=yes
+	}
+}

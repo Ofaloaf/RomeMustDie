@@ -17,5 +17,5 @@ b_albi = temple
 #b_agde = city
 
 #Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

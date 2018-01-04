@@ -16,5 +16,5 @@ b_stjeandangely = temple
 #b_taillebourg = castle
 
 #Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

@@ -6,9 +6,10 @@ title = c_beni_yanni
 # Settlements
 max_settlements = 4
 
-b_rusuccurum = castle
-b_azeffoun = city
-b_tigzirt = temple
+b_tigzirt = castle
+b_bourmedes = temple
+b_tafoughalt = city
+#b_bujima = castle
 
 #b_azeffoun = castle
 #b_taoudouch = castle
@@ -16,5 +17,5 @@ b_tigzirt = temple
 #b_thiza = castle
 
 # Misc
-culture = mauri
+culture = mauro_roman
 religion = nicene

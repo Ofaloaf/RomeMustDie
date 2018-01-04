@@ -7,7 +7,15 @@ title = c_meissen
 max_settlements = 5
 b_dresden = tribal
 
+#b_dohna = city
+#b_meissen = temple
+#b_belgern = castle # Called Altenburg
+#b_strehla = castle
+#b_rabenau = castle
+#b_wettin = castle
+#b_radeburg = city
 
 # Misc
-culture = thuringian
+culture = thuringi
 religion = norse_pagan
+

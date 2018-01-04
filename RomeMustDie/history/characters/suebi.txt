@@ -1,0 +1,71 @@
+409001 = {
+	name="Hermeneric"
+	dynasty=409001
+	martial=9
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	learning=6
+	culture="suebi"
+	religion="arian"
+	trait="cruel"
+	trait="zealous"
+	445.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+409002 = {
+	name="Veremund"
+	dynasty=409002
+	culture="suebi"
+	religion="arian"
+	trait="deceitful"
+	trait="ambitious"
+	448.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+409003 = {
+	name="Rakericus"
+	dynasty=496020
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	learning=6
+	culture="suebi"
+	religion="norse_pagan"
+	trait="craven"
+	443.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+409004 = {
+	name="Hunimund"
+	dynasty=409016
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="suebi"
+	religion="arian"
+	422.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

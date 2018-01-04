@@ -1,4 +1,4 @@
-473.1.1 = {
-	liege = "d_divio"
-	holder = 793009
+473.1.1={
+	liege = d_divio
+	holder= 793009
 }

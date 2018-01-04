@@ -18,5 +18,5 @@ b_rushen = tribal
 
 # Misc
 terrain = hills
-culture = welsh
-religion = druidic
+culture = irish
+religion = celtic_pagan

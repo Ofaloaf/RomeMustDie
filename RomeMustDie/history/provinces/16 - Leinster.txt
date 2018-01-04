@@ -17,4 +17,4 @@ b_ferns = temple
 
 # Misc
 culture = irish
-religion = druidic
+religion = nicene

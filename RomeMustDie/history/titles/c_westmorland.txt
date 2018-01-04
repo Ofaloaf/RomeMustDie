@@ -1,7 +1,4 @@
-450.1.1 = {
-	liege = d_eboracum 
-	holder = 1589020 # Marius, Mor ap Ceneu
-}
-470.1.1 = {
-	holder = 1589021 # Artorius
+448.1.1 = {
+	liege = d_recet
+	holder = 1589064
 }

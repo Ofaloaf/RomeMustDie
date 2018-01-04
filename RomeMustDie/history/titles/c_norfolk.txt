@@ -1,4 +1,3 @@
 475.1.1 = {
-	liege = d_anglia
-	holder = 449006
+	holder = 1066009
 }

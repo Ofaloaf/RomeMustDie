@@ -1,6 +1,11 @@
-450.1.1 = {
-	holder = 562001 # Ardaric
+445.1.1 = {
+	holder = 454001
+	law = succ_feudal_elective
+	law = agnatic_succession
 }
 460.1.1 = {
-	holder = 562002 # Gunderit
+	holder = 454002
+}
+470.1.1 = {
+	holder = 454003
 }

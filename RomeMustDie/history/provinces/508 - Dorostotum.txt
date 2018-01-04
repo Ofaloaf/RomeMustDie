@@ -16,5 +16,5 @@ b_shumen = temple
 #b_samuil = castle
 
 # Misc
-culture = roman
-religion = nicene
+culture = ostrogothi
+religion = arian

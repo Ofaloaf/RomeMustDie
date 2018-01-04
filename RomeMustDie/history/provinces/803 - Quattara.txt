@@ -16,5 +16,5 @@ b_siwa = temple
 #b_ziwaelbahari = castle
 
 # Misc
-culture = maghreb_arabic
-religion = pagan
+culture = moor
+religion = kemetic_pagan

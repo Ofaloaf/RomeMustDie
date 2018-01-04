@@ -17,6 +17,6 @@ b_narona = temple
 #b_sipan = castle
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene
 terrain = mountain

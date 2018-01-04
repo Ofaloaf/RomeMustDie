@@ -1,0 +1,124 @@
+3182001 = {
+	name = "Skjöldung"
+	culture = protonorse
+}
+
+3182002 = {
+	name = "Volsung"
+	culture = protonorse
+}
+
+3182003 = {
+	name = "Wægmunding"
+	culture = protonorse
+}
+
+3182004 = {
+	name = "Wulfing"
+	culture = protonorse
+}
+
+3182005 = {
+	name = Augandzi
+	culture = protonorse
+}
+
+3182006 = {
+	name = Fleinn # 'Pike' in Old Norse
+	culture = protonorse
+}
+
+3182007 = {
+	name = Faxi # 'Mane' or 'Horse'
+	culture = protonorse
+}
+
+3182008 = {
+	name = Skammhals # 'Short-neck'
+	culture = protonorse
+}
+
+3182009 = {
+	name = Skalli # 'bald-pate'
+	culture = protonorse
+}
+
+3182010 = {
+	name = Snúinbrók # 'Twisted Tartan'
+	culture = protonorse
+}
+
+3182011 = {
+	name = Pái # 'Peacock'
+	culture = protonorse
+}
+
+3182012 = {
+	name = Porsi # 'bog myrtle'
+	culture = protonorse
+}
+
+3182013 = {
+	name = Ryggia
+	culture = protonorse
+}
+
+3182014 = {
+	name = Samuz
+	culture = protonorse
+}
+
+3182015 = {
+	name = Sæmingaz # from Sampi-lands
+	culture = protonorse
+}
+
+3182016 = {
+	name = Raumaz
+	culture = protonorse
+}
+
+3182017 = {
+	name = Gutaniz
+	culture = protonorse
+}
+
+3182018 = {
+	name = Háleygr
+	culture = protonorse
+}
+
+3182019 = {
+	name = Ranius
+	culture = protonorse
+}
+
+3182020 = {
+	name = Ahelmil
+	culture = protonorse
+}
+
+3182021 = {
+	name = Awioniz
+	culture = protonorse
+}
+
+3182022 = {
+	name = Rygiz # another rendering of the Rugian name. Old Norse mentions the 'Rygir' and in Protonorse the -r of Old Norse could also be rendered as a -z.
+	culture = protonorse
+}
+
+3182023 = {
+	name = Vakiagautiz # Wild speculation on a Proto-Norse form of the 'Vagoth' tribe mentioned by Jordanes
+	culture = protonorse
+}
+
+3182024 = {
+	name = Hroþilingaz # Hretheling
+	culture = protonorse
+}
+
+3182025 = {
+	name = Skilfing # Scylfing
+	culture = protonorse
+}

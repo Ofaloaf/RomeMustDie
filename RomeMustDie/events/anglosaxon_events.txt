@@ -1,0 +1,260 @@
+###################################
+#
+# Anglo-Saxon invasion events
+#
+###################################
+
+namespace = hastings
+
+# Rumors of an Aelle-ian Threat
+narrative_event = {
+	id = hastings.100
+	title = EVTNAMEHASTINGS100
+	desc = EVTDESCHASTINGS100
+	major = yes
+	
+	picture = "GFX_evt_emissary"
+	border = "GFX_event_narrative_frame_war"
+	
+	only_playable = yes
+	religion = catholic
+	only_men = yes
+	min_age = 16
+	
+	trigger = {
+		year = 476
+		
+		controls_religion = yes # Let it happen for the Pope - he's always around
+		
+		NOT = { has_global_flag = aelle_spawns }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		set_global_flag = aelle_spawns
+		create_random_soldier = {
+			random_traits = no
+			dynasty = 101916 # Toluid
+			name = "Ælle"
+			culture = saxon
+			religion = norse_pagan
+			age = 30
+			attributes = {
+				martial = 8
+				diplomacy = 4
+				stewardship = 5
+				intrigue = 4
+				learning = 3
+			}
+			health = 6
+			fertility = 0.7
+			trait = brilliant_strategist
+			trait = ambitious
+			trait = cruel
+			trait = proud
+			trait = brave
+		}
+		new_character = {
+			set_character_flag = aelle_himself
+			set_character_flag = horde_invader
+			set_character_flag = do_not_disturb
+		}
+		any_playable_ruler = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_AELLE_RUMORS
+				portrait = [New.GetID]
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTAHASTINGS100"
+	}
+}
+
+# Arrival of Aelle
+narrative_event = {
+	id = hastings.101
+	title = "EVTNAMEHASTINGS101"
+	desc = "EVTDESCHASTINGS101"
+	major = yes
+	hide_new = yes
+	
+	picture = "GFX_evt_battle"
+	border = "GFX_event_narrative_frame_war"
+	
+	only_playable = yes
+	
+	trigger = {
+		year = 477
+		has_character_flag = aelle_himself
+		NOT = { year = 500 }
+		NOT = { has_global_flag = aelle_invades }
+	}
+	
+	mean_time_to_happen = {
+		months = 6
+	}
+	
+	option = {
+		name = "OK"
+		trigger = {
+			has_character_flag = aelle_himself
+		}
+		set_global_flag = aelle_invades
+		wealth = 2000
+		set_defacto_liege = ROOT
+			create_title = {
+			tier = DUKE
+			landless = yes
+			temporary = yes
+			culture = ROOT
+			name = "CLAIMANT_ADVENTURE"
+			holder = ROOT
+		}
+		25 = { # Sussex
+			kingdom = {
+				ROOT = {
+					war = {
+						casus_belli = anglosaxon_invasion
+						target = PREVPREV # The top liege of the owner
+						thirdparty_title = PREV # The de jure kingdom
+					}
+				}
+			}
+		}
+		spawn_unit = {
+			province = 25 # Sussex
+			troops ={
+				light_infantry = { 600 600 }
+				pikemen = { 600 600 }
+				archers = { 120 120 }
+				heavy_infantry = { 600 600 }
+			}
+		}
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = norse_pagan
+			culture = ROOT
+			female = no
+			age = 21
+			attributes = {
+				martial = 10
+			}
+			trait = brilliant_strategist
+		}
+		new_character = {
+			spawn_unit = {
+				province = 25 # Sussex
+				troops ={
+					light_infantry = { 400 400 }
+					pikemen = { 400 400 }
+					archers = { 100 100 }
+					heavy_infantry = { 300 300 }
+				}
+			}
+		}
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = norse_pagan
+			culture = ROOT
+			female = no
+			age = 26
+			attributes = {
+				martial = 8
+			}
+			trait = skilled_tactician
+		}
+		new_character = {
+			spawn_unit = {
+				province = 25 # Sussex
+				troops ={
+					light_infantry = { 400 400 }
+					pikemen = { 400 400 }
+					archers = { 100 100 }
+					heavy_infantry = { 300 300 }
+				}
+			}
+		}
+		
+		# Some extra courtiers
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = norse_pagan
+			culture = ROOT
+			female = no
+			age = 16
+		}
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = norse_pagan
+			culture = ROOT
+			female = no
+			age = 38
+		}
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = norse_pagan
+			culture = ROOT
+			female = no
+			age = 30
+		}
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = norse_pagan
+			culture = ROOT
+			female = yes
+			age = 16
+		}
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = norse_pagan
+			culture = ROOT
+			female = yes
+			age = 19
+		}
+	}
+	option = {
+		name = "EVTOPTB60001"
+		trigger = {
+			culture_group = germani
+			NOT = { has_character_flag = aelle_himself }
+		}
+	}
+	option = {
+		name = "EVTOPTC60001"
+		trigger = {
+			OR = {
+				culture = welsh
+				culture = pictish
+				culture = irish
+				culture = romano_british
+			}
+			NOT = { has_character_flag = aelle_himself }
+		}
+	}
+	option = {
+		name = "EVTOPTD60001"
+		trigger = {
+			NOR = {
+				culture = welsh
+				culture = pictish
+				culture = irish
+				culture = romano_british
+				culture_group = germani
+			}
+			NOT = { has_character_flag = aelle_himself }
+		}
+	}
+}

@@ -16,5 +16,5 @@ b_grimaud = castle
 #b_tarascon = castle
 
 # Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

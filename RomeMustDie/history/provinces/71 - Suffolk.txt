@@ -8,7 +8,7 @@ max_settlements = 4
 b_ipswich = castle
 
 b_ely = temple
-b_bury = city
+#b_bury = city
 #b_lowestoft = castle
 #b_dunwich = castle
 #b_stow = castle
@@ -16,5 +16,5 @@ b_bury = city
 #b_bungay = castle
 
 # Misc
-culture = saxon
-religion = norse_pagan
+culture = romano_british
+religion = nicene

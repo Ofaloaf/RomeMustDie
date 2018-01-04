@@ -17,4 +17,6 @@ b_kerak = city
 
 # Misc
 culture = assyrian
-religion = nicene
+religion = nestorian
+
+# History

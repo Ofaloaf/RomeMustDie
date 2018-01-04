@@ -15,5 +15,8 @@ b_courtenay = city
 #b_clamecy = city
 #b_cosne = city
 
-culture = galloroman
+#Misc
+culture = gallo_roman
 religion = nicene
+
+# Hi

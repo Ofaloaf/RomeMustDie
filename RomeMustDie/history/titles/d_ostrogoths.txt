@@ -1,0 +1,7 @@
+465.1.1 = {
+	law = succ_feudal_elective
+	holder = 410006
+}
+475.1.1 = {
+	holder = 410008
+}

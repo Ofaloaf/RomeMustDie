@@ -16,5 +16,5 @@ b_abbayedemortemer = temple
 #b_larocheguyon = castle
 #b_louviers = temple
 
-culture = galloroman
+culture = gallo_roman
 religion = nicene

@@ -7,6 +7,7 @@ title = c_kempten
 max_settlements = 4
 b_kempten = tribal
 b_augsburg = temple
+#b_donauworth = city
 
 #b_zumarshausen = temple
 #b_kaufbeuren = castle
@@ -15,7 +16,7 @@ b_augsburg = temple
 #b_rain = castle
 
 # Misc
-culture = alemannic
+culture = alemanni
 religion = norse_pagan
 
 # History

@@ -1,3 +1,3 @@
 474.6.1 = {
-	holder = 476005 # Glycerius Amarus, former WRE emperor
+	holder = 476005
 }

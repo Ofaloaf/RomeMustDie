@@ -1,0 +1,4 @@
+167001 = {
+	name = Setod
+	culture = ugricbaltic
+}

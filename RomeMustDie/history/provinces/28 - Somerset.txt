@@ -6,15 +6,15 @@ title = c_somerset
 # Settlements
 max_settlements = 5
 b_bath = castle
+b_wells = temple
 b_ilchester = city
-b_glastonbury = temple
 
-#b_wells = temple
 #b_taunton = castle
 #b_muchelney = castle
+#b_glastonbury = temple
 #b_castle_cary = castle
 #b_cleeve = castle
 
 # Misc
 culture = welsh
-religion = nicene
+religion = celtic_pagan

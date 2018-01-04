@@ -1,4 +1,7 @@
 473.1.1 = {
-	liege = "d_alpes"
+
+	liege = "d_sequanica"
+
 	holder = 793010
+
 }

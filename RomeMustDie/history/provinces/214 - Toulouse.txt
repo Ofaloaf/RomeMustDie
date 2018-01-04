@@ -17,5 +17,5 @@ b_castelnaudary = castle
 #b_montgiscard = castle
 
 #Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

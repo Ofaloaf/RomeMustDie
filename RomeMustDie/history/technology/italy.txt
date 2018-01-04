@@ -1,0 +1,88 @@
+#WRE
+
+# Italia
+technology = {
+	titles = {
+		d_aemilia
+		d_bruttium
+		d_campania
+		d_liguria
+		d_lucania
+		d_mediolanum
+		d_samnium
+		d_tuscia
+		d_umbria
+		d_venetia
+		d_apulia
+		d_dalmatia
+	}
+	
+	475 = {
+		military = 1.0
+		economy = 1.2
+		culture = 1.2
+
+		TECH_RELIGIOUS_CUSTOMS = 2.0
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+
+		TECH_RELIGIOUS_CUSTOMS = 5.0
+	}
+}
+
+# WRE capitals
+technology = {
+	titles = {
+		d_latium
+		d_ravenna
+	}
+
+	475 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_RELIGIOUS_CUSTOMS = 2.0
+		TECH_CASTLE_CONSTRUCTION = 2.0
+		TECH_TEMPLE_CONSTRUCTION = 2.0
+		TECH_LEGALISM = 2.0
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+		
+		TECH_RELIGIOUS_CUSTOMS = 5.0
+		TECH_CASTLE_CONSTRUCTION = 5
+		TECH_TEMPLE_CONSTRUCTION = 5
+		TECH_LEGALISM = 5
+	}
+}
+
+# isles!
+technology = {
+	titles = {
+		d_sicilia
+		d_sardinia
+		d_corsica
+	}
+	
+	475 = {
+		military = 0.75
+		economy = 0.8
+		culture = 0.8
+
+		TECH_NAVAL = 0.9
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}

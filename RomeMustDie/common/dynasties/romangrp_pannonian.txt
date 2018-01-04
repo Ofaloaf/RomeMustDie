@@ -1,0 +1,269 @@
+1859001 = {
+	name = "Bolokhovenius"
+	culture = pannonian
+}
+
+1859002 = {
+	name = "Agrianus"
+	culture = pannonian
+}
+
+1859003 = {
+	name = "Almopianus"
+	culture = pannonian
+}
+
+1859004 = {
+	name = "Laeaeus"
+	culture = pannonian
+}
+
+1859005 = {
+	name = "Derronus"
+	culture = pannonian
+}
+
+1859006 = {
+	name = "Odomantus"
+	culture = pannonian
+}
+
+1859007 = {
+	name = "Paeplaius"
+	culture = pannonian
+}
+
+1859008 = {
+	name = "Doberus"
+	culture = pannonian
+}
+
+1859009 = {
+	name = "Sirpaionus"
+	culture = pannonian
+}
+
+1859010 = {
+	name = "Edymionianus"
+	culture = pannonian
+}
+
+1859011 = {
+	name = "Bylazorensis"
+	culture = pannonian
+}
+
+1859012 = {
+	name = "Ardiaeus"
+	culture = pannonian
+}
+
+1859013 = {
+	name = "Byllionus"
+	culture = pannonian
+}
+
+1859014 = {
+	name = "Cavius"
+	culture = pannonian
+}
+
+1859015 = {
+	name = "Chelidonus"
+	culture = pannonian
+}
+
+1859016 = {
+	name = "Daorsius"
+	culture = pannonian
+}
+
+1859017 = {
+	name = "Dassaretus"
+	culture = pannonian
+}
+
+1859018 = {
+	name = "Deurus"
+	culture = pannonian
+}
+
+1859019 = {
+	name = "Dyestius"
+	culture = pannonian
+}
+
+1859020 = {
+	name = "Encheleus"
+	culture = pannonian
+}
+
+1859021 = {
+	name = "Melcumanus"
+	culture = pannonian
+}
+
+1859022 = {
+	name = "Narensus"
+	culture = pannonian
+}
+
+1859023 = {
+	name = "Penestus"
+	culture = pannonian
+}
+
+1859024 = {
+	name = "Uscanensis"
+	culture = pannonian
+}
+
+1859025 = {
+	name = "Selepitanus"
+	culture = pannonian
+}
+
+1859026 = {
+	name = "Giapidus"
+	culture = pannonian
+}
+
+1859027 = {
+	name = "Pleraeus"
+	culture = pannonian
+}
+
+1859028 = {
+	name = "Endirudinus"
+	culture = pannonian
+}
+
+1859029 = {
+	name = "Sasaeus"
+	culture = pannonian
+}
+
+1859030 = {
+	name = "Grabaeus"
+	culture = pannonian
+}
+
+1859031 = {
+	name = "Oxuaoius"
+	culture = pannonian
+}
+
+1859032 = {
+	name = "Hemasinus"
+	culture = pannonian
+}
+
+1859033 = {
+	name = "Taulantius"
+	culture = pannonian
+}
+
+1859034 = {
+	name = "Abrus"
+	culture = pannonian
+}
+
+1859035 = {
+	name = "Dravus"
+	culture = pannonian
+}
+
+1859036 = {
+	name = "Segesticensis"
+	culture = pannonian
+}
+
+1859037 = {
+	name = "Breucus"
+	culture = pannonian
+}
+
+1859038 = {
+	name = "Amantinus"
+	culture = pannonian
+}
+
+1859039 = {
+	name = "Sirmiensis"
+	culture = pannonian
+}
+
+1859040 = {
+	name = "Colapianus"
+	culture = pannonian
+}
+
+1859041 = {
+	name = "Daesitiatius"
+	culture = pannonian
+}
+
+1859042 = {
+	name = "Maezaeus"
+	culture = pannonian
+}
+
+1859043 = {
+	name = "Pirustaeus"
+	culture = pannonian
+}
+
+1859044 = {
+	name = "Scirtarus"
+	culture = pannonian
+}
+
+1859045 = {
+	name = "Glintidionus"
+	culture = pannonian
+}
+
+1859046 = {
+	name = "Ceraunius"
+	culture = pannonian
+}
+
+1859047 = {
+	name = "Siculotaeus"
+	culture = pannonian
+}
+
+1859048 = {
+	name = "Segestanus"
+	culture = pannonian
+}
+
+1859049 = {
+	name = "Andizetius"
+	culture = pannonian
+}
+
+1859050 = {
+	name = "Azalus"
+	culture = pannonian
+}
+
+1859051 = {
+	name = Naronus
+	culture = pannonian
+}
+
+1859052 = {
+	name = Pinnes
+	culture = pannonian
+}
+
+1859053 = {
+	name = Decebalianus
+	culture = pannonian
+}
+
+1859043 = {
+	name = Dunonensis
+	culture = pannonian
+}

@@ -1,7 +1,12 @@
-450.1.1 = {
+367.1.1 = {
 	liege = d_eboracum
-	holder = 1589020 # Marius, Mor ap Ceneu
+	holder = 1589030 # Coelus Coelianus, Coel Hen
 }
-470.1.1 = {
-	holder = 1589022 # Engenius, Einion ap Mor
+
+406.1.2 = {
+	holder = 1589031 # Ceneus Coelianus, Ceneu ap Coel
+}
+
+448.1.1 = {
+	holder = 1589032 # Marius Coelianus, Mor ap Ceneu
 }

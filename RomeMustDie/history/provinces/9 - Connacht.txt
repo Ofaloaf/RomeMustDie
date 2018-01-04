@@ -17,5 +17,5 @@ b_tuam = temple
 
 # Misc
 culture = irish
-religion = druidic
+religion = celtic_pagan
 terrain = hills

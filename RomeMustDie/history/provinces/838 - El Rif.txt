@@ -17,5 +17,5 @@ b_ketama = castle
 #b_saka = castle
 
 # Misc
-culture = mauri
+culture = mauro_roman
 religion = nicene

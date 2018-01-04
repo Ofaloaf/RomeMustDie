@@ -6,8 +6,8 @@ title = c_galaz
 # Settlements
 max_settlements = 4
 
-b_galaz = castle
-b_vicina = city
+b_galaz = tribal
+#b_vicina = city
 b_aegyssus = temple
 
 #b_macin = castle
@@ -17,5 +17,5 @@ b_aegyssus = temple
 #b_crisan = castle
 
 # Misc
-culture = roman
-religion = nicene
+culture = hun
+religion = tengri_pagan

@@ -17,5 +17,5 @@ b_cunningsburgh = tribal
 
 # Misc
 culture = pictish
-religion = druidic
+religion = celtic_pagan
 terrain = hills

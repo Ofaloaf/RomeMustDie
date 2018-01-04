@@ -1,0 +1,76 @@
+776001 = {
+	name="Grakch"
+	dynasty=734016
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	culture=veneti
+	religion=slavic_pagan
+	trait=just
+	432.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+776002 = {
+	name="Wanda"
+	female=yes
+	father=776001
+	dynasty=734016
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	culture=veneti
+	religion=slavic_pagan
+	trait=brave
+	452.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+776003 = {
+	name="Lech"
+	father=776001
+	dynasty=734016
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	culture=veneti
+	religion=slavic_pagan
+	trait=trusting
+	454.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+776004 = {
+	name="Grakch"
+	father=776001
+	dynasty=734016
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	culture=veneti
+	religion=slavic_pagan
+	trait=deceitful
+	trait=envious
+	459.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

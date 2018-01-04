@@ -1,5 +1,0 @@
-1.1.1 = {
-	#name = NARBONENSIS_SECUNDA
-	#adjective = NARBONENSIS_SECUNDA_adj
-	de_jure_liege = k_arles
-}

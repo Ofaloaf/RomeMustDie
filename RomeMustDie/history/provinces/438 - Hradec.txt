@@ -16,5 +16,7 @@ b_litomysl = temple
 #b_pardubice = castle
 
 # Misc
-culture = suebi
+culture = lombard
 religion = norse_pagan
+
+# History

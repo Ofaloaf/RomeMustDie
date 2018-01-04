@@ -4,15 +4,15 @@
 title = c_corsica
 
 # Settlements
-max_settlements = 4
-b_ajaccio = castle
-b_bastia = city
-b_bonifacio = temple
-#b_portevecchio = castle
-#b_filitosa = castle
-#b_corte = castle
-#b_sartene = castle
-#b_aleria = castle
+max_settlements = 3
+b_corte = castle
+b_aleria = city
+#b_bastia = city
+b_morosaglia = temple
+#b_alando = temple
+#b_luri = castle
+#b_calvi = castle
+#b_algajola = castle
 
 # Misc
 culture = roman

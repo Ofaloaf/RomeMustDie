@@ -17,4 +17,4 @@ b_bigeh = castle
 
 # Misc
 culture = coptic
-religion = miaphysite
+religion = kemetic_pagan

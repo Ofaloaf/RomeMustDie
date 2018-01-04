@@ -6,6 +6,7 @@ title = c_schwaben
 # Settlements
 max_settlements = 5
 b_tubingen = tribal
+#b_heiligenberg = city
 b_konstanz = temple
 
 #b_uberlingen = castle
@@ -15,5 +16,5 @@ b_konstanz = temple
 #b_lindau = castle
 
 # Misc
-culture = alemannic
+culture = alemanni
 religion = norse_pagan

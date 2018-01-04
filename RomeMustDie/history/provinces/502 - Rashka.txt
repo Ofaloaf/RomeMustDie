@@ -16,5 +16,5 @@ b_decani = temple
 #b_polog = castle
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene

@@ -17,3 +17,5 @@ b_qift = city
 # Misc
 culture = coptic
 religion = miaphysite
+
+# History

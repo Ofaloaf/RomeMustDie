@@ -6,12 +6,16 @@ title = c_mesembria
 # Settlements
 max_settlements = 5
 
-b_marcianopolis = castle
-b_odessos = city
-b_sozopolis = temple
+b_mesembria = castle
+b_varna = city
+b_anchilios = temple
+
+#b_sozopolis = castle
+#b_aetos = castle
+#b_odessos = castle
+#b_bourgas = castle
+#b_valchidol = castle
 
 # Misc
 culture = graeci
 religion = nicene
-
-# History

@@ -1,6 +1,13 @@
 1.1.1 = {
-	liege = "d_narbonensis"
+
+	liege = "d_septimania"
+
 }
+
 466.1.1 = {
+
+	liege = "k_visigothia"
 	holder = 200284
+
 }
+

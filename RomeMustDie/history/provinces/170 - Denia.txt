@@ -7,13 +7,14 @@ title = c_denia
 max_settlements = 4
 b_orihuela = castle
 b_denia = city
-b_elche = temple
+b_alicante = temple
 #b_villena = castle
 #b_castalla = castle
 #b_albatera = castle
 #b_benissa = castle
-#b_orihuela = city
+#b_elche = temple
 
 # Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene
+

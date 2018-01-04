@@ -15,5 +15,5 @@ b_coria = temple
 #b_ceclavin = castle
 
 # Misc
-culture = iberoroman
-religion = nicene
+culture = hispano_roman
+religion = priscillian

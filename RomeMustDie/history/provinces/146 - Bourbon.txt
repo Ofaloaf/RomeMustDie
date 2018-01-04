@@ -14,5 +14,6 @@ b_souvigny = temple
 #b_murat = castle
 #b_vichy = city
 
-culture = galloroman
+#Misc
+culture = gallo_roman
 religion = nicene

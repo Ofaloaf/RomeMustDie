@@ -16,4 +16,4 @@ b_droitwich = city
 
 # Misc
 culture = welsh
-religion = pelagian
+religion = nicene

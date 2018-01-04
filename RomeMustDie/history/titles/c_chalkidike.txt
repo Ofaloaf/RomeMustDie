@@ -1,6 +1,6 @@
-400.1.1={
-	liege="d_macedonia"
+1.1.1 = {
+	liege = d_macedonia
 }
-473.1.1={
-	holder=610014
+475.1.1 = {
+	holder = 610034
 }

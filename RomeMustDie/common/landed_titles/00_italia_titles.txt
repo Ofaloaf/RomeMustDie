@@ -1,0 +1,2154 @@
+e_italy = {
+	color={ 234 217 110 }
+	color2={ 255 255 255 }
+	
+	capital = 333 # Rome
+	
+	culture = italian
+	
+	allow = {
+		hidden_tooltip = {
+			OR = {
+				ai = no
+				culture=italian
+			}
+		}
+		has_landed_title=k_italy
+		has_landed_title=k_sicily
+		any_demesne_title = {
+			tier = king
+			NOT = { title = k_italy }
+			NOT = { title = k_sicily }
+		}
+	}
+	
+	k_genoa = {
+		color={ 234 131 110 }
+		capital = 233 # Genoa
+		culture = italian
+		
+		dignity = 200 # Never want the Republic of Genoa to change primary title
+		
+		allow = {
+			is_republic = yes
+		}
+	}
+	
+	k_pisa = {
+		color={ 196 192 140 }
+		color2={ 255 255 255 }
+		
+		capital = 327 # Pisa
+		culture = italian
+		
+		dignity = 200 # Never want the Republic of Pisa to change primary title
+		
+		allow = {
+			is_republic = yes
+		}
+	}
+
+	k_naples = {
+		color = { 218 217 242 }
+		capital = 334 # Napoli
+		
+		allow = {
+			FROM = {
+				any_previous_holder = {
+					always = yes # The title has existed before
+				}
+			}
+		}
+		
+		culture = italian
+	}
+
+	k_italy = {
+		color={ 125 171 84 }
+		color2={ 255 255 255 }
+		#capital = 235 # Lombardia
+		
+		capital = 234 # Pavia
+		
+		culture = italian
+		
+		# Creation/usurpation trigger
+		allow = {
+			any_demesne_title = {
+				OR = { 
+					title = c_roma
+					title = c_ravenna
+					title = c_lombardia
+					title = c_pavia
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}
+		}
+		
+		christian = 10000 # Crusade target weight
+		
+		d_venetia = {
+			color = { 34 137 126 }
+			capital = 356 # Venice
+			
+			c_venezia = {
+				color = { 40 143 132 }
+				color2 = { 255 255 255 }
+
+				# Venetia
+				
+				b_venezia = {
+					# Venetia
+				}
+				b_rialto = {
+					# Riovaltus # 9th century
+				}
+				b_pallestrina = {
+					# Altinum
+				}
+				b_lido = {
+					# Litum
+				}
+				b_jesolo = {
+					# Equilium
+				}
+				b_murano = {
+					# Murianum
+				}
+				b_torcello = {
+					# Torcellum
+				}
+				b_fusina = {
+				}
+			}
+			
+			c_treviso = {
+				color={ 251 226 226 }
+				color2={ 255 255 255 }
+
+				# Tarvisium
+				
+				b_treviso = {
+					# Tarvisium
+				}
+				b_bassano = {
+					# Bassanum
+				}
+				b_oderzo = {
+					# Opitergium
+				}
+				b_castelfranco = {
+					# Heraclia # actually Cittavona, Eraclea
+				}
+				b_asola = {
+					# Ansula
+				}
+				b_citadella = {
+					# Ad Cepasias # actually Abbazia
+				}
+				b_ceneda = {
+					# Ceneta
+				}
+				b_paese = {
+					# Bellunum # actually Belluno
+				}
+			}
+			c_padova = {
+				color={ 255 234 234 }
+				color2={ 255 255 255 }
+
+				# Patavium
+				
+				b_padova = {
+					# Patavium
+				}
+				b_este = {
+					# Ateste
+				}
+				b_polesine = {
+					# Policinum
+				}
+				b_montagnana = {
+					# Montaniana
+				}
+				b_adria = {
+					# Hadria
+				}
+				b_chioggia = {
+					# Clodia
+				}
+				b_rovigo = {
+					# Rhodigium
+				}
+				b_vigonza = {
+					# Vigoncia # Latinization of modern name
+				}
+			}
+			c_istria = {
+				color={ 165 245 200 }
+				color2={ 255 255 255 }
+
+				# Histria
+				
+				b_mitterburg = {
+					# (Castrum) Pisinium # 983 attestation
+				}
+				b_trieste = {
+					# Tergeste
+				}
+				b_fiume = {
+					# Flumen
+				}
+				b_lovrana = {
+					# Lauriana
+				}
+				b_wolauska = {
+					# Parentium # actually Poreč, Croatia
+				}
+				b_karstberg = {
+					# Flanona # actually Plomin, Croatia
+				}
+				b_duino = {
+					# Piquentum # actually Buzet, Croatia
+				}
+				b_pula = {
+					# Pola
+				}
+			}			
+			c_aquileia = {
+				color={ 115 205 175 }
+				color2 = { 255 255 255 }
+
+				# Aquileia
+				
+				b_aquileia = {
+					# Aquileia
+				}
+				b_udine = {
+					# Utinum
+				}
+				b_friuli = {
+					# Forum Iulii
+				}
+				b_motta = {
+					# Gradus # actually Grado
+				}
+				b_concordia = {
+					# (Iulia) Concordia
+
+					roman = "Iulia Concordia"
+				}
+				b_ciridale = {
+					# Cormones # actually Cormons
+				}
+				b_portoguaro = {
+					# Ad Undecimum # actually Gradisca d'Isonzo
+				}
+				b_sacile = {
+					# Sacilum
+				}
+			}
+		}
+		
+		d_liguria = {
+			color={ 218 215 56 }
+			color2={ 255 255 255 }
+			
+			c_piemonte = {
+				color={ 236 234 159 }
+				color2={ 255 255 255 }
+
+				# Pedemontium
+				
+				b_ivrea = {
+					# Eporedia
+				}
+				b_torino = {
+					# Taurinorum
+				}
+				b_settimo = {
+					# Quadrata # actually Quarino Bianco di Verolengo
+				}
+				b_auriate = {
+					# Industria # actually Monteu da Po
+				}
+				b_novara = {
+					# Novaria
+				}
+				b_ferrero = {
+					# Bodincomagum
+				}
+				b_messarano = {
+					# Ocelum # actually Caprie
+				}
+				b_crevacuore = {
+					# Crevacorum
+				}
+			}
+			
+			c_saluzzo = {
+				color={ 193 186 94 }
+				color2={ 255 255 255 }
+
+				# Salutiae
+				
+				b_saluzzo = {
+					# Salutiae
+				}
+				b_pinerolo = {
+					# Pinarolium
+				} 
+				b_cuneo = {
+					# Cuneum
+				}
+				b_savigliano = {
+					# Savilianum
+				}
+				b_busca = {
+					# Antilia
+				}
+				b_paesana = {
+					# Padusana
+				}
+				b_verzuolo = {
+					# Urseolum
+				}
+				b_caraglio = {
+					# Caralium
+				}
+			}
+			
+			c_monferrato = {
+				color={ 219 213 128 }
+				color2={ 255 255 255 }
+
+				# Mons Ferratus
+				
+				b_monferrato = {
+					# Mons Ferratus
+				}
+				b_casale = {
+					# Laumellum # actually Lomello
+				}
+				b_asti = {
+					# Hasta
+
+					roman = "Hasta Pompeia"
+				}
+				b_acqui = {
+					# Aquae
+
+					roman = "AQuae Statiellae"
+				}
+				b_tortona = {
+					# Dertona
+				}
+				b_biella = {
+					# Bugella
+				}
+				b_alba = {
+					roman = "Alba Pompeia"
+				}
+				b_canelli = {
+					# Canellae
+				}
+			}
+			c_genoa = {
+				color={ 235 225 52 }
+				color2={ 255 255 255 }
+
+				# Liguria
+				
+				b_genoa = {
+					# Genua
+				}
+				b_rapallo = {
+					# Rapallum
+				}
+				b_luna = {
+				}
+				b_ventimiglia = {
+					# Albium Intemelium
+				}
+				b_savona = {
+					# Savo
+				}
+				b_chiavari = {
+					# Clavarum
+				}
+				b_albenga = {
+					# Albingaunum
+
+					roman = "Album Ingaunum"
+				}
+				b_fosdinovo = {
+					# Varicottis # actually Varigotti
+				}
+			}
+		}
+		
+		d_mediolanum = {
+			color={ 166 108 146 }
+			color2={ 255 255 255 }
+
+			capital = 235 # Lombardy/Insubria/Mediolanum/Milan
+
+			c_lombardia = {
+				color={ 251 237 226 }
+				color2={ 255 255 255 }
+
+				# Insubria
+				
+				b_milano = {
+					# Mediolanum
+				}
+				b_monza = {
+					# Modicia
+				}
+				b_como = {
+					# Comum
+				}
+				b_lodi = {
+					# Laus
+
+					roman = "Laus Pompeia"
+				}
+				b_vigevano = {
+					# Sibrium # actually Castelseprio
+				}
+				b_maggiore = {
+					# Verbanus
+				}
+				b_legnano = {
+					# Ledegnanum
+				}
+				b_chiavenna = {
+					# Clavenna
+				}
+			}
+			c_brescia = {
+				color={ 249 235 224 }
+				color2={ 255 255 255 }
+
+				# Brixia
+				
+				b_brescia = {
+					# Brixia
+				}
+				b_bergamo = {
+					# Bergomum
+				}
+				b_peschiera = {
+					# Piscaria
+				}
+				b_treviglio = {
+					# Tetullus # actually Ospitaletto
+				}
+				b_salo = {
+					# Salodium
+				}
+				b_lumezzane = {
+					# Limesanum
+				}
+				b_montichiari = {
+					# Mons Clarus
+				}
+				b_castiglione = {
+					# Tellegate # actually Telgate
+				}
+			}
+			c_trent = {
+				color={ 253 239 228 }
+				color2={ 255 255 255 }
+	
+				# Tridentum
+				
+				b_trento = {
+					# Tridentum
+				}
+				b_brixen = {
+					# Sabiona # actually Säben
+				}
+				b_bozen = {
+					# Bauzanum
+				}
+				b_meran = {
+					# Maiensis
+
+					old_frankish = Mairania
+				}
+				b_schlanders = {
+					# Fagitana # actually Fadana
+				}
+				b_bruneck = {
+					# Vervassium # actually Vervò
+				} 
+				b_riva = {
+					# Ripa
+				}
+				b_rovereto = {
+					# Ausucum # actually Borgo Valsugana
+				}
+			}
+			c_cremona = {
+				color={ 255 245 234 }
+				color2={ 255 255 255 }
+				
+				b_cremona = {
+				}
+				b_crema = {
+				}
+				b_sospiro = {
+					# Sexpirum
+				}
+				b_vescovato = {
+					# Episcopatus
+				}
+				b_viadana = {
+					# Videliana
+				}
+				b_castelgoffredo = {
+					# Acerrae # actually Pizzighettone
+				}
+				b_casalmaggiore = {
+					# Castramaiora
+				}
+				b_manerbio = {
+					# Addua # actually the Adda River
+				}
+			}
+			c_mantua = {
+				color={ 255 238 238 }
+				color2={ 255 255 255 }
+
+				# Mantua
+				
+				b_mantua = {
+					# Mantua
+				}
+				b_serravalle = {
+					# Seravallum
+				}
+				b_castellucchio = {
+					# Hostilia # actually Ostiglia
+				}
+				b_gonzaga = {
+					# Anneianum # actually Trecenta
+				}
+				b_marmirolo = {
+					# Marmirolum
+				}
+				b_curtatone = {
+					# Bedriacum # actually Calvatone
+				}
+				b_virgilio = {
+					# Andes. Its name only became Virgilio in 1883! 1883!!!
+				}
+				b_bagnolosanvito = {
+					# Balneolum
+				}
+			}
+			c_verona = {
+				color={ 255 230 230 }
+				color2={ 255 255 255 }
+
+				# Verona
+				
+				b_verona = {
+					# Verona
+				}
+				b_vicenza = {
+					# Vicetia
+				}
+				b_sanmartino = {
+					# Auraei # actually Montebello Vicentino
+				}
+				b_schio = {
+					# Escletum
+				}
+				b_montecchio = {
+					# Monticulum
+				}
+				b_arzignano = {
+					# Arzignanum
+				}
+				b_lonigo = {
+					# Leonicum
+				}
+				b_barbarano = {
+					# Barbaranum
+				}
+			}
+		}	
+		d_aemilia = {
+			color={ 225 180 180 }
+			color2={ 255 255 255 }
+			
+			#capital = 322 # Modena
+			
+			c_pavia = {
+				color={ 255 243 232 }
+				color2={ 255 255 255 }
+
+				# Ticinum
+
+				old_frankish = Papia
+				ostrogothi = Papia
+				visigothi = Papia
+				
+				b_pavia = {
+					# Ticinum
+
+					old_frankish = Papia
+					ostrogothi = Papia
+					visigothi = Papia
+				}
+				b_bobbio = {
+					# Ebovium
+
+					old_frankish = Bobium
+					ostrogothi = Bobium
+					visigothi = Bobium
+					thuida = Bobium
+				}
+				b_piacenza = {
+					# Placentia
+				}
+				b_voghera = {
+					# Iria
+
+					old_frankish = "Vicus Iria"
+					ostrogothi = "Vicus Iria"
+					visigothi = "Vicus Iria"
+					thuida = "Vicus Iria"
+				}
+				b_alessandria = {
+					# Durriae # actually Dorno
+				}
+				b_casteggio = {
+					# Clastidium
+				}
+				b_colorno = {
+					# Litubium # actually Retorbido
+				}
+				b_montebello = {
+					# Mons Bellus
+				}
+			}
+			c_modena = {
+				color={ 251 250 226 }
+				color2={ 255 255 255 }
+
+				# Mutina
+				
+				b_modena = {
+					# Mutina
+				}
+				b_reggionellemila = {
+					# Regium
+				}
+				b_carpi = {
+					# Carpum
+				}
+				b_mirandola = {
+					# Victoriolae # actually Sant'Ambrogio, San Cesario sul Panaro
+				}
+				b_novellara = {
+					# Nubilaria # Medieval Latin
+				}
+				b_sabbioneta = {
+					# (Vicus) Serninus # actually Crevalcore
+				}
+				b_sassuolo = {
+					# Forum Gallorum # actually Castelfranco Emilia
+				}
+				b_bomporto = {
+					# Bonus Portus
+				}
+			}
+			c_parma = {
+				color={ 255 254 230 }
+				color2={ 255 255 255 }
+
+				# still Parma!
+				
+				b_parma = {
+					# still Parma!
+				}
+				b_massa = {
+					# Brixellum # actually Brescello
+				}
+				b_guastalla = {
+					# Ad Tarum # actually Ponte Taro, Fontevivo
+				}
+				b_fornovo = {
+					# Forum Novum
+				}
+				b_fidenza = {
+					# Fidentia
+				}
+				b_fontanellato = {
+					# Fontanellatum
+				}
+				b_laspezia = {
+					# La Spezia is a port town, but the CK2 province of Parma is landlocked. ???
+					# Tannetum # actually Taneto, Gattatico
+				}
+				b_noceto = {
+					# Nucetum
+				}
+			}
+		}	
+		d_ravenna = {
+			color={ 244 180 130 }
+			color2={ 255 255 255 }
+			
+			capital = 351 # Ravenna
+			
+			c_bologna = {
+				color={ 244 180 130 }
+				color2={ 255 255 255 }
+
+				# Bononia
+				
+				b_faenza = {
+					# Faventia
+				}
+				b_bologna = {
+					# Bononia
+				}
+				b_forli = {
+					# Forum Livii
+				}
+				b_imola = {
+					# Forum Cornelii
+				}
+				b_bentivoglio = {
+					# Bentivolium
+				}
+				b_budno = {
+					# Ad Idicem # actually Idice
+				}
+				b_castelguelfo = {
+					# Claterna # actually Ozzano dell'Emilia
+				}
+				b_bagnacavallo = {
+					# Ad Medias # actually Ponte Samoggia
+				}
+			}
+			c_ferrara = {
+				color={ 244 180 130 }
+				color2={ 255 255 255 }
+
+				# Ferraria
+				
+				b_ferrara = {
+					# Ferraria
+				}
+				b_commacchio = {
+					# (Castrum) Cumiacli
+				}
+				b_tresigallo = {
+					# Transegallium # actually just a Medieval town but the Latin name sounds okay so w/e
+				}
+				b_occhiobello = {
+					# Occhiobellum # 'Occhiobellus' attested in 754.
+				}
+				b_copparo = {
+					# Copparium
+				}
+				b_codigoro = {
+					# Neronia # actually Tombe, Lagosanto
+				}
+				b_bondeno = {
+					# Spina # actually Valpega, Comacchio
+				}
+				b_voghiera = {
+					# Vicohabentia # Voghenza is a quarter of Voghiera, but was once the seat of its own bishopric.
+				}
+			}
+			c_ravenna = {
+				color={ 244 180 130 }
+				color2={ 255 255 255 }
+
+				# Ravenna
+				
+				b_ravenna = {
+					# Ravenna
+				}
+				b_cesena = {
+					# Caesena
+				}
+				b_cervia = {
+					# Ficocle
+				}
+				b_russi = {
+					# Classis # actually Classe, Ravenna
+				}
+				b_alfonsine = {
+					# Butrium # actually Casa Rossa, S. Alberto, Ravenna
+				}
+				b_cesenatico = {
+					# Sabis # actually Castiglione di Cervia
+				}
+				b_gambettola = {
+					# Ad Novas
+				}
+				b_gatteo = {
+					# Gattae # the name keeps varying throughout antiquity and the Early Middle Ages. Gattae, Cathei, Catei, Gathei, Gattei, Ghatei are all attested from the 2nd C up to 1311.
+				}
+			}
+		}	
+		d_tuscia = {
+			color = { 84 96 136 }
+			color2={ 255 255 255 }
+			
+			capital = 328 # Firenze
+			
+			c_lucca = {
+				color = { 232 186 25 }
+				color2={ 255 255 255 }
+
+				# Luca
+				
+				b_lucca = {
+					# Luca
+				}
+				b_pistoia = {
+					# Pistoria
+				}
+				b_cascina = {
+					# Cassina
+				}
+				b_altopascio = {
+					# Altus Passus
+				}
+				b_viareggio = {
+					# Versilia
+				}
+				b_seravezza = {
+					# Sala Vetitia
+				}
+				b_capannori = {
+					# Pullion # actually Pugliola
+				}
+				b_calcinaia = {
+					# Fossae Papirianae # actually Massarosa
+				}
+			}
+			c_firenze = {
+				color = { 236 47 47 }
+				color2={ 255 255 255 }
+				
+				# Florentia
+					
+				b_firenze = {
+					# Florentia
+				}
+				b_arezzo = {
+					# Arretium
+				}
+				b_prato = {
+					# Ad Solaria # actually Capelle
+				}
+				b_fiesole = {
+					# Faesulae
+				}
+				b_montevarchi = {
+					# Ad Fines # actually Casa Casare
+				}
+				b_certaldo = {
+					# Hellana # actually Agliana
+				}
+				b_lucignano = {
+					# Lucinianum
+				}
+				b_sansepolcro = {
+					# Amum # actually Montelupo Fiorentino
+				}
+			}
+			c_siena = {
+				color = { 165 171 115 }
+				color2={ 255 255 255 }
+
+				# Saena (Julia)
+
+				roman = "Saena Julia"
+				graeci = "Saena Julia"
+					
+				b_siena = {
+					# Saena
+
+					roman = "Saena Julia"
+					graeci = "Saena Julia"
+				}
+				b_cortona = {
+					# Cortona
+				}
+				b_pienza = {
+					# Manliana # actually Torrita di Siena
+				}
+				b_montepulciano = {
+					# Pullicianum # 'Castello Pulliciano' was attested in 715
+				}
+				b_montalcino = {
+					# Mons Lucinus
+				}
+				b_sangimignano = {
+					# Gemianum # 'San Gimignano' was attested as 'Sce Gemiane' in the 990s. I'm assuming 'Gemiane' can be worked back into a Latin name 'Gemianus', and then played around with from there.
+				}
+				b_colledievaldelsa = {
+					# Gallunianum # actually Galognano in the Colle di Val d'Elsa
+				}
+				b_monteriggioni = {
+					# Mons Regius # 'Montis Regis' is a medieval attestation
+				}
+			}
+			c_pisa = {
+				color={ 177 150 109 }
+				color2={ 255 255 255 }
+
+				# Pisae
+				
+				b_pisa = {
+					# Pisae
+				}
+				b_livorno = {
+					# Labrone
+				}
+				b_canefro = {
+					# Valvata # actually Cascina
+				}
+				b_volterra = {
+					# Volaterrae
+				}
+				b_vicopisano = {
+					# Auserissola # 'Vicus Auserissola' and 'Auseris Sala' are two Medieval Latin names for the place
+				}
+				b_sanminiato = {
+					# Ad Fines # actually Rosignano Marittimo
+				}
+				b_portoferraio = {
+					# Fabricia # not historically attested, but some dudes in the 1700s just started saying it used to be called that so it seemed fancier.
+				}
+				b_giglio = {
+					# Igilium
+
+					greek = Aigylion
+				}
+			}
+			c_piombino = {
+				color={ 236 255 230 }
+				color2={ 255 255 255 }
+
+				# Populonia
+				
+				b_piombino = {
+					# Falesia
+				}
+				b_suvereto = {
+					# Suberetum # modern Latinization
+				}
+				b_radicofani = {
+					# Radicofanum # modern Latinization
+				}
+				b_populonia = {
+					# Populonia
+				}
+				b_campiglia = {
+					# Campillia
+				}
+				b_follonica = {
+					# Salebro # actually Portiglioni
+				}
+				b_sanvincenzo = {
+					# Aquae Populoniae # actually Venturina, Campiglia Marittima
+				}
+			}
+			c_orbetello = {
+				color={ 240 255 234 }
+				color2={ 255 255 255 }
+
+				# Cosa
+				
+				b_orbetello = {
+					# Cosa
+				}
+				b_grosseto = {
+					# Telamon # actually Talamone
+				}
+				b_pitigliano = {
+					# Heba # actually Magliano, in Toscana
+				}
+				b_roselle = {
+					# Aurinia # actually Saturnia, Manciano
+				}
+				b_sorano = {
+					# Soranum
+				}
+				b_sovana = {
+					# Suana
+				}
+				b_vetulonia = {
+					# Vetulonium
+				}
+				b_rusellae = {
+					# WHY IS THERE BOTH A ROSELLE AND A RUSELLAE IN THE VANILLA FILES IT'S THE SAME PLACE
+				}
+			}
+		}
+		d_samnium = {
+			color={ 35 135 70 }
+			color2={ 255 255 255 }
+			
+			c_aprutium = {
+				color={ 40 153 80 }
+				color2={ 255 255 255 }
+
+				# Interamna
+				
+				greek = "Interamnion"
+				
+				b_avezzano = {
+					# Avidianum # speculative
+				}
+				b_pescara = {
+					# Aternum
+				}
+				b_chieti = {
+					# Theate
+				}
+				b_teramo = {
+					# Interamna
+				}
+				b_atri = {
+					# Hadria
+				}
+				b_aprutium_penne = {
+					# Pinna # Penne
+				}
+				b_paganica = {
+					# Paganica
+				}
+				b_aquila = {
+					# Matrinum # actually Piomba, Silvi
+				}
+			}
+			c_benevento = {
+				color = { 209 170 75 }
+				color2={ 255 255 255 }
+
+				# Beneventum
+				
+				b_benevento = {
+					# Beneventum
+				}
+				b_avellino = {
+					# Abellinum
+				}
+				b_ascoli = {
+					# Asculum
+				}
+				b_montemarono = {
+					# Saepinum # actually Sepino
+				}
+				b_frigento = {
+					# Frequentum
+				}
+				b_trevico = {
+					# Trivicum
+				}
+				b_conza = {
+					# Compsa
+				}
+				b_sanangelo = {
+					# Histonium # actually Vasto
+				}
+			}
+		}	
+		d_umbria = {
+			color={ 188 47 5 }
+			color2={ 255 255 255 }
+			
+			capital = 349 # Spoleto
+
+			roman = Picenum
+			graeci = Picenum
+			
+			c_spoleto = {
+				color={ 249 71 19 }
+				color2={ 255 255 255 }
+
+				# Spoletium
+
+				roman = Valeria
+				graeci = Valeria
+				
+				b_spoleto = {
+					# Spoletium
+				}
+				b_perugia = {
+					# Perusia
+				}
+				b_assisi = {
+					# Asisium
+				}
+				b_nursia = {
+					# Nursia
+				}
+				b_todi = {
+					# Tuder
+				}
+				b_valva = {
+					# Corfinium
+				}
+				b_terni = {
+					# Interamna
+				}
+				b_foligno = {
+					# Fulginium
+				}
+			}
+			c_urbino = {
+				color={ 170 40 9 }
+				color2={ 255 255 255 }
+
+				# Urbinum
+				
+				b_urbino = {
+					# Urbinum
+				}
+				b_sanseverino = {
+					# Pitinum (Mergens) # actually Piano di Valeria
+
+					roman = "Pitinum Mergens"
+					graeci = "Pitinum Mergens"
+				}
+				b_sanmarino = {
+					# Sestinum # actually Sestino
+				}
+				b_montefeltro = {
+					# Cales # actually Cagli
+				}
+				b_gubbio = {
+					# Iguvium
+				}
+				b_fano = {
+					# Fanum Fortunae
+				}
+				b_cittadicastello = {
+					# Tifernum (Tiberinum)
+				}
+				b_fossombrone = {
+					# Forum Sempronii
+				}
+			}
+			c_ancona = {
+				color={ 52 118 72 }
+				color2={ 255 255 255 }
+				
+				# Anconitanus
+				
+				b_ancona = {
+					greek = "Ankon"
+				}
+				b_pesaro = {
+					# Pisaurum
+				}
+				b_rimini = {
+					# Ariminum
+				}
+				b_matelica = {
+					# Matilica
+				}
+				b_osimo = {
+					# Auximum
+
+					roman = "Vetus Auximum"
+					graeci = "Vetus Auximum"
+				}
+				b_fermo = {
+					# Firmum
+
+					roman = "Firmum Picenum"
+					graeci = "Firmum Picenum"
+				}
+				b_recanati = {
+					# Helva Recina # close by
+				}
+				b_camerino = {
+					# Camerinum
+				}
+			}
+		}
+		
+		d_latium = {
+			color={ 254 245 160 }
+			color2={ 255 255 255 }
+			
+			capital = 333 # Rome
+			
+			christian = 750 # Crusade target weight
+			
+			c_roma = {
+				color={ 242 233 156 }
+				color2={ 220 220 1 }
+				
+				christian = 5000 # Crusade target weight
+
+				holy_site = nicene
+				holy_site = catholic
+				holy_site = arian
+				holy_site = aztec
+				holy_site = aztec_reformed
+				holy_site = hellenic_pagan
+				holy_site = pelagian
+				holy_site = pagan
+				
+				b_roma = {
+					pentarchy = yes
+					used_for_dynasty_names = no
+				}
+				b_viterbo = {
+					# Ferentium
+				}
+				b_tusculum = {
+					# Tusculum
+				}
+				b_tivoli = {
+					# Tibur
+				}
+				b_ostia = {
+					# Ostia
+				}
+				b_sutri = {
+					# Sutrium
+				}
+				b_aragni = {
+					# Antium # actually Anzio
+				}
+				b_terracina = {
+					# Tarracina # WITH AN A
+				}
+			}
+			
+			c_orvieto = {
+				color={ 228 253 238 }
+				color2={ 255 255 255 }
+
+				# Volsinii
+
+				greek = Ouolsinii
+				
+				b_orvieto = {
+					# Urbs Vetus
+				}
+				b_narni = {
+					# Narnia
+				}
+				b_alviano = {
+					# Volsinii # actually Bolsena
+
+					greek = Ouolsinii
+				}
+				b_montecastrilli = {
+					# Visentium # actually Monte Bisenzio
+				}
+				b_otricoli = {
+					# Ocriculum
+				}
+				b_amelia = {
+					# Ameria # WITH AN R
+				}
+				b_baschi = {
+					# Vulci # actually Vulci in Montalo di Castro
+				}
+				b_ciconia = {
+					# Maternum # actually Ischia di Castro
+				}
+			}
+		}
+		d_sardinia = {
+			color={ 217 159 255 }
+			color2={ 255 255 255 }
+			
+			capital = 326 # Cagliari
+		
+			c_arborea = {
+				color={ 170 182 225 }
+				color2={ 255 255 255 }
+				
+				b_oristano = {
+					# Aristanis
+				}
+				b_tharros = {
+					# Tharros
+				}
+				b_sanluri = {
+					# Sullurium
+				}
+				b_santa_giusta = {
+					# Othoca
+				}
+				b_pabillonis = {
+					# Pabillonis
+				}
+				b_cabras = {
+					# Capra
+				}
+				b_fordongianus = {
+					# Hydata Hypsitana
+				}
+				b_sorgono = {
+					# Sorganum
+				}
+			}
+			c_cagliari = {
+				color={ 170 200 170 }
+				color2={ 255 255 255 }
+				
+				# Caralis
+
+				greek = Karalis
+				
+				b_cagliari = {
+					# Caralis
+
+					greek = Karalis
+				}
+				b_santaigia = {
+					# Portus Scipio
+				}
+				b_assemini = {
+					# Asseminis
+				}
+				b_dolianova = {
+					# Dolia
+				}
+				b_carbonia = {
+					# Carbonia
+				}
+				b_capoterra = {
+					# Caput Terrae
+				}
+				b_iglesias = {
+					# Metalla
+				}
+			}
+			c_ogliastra = {
+				color={ 169 195 170 }
+				color2={ 255 255 255 }
+
+				# Sulcis		
+				
+				b_ogliastra = {
+					# Sulcis # actually near Tortolì
+				}
+				b_muravera = {
+					# Sarcapos
+				}
+				b_tortoli = {
+					# Portus Ilii
+				}
+				b_jerzu = {
+					# Ierzum
+				}
+				b_bari_sardo = {
+					#  Custodia Rubriensis
+				}
+				b_urzulei = {
+					# Porticenses # actually Tertenia
+				}
+				b_ballao = {
+					# Ballaum
+				}
+			}
+			c_torres = {
+				color={ 150 175 200 }
+				color2={ 255 255 255 }
+				
+				# Turris
+				
+				b_ardara = {
+					# Nure # actually Porte Ferro
+				}
+				b_sassari = {
+					# Ad Octavum
+				}
+				b_portotorres = {
+					# Portus Turris
+
+					roman = "Turris Libyssonis"
+					graeci = "Turris Libyssonis"
+				}
+				b_ottana = {
+					# Othana
+				}
+				b_oschiri = {
+					# Ad Herculeum # actually S. Vittoria
+				}
+				b_bosa = {
+					# /something/ existed in Bosa during Antiquity, but damned if I know its name.
+				}
+				b_alghero = {
+					# Carbia
+				}
+				b_valledoria = {
+					# Nymphaios Limen # actually Porte Conte
+				}
+			}
+			c_gallura = {
+				color={ 200 160 178 }
+				color2={ 255 255 255 }
+
+				# Barbaria				
+				
+				b_olbia = {
+					# Olbia
+				}
+				b_nuoro = {
+					# Nugor
+				}
+				b_posada = {
+					# Phausanias
+				}
+				b_lungone = {
+					# Tibula
+				}
+				b_galtelli = {
+					# Fanum Carisi # actually Irgoli
+				}
+				b_dorgali = {
+					# Pheronia # actually San Giovanni di Posada
+				}
+				b_bicinara = {
+					# Elefantaria # actually Golfo di Arzachena
+				}
+				b_aggius = {
+					# Coclearia # actually San Teodoro
+				}
+			}
+		}	
+		d_corsica = {
+			color={ 210 233 278 }
+			color2={ 255 255 255 }
+			
+			capital = 324 # Corsica
+		
+			c_corsica = {
+				color={ 226 248 251 }
+				color2={ 255 255 255 }
+
+				# Alalia
+				
+				b_bastia = {
+					# Mariana # actually La Canonica
+				}
+				b_corte = {
+					# Cenestum
+				}
+				b_aleria = {
+					# Alalia
+				}
+				b_alando = {
+					# Opinum # actually Tallone
+				}
+				b_morosaglia = {
+					# Mantinum # actually Lavasina
+				}
+				b_luri = {
+					# Lauris
+				}
+				b_calvi_b = {
+					# Cæsiæ, maybe
+				}
+				b_algajola = {
+					# Argha # Algajola is another contender for Cæsiæ except that name's already used.
+				}
+			}
+			c_cinarca = {
+				color={ 250 243 220 }
+				color2={ 255 255 255 }
+
+				# Adiacium
+				
+				b_ajaccio = {
+					# Adiacium
+				}
+				b_bonifacio = {
+					# Palla
+				}
+				b_portevecchio = {
+					# Marianum # actually Tonnara
+				}
+				b_filitosa = {
+					# Ficaria # actually Figari
+				}
+				b_sartene = {
+					# Albiana # not Sartene
+				}
+				b_bastelicaccia = {
+					# Matisa # not Bastelicaccia
+				}
+				b_cinarca = {
+					# Praesidium # not Cinarca
+				}
+				b_propriano = {
+					# Alista # actually Bocca di Guardia or Conca
+				}
+			}
+		}
+		d_sicilia = {
+			color={ 73 152 76 }
+			color2={ 255 255 255 }
+
+			greek = Sikelia
+			
+			capital = 340 # Palermo
+			
+			c_palermo = {
+				color={ 155 254 86 }
+				color2={ 255 255 255 }
+
+				# Panormus
+				
+				greek = "Panarmos"
+				
+				b_palermo = {
+					# Panormus
+
+					greek = "Panarmos"
+				}
+				b_cefalu = {
+					# Cephaloedium
+
+					greek = Kephaloidis
+				}
+				b_monreale = {
+					# Soluntum # actually Solunto, Santa Flavia
+				}
+				b_gratteri = {
+					# Solous # actually Solanto di Santa Flavia, dang close to Solunto proper
+				}
+				b_caltavuturo = {
+					# Himera # actually, uh, Himera
+				}
+				b_petralia = {
+					# Thermae Himeraeae # actually Termini Imerese
+				}
+				b_misilmeri = {
+					# Pirama # actually Sant'Agata, Piana degli Albanesi
+				}
+				b_mistretta = {
+					# Amestrata
+				}
+			}
+			c_messina = {
+				color={ 155 254 86 }
+				color2={ 255 255 255 }
+
+				# Messana
+				
+				greek = "Messene"
+				
+				b_messina = {
+					# Messana
+
+					greek = "Messene"
+				}
+				b_lipari = {
+					# Lipara
+				}
+				b_taormina = {
+					# Tauromenium
+
+					greek = "Taourmenion"
+				}
+				b_sanmarcodalunzio = {
+					# Naulochos # actually Spadafora
+				}
+				b_troinia = {
+					# Troyna
+				}
+				b_furnari = {
+					# Furnaris
+				}
+				b_cataratti = {
+					# Traiectus # actually Faro Superiore
+				}
+				b_torregrota = {
+					# Turris Crypta
+				}
+			}
+			c_siracusa = {
+				color={ 155 254 86 }
+				color2={ 255 255 255 }
+
+				# Syracusae
+				
+				greek = "Syrakousa"
+				
+				b_syracusa = {
+					# Syracusae
+
+					greek = "Syrakousa"
+				}
+				b_catania = {
+					# Catana
+				}
+				b_lentini = {
+					# Leontini
+				}
+				b_noto = {
+					# Netum
+				}
+				b_caltagirone = {
+					# Hortesiana # actually probably Priolo Gargallo
+				}
+				b_paterno = {
+					# Hexapyla # actually just some place in Sicily just a hop skip and a jump north of Syracuse
+				}
+				b_centuripe = {
+					# Centuripae
+
+					greek = Kentoripa
+				}
+				b_augusta = {
+					# Augusta # yep.
+				}
+			}
+			c_agrigento = {
+				color={ 155 254 86 }
+				color2={ 255 255 255 }
+
+				# Agrigentum
+				
+				greek = "Agrigenton"
+				
+				b_agricento = {
+					# Agrigentum
+
+					greek = "Agrigenton"
+				}
+				b_caltabellotta = {
+					# Cosconiana # actually Vito Soldano
+				}
+				b_butera = {
+					# Calloniana # actually Contrada Ramilia
+				}
+				b_sanbiagioplatani = {
+					# Allava # actually Case Territo
+				}
+				b_gela = {
+					# Daedalium # actually Palma di Montechiaro
+				}
+				b_licata = {
+					# Phintias
+				}
+				b_raffadali = {
+					# Pitiniana # actually some place near Aragona OR Raffadali
+				}
+				b_montallegro = {
+					# Cena
+				}
+			}
+			c_trapani = {
+				color={ 155 254 86 }
+				color2={ 255 255 255 }
+				
+				# Lilybaeum
+				
+
+				b_lilybaeum = {
+					# Lilybaeum
+				}
+				b_drepanum = {
+					# Drepanum
+
+					greek = "Drepanon"
+				}
+				b_mazaria = {
+					# Mazaria
+				}
+				b_eryx = {
+					# Eryx
+				}
+				b_selinus_sic = {
+					# Selinus # modern-day Marinella di Selinunte
+				}
+				b_halicyae = {
+					# Halicyae # modern-day Salemi
+
+					greek = Ankylion
+				}
+				b_motya = {
+					# Motya
+				}
+				b_segesta = {
+					# Segesta # modern=day Calatafimi-Segesta
+				}
+			}
+			c_malta = {
+				color={ 155 254 86 }
+				color2={ 255 255 255 }
+
+				# Melite
+
+				greek = Melita
+				
+				b_mdina = {
+					# Melite
+
+					greek = Melita
+				}
+				b_sliema = {
+					# Gaulos # actually Victoria
+				}
+				b_sanpawl = {
+					# Paulana # making shit up
+				}
+				b_gozo = {
+					# Ogygia
+
+					greek = Ogygia
+				}
+				b_birzebbuga = {
+					# Semproniana # making shit up
+				}
+				b_marsascala = {
+					# Longum # making shit up
+				}
+				b_mgarr = {
+					# Ciefesta Hephaesta # actually Ciefesta
+				}
+				b_sangjilan = {
+					# Juliana # making shit up
+				}
+			}
+		}
+		d_campania = {
+			color = { 226 204 228 }
+			color2={ 255 255 255 }
+			
+			catholic = 250 # Crusade target weight
+			
+			c_capua = {
+				color = { 240 209 100 }
+				color2={ 255 255 255 }
+				
+				b_capua = {
+					# Capua
+
+					greek = "Kapue"
+				}
+				b_aquino = {
+					# Aquinum
+				}
+				b_teano = {
+					# Teanum
+
+					roman = "Teanum Sidicinum"
+				}
+				b_gaeta = {
+					# Caieta
+
+					greek = Kaieta
+				}
+				b_montecassino = {
+					# Volturnum # actually Castel Volturno
+				}
+				b_caserta = {
+					# Casam Irtam
+				}
+				b_calvi = {
+					# Cales
+				}
+				b_acerra = {
+					# Acerrae
+				}
+			}
+			c_napoli = {
+				color = { 240 209 100 }
+				color2={ 255 255 255 }
+				
+				# Neapolis
+				
+				b_napoli = {
+					# Neapolis
+				}
+				b_aversa = {
+					# Suessula # not Aversa
+				}
+				b_cumae = {
+					# Cumae
+				}
+				b_pozzuoli = {
+					# Puteoli
+				}
+				b_ischia = {
+					# Aenaria
+
+					greek = Pithekousai
+				}
+				b_portici={
+					# Parthenope # actually Pizzofalcone
+				}
+				b_turris_octava={
+				}
+				b_afragola={
+					# Pausylipum # actually Posillipo
+				}
+			}
+			c_amalfi = {
+				color={ 120 200 225 }
+				color2 = { 255 255 255 }
+
+				# Amalphia
+				
+				b_amalfi={
+					# Amalphia
+				}
+				b_sorrento={
+					# Surrentum
+				}
+				b_ravello={
+					# Rebellum
+				}
+				b_tramonti={
+					# Tramons
+				}
+				b_positano={
+					# Pausitanum
+				}
+				b_castellamare = {
+					# Aequana # actually Vico Equense
+				}
+				b_capri = {
+					# Capreae
+				}
+				b_minori = {
+					# Rheggina Minor
+				}
+			}
+		}
+		d_lucania = {
+			color={ 92 114 197 }
+			color2={ 255 255 255 }
+			
+			greek = "Lukania"
+			
+			capital = 336 # Salerno
+			
+			catholic = 250 # Crusade target weight
+			
+			c_salerno = {
+				color={ 92 114 157 }
+				color2={ 255 255 255 }
+
+				# Salernum
+				
+				b_salerno = {
+					# Salernum
+				}
+				b_acenzera = {
+					# Ad Silarum # actually Persano
+				}
+				b_eboli = {
+					# Eburum
+				}
+				b_nocera = {
+					# Nuceria
+				}
+				b_acerno = {
+					# Acernum
+				}
+				b_lucania = {
+					# Paestum # actually Paestum or Poseidonia
+				}
+				b_agropoli = {
+					# Acropolis
+				}
+				b_sarno = {
+					# Sarnum
+				}
+			}
+			c_taranto = {
+				color={ 122 139 207 }
+				color2={ 255 255 255 }
+
+				# Tarentum
+				
+				greek = "Lukania"
+				
+				b_taranto = {
+					# Tarentum
+
+					greek = "Tarantas"
+				}
+				b_mottola = {
+					# Heraclea # actually Policoro
+				}
+				b_castellaneta = {
+					# Metapontum # actually Metaponto
+				}
+				b_tursi = {
+					# Pandosia # actually Santa Maria d'Anglona
+				}
+				b_montepeloso = {
+					# Siris # actually just Siris
+				}
+				b_tricanico = {
+					# Genusia # actually Ginosa
+				}
+				b_gravina = {
+					# Silvium
+				}
+				b_cassano = {
+					# Cassanum
+				}
+			}
+		}
+		d_bruttium = {
+			color={ 170 142 70 }
+			color2={ 255 255 255 }
+			
+			capital = 338 # Reggio
+			
+			catholic = 250 # Crusade target weight
+			
+			c_consenza = {
+				color={ 170 142 70 }
+				color2={ 255 255 255 }
+
+				# Consentia
+				
+				greek = "Kroton"
+				
+				b_cosenza = {
+					# Consentia
+				}
+				b_rossano = {
+					# Roscianum
+				}
+				b_umbriatico = {
+					# Umbriaticum
+				}
+				b_strongoli = {
+					# Petelia
+				}
+				b_argentano = {
+					# Argentanum
+				}
+				b_scalea = {
+					# Scala
+
+					greek = Skala
+				}
+				b_cerenzia = {
+					# Sybaris # actually Sibari
+				}
+				b_crotone = {
+					# Croton
+
+					greek = Kroton
+				}
+			}
+			c_reggio = {
+				color={ 170 142 70 }
+				color2={ 255 255 255 }
+
+				# Rhegium
+				
+				greek = "Rhegion"
+				
+				b_reggio = {
+					# Rhegium
+
+					greek = "Rhegion"
+				}
+				b_mileto = {
+					# Miletum
+				}
+				b_nicotera = {
+					# Medma # I have no idea when the name switched over
+				}
+				b_belcastro = {
+					# Scylla # actually Scilla
+				}
+				b_bova = {
+					# Delia
+				}
+				b_gerace = {
+					# Hieracium
+
+					graeci = Hierax
+					greek = Gerakion
+				}
+				b_tropea = {
+					# Trapeia
+				}
+				b_squillace = {
+					# Scylletium
+
+					greek = Skylletion
+				}
+			}
+		}
+		d_apulia = {
+			color={ 167 172 63 }
+			color2={ 255 255 255 }
+			
+			graeci = Calabria
+			greek = Calabria
+			
+			catholic = 250 # Crusade target weight
+			
+			c_apulia = {
+				color={ 167 172 63 }
+				color2={ 255 255 255 }
+
+				# Apulia
+				
+				b_melfi = {
+					# Melphis
+				}
+				b_trani = {
+					# Turenum
+				}
+				b_cannae = {
+					# Cannae
+				}
+				b_salapia = {
+					# Salapia
+				}
+				b_barletta = {
+					# Barulum
+
+					greek = Bardulos
+				}
+				b_minervo = {
+					# Minervum
+				}
+				b_lavello = {
+					# Forentum
+				}
+				b_lucano = {
+					# Aufidena # not Lucano
+				}
+			}
+			c_bari = {
+				color={ 167 172 63 }
+				color2={ 255 255 255 }
+
+				# Barium
+				
+				greek = "Barion"
+				
+				b_bari = {
+					# Barium
+
+					greek = "Barion"
+				}
+				b_conversano = {
+					# Cupersanum
+				}
+				b_giovinazzo = {
+					# Natolium
+				}
+				b_andria = {
+					# Azetium # actually Castiello, Rutigliano
+				}
+				b_ruvo = {
+					# Rubi
+				}
+				b_molietta = {
+					# Melphicta
+				}
+				b_bitonto = {
+					# Bituntum
+
+					greek = Bitontinon
+				}
+				b_polignano = {
+					# Caelia # actually Ceglie del Campo
+				}
+			}
+			c_lecce = {
+				color={ 167 172 63 }
+				color2={ 255 255 255 }
+				
+				# Calabria
+				
+				b_lecce = {
+					# Lupiae
+				}
+				b_otranto = {
+					# Hydruntum
+
+					greek = "Hydrunton"
+				}
+				b_brindisi = {
+					# Brundisium
+
+					greek = "Brendesion"
+				}
+				b_leuca = {
+					# Leuca
+				}
+				b_castro = {
+					# Castrum Minervae
+				}
+				b_ligento = {
+					# Uzentum # actually Ugento
+				}
+				b_andrano = {
+					# Andranum
+				}
+				b_oria = {
+					# Hyrium
+
+					graeci = Hyria
+					greek = Hyria
+				}
+			}
+			c_foggia = {
+				color = { 209 170 75 }
+				color2={ 255 255 255 }
+
+				# Garganus
+				
+				b_foggia = {
+					# Merinum # actually Santa Maria di Merino in Vieste
+				}
+				b_siponto = {
+					# Sipontum
+				}
+				b_lucera = {
+					# Luceria
+				}
+				b_troia = {
+					# Aecae
+
+					greek = Aika
+				}
+				b_bovino = {
+					# Vibinum
+				}
+				b_salapla = {
+					# Aquadia # actually Accadia
+				}
+				b_vieste = {
+					# Vesta
+				}
+				b_termoli = {
+					# Interamnia
+				}
+			}
+		}
+	}
+}

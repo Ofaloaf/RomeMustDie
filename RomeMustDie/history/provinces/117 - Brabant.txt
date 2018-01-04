@@ -4,8 +4,11 @@
 title = c_brabant
 
 # Settlements
-max_settlements = 6
-b_leuven = tribal
+max_settlements = 5
+b_leuven = castle
+#b_brussel = city
+b_mechelen = temple
+#b_aarschot = castle
 
 #b_antwerpen = city
 #b_grimbergen = castle

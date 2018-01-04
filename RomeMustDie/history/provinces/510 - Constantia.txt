@@ -6,9 +6,9 @@ title = c_constantia
 # Settlements
 max_settlements = 3
 
-b_constantia = castle
+b_constantia = tribal
 
-b_carachioi = city
+#b_carachioi = city
 b_adamclisi = temple
 
 #b_mesgidia = castle
@@ -18,5 +18,5 @@ b_adamclisi = temple
 #b_mangalia = castle
 
 # Misc
-culture = roman
-religion = nicene
+culture = ostrogothi
+religion = arian

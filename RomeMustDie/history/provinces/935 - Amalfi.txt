@@ -17,5 +17,5 @@ b_ravello=temple
 #b_minori
 
 # Misc
-culture = roman
+culture = graeci
 religion = nicene

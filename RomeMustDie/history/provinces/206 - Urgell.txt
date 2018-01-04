@@ -6,14 +6,15 @@ title = c_urgell
 # Settlements
 max_settlements = 4
 b_urgell = castle
-b_pallars = city
+b_pallars = castle
 #b_suert = temple
 #b_viella = castle
-b_puigcerda = castle
+b_puigcerda = temple
 #b_valledebohi = temple
 #b_elpuidesegur = castle
 #b_tremp = castle
 
 # Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene
+

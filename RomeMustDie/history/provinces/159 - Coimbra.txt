@@ -15,5 +15,5 @@ b_viseu = temple
 #b_penela = city
 
 # Misc
-culture = iberoroman
-religion = nicene
+culture = hispano_roman
+religion = priscillian

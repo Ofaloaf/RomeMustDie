@@ -1,0 +1,358 @@
+410001 = {
+	name="Triarius"
+	dynasty=410002
+	culture="ostrogothi"
+	religion="arian"
+	410.1.1 = {
+		birth=yes
+	}
+	470.1.1 = {
+		death=yes
+	}
+}
+
+410002 = {
+	name="Theoderic"
+	dynasty=410002
+	father = 410001
+	diplomacy=6
+	martial=8
+	intrigue=8
+	stewardship=4
+	learning=5
+	culture="ostrogothi"
+	religion="arian"
+	add_trait="gregarious"
+	add_trait="scholar"
+	add_trait="proud"
+	add_trait="envious"
+	add_trait="tough_soldier"
+	434.1.1 = {
+		birth=yes
+	}
+	#471.1.1 = {
+	#	give_nickname = nick_strabo
+	#}
+	481.1.2 = {
+		death=yes
+	}
+}
+
+410003 = {
+	name="Ovida"
+	dynasty=1859051
+	diplomacy=6
+	martial=8
+	intrigue=9
+	stewardship=5
+	learning=6
+	culture="ostrogothi"
+	religion="arian"
+	add_trait="deceitful"
+	add_trait="envious"
+	add_trait="brave"
+	add_trait="lustful"
+	add_trait="tough_soldier"
+	434.1.1 = {
+		birth=yes
+	}
+	#471.1.1 = {
+	#	give_nickname = nick_strabo
+	#}
+	481.1.2 = {
+		death=yes
+	}
+}
+
+410004 = {
+	name="Andela"
+	dynasty=410001
+	diplomacy=6
+	martial=7
+	intrigue=7
+	stewardship=6
+	learning=4
+	culture="ostrogothi"
+	religion="arian"
+	trait="sympathy_pagans"
+	trait=cynical
+	429.1.1 = {
+		birth=yes
+	}
+	480.1.1 = {
+		death=yes
+	}
+}
+
+410005 = {
+	name="Andag"
+	dynasty=410001
+	father=410004
+	diplomacy=5
+	martial=8
+	intrigue=6
+	stewardship=7
+	learning=6
+	culture="ostrogothi"
+	religion="arian"
+	trait="sympathy_pagans"
+	trait="skilled_tactician"
+	454.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+410006 = {
+	name="Thiudimir"
+	dynasty=410001
+	culture="ostrogothi"
+	religion="arian"
+	add_trait="tough_soldier"
+	429.1.1 = {
+		birth=yes
+	}
+	447.1.1 = {
+		add_spouse = 410007
+	}
+	475.1.1 = {
+		death=yes
+	}
+}
+
+
+410007 = {
+	name="Ereleuva"
+	female=yes
+	culture="ostrogothi"
+	religion="nicene"
+	429.1.1 = {
+		birth=yes
+	}
+	475.1.1 = {
+		death=yes
+	}
+}
+
+410008 = {
+	name="Theoderic"
+	dynasty=410001
+	father = 410006
+	mother = 410007
+	diplomacy=8
+	martial=9
+	intrigue=8
+	stewardship=8
+	learning=8
+	culture="ostrogothi"
+	religion="arian"
+	add_trait="just"
+	add_trait="diligent"
+	add_trait="patient"
+	add_trait="ambitious"
+	add_trait="brave"
+	add_trait="administrator"
+	add_trait="charismatic_negotiator"
+	454.1.1 = {
+		birth=yes
+	}
+	481.1.2 = {
+		death=yes
+	}
+}
+
+410009 = {
+	name="Farnobius"
+	# Fictional
+	dynasty=410009
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="ostrogothi"
+	religion="arian"
+	452.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+410010 = {
+	name="Aedoingus"
+	dynasty=410027
+	culture="ostrogothi"
+	religion="arian"
+	405.1.1 = {
+		birth=yes
+	}
+	423.1.1 = {
+		add_spouse = 410011
+	}
+	470.1.1 = {
+		death=yes
+	}
+}
+
+410011 = {
+	name="Sigilda"
+	female = yes
+	#father = 410006
+	#mother = 410007
+	culture="ostrogothi"
+	religion="arian"
+	405.1.1 = {
+		birth=yes
+	}
+	470.1.1 = {
+		death=yes
+	}
+}
+
+410012 = {
+	name="Aedoingus"
+	dynasty=410027
+	father = 410010
+	mother = 410011
+	diplomacy=8
+	martial=9
+	intrigue=8
+	stewardship=8
+	learning=8
+	culture="ostrogothi"
+	religion="arian"
+	add_trait="cynical"
+	add_trait=gregarious
+	add_trait=poet
+	425.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+410013 = {
+	name="Aisso" # Fictional, but needed to make Aedoingus the uncle of Sidimundus
+	dynasty=410027
+	father = 410010
+	mother = 410011
+	culture="ostrogothi"
+	religion="arian"
+	427.1.1 = {
+		birth=yes
+	}
+	445.1.1 = {
+		add_spouse = 410014
+	}
+	472.1.1 = {
+		death=yes
+	}
+}
+
+410014 = {
+	name="Bescela"
+	female = yes
+	culture="ostrogothi"
+	religion="arian"
+	427.1.1 = {
+		birth=yes
+	}
+	475.1.1 = {
+		death=yes
+	}
+}
+
+410015 = {
+	name="Sidimund"
+	dynasty=410027
+	father = 410013
+	mother = 410014
+	diplomacy=8
+	martial=9
+	intrigue=8
+	stewardship=8
+	learning=8
+	culture="ostrogothi"
+	religion="arian"
+	add_trait="deceitful"
+	add_trait=gregarious
+	add_trait=ambitious
+	add_trait=envious
+	add_trait=chaste
+	447.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+410016 = {
+	name="Blivila"
+	dynasty=410028
+	diplomacy=6
+	martial=7
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="ostrogothi"
+	religion="nicene"
+	add_trait="honest"
+	add_trait="tough_soldier"
+	448.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+410017 = {
+	name="Gainas"
+	# GAINAS 2, DUX ARABIAE but like 30 years early
+	dynasty=410013
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="ostrogothi"
+	religion="nicene"
+	add_trait="deceitful"
+	add_trait="brave"
+	add_trait="naive_appeaser"
+	444.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+410018 = {
+	name="Adamis"
+	# Adamis was the steward of Attila's wife Erecan in the middle of the century. No idea what happened to him afterwards or what his actual ethnicity was, so I'm making shit up.
+	dynasty=410024
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=7
+	learning=6
+	culture="ostrogothi"
+	religion="arian"
+	add_trait="gregarious"
+	add_trait="deceitful"
+	add_trait="fortune_builder"
+	420.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+

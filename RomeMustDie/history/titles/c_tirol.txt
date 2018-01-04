@@ -1,7 +1,4 @@
-1.1.1 = {
-	liege = "d_noricum"
-}
-
-475.1.1 = {
-	holder = 1871004
+466.1.1 = {
+	liege = k_alemannia
+	holder = 368001
 }

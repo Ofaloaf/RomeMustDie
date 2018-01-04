@@ -17,5 +17,5 @@ b_nyon = city
 #b_thonon = castle
 
 # Misc
-culture = burgundian
+culture = burgundi
 religion = arian

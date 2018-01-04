@@ -17,5 +17,5 @@ b_domazlice = tribal
 
 # Misc
 
-culture = suebi
+culture = lombard
 religion = norse_pagan

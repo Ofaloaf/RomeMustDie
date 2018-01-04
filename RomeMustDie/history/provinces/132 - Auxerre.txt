@@ -15,5 +15,6 @@ b_pontigny = temple
 #b_tonnerre = city
 #b_mailly = temple
 
-culture = galloroman
+# Misc
+culture = gallo_roman
 religion = nicene

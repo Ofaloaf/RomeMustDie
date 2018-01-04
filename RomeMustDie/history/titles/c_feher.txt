@@ -1,0 +1,4 @@
+454.1.1 = {
+	liege = k_gepidia
+	holder = 454006
+}

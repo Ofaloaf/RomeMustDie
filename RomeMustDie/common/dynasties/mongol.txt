@@ -1,0 +1,11 @@
+499001 = {
+	name = "Yuan"
+	culture = mongol
+	religion = taoist
+}
+
+499002 = {
+	name = "Yujiulü"
+	culture = mongol
+	religion = taoist
+}

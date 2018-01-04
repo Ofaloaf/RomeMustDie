@@ -1,4 +1,0 @@
-572001 = {
-	name = "Winnili"
-	culture = lombard
-}

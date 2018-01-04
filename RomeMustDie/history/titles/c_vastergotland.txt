@@ -1,0 +1,7 @@
+455.1.1 = {
+	liege = d_gotaland
+	holder = 3182012
+}
+465.1.1 = {
+	holder = 3182013
+}

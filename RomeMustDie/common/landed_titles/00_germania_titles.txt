@@ -1,0 +1,2879 @@
+e_germania  = {
+	color= { 147 130 110 }
+	color2={ 255 255 255 }
+
+	k_alemannia = {
+		color={ 249 221 22 }
+		color2= { 255 255 255 }
+
+		culture = alemanni
+			
+		capital = 249 #Schwaben
+
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					culture_group = central_germanic
+					culture = suebi
+				}
+			}
+		}
+
+		d_swabia = {
+			color={ 117 161 67 }
+			color2={ 255 255 255 }
+
+			old_frankish = "Alemannia"
+			alemanni = "Alemannia"
+			
+			c_ulm = {
+				color={ 78 78 78 }
+				color2={ 255 255 255 }
+
+				# Guntia
+
+				alemanni = Hulma
+				old_frankish = Hulma
+				burgundi = Hulma
+				suebi = Hulma
+			
+				b_ulm = {
+					# Guntia
+
+					alemanni = Hulma
+					old_frankish = Hulma
+					burgundi = Hulma
+					suebi = Hulma
+				}
+				b_zwiefalten = {
+					# Zwivaltum
+				}
+				b_teck = {
+					# Aquileia # actually Hiedenheim an der Brenz
+				}
+				b_biberach = {
+					# Bibra
+				}
+				b_memmingen = {
+					# Cassiliacum
+				}
+				b_isny = {
+					# Isna
+				}
+				b_goppingen = {
+					# Geppinga # speculative
+				}
+				b_erbach = {
+					# Irlebacum # speculative
+				}
+			}
+			c_furstenberg = {
+				color={ 75 75 75 }
+				color2={ 255 255 255 }
+
+				# Chinzechum # the Kingzig (Rhein) River was attested in 1099 with 'ad Chinzechun' and 'ad aliam Chinzichun', and in 1128 with 'flumen Kinzicha'
+			
+				b_furstenberg = {
+					# Mons Princeps
+				}
+				b_villingen = {
+					# Riusiava # actually possibly Heidengraben, Grabenstetten
+				}
+				b_hirsau = {
+					# Clarenna # actually Donnstetten
+				}
+				b_baar = {
+					# Bara
+				}
+				b_haslach = {
+					# Fasalacum # speculative and probably wrong. -ach at least sometimes indicates an Antiquity -ako/-acum/-acus
+				}
+				b_zollern = {
+					# Grinario # actually Köngen
+				}
+				b_wolfach = {
+					# Ulfacum # speculative and probably wrong.
+				}
+				b_donaueschingen = {
+					# Esginga # 889
+				}
+			}
+			c_wurttemberg = {
+				color={ 72 72 72 }
+				color2={ 255 255 255 }
+
+				# Neccarum # Latin form of the Neckar River
+			
+				b_stuttgart = {
+					# Chan Stada # 700
+				}
+				b_heilbronn = {
+					# Helibrunna # 741
+				}
+				b_reutlingen = {
+					# Lapidarium # actually Lapidarium
+				}
+				b_waiblingen = {
+					# Weibilingon
+				}
+				b_esslingen = {
+					# Ezelinga # 777
+				}
+				b_gmund = {
+					# Neccarum
+				}
+				b_staufen = {
+					# Murra # actually Murr
+				}
+				b_asperg = {
+				}
+			}
+			c_baden = {
+				color={ 102 102 102 }
+				color2={ 255 255 255 }
+
+				# Aquensis
+
+				alemanni = Mordunouva
+				old_frankish = Auciacensis # 'in pago Auciacensi sitas' in 675
+				burgundi = Mordunouva
+				suebi = Mordunouva
+			
+				b_baden = {
+					# Aurelia Aquensis
+
+					alemanni = Balneas
+					old_frankish = Balneas
+					burgundi = Balneas
+					suebi = Balneas
+				}
+				b_karlsruhe = {
+					# (Vicus) Bibiensium # actually Sandweier
+				}
+				b_wimpfen = {
+					# (Vicus) Alisinensium
+				}
+				b_calw = {
+					# Caleua
+				}
+				b_pforzheim = {
+					# Portus
+				}
+				b_durlach = {
+					# (Vicus) Senotensis # actually Wilferdingen
+				}
+				b_rastatt = {
+					# Segodunum
+				}
+				b_neuhausen = {
+					# Saliobriga # actually Steinsfurt
+				}
+			}
+			c_breisgau = {
+				color={ 105 94 105 }
+				color2={ 255 255 255 }
+
+				# Neomagia
+
+				alemanni = "Neomagensis"
+				burgundi = Neomagensis
+				old_frankish = Brisgowe
+		
+				b_freiburg = {
+					# Sumelocenna # actually Rottenburg am Neckar
+				}
+				b_stblasien = {
+					# Brigobannis # actually Hüfingen
+				}
+				b_offenburg = {
+					# Juliomagus # actually Schleitheim
+				}
+				b_zahringen = {
+					# Zarduna # actually Burg, Kirchzarten
+
+					roman = "Tarodunum"
+					graeci = "Tarodunum"
+				}
+				b_lahr = {
+					# Abonobaia # actually the Schwarzwald
+				}
+				b_lohrrach = {
+					#Visippacum # making a guess at the etymology of "Fischbach"
+				}
+				b_breisach = {
+					# Brisiacus
+
+					roman = "Brisiacum"
+				}
+				b_rottweil = {
+					# Arae Flaviae
+				}
+			}
+		}
+		d_rhaetia = {
+			color = { 108 122 153 }
+			color2= { 255 255 255 }
+
+			c_schwaben = {
+				color={ 81 81 81 }
+				color2={ 255 255 255 }
+
+				# Venetus # 'Lacus Venetus' was the truly antique name for the main part of Lake Constance
+
+				norse = "Sváfa"
+
+				alemanni = Potamicus
+				old_frankish = Potamicus
+			
+				b_tubingen = {
+					# Tuingia
+
+					old_frankish = Twingia
+				}
+				b_konstanz = {
+					# Constantia
+				}
+				b_heiligenberg = {
+					# Mons Sanctus
+				}
+				b_uberlingen = {
+					# Tasgaetium # actually Eschenz
+				}
+				b_hohenberg = {
+					# Arbor Felix # actually Arbon, Switzerland
+				}
+				b_friedrichshafen = {
+					# Bragodurum # actually Ennetach, Sigmaringen
+				}
+				b_wangen = {
+					# Pyrene # actually maybe Heuneburg, Hundersingen
+				}
+				b_lindau = {
+					# Lindavia
+				}
+			}
+			c_st_gallen = {
+				color={ 85 80 85 }
+				color2={ 255 255 255 }
+
+				# Ruguscorum # Rugusci! everyone's favorite Rhaetians.
+		
+				b_rheineck = {
+					# Ad Rhenum # probably not Rheineck, tbh
+				}
+				b_stgallen = {
+					# Cozesaua # actually Gossau
+				}
+				b_appenzell = {
+					# Ad Fines # actually Pfyn
+				}
+				b_frauenfeld = {
+					# Truginum # actuall Trogen, guessing at a Latin form. 'Trugin' is attested in 1175.
+				}
+				b_altstatten = {
+					# Clunia # actually Altenstadt
+				}
+				b_lichtensteig = {
+					# Wila # actually Wil, Sank Gallen. 754 attestation.
+
+					roman = Vila # 762
+					graeci = Vila
+					gallo_roman = Vila
+				}
+				b_vaduz = {
+					# Segavio # actually Heidenburg, Göfis
+				}
+				b_herisau = {
+					# Herinisauva # 837
+				}
+			}
+			c_chur = {
+				color={ 87 87 87 }
+				color2={ 255 255 255 }
+
+				# Curia
+
+				ostrogothi = Theodoricopolis
+			
+				b_chur = {
+					# Curia
+
+					ostrogothi = Theodoricopolis
+				}
+				b_churwalden = {
+					# (Silva) Augeria # 1149(!)
+				}
+				b_davos = {
+					# Aeniatina # slightly embellished form of the 930 Latin name for the Engadin valley, 'Vallis Eniatina'
+				}
+				b_maienfeld = {
+					# Magia # actually Maienfeld
+				}
+				b_illanz = {
+					# Iliande # 765
+				}
+				b_thusis = {
+					# Tosana # 1156
+				}
+				b_glurns = {
+					# Clornum
+				}
+				b_zuoz = {
+					# Zuzes # 840
+				}
+			}
+			c_schwyz = {
+				color={ 167 28 66 }
+				color2={ 255 255 255 }
+
+				# Turicensis
+
+				old_frankish = Switz
+				burgundi = Switz
+				visigothi = Suittes
+				ostrogothi = Suittes
+				thuida = Switz
+				
+				b_schwyz = {
+					# Ludreticum # Ludretikon was an old name for Thalwil.
+				}
+				b_engelberg = {
+					# Centum Prata # actually Kempraten
+				}
+				b_zurich = {
+					# Turicum
+				}
+				b_zug = {
+					# Chama # 858 farm on the site of Zug
+				}
+				b_altdorf = {
+					# Horga # actually Horgen
+				}
+				b_stans = {
+					# Stagnum
+				}
+				b_glarus = {
+					# Clarona # 9th century
+				}
+				b_winterthur = {
+					# Vitudurum
+				}
+			}
+			c_grisons = {
+				color={ 100 56 49 }
+				color2={ 255 255 255 }
+
+				# Bilitio
+
+				burgundi = Berinzona
+				old_frankish = Berinzona
+				
+				b_bellinzona = {
+					# Bilitio
+
+					burgundi = Berinzona # 721-1002
+					old_frankish = Berinzona
+				}
+				b_disentis = {
+					# Desertina # 765
+				}
+				b_locarno = {
+					# Locarnum
+				}
+				b_biasca = {
+					# Aviasca # 830
+
+					old_frankish = Abiasca # 1119
+					burgundi = Abiasca
+				}
+				b_domo = {
+					# Oscela # is this right?
+				}
+				b_lugano = {
+					# Luganum
+
+					old_frankish = Luanasco # 804
+					burgundi = Luanasco
+				}
+				b_musso = {
+					# Mussium
+				}
+				b_mendrisio = {
+					# Mendrium
+
+					old_frankish = Mendrici
+					burgundi = Mendrici
+				}
+			}
+		}
+		d_uburzis = {
+			color={ 100 199 150 }
+			color2={ 255 255 255 }
+
+			old_frankish = Virteburch
+
+			c_bamberg = {
+				color={ 120 120 120 }
+				color2={ 255 255 255 }
+
+				# Sala # the Saale River
+
+				old_frankish = Babenberch
+				alemanni = Bambärch
+			
+				b_ansbach = {
+					# Onoldum
+
+					old_frankish = Onoltesbach
+					alemanni = Onoltesbach
+					thuringi = Onoltesbach
+					old_saxon = Onoltesbach
+					suebi = Onoltesbach
+				}
+				b_bamberg = {
+					# Babenburga
+
+					old_frankish = Babenberch
+					alemanni = Bambärch
+				}
+				b_babenberg = {
+					# Sala # the Saale River
+					# Bamberg and Babenberg ARE THE SAME THING
+				}
+				b_cadolzburg = {
+					# Crana # gonna be honest, I saw this on a map of the HRE circa AD 1000, and it's in the right area, but I'm not sure what 'Crana' actually is.
+				}
+				b_colmberg = {
+					# Culminaha # maybe? a name attested in 966.
+				}
+				b_roth = {
+					# Egera # actually the Eger River
+				}
+				b_uffenheim = {
+					# Crosni # like Crana, I'm not actually sure what this is.
+				}
+				b_crailsheim = {
+					# Moinwinidi # not Crailsheim
+				}
+			}
+			c_leiningen = {
+				color={ 126 126 126 }
+				color2={ 255 255 255 }
+
+				# Lopodunum # actually Ladenburg
+				# who made the CK2 map originally, this county makes me cross.
+
+				old_frankish = Lobdengowe
+			
+				b_leiningen = {
+					# Lopodunum # actually Ladenburg
+
+					old_frankish = Lobetenburg
+					alemanni = Lobetenburg
+					suebi = Lobetenburg
+					thuringi = Lobetenburg
+					old_saxon = Lobetenburg
+				}
+				b_heidelberg = {
+					# Rodaha # actually Roda in Rosenthal
+				}
+				b_lorsch = {
+					# Lauressam # 885 attestation
+				}
+				b_durkheim = {
+					# Turnesheim # 778 attestation
+				}
+				b_battenberg = {
+					# Triburias # 874 attestation
+
+					roman = "Vicus Augustanus"
+					graeci = "Vicus Augustanus"
+				}
+				b_hardenburg = {
+					# Alta Ripa # actually Altrip
+				}
+				b_ungstein = {
+					# (Vicus) Nediensium # actually Spechbach
+				}
+				b_pfeffingen = {
+					# Mutherstat # actually Mutterstadt, attested in 767 or 768.
+				}
+			}
+			c_wurzburg = {
+				color={ 123 123 123 }
+				color2={ 255 255 255 }
+
+				# Uburzis
+
+				old_frankish = Virteburch
+			
+				b_wurzburg = {
+					# Uburzis
+
+					old_frankish = Virteburch
+				}
+				b_aschaffenburg = {
+					# Ascafaburc # 976
+				}
+				b_schweinfurt = {
+					# Suinuurde # 720
+				}
+				b_marienberg = {
+					# Weringowe # a Frankish district near Wurzburg
+				}
+				b_hammelburg = {
+					# Hamulo (Castellum) # 716 attestation
+
+					old_frankish = Hamalumburg # 777 attestation
+				}
+				b_schwarzenberg = {
+					# Scegifeldum # actually Sceinfeld
+				}
+				b_theiheim = {
+					# Waltsazi # early medieval district
+				}
+				b_mainderheim = {
+					# Salagowe # early medieval district
+				}
+			}
+
+		}
+	}
+	k_baiuvaria = {
+		color = { 0 152 212 }
+		color2= { 255 255 255 }
+
+		d_bajovaria = {
+			color={ 17 116 193 }
+			color2={ 255 255 255 }
+			
+			capital = 360 #Oberbayern
+
+			roman = Vindelicia
+			graeci = Vindelicia
+			
+			c_kempten = {
+				color={ 69 69 69 }
+				color2={ 255 255 255 }
+
+				# Cambodunum
+
+				alemanni = Cambidano
+				old_frankish = Cambidano
+			
+				b_kempten = {
+					# Cambodunum
+
+					alemanni = Cambidano
+					old_frankish = Cambidano
+				}
+				b_augsburg = {
+					# Augusta
+
+					roman = "Augusta Vindelicorum"
+					graeci = "Augusta Vindelicorum"
+				}
+				b_zumarshausen = {
+					# Duria # 898 # ZuSmarshausen got its name as the hausen of the Zusam River. The Zusam is first attested in 898 as the 'Duria', go figure.
+				}
+				b_kaufbeuren = {
+					# Navoa # actually Eggenthal
+				}
+				b_donauworth = {
+					# Rapis # actually Schwabmünchen, probably
+				}
+				b_friedberg = {
+					# Rostrum Nemaviae # actually Türkheim
+				}
+				b_hochstadt = {
+					# Ad Novas # actually Unterigling, Igling
+				}
+				b_rain = {
+					# Abodiacum # actually Epfach
+				}
+			}
+			c_oberbayern = {
+				color={ 66 66 66 }
+				color2={ 255 255 255 }
+
+				# Isara # Latin name for the Isar River
+			
+				b_munchen = {
+					# Monacum # Latinization of the German name. I am ashamed. ASHAMED.
+
+					old_frankish = Munichen
+					alemanni = Munichen
+					suebi = Munichen
+				}
+				b_dachau = {
+					# Ambra # m-maybe? Google Translate is /butchering/ this German, and I can't parse the original text.
+				}
+				b_freising = {
+					# Frigisinga # attested 555
+				}
+				b_andechs = {
+					# Turun # actually Haag in Oberbayern
+				}
+				b_diessen = {
+					# Bedaium # actually Seebruck
+				}
+				b_dingolfing = {
+					# Tinguluinga # Medieval Latin form of the toponym
+				}
+				b_pfaffenberg = {
+					# Papadunum # 'Pfaffe' means 'Priest', via 'Papas'
+				}
+				b_ebersberg = {
+					# Isinisca # actually Großhelfendorf
+				}
+			}
+			c_salzburg = {
+				color={ 63 63 63 }
+				color2={ 255 255 255 }
+
+				# Juvavum
+
+				roman = "Iuvavum"
+			
+				b_salzburg = {
+					# Juvavum
+
+					roman = "Claudium Iuvavum"
+				}
+				b_durmberg = {
+					# Tarnantone # actually Neufahrn, Neumarkt am Wallersee
+				}
+				b_waging = {
+					# Uuaginga # 712 attestation
+				}
+				b_berchtesgaden = {
+					# Perchtadunum # making up some shit
+				}
+				b_tittmoning = {
+					# Tittamanninga # 788 attestation
+				}
+				b_laufen = {
+					# Loufa # Old High German etymology but not directly attested as such
+				}
+				b_muhldorf = {
+					# Glanicle # actually Gnigl. 'Glanicle' is the speculated Celtic root word for Gnigl's modern name, with the Celtic term meaning 'clear water'
+				}
+				b_gastein = {
+					# Gastuna # 963 attestation
+				}
+			}
+			c_niederbayern = {
+				color={ 60 60 60 }
+				color2={ 255 255 255 }
+
+				# Regana
+		
+				b_straubing = {
+					# Sorviodurum
+
+					alemanni = Strupinga
+					old_frankish = Strupinga
+					suebi = Strupinga
+				}
+				b_regensburg = {
+					# Castra Regina
+
+					alemanni = Radaspona # 770 attestation
+					old_frankish = Radaspona
+					suebi = Radaspona
+				}
+				b_landshut = {
+					# Artobriga # not Landshut
+				}
+				b_ingolstadt = {
+					# Drusacum # making up shit. Drusus campaigned around Ingolstadt back in Roman times.
+				}
+				b_wittelsbach = {
+					# Augusta # actually Höhenrain, Plattling
+				}
+				b_cham = {
+					# Camma # Celtic
+				}
+				b_rohrbach = {
+					# Rorpahe # 869
+				}
+				b_kirchroth = {
+					# Iovisura # actually Ohu, Essenbach
+				}
+			}
+			c_nurnberg = {
+				color={ 57 57 57 }
+				color2={ 255 255 255 }
+
+				# Paginza # 889 attested name for the Pegnitz River, which flows by Nuremberg
+		
+				b_nurnberg = {
+					# Norodunum # making up shit
+				}
+				b_ellwangen = {
+					# Alaho
+				}
+				b_furth = {
+					# Praetoria # The Kastell Halheim is a Roman fort in the vicinity of Halheim, Germany. Its actual name is not known, so I'm making up shit, come fight me irl.
+				}
+				b_kulmbach = {
+					# Culminaha # 1024 attestion, I think
+				}
+				b_hohenburg = {
+					# Numerorum # making up shit
+				}
+				b_nordlingen = {
+					# Jagesgovia # the Jagst River is first attested as part of the 'Jagesgouwe' in 768.
+
+					old_frankish = Jagesgouwe
+				}
+				b_eichstatt = {
+					# Cochane # 795 attested nameform of the Kocher River
+				}
+				b_erlangen = {
+					# Ratintzgovia # in 1002, Erlangen was described as 'in pago Ratintzgouui', in the Regnitz-Gau
+				}
+			}
+		}
+		d_orientalis = { 
+			color={ 236 236 236 }
+			color2={ 255 255 255 }
+			
+			capital = 449 #Österreich
+
+			alemanni = Ostarrîchi
+			suebi = Ostarrîchi
+		
+			c_passau = {
+				color={ 54 54 54 }
+				color2={ 255 255 255 }
+
+				# Batavis
+		
+				b_passau = {
+					# Batavis
+				}
+				b_ortenburg = {
+					# Ovilava # actually Wels, AT
+				}
+				b_schaumberg = {
+					# Stanacum # actually Oberranna, AT
+				}
+				b_formbach = {
+					# Joviacum # actually possibly Schlögen, Haibach ob der Donau, AT
+				}
+				b_ulrichsberg = {
+					# Petrensibus # actually Pleinting, DE
+				}
+				b_freistadt = {
+					# Ad Mauros # actually Eferding, AT
+				}
+				b_raab = {
+					# Mauriniamum # ??? http://www.gutenberg.org/files/17124/17124-h/images/vindelicia.jpg ???
+				}
+				b_freyung = {
+					# Sevacorum # making shit up. The Sevaces were a tribe in the area way back when.
+				}
+			}
+			c_znojmo = {
+				color={ 51 51 51 }
+				color2={ 255 255 255 }
+
+				# Abiluum
+		
+				b_mikulov = {
+					# Mediolanum
+				}
+				b_iglau = {
+					# Iglavia # Latinization of modern name
+				}
+				b_lundenburg = {
+					# Teracatria # Teracatriae was a tribe in the area
+				}
+				b_skalitz = {
+					# Tava # a river???
+				}
+				b_trebic = {
+					# Abilunum # a city???
+				}
+				b_eibenshitz = {
+					# Rhacatia # Rhacatae were a German tribe on the edge of the Danube, south of the Quadi and on the Pannonian frontier.
+				}
+				b_znojmo = {
+					# Abiluum
+				}
+				b_ivancice = {
+					# Baemorum # making up shit. Ptolemy places the 'Baemi' in the area.
+				}
+			}
+			c_osterreich = {
+				color={ 48 48 48 }
+				color2={ 255 255 255 }
+
+				# Vindobona
+
+				alemanni = Wenia # Old High German form
+				old_frankish = Weniam # 881 attestation, 'ad Uueniam'
+				suebi = Uueniam
+				thuringi = Wenia
+
+				greek = Vienni
+			
+				b_wien = {
+					# Vindobona
+
+					alemanni = Wenia
+					suebi = Uueniam
+					thuringi = Wenia
+					old_frankish = Weniam
+
+					greek = Vienni
+				}
+				b_linz = {
+					# Lentia
+
+					alemanni = Linze # 799 attestation
+					old_frankish = Linze
+					suebi = Linze
+					thuringi = Linze
+					thuida = Linze
+				}
+				b_melk = {
+					# Medilica # 831 attestation
+				}
+				b_stpolten = {
+					# Treisma # 799 attestation
+
+					roman = "Aelium Cetium"
+					graeci = "Aelium Cetium"
+				}
+				b_hohenwarth = {
+					# Lauriacum # actually Enns
+				}
+				b_wagram = {
+					# Carnuntum # not Wagram
+				}
+				b_krems = {
+					# Cremisa # Latinization of modern name
+				}
+				b_steyr = {
+					# Gesodunum
+				}
+			}
+		}
+		d_teriolis = {  
+			color={ 170 43 21 }
+			color2={ 255 255 255 }
+			
+			capital = 316 #Tirol
+
+			roman = "Noricum"
+			graeci = "Noricum"
+		
+			c_tirol = {
+				color={ 90 90 90 }
+				color2={ 255 255 255 }
+
+				# Teriolis
+			
+				b_bregenz = {
+					# Brigantium
+
+					alemanni = Breagaz
+				}
+				b_landeck = {
+					# Scarbia # actually Scharnitz
+
+					alemanni = Scaraza # attested 763
+					old_frankish = Scaraza
+					suebi = Scaraza
+					thuringi = Scaraza
+					thuida = Scaraza
+				}
+				b_stanton = {
+					# Vallis Taberna
+				}
+				b_imst = {
+					# Humiste # 763 attestation
+				}
+				b_sterzing = {
+					# Vipitenum
+
+					alemanni = Wibitina
+					thuringi = Wibitina
+					old_frankish = Wibitina
+					suebi = Scaraza
+					thuida = Wibitina
+				}
+				b_ried = {
+					# Parthanum # actually Garmisch-Partenkirchen
+				}
+				b_dornbirn = {
+					# Torrinpuirron # Alemannic in origin. Attested in 895.
+				}
+				b_nenzing = {
+					# Matreium # actually Matrei am Brenner
+				}
+			}
+			c_innsbruck = {
+				color={ 84 84 84 }
+				color2={ 255 255 255 }
+
+				# Oenipons
+			
+				b_innsbruck = {
+					# Oenipons
+				}
+				b_kufstein = {
+					# Mastiacum # actually Brixlegg
+				}
+				b_stams = {
+					# Albianum # actually Ebbs
+				}
+				b_lienz = {
+					# Aguntum
+
+					alemanni = Luenzina # attested 1030
+					old_frankish = Luenzina
+					suebi = Luenzina
+					thuringi = Luenzina
+					old_saxon = Luenzina
+					thuida = Luenzina
+				}
+				b_schwaz = {
+					# Littamum # actually San Candido/Innichen
+				}
+				b_kitzbuhel = {
+					# Sebatum # actually San Lorenzo di Sebato
+				}
+				b_jenbach = {
+					# Byrrha # actually the Rienz/Rienza River in South Tyrol
+				}
+				b_fugen = {
+					# Funzina
+				}
+			}
+		}
+	}
+	k_thuringia = {
+		color = { 158 209 228 }
+		color2= { 255 255 255 }
+		
+		capital = 255 #Thuringen
+
+		culture = thuringi
+
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					culture = thuringi
+				}
+			}
+		}
+
+		d_thuringia = {
+			color={ 66 126 157 }
+			color2={ 255 255 255 }
+		
+			capital = 255 #Thuringen
+			
+			c_thuringen = {
+				color={ 42 42 42 }
+				color2={ 255 255 255 }
+
+				# Thuringia
+			
+				b_erfurt = {
+					# Erphesfurt
+				}
+				b_muhlhausen = {
+					# Mulhusinus
+				}
+				b_arnstadt = {
+					# Arnestati
+				}
+				b_eichsfeld = {
+				}
+				b_reuss = {
+				}
+				b_salzungen = {
+					# Salsunga # 775
+				}
+				b_schmalkalden = {
+					# Smalcalta # 874
+				}
+				b_henneberg = {
+				}
+			}
+			c_nassau = {
+				color={ 171 171 171 }
+				color2={ 255 255 255 }
+
+				# Buchonia
+			
+				b_nassau = {
+					# Nassova
+				}
+				b_fulda = {
+					# Fulthaha # Uulthaha attested in 750, Fulde in 769.
+				}
+				b_wetzlar = {
+					# Nivora # 778. 'in loco qui dicitur Nivora', in reference to the Nauborn district on the south side of Wetzlar.
+				}
+				b_marburg = {
+					# Laugana # Latin name for the Lahn River.
+				}
+				b_katzenelnbogen = {
+					# Cattimelibocus # speculative
+				}
+				b_hersfeld = {
+					# Haerulfisfeld
+
+					roman = Lullacum # St. Lullus (re)formed Hersfeld Abbey
+					gallo_roman = Lullacum
+					hispano_roman = Lullacum
+					romano_british = Lullacum
+					graeci = Lullacum
+					greek = Lullakon
+				}
+				b_falkenstein = {
+				}
+				b_isenburg = {
+				}
+			}
+			c_weimar = {
+				color={ 183 183 183 }
+				color2={ 255 255 255 }
+
+				# Wimares
+
+				old_frankish = Wimari
+				
+				b_weimar = {
+					# Wimares
+
+					old_frankish = Wimari
+				}
+				b_jena = {
+					# Iani # attested from somewhere between 881 and 899 in the Hersfelder Zehntverzeichnis
+				}
+				b_walkenried = {
+				}
+				b_nordhausen = {
+					# Nordusinus # guessing
+				}
+				b_memelsen = {
+					# Mimilebo # 8th century
+				}
+				b_gotha = {
+					# Gothaha # 775 attestation
+				}
+				b_apoldoa = {
+				}
+				b_gera = {
+				}
+			}
+		}
+		d_variscorum = {
+			color = { 201 176 5 }
+			color2= { 255 255 255 }
+
+			c_plauen = {
+				color={ 180 180 180 }
+				color2={ 255 255 255 }
+
+				# Argelia
+				
+				b_plauen = {
+					# Plavia
+				}
+				b_leipzig = {
+					# Argelia
+				}
+				b_merseburg = {
+					# Mersiburgum # 'Mersiburc' is attested in 881/899, 'Mesburiorum' during Henry the Fowler's reign
+				}
+				b_halle = {
+					# Hala # Holla!
+				}
+				b_knobelsdorf = {
+					# Sopava # Czech name for the Zschopau River
+				}
+				b_zeitz = {
+					# Cici # attested in 967
+				}
+				b_zwickau = {
+					# Cygnea
+				}
+				b_naumburg = {
+					# Bicurgium # not Naumburg
+				}
+			}
+			c_meissen = {
+				color={ 177 177 177 }
+				color2={ 255 255 255 }
+
+				# Lupfurdum
+
+				old_frankish = Misni
+				
+				b_dresden = {
+					# Lupfurdum
+				}
+				b_meissen = {
+					# Menosgada
+
+					old_frankish = Misni
+				}
+				b_dohna = {
+				}
+				b_belgern = {
+					# Belegora # attested in 983
+				}
+				b_strehla = {
+				}
+				b_rabenau = {
+					# Rabinovia # 'Rabinowe' is attested in 1235
+				}
+				b_wettin = {
+					# Vitin # attested in 961
+				}
+				b_radeburg = {
+					# Redora # Czech form of the name for the Grosse Röder
+				}
+			}
+		}
+	}
+	k_saxonia = {
+		color={ 120 25 25 }
+
+		culture = old_saxon
+
+		capital = 310 # Anhalt
+
+		allow = {
+			OR = {
+				culture = old_saxon
+				culture = saxon
+			}
+		}
+
+		name_tier = duke
+		
+		catholic = 3000 # Crusade target weight
+		norse_pagan_reformed = 500 # Crusade target weight
+
+		d_ostfalia = {
+			color = { 241 149 135 }
+			color2= { 255 255 255 }
+
+			c_altmark = {
+				color={ 189 189 189 }
+				color2={ 255 255 255 }
+
+				# Leuphana # speculating
+				
+				b_werben = {
+					# Wiribeni # 10th or 11th century?
+				}
+				b_halberstedt = {
+					# Halwerstidde
+				}
+				b_walbeck = {
+					# Drevani # related to the Drawehn
+				}
+				b_luchow = {
+					# Luchowe
+				}
+				b_salzwedel = {
+					# Soltwidele
+				}
+				b_stendal = {
+					# Steinedal # 1022
+				}
+				b_osterburg = {
+					# Hohbuoki # actually Höhbeck, early 9th century
+				}
+				b_tangermunde = {
+					# Tongeremuthi # 1009
+				}
+			}
+			c_anhalt = {
+				color={ 184 184 184 }
+				color2={ 255 255 255 }
+				
+				# Ascaria
+				
+				b_zerbst = {	
+					# Ciervisti # 949
+				}
+				b_magdeburg = {	
+					# Magathaburga # 10th century		
+				}
+				b_haldensleben = {
+					# Hahaldeslevo # 966
+				}
+				b_mansfeld = {
+					# Hastfalagowe # early medieval district
+				}
+				b_dessau = {
+					# Dissovia # 'Dissowe' attested in 1213
+				}
+				b_arnstein = {
+					# Arnastinum # making shit up
+				}
+				b_querfurt = {
+					# Curnfurtum
+				}
+				b_bernburg = {
+					# Nortthuringovia # early Medieval district
+				}
+			}
+			c_luneburg = {
+				color={ 195 195 195 }
+				color2={ 255 255 255 }
+
+				# Bardengavia # Bardengau
+				
+				b_luneburg = {
+					# Hiluni # 795
+				}
+				b_bardowick = {
+					# Bardenuvicum
+				}
+				b_gifhorn = {
+					# Hramesloa
+				}
+				b_evern = {
+					# Eberinga # Eberen is attested in 1117 and Everinge is attested in 1230
+				}
+				b_reppenstedt = {
+					# Repinstid # 1197
+				}
+				b_ludersburg = {
+					# Gretinge # early medieval district
+				}
+				b_thomasburg = {
+					# Emmanthorpe # ????
+				}
+				b_uelzen = {
+					# Ulessen
+				}
+			}
+		}
+		d_angrivaria = {
+			color = { 138 135 203 }
+			color2= { 255 255 255 }
+
+			old_saxon = Angaria
+			old_frankish = Angria
+
+			c_celle = {
+				color={ 94 89 183 }
+				color2={ 255 255 255 }
+
+				# Wigmodia
+
+				roman = "Tulifurdum"
+				graeci = Tulifurdum
+				gallo_roman = Tulifurdum
+				hispano_roman = Tulifurdum
+				romano_british = Tulifurdum
+				mauro_roman = Tulifurdum
+				greek = Touliphourdon
+				
+				b_celle = {
+					# Kiellu # 985
+				}
+				b_hannover = {
+					# Tulifurdum
+
+					greek = Touliphourdon
+
+					old_frankish = Honovere
+				}
+				b_herford = {
+					# Heilanga # not Herford
+				}
+				b_hermannsburg = {
+					# Waldsati # not Hermannsburg
+				}
+				b_ravensberg = {
+					# Corvidunum # not the actual etymology or origin of Ravensberg
+				}
+				b_nienburg = {
+				}
+				b_wedemark = {
+				}
+				b_wittingen = {
+					# Wittingavia
+				}
+			}
+			c_braunschweig = {
+				color={ 174 176 208 }
+				color2={ 255 255 255 }
+
+				# Tulisurgum
+
+				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
+				
+				b_braunschweig = {
+					# Tulisurgum
+				}
+				b_bielefeld = {
+					# Waditlagun # actually Wathlingen
+				}
+				b_paderborn = {
+				}
+				b_hildesheim = {
+					# Utisson # actually Uetze
+				}
+				b_waldeck = {
+					# Grindiriga # not Waldeck
+				}
+				b_wolfenbuttel = {
+					# Hastfala # not Wolfenbuttel
+				}
+				b_helmstedt = {
+					# Siradisson # actually Seershausen
+				}
+				b_gandersheim = {
+					# Scheplica # actually Schepelse
+				}
+			}
+			c_bremen = {
+				color={ 119 128 202 }
+				color2={ 255 255 255 }
+
+				# Visurgis # Weser
+
+				old_frankish = Hostingabi
+				old_saxon = Hostingabi
+
+				roman = Fabiranum
+				graeci = Fabiranum
+				greek = Phabiranon
+				
+				b_bremen = {
+					# Brema
+
+					roman = Fabiranum
+					graeci = Fabiranum
+					greek = Phabiranon
+				}
+				b_hoya = {
+					# Hogen # mentioned in 1150
+				}
+				b_verden = {
+					# Fardium
+				}
+				b_stade = {
+					# Stethu # 994
+				}
+				b_blumenthal = {
+					# Liusci # actually Lüssum
+				}
+				b_ritzebuttel = {
+				}
+				b_achim = {
+				}
+				b_beverstedt = {
+					# Beverigi
+				} 
+			}
+			c_oldenburg = {
+				color={ 147 130 118 }
+				color2={ 255 255 255 }
+
+				# Ammeri
+
+				old_frankish = Ammergowe
+				
+				b_oldenburg = {
+					# Aldenburgum # 'Aldenburg' attested in 1108
+				}
+				b_cloppenburg = {
+					# Rustringia # Rüstringen, attested in 787 as 'Terra Rustringie'
+				}
+				b_jever = {
+					# Pleccazze # ???
+				}
+				b_delmenhorst = {
+				}
+				b_loningen = {
+				}
+				b_nordenham = {
+				}
+				b_kniphausen = {
+				}
+				b_varel = {
+					# Farloh
+				}
+			}
+		}
+		d_westfalia = {
+			color={ 164 217 127 }
+			color2={ 255 255 255 }
+			
+			c_gottingen = {
+				color={ 210 210 210 }
+				color2={ 255 255 255 }
+
+				# Gutingi
+				
+				b_gottingen = {
+					# Gutingi
+				}
+				b_corvey = {
+					# Hethis # not actually where Corvey is.
+				}
+				b_lippe = {
+					# Hercynia
+				}
+				b_kassel = {
+					# Castellum (Cattorum)
+
+					old_frankish = Chasella
+					alemanni = Chasella
+					thuringi = Chasella
+					old_saxon = Chasella
+					suebi = Chasella
+
+					roman = "Castellum Cattorum"
+					graeci = "Castellum Cattorum"
+				}
+				b_goslar = {
+				}
+				b_northeim = {
+				}
+				b_eisenach = {
+					# Isinacum # 1150 document refers to 'Isiacum' and the modern Latinization of the name is "Ysenacum"
+				}
+				b_detmold = {
+				}
+			}
+			c_osnabruck = {
+				color={ 213 213 213 }
+				color2={ 255 255 255 }
+
+				# Teuderium
+				
+				b_osnabruck = {
+					# Osnabrugga
+				}
+				b_lingen = {
+					# Linga # 975
+				}
+				b_bentheim = {
+					# Teuderium # probably closer to Beelen, actually
+				}
+				b_wildeshausen = {
+				}
+				b_tecklenburg = {
+				}
+				b_minden = {
+				}
+				b_quackenbruck = {
+				}
+				b_meppen = {
+				}
+			}
+			c_munster = {
+				color={ 212 212 212 }
+				color2={ 255 255 255 }
+
+				# Asciburgium
+
+				old_frankish = Monasterium
+				
+				b_munster = {
+					# Mimigernaford
+
+					old_frankish = Monasterium
+				}
+				b_dortmund = {
+					# Throtmanni
+				}
+				b_essen = {
+					# Nabalia
+				}
+				b_greven = {
+					# Grevaon # 9th century
+				}
+				b_gutersloh = {
+					# Asciburgium # actually Asberg
+				}
+				b_steinfurt = {
+					# Seliun # 890
+				}
+				b_gronau = {
+					# Mediolanum # not Gronau
+				}
+				b_ahlen = {
+					# Bursibant # not Ahlen
+				}
+			}
+		}
+		d_nordalbingia = {
+			color={ 172 112 112 }
+			color2={ 255 255 255 }
+		
+			capital = 263 #Holstein
+		
+			c_hamburg = {
+				color={ 227 95 7 }
+				color2={ 255 255 255 }
+				
+				# Sturmaria
+			
+				b_hamburg = {
+					# Treva
+				}
+				b_altona = {
+				}
+				b_harburg = {
+					danish = "Harborg"
+					swedish = "Harborg"
+					norwegian = "Harborg"
+					norse = "Harborg"
+				}
+				b_brunsbuttel = {
+				}
+				b_buxtehude = {
+				}
+				b_dithmarschen = {
+					danish = "Ditmarsken"
+					swedish = "Ditmarsken"
+					norwegian = "Ditmarsken"
+					norse = "Ditmarsken"
+				}
+				b_niendorf = {
+				}
+				b_lokstedt = {
+				}
+			}
+			c_lubeck = {
+				color={ 156 179 189 }
+				color2={ 255 255 255 }
+				
+				# Liubice
+				
+				b_lubeck = {
+					# Liubice
+				}
+				b_ratzeburg = {
+					# Razzis # 'Razzisburg' attested in 1066
+				}
+				b_travemunde = {
+				}
+				b_wulfsdorf = {
+				}
+				b_schlutup = {
+				}
+				b_starigard = {
+				}
+				b_weslo = {
+				}
+				b_bucu = {
+				}
+			}
+			c_holstein = {
+				color={ 220 150 158 }
+				color2={ 255 255 255 }
+				
+				# Holstasia
+				
+				b_kiel = {
+					# Chilonium
+				}
+				b_gottorp = {
+					# Liruniris # not Gottorp
+				}
+				b_itzehoe = {
+					# Ekeho # 12th century
+				}
+				b_reinholdsburg = {
+				}
+				b_elmshorn = {
+				}
+				b_gluckstadt = {
+					danish = "Lykstad"
+					swedish = "Lyckstad"
+					norwegian = "Lykstad"
+					norse = "Lykstad"
+				}
+				b_lauenburg = {
+					danish = "Lauenborg"
+					swedish = "Lauenborg"
+					norwegian = "Lauenborg"
+					norse = "Lauenborg"
+				}
+				b_segeberg = {
+				}
+			}
+		}
+	}
+	k_frisia = {
+		color={ 245 100 20 }
+		color2={ 220 220 20 }
+		
+		culture = dutch
+		
+		capital = 80 #Holland
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					culture = dutch
+					culture = frisian
+				}
+			}
+		}
+		
+		catholic = 700 # Crusade target weight
+		norse_pagan_reformed = 200 # Crusade target weight
+		
+		d_holland = {
+			color={ 235 80 30 }
+			color2={ 255 255 255 }
+		
+			capital = 80 #Holland
+			
+			culture = dutch
+			
+			c_holland = {
+				color={ 235 85 30 }
+				color2={ 255 255 255 }
+			
+				b_haarlem = {
+				}
+				b_amsterdam = {
+				}
+				b_vlaardingen = {
+				}
+				b_sgravenhage = {
+				}
+				b_dordrecht = {
+				}
+				b_gouda = {
+				}
+				b_leiden = {
+				}
+				b_muiden = {
+				}
+			}
+			c_westfriesland = {
+				color={ 245 99 50 }
+				color2={ 255 255 255 }
+			
+				b_alkmaar = {
+				}
+				b_hoorn = {
+				}
+				b_medemblik = {
+				}
+				b_enkhuizen = {
+				}
+				b_heerhugowaard = {
+				}
+				b_texel = {
+				}
+				b_egmond = {
+				}
+				b_schagen = {
+				}
+			}
+			c_zeeland = {
+				color={ 200 100 30 }
+				color2={ 255 255 255 }
+
+				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
+				
+				b_middelburg = {
+				}
+				b_tholen = {
+				}
+				b_veere = {
+				}
+				b_cadzand = {
+				}
+				b_vlissingen = {
+				}
+				b_renesse = {
+				}
+				b_borsele = {
+				}
+				b_zierikzee = {
+				}
+			}
+		}
+		d_hamaland = {
+			color={ 200 100 25 }
+			color2={ 255 255 255 }
+			
+			capital = 83 #Gelre
+
+			roman = "Chamavia"
+			graeci = "Chamavia"
+			gallo_roman = "Chamavia"
+			romano_british = "Chamavia"
+			hispano_roman = "Chamavia"
+			mauro_roman = "Chamavia"
+			pannonian = Chamavia
+			
+			c_gelre = {
+				color={ 200 100 30 }
+				color2={ 255 255 255 }
+
+				# Batavorum
+
+				old_frankish = Batawjo
+				old_saxon = Batawjo
+				frisian = Batawjo
+			
+				b_nijmegen = {
+					# Noviomagus
+
+					old_frankish = Numaga # Carolingian attestation
+					old_saxon = Numaga
+					frisian = Numaha
+				}
+				b_zutphen = {
+				}
+				b_deventer = {
+					# Daventria
+				}
+				b_arnhem = {
+					# Meginhardeswich # attested in 814. Actually Meijnerswijk, currently just a quarter of modern Arnhem.
+				}
+				b_zwolle = {
+					# Suol
+				}
+				b_kampen = {
+				}
+				b_bergh = {
+				}
+				b_bronckhorst = {
+				}
+			}	
+			c_sticht = {
+				color={ 215 85 35 }
+				color2={ 255 255 255 }
+
+				# Traiectum
+			
+				b_woerden = {
+					# Wyrda # attested in 795
+
+					roman = Laurium
+					graeci = Laurium
+					gallo_roman = Laurium
+					hispano_roman = Laurium
+					romano_british = Laurium
+					mauro_roman = Laurium
+				}
+				b_utrecht = {
+					# Traiectum
+				}
+				b_dorestad = {
+					# Dorestat # 7th century????
+				}
+				b_gorinchem = {
+				}
+				b_zeist = {
+				}
+				b_buren = {
+				}
+				b_ijsselstein = {
+				}
+				b_oudewater = {
+				}
+			}
+			c_kleve = {
+				color={ 132 132 132 }
+				color2={ 255 255 255 }
+
+				# Clivia
+		
+				b_kleve = {
+					# Clivia
+				}
+				b_goch = {
+					 # Binutloga # actually Bentlage
+				}
+				b_rees = {
+					# Rys
+				}
+				b_anholt = {
+					# Lupia # a river?????
+				}
+				b_Xanten = {
+					# Tricensimae
+				}
+				b_wesel = {
+					# Vesalia
+				}
+				b_emmerich = {
+					# Embrici # 828
+				}
+				b_isselburg = {
+					# Scopingun # not Isselburg
+				}
+			}
+		}
+		d_frisia = {		
+			color = { 165 89 27 }
+			color2= { 255 255 255 }
+
+			culture = frisian
+			
+			protonorse = Frislanda
+			norse = Frísland
+
+			c_ostfriesland = {
+				color={ 190 90 10 }
+				color2={ 255 255 255 }
+
+				# Emesga
+			
+				b_emden = {
+					# Amuthon
+				}
+				b_aurich = {
+					# Aurechovia # 'Aurechove' is only attested in 1276!
+				}
+				b_borkum = {
+				}
+				b_norden = {
+				}
+				b_norderney = {
+				}
+				b_leer = {
+				}
+				b_wittmund = {
+				}
+				b_esens = {
+				}
+			}
+			c_frisia = {
+				color={ 170 80 15 }
+				color2={ 255 255 255 }
+
+				# Frisia
+			
+				b_groningen = {
+				}
+				b_leeuwarden = {
+				}
+				b_stavoren = {
+				}
+				b_bolsward = {
+				}
+				b_franeker = {
+				}
+				b_dokkum = {
+				}
+				b_assen = {
+				}
+				b_harlingen = {
+				}
+			}
+		}
+	}
+	k_venedia = {
+		color={ 145 130 40 }
+		color2={ 220 220 20 }
+
+		d_warinia = {
+			color={ 111 143 51 }
+			color2={ 255 255 255 }
+			
+			capital = 366 # Stettin
+		
+			c_wolgast = {
+				color={ 121 163 58 }
+				color2={ 255 255 255 }
+
+				# Hologosta
+			
+				b_wolgast = {
+					# Hologosta
+				}
+				b_usedom = {
+					# Osna
+				}
+				b_anklam = {			
+				}
+				b_ueckermunde = {
+					# Ukrium # making up shit
+				}
+				b_zinnowitz = {
+				}
+				b_zussow = {
+				}
+				b_kemnitz = {
+				}
+				b_eggesin = {
+					# Gizin
+				}
+			}
+			c_stettin = {
+				color={ 91 163 48 }
+				color2={ 255 255 255 }
+				
+				# Vineta
+
+				norse = Jomsborg
+			
+				b_soldin = {
+					# Rugium
+				}
+				b_stettin = {
+					# Viritium # actually probably Czlopa
+				}
+				b_wollin = {
+					# Vineta
+
+					norse = Jomsborg
+				} 
+				b_stestargard = {
+					# Seurgum
+				}
+				b_kammin = {
+					# Camina
+				}
+				b_kolbatz = {
+					# Mera Vallis
+				}
+				b_cedene = {
+				}
+				b_pyritz = {
+					# Prissanum # derived from the Prissani
+				}
+			}
+		}
+		d_hevellia = {
+			color = { 51 75 172 }
+			color2= { 255 255 255 }
+
+			capital = 365
+
+			c_brandenburg = {
+				color={ 186 186 186 }
+				color2={ 255 255 255 }
+
+				# Heveldunum
+				
+				b_brandenburg = {
+					# Brennadunum # making shit up
+				}
+				b_havelberg = {
+					# Heveldunum # 'Heveldun' is an attested thing.
+				}
+				b_berlin = {
+					# Copnic # actually Köpenick
+				}
+				b_juterborg = {
+					# Jutriboc # attested in 1007
+				}
+				b_belzig = {
+					# Belizi # attested in 997
+				}
+				b_ruppin = {
+					# Rupinum
+				}
+				b_oranienburg = {
+					# Bochzovia # 'Bochzowe' is the first attested name for Bötzow/Oranienburg
+				}
+				b_muncheberg = {
+					# Sprevanorum # making shit up
+				}
+			}
+			c_lausitz = {
+				color={ 174 174 174 }
+				color2={ 255 255 255 }
+
+				# Lusatia
+				
+				b_gorlitz = {
+					# Calancorum
+				}
+				b_bautzen = {
+					# Budissentium # legend says that Bautzen was named after a Slavic prince named Buissentius
+				} 
+				b_lebus = {
+				}
+				b_cottbus = {
+				}
+				b_rothenburg = {
+				}
+				b_forst = {
+				}
+				b_zittau = {
+				}
+				b_luckau = {
+					# Luccavia # Latin form of the modern name
+				}
+			}
+			c_lubusz = {
+				color={ 135 30 30 }
+				color2={ 255 255 255 }
+				
+				# Limis Lucus
+			
+				b_lubusz = {
+					german = Lebus
+					swedish = Lebus
+					norse = Lebus
+					norwegian = Lebus
+					danish = Lebus
+				}
+				b_mysliborz = {
+				}
+				b_kostrzyn = {
+				}
+				b_cedynia = {
+				}
+				b_pryzyce = {
+				}
+				b_sulecin = {
+				}
+				b_santok = {
+				}
+				b_zielonagora = {
+				}
+			}
+		}
+		d_veletia = {
+			color={ 162 160 110 }
+			color2={ 255 255 255 }
+			
+			capital = 260 #mecklemburg
+
+			c_mecklemburg = {
+				color={ 207 207 207 }
+				color2={ 255 255 255 }
+
+				# Polabia
+				
+				b_mecklemburg = {
+					# Magnopolis
+				}
+				b_wismar = {
+					# Wismaria
+				}
+				b_gevezin = {		
+				}
+				b_schwerin = {
+					 # Zuarina # attested in 1012/18
+				}
+				b_lutzow = {
+				}
+				b_grevesmuhlen = {
+					# Bunitium # possibly Bützow?
+				}
+				b_parchim = {
+				}
+				b_hagenow = {
+					# Hachenovia # 'Hachenowe' is attested in 1194
+				}
+			}
+			c_rostock = {
+				color={ 204 204 204 }
+				color2={ 255 255 255 }
+
+				# Laciburgium
+				
+				b_rostock = {
+					# Laciburgium # POSSIBLY
+				}
+				b_penzlin = {	
+				}
+				b_gustrow = {			
+				}
+				b_malchin = {
+				}
+				b_damgarten = {
+				}
+				b_strelitz = {
+				}
+				b_stargard = {
+				}
+				b_ahrensberg = {
+				}
+			}
+			c_werle = {
+				color={ 202 202 202 }
+				color2={ 255 255 255 }
+
+				# Virunum
+				
+				b_waren = {
+					# Virunum # attested by Ptolemy in AD 150!
+				}
+				b_greifswald = {
+					# Silva Gryphis # working with etymologies
+				}
+				b_stralsund = {
+				}
+				b_tribsees = {
+				}
+				b_demmin = {
+				}
+				b_treptow = {
+				}
+				b_friedland = {
+				}
+				b_templin = {
+				}
+			}
+			c_rugen = {
+				color={ 201 201 201 }
+				color2={ 255 255 255 }
+
+				# Rugia
+
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
+				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
+				
+				b_charenza = {
+				}
+				b_arkona = {
+				}
+				b_rugard = {
+				}
+				b_putbus = {
+				}
+				b_barth = {
+				}
+				b_ralswiek = {
+				}
+				b_hiddensee = {
+				}
+				b_tribuzin = {
+				}
+			}
+		}
+		d_lemovia = {
+			color={ 95 135 77 }
+			color2={ 255 255 255 }
+			
+			capital = 368 # Danzig
+
+			norse = Glommas
+			old_saxon = Glommas
+			saxon = Glommas
+
+			ostrogothi = Gothiscandza
+			visigothi = Gothiscandza
+		
+			c_danzig = {
+				color={ 115 139 70 }
+				color2={ 255 255 255 }
+				
+				# Eridanus
+			
+				b_bytow = {
+					# Bitom # attested in 1113
+				}
+				b_danzig = {
+					# Gyddanyzc
+				}
+				b_oliva = {
+				}
+				b_tuchel = {
+				}
+				b_schwetz = {
+				}
+				b_danlauenburg = {
+				}
+				b_mewe = {
+				}
+				b_schlochau = {
+				}
+			}
+			c_slupsk = {
+				color={ 6 155 25 }
+				color2={ 255 255 255 }
+				
+				# Rugium
+			
+				b_rugenwalde = {
+					# Rugium
+				}
+				b_slupsk = {
+				}
+				b_colberg = {
+				}
+				b_schlawe = {
+				}
+				b_tempelburg = {
+				}
+				b_dramburg = {
+					# Virunum
+				}
+				b_ustka = {
+				}
+				b_belgard = {
+				}
+			}
+		}
+		d_silesia = {
+			color={ 84 166 93 }
+			color2={ 255 255 255 }
+			
+			capital = 435 # Upper Silesia
+		
+			c_lower_silesia = {
+				color={ 170 30 30 }
+				color2={ 255 255 255 }
+
+				# Budorigum
+
+				greek = Boudorigon
+			
+				b_glogow = {
+					# Budorigum
+
+					greek = Boudorigon
+				}
+				b_legnica = {
+					# Lugidunum
+				}
+				b_krosno = {
+				}
+				b_jawor = {
+				}
+				b_lwowek = {
+				}
+				b_swidnica = {
+					# Svidnica
+				}
+				b_boleslawiec = {
+					# Boleslavia
+				}
+				b_zagan = {
+					# Saganum
+				}
+			}
+			c_upper_silesia = {
+				color={ 200 50 70 }
+				color2={ 255 255 255 }
+			
+				b_wroclaw = {
+					german = Breslau
+					swedish = Breslau
+					norse = Breslau
+					norwegian = Breslau
+					danish = Breslau
+				}
+				b_brzeg = {
+					german = Brieg
+					swedish = Brieg
+					norse = Brieg
+					norwegian = Brieg
+					danish = Brieg
+				}
+				b_zmigrod = {
+					german = Trachtenberg
+					swedish = Trachtenberg
+					norse = Trachtenberg
+					norwegian = Trachtenberg
+					danish = Trachtenberg
+				}
+				b_milicz = {
+				}
+				b_olesnica = {
+				}
+				b_nysa = {
+				}
+				b_niemcza = {
+				}
+				b_henrykow = {
+					german = Heinrichau
+					swedish = Heinrichau
+					norse = Heinrichau
+					norwegian = Heinrichau
+					danish = Heinrichau
+				}
+			}
+			c_opole = {
+				color={ 218 37 15 }
+				color2={ 255 255 255 }
+				
+				# Arsonium
+			
+				b_opole = {
+					german = Uppeln
+					swedish = Uppeln
+					norse = Uppeln
+					norwegian = Uppeln
+					danish = Uppeln
+				}
+				b_czestochowa = {
+				} 
+				b_kozle = {
+				}
+				b_strzelce = {
+				}
+				b_lelow = {
+				}
+				b_olezno = {
+				}
+				b_raciborz = {
+				}
+				b_namyslow = {
+				}
+			}
+			c_cieszyn = {
+				color={ 127 6 2 }
+				color2={ 255 255 255 }
+				
+				# Tessinum
+			
+				b_cieszyn = {
+					# Tessinum
+				}
+				b_oswiecim = {
+					# Osviecimen
+				}
+				b_jabloskow = {
+				}
+				b_skoczow = {
+				}
+				b_goleszow = {
+					# Golesuovuo
+				}
+				b_ustron = {
+				}
+				b_bielskobiala = {
+				}
+				b_zebrydowice = {
+				}
+			}
+		}
+		d_vidivaria = { 
+			color={ 140 13 13 }
+			color2={ 255 255 255 }
+			
+			capital = 429 # Gnieznenskie
+		
+			c_gnieznienskie = {
+				color={ 125 6 2 }
+				color2={ 255 255 255 }
+				
+				# Scurgum
+
+				greek = Skourgon
+			
+				b_gniezno = {
+					german = Gnesen
+					swedish = Gnesen
+					norse = Gnesen
+					norwegian = Gnesen
+					danish = Gnesen
+				}
+				b_lekno = {
+				}
+				b_znin = {
+				}
+				b_giecz = {
+				}
+				b_wagrowiec = {
+				}
+				b_naklo = {
+				}
+				b_wyszo = {
+				}
+				b_pyzdry = {
+				}
+			}
+			c_poznanskie = {
+				color={ 145 6 2 }
+				color2={ 255 255 255 }
+				
+				# Ascaucalis
+			
+				b_poznan = {
+					german = Posen
+					swedish = Posen
+					norse = Posen
+					norwegian = Posen
+					danish = Posen
+				}
+				b_obrzycko = {
+				}
+				b_czarkow = {
+				}
+				b_miedryrzecz = {
+				}
+				b_drzen = {
+				}
+				b_zbaszyn = {
+				}
+				b_strarygrode = {
+				}
+				b_srem = {
+				}
+			}
+			c_kaliskie = {
+				color={ 155 6 20}
+				color2={ 255 255 255 }
+
+				# Setidava # thanks, Ptolemy!
+			
+				b_kalisz = {
+					# Calisia
+				}
+				b_krotoszyn = {
+				}
+				b_jarocin = {
+				}
+				b_ostrowielkopolski = {
+				}
+				b_konin = {
+					# Setidava
+				}
+				b_pieszew = {
+				}
+				b_rawick = {
+				}
+				b_tureck = {
+				}
+			}
+			c_sieradzko-leczyckie = {
+				color={ 160 40 40 }
+				color2={ 255 255 255 }
+				
+				# Siradia
+			
+				b_sieradz = {
+					# Siradia
+				}
+				b_radomsko = {
+				}
+				b_leczyka = {
+					# Lucic
+				}
+				b_warta = {
+				}
+				b_sochaczew = {
+				}
+				b_piotrkow = {
+				}
+				b_wachock = {
+				}
+				b_blaski = {
+				}
+			}
+			c_kujawy = {
+				color={ 210 50 10 }
+				color2={ 255 255 255 }
+				
+				# Cuiavia
+			
+				b_inowroclaw = {
+				}
+				b_kruszwica = {
+				}
+				b_radziejow = {
+				}
+				b_brzesckujawskie = {
+				}
+				b_bydgoszcz = {
+					# Bydgostia
+					
+					veneti = Bydgostja
+					antes = Bydgostja
+					sklaveni = Bydgostja
+				}
+				b_topolka = {
+				}
+				b_wlocawek = {
+				}
+				b_lubanie = {
+				}
+			}
+		}
+		d_vistula = { 
+			color={ 240 163 10 }
+			color2={ 255 255 255 }
+			
+			capital = 527 # Krakowskie
+			
+			veneti = Wislanie
+			sklaveni = Wislanie
+			antes = Wislanie
+
+			c_krakowskie = {
+				color={ 137 6 20 }
+				color2={ 255 255 255 }
+				
+				# Krak
+			
+				b_krakow = {
+					# Krak
+				}
+				b_jedrzejow = {
+				}
+				b_tarnow = {
+				}
+				b_kielce = {
+				}
+				b_brzesko = {
+				}
+				b_chrzanow = {
+				}
+				b_olkusz = {
+				}
+				b_skawina = {
+				}
+			}
+			c_sacz = {
+				color={ 117 6 2 }
+				color2={ 255 255 255 }
+				
+				# Kamienica
+			
+				b_nowysacz = {
+					# Kamienica
+				}
+				b_gorlice = {
+				}
+				b_szczyrzycz = {
+				}
+				b_zakopane = {
+				}
+				b_grybow = {
+				}
+				b_brzozow = {
+				}
+				b_limanowa = {
+				}
+				b_jasto = {
+				}
+			}
+			c_sandomierskie = {
+				color={ 147 16 2 }
+				color2={ 255 255 255 }
+				
+				# Sandomiria
+			
+				b_sandomierz = {
+					# Sandomiria
+				}
+				b_koprzywnica = {
+				}
+				b_zawichost = {
+				}
+				b_dwikozy = {
+				}
+				b_klimontow = {
+				}
+				b_loniow = {
+				}
+				b_samborzec = {
+				}
+				b_wilczyce = {
+				}
+			}
+		}
+		d_mazovia = {
+			color={ 119 187 255 }
+			color2={ 255 255 255 }
+			
+			capital = 529 # Plock
+			
+			c_plock = {
+				color={ 127 30 2 }
+				color2={ 255 255 255 }
+
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
+				
+				b_plock = {
+				}
+				b_pruszkow = {
+				}
+				b_warszawa = {
+				}
+				b_ostroleka = {
+				}
+				b_pultusk = {
+				}
+				b_plonsk = {
+				}
+				b_ciechanow = {
+				}
+				b_wyszkow = {
+				}
+			}
+			c_czersk = {
+				color={ 127 6 50 }
+				color2={ 255 255 255 }
+				
+				veneti = Czirnisk
+				antes = Czirnisk
+				sklaveni = Czirnisk
+				
+				b_czersk = {
+					veneti = Czirnisk
+					antes = Czirnisk
+					sklaveni = Czirnisk
+				}
+				b_radom = {
+				}
+				b_garwolin = {
+				}
+				b_siedlce = {
+				}
+				b_losice = {
+				}
+				b_gorzno = {
+				}
+				b_borowie = {
+				}
+				b_grojec = {
+				}
+			}
+		}
+	}
+	k_maraha = {
+        color={ 158 102 36 }
+        color2={ 255 255 255 }
+        
+        capital = 441 # Eburodunum / Brno
+        
+        catholic = 400 # Crusade target weight
+        slavic_pagan_reformed = 100 # Crusade target weight
+        baltic_pagan_reformed = 50 # Crusade target weight
+		
+		sklaveni = Morava
+		veneti = Morava
+		antes = Morava
+
+        d_boiohaemum = {
+            color={ 161 139 40 }
+            color2={ 255 255 255 }
+            
+            capital = 437 # Praha
+            
+            c_domazlice = {
+                color={ 197 112 13 }
+                color2={ 255 255 255 }
+
+                # Furgisatis
+                
+                b_pisek = {
+                }
+                b_kladruby = {
+                }
+                b_budejovice = {
+                }
+                b_domazlice = {
+                }
+                b_hohenfurth = {
+                }
+                b_rosenberg = {
+                }
+                b_goldenkron = {
+                }
+                b_sobeslav = {
+                }
+            }
+            c_praha = {
+                color={ 199 114 15 }
+                color2={ 255 255 255 }
+				
+				# Casurgis
+                
+                b_praha = {
+					# Casurgis
+                }
+                b_brevnov = {
+                }
+                b_kuttenberg = {
+                }
+                b_karlstein = {
+                }
+                b_slany = {
+                }
+                b_kolin = {
+                }
+                b_stare_mesto = {
+                }
+                b_zbraslav = {
+                }
+            }
+            c_boleslav = {
+                color={ 201 116 17 }
+                color2={ 255 255 255 }
+
+                # Hegetmatia
+                
+                b_glatz = {
+                	# Hegetmatia
+                }
+                b_nachod = {
+                }
+                b_hradiste = {
+                }
+                b_jicin = {
+                }
+                b_trutnov = {
+                }
+                b_kamieniec = {
+                }
+                b_jaromer = {
+                }
+                b_turnov = {
+                }
+            }
+            c_litomerice = {
+              color={ 203 118 19 }
+              color2={ 255 255 255 }
+              
+              # Nomisterium
+              
+              b_usti = {
+              	# Nomisterium # actually Litomerice
+              }
+              b_zatec = {
+              }
+              b_jachymov = {
+              }
+              b_kadan = {
+              }
+              b_ceskalipa = {
+              }
+              b_duchcov = {
+              }
+              b_chomutov = {
+              }
+              b_osek = {
+              }
+            }
+            c_plzen = {
+                color={ 205 120 21 }
+                color2={ 255 255 255 }
+
+                # Pilsna
+                
+                b_plzen = {
+                	# Pilsna
+                }
+                b_stribo = {
+                }
+                b_rokycany = {
+                }
+                b_plasy = {
+                }
+                b_pomuk = {
+                }
+                b_susice = {
+                }
+                b_tachov = {
+                }
+                b_cheb = {
+                }
+            }
+        }
+        d_marahensis = {
+            color={ 157 101 35 }
+            color2={ 255 255 255 }
+            
+            capital = 440 # Olomouc
+            
+            c_hradec = {
+                color={ 160 104 38 }
+                color2={ 255 255 255 }
+
+                # Condorgis
+                
+                b_hradeckralove = {
+                	# Condorgis
+                }
+                b_pardubice = {
+                }
+                b_litomysl = {
+                }
+                b_zamberk = {
+                }
+                b_policka = {
+                }
+                b_jihlava = {
+                }
+                b_pelhrimov = {
+                }
+                b_chrudim = {
+                }
+            }
+            c_olomouc = {
+                color={ 163 107 41 }
+                color2={ 255 255 255 }
+
+                # Carredunum
+
+                greek = Karrodounon
+                
+                b_opava = {
+                	# Oppavia
+                }
+                b_olomouc = {
+                	# Carredunum
+
+                	greek = Karrodounon
+                }
+                b_sternberk = {
+                	# Asanca # actually Kojetín
+
+                	greek = Asanka
+                }
+                b_ostrava = {
+                }
+                b_zabreh = {
+                }
+                b_moravskatrebova = {
+                }
+                b_zdar = {
+                }
+                b_unicov = {
+                }
+            }
+            c_brno = {
+                color={ 166 110 44 }
+                color2={ 255 255 255 }
+
+                # Eburodunum
+                
+                b_boskovice = {
+                	# Eburodunum # actually near Brno
+                }
+                b_prerov = {
+                	# Felicia # actually Vyskov
+
+                	greek = Phelikia
+                }
+                b_velehrad = {
+                }
+                b_wisowitz = {
+                }
+                b_uherskebrod = {
+                }
+                b_uherskehradiste = {
+                }
+                b_kromeriz = {
+                }
+                b_zlin = {
+                }
+            }
+        }
+    }
+}

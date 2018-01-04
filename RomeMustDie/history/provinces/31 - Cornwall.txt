@@ -7,7 +7,7 @@ title = c_cornwall
 max_settlements = 4
 
 b_tintagel = castle
-b_bodmin = city
+#b_bodmin = city
 b_st_germans = temple
 
 #b_launceston = castle
@@ -20,3 +20,7 @@ b_st_germans = temple
 # Misc
 culture = welsh
 religion = nicene
+
+
+# History
+

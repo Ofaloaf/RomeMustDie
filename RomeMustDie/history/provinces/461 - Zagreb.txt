@@ -16,5 +16,5 @@ b_sisak = temple
 #b_ozalj = castle
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene

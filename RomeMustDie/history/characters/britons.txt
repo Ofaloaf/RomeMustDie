@@ -1,9 +1,9 @@
 1589001 = {
 	name="Aurelius"
 	dynasty=1589004
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
-	385.1.1={
+	395.1.1={
 		birth=yes
 	}
 	446.1.1={
@@ -15,17 +15,17 @@
 	name="Ambrosius"
 	dynasty=1589004
 	father=1589001
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
 	martial=9
-	diplomacy=11
+	diplomacy=8
 	intrigue=7
 	stewardship=9
 	learning=8
 	trait=temperate
-	trait=zealous
+	trait=brave
 	trait=brilliant_strategist
-	415.1.1={
+	428.3.2={
 		birth=yes
 	}
 	496.1.1={
@@ -36,7 +36,7 @@
 1589003 = {
 	name="Vortigernus"
 	dynasty=1589014
-	culture="britto"
+	culture="romano_british"
 	religion="pelagian"
 	trait=craven
 	370.1.1={
@@ -53,7 +53,7 @@
 1589004 = {
 	name="Severa"
 	female=yes
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
 	trait=craven
 	380.1.1={
@@ -69,7 +69,7 @@
 	dynasty=1589013
 	father=1589003
 	mother=1589004
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
 	trait=brave
 	trait=zealous
@@ -86,7 +86,7 @@
 	dynasty=1589013
 	father=1589003
 	mother=1589004
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
 	400.1.1={
 		birth=yes
@@ -101,7 +101,7 @@
 	dynasty=1589013
 	father=1589003
 	mother=1589004
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
 	402.1.1={
 		birth=yes
@@ -116,7 +116,7 @@
 	dynasty=1589013
 	father=1589003
 	mother=1589004
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
 	404.1.1={
 		birth=yes
@@ -130,10 +130,15 @@
 	name="Catullus"
 	dynasty=1589013
 	father=1589006
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
-	425.1.1={
+	trait=zealous
+	trait=humble
+	430.1.1={
 		birth=yes
+	}
+	449.1.1 = {
+		add_spouse = 1589010
 	}
 	460.1.1={
 		death=yes
@@ -145,7 +150,7 @@
 	female=yes
 	culture="welsh"
 	religion="nicene"
-	435.1.1={
+	431.1.1={
 		birth=yes
 	}
 	500.1.1={
@@ -158,15 +163,22 @@
 	dynasty=1589013
 	father=1589009
 	mother=1589010
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
-	455.1.1={
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	learning=5
+	trait=ugly
+	trait=charitable
+	trait=zealous
+	trait=hedonist
+	trait=thrifty_clerk
+	459.1.1={
 		birth=yes
 	}
-	473.1.1={
-		add_spouse=1589012
-	}
-	500.1.1={
+	520.1.1={
 		death=yes
 	}
 }
@@ -189,9 +201,9 @@
 	dynasty=1589013
 	father=1589011
 	mother=1589012
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
-	474.1.1={
+	475.1.1={
 		birth=yes
 	}
 	560.1.1={
@@ -204,9 +216,9 @@
 	dynasty=1589013
 	father=1589011
 	mother=1589012
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
-	475.1.1={
+	474.1.1={
 		birth=yes
 	}
 	560.1.1={
@@ -217,7 +229,7 @@
 1589015 = {
 	name="Constantinus"
 	dynasty=1589015
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
 	trait=cruel
 	411.1.1={
@@ -232,7 +244,7 @@
 	name="Urbanus"
 	dynasty=1589015
 	father=1589015
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
 	martial=8
 	diplomacy=6
@@ -252,7 +264,7 @@
 	name="Marcianus"
 	dynasty=1589015
 	father=1589015
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
 	430.1.1={
 		birth=yes
@@ -266,7 +278,7 @@
 	name="Marcus"
 	dynasty=1589015
 	father=1589017
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
 	trait=ugly
 	460.1.1={
@@ -280,7 +292,7 @@
 1589019 = {
 	name="Gurgustus"
 	dynasty=1589003
-	culture="britto"
+	culture="romano_british"
 	religion="pelagian"
 	422.1.1={
 		birth=yes
@@ -293,7 +305,7 @@
 1589020 = {
 	name="Marius"
 	dynasty=1589003
-	culture="britto"
+	culture="romano_british"
 	religion="pelagian"
 	420.1.1={
 		birth=yes
@@ -306,7 +318,7 @@
 1589021 = {
 	name="Artorius"
 	dynasty=1589003
-	culture="britto"
+	culture="romano_british"
 	religion="pelagian"
 	father=1589020
 	455.1.1={
@@ -320,7 +332,7 @@
 1589022 = {
 	name="Engenius"
 	dynasty=1589003
-	culture="britto"
+	culture="romano_british"
 	religion="pelagian"
 	father=1589020
 	454.1.1={
@@ -334,7 +346,7 @@
 1589023 = {
 	name="Domnovellaunus"
 	dynasty=1589003
-	culture="britto"
+	culture="romano_british"
 	religion="pelagian"
 	435.1.1={
 		birth=yes
@@ -347,7 +359,7 @@
 1589024 = { # Caradog Freichfas
 	name="Caractacus"
 	dynasty=1589016
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
 	martial=8
 	diplomacy=6
@@ -373,13 +385,847 @@
 1589025 = {
 	name="Tegau"
 	female=yes
-	culture="britto"
+	culture="romano_british"
 	religion="nicene"
 	trait=scarred
 	448.1.1={
 		birth=yes
 	}
 	500.1.1={
+		death=yes
+	}
+}
+
+1589026 = { # Gloui, the legendary founder of Gloucester
+	name="Gloui"
+	dynasty=1589018
+	culture="romano_british"
+	religion="nicene"
+	398.1.1={
+		birth=yes
+	}
+	456.1.1={
+		death=yes
+	}
+}
+
+1589027 = { # Vitalianus Guitolini, a poorly-attested enemy of Ambrosius Aurelianus
+	name="Vitalianus"
+	father = 1589026
+	dynasty=1589018
+	culture="romano_british"
+	religion="nicene"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	learning=5
+	trait=envious
+	425.3.8={
+		birth=yes
+	}
+	458.9.10={
+		add_spouse = 1589028
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589028 = { 
+	name="Petra"
+	female = yes
+	culture="romano_british"
+	religion="nicene"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	learning=5
+	trait=envious
+	440.2.4={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589029 = {
+	name="Vitalis"
+	father = 1589027
+	mother = 1589028
+	dynasty=1589018
+	culture="romano_british"
+	religion="nicene"
+	459.8.10={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589030 = {
+	name="Coelus"
+	# AKA: King Cole, Coel Hen
+	dynasty=1589003
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="nicene"
+	culture="romano_british"
+	add_trait="proud"
+	add_trait="zealous"
+	add_trait="wounded"
+	add_trait="brilliant_strategist"
+	340.1.2={
+		birth="340.1.2"
+	}
+	406.1.2={
+		death="406.1.2"
+	}
+}
+
+1589031 = {
+	name="Ceneus"
+	# AKA: Ceneu ap Coel
+	dynasty=1589003
+	father=1589030
+	martial=13
+	diplomacy=12
+	intrigue=10
+	stewardship=14
+	religion="pelagian"
+	culture="romano_british"
+	add_trait="tough_soldier"
+	380.1.1={
+		birth=yes
+	}
+	448.1.1={
+		death=yes
+	}
+}
+
+1589032 = {
+	name="Marius"
+	dynasty=1589003
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	learning = 8
+	father=1589031
+	religion="pelagian"
+	culture="romano_british"
+	420.1.1={
+		birth=yes
+	}
+	481.1.1={
+		death=yes
+	}
+}
+
+1589033 = {
+	name="Artorius"
+	dynasty=1589003
+	father=1589032
+	religion="pelagian"
+	culture="romano_british"
+	456.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589034 = {  	
+	name="Dumnagual"
+	# AKA: Dumnagual I Hen map Cinuit of Alt Clut
+	dynasty=816
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="nicene"
+	culture="welsh"
+	father=1589035
+	440.1.1={
+		birth="440.1.1"
+	}
+	525.1.1={
+		death="525.1.1"
+		give_nickname=nick_the_old
+	}
+}
+
+1589035 = {  	
+	name="Cinuit"
+	# AKA: Cinuit map Ceretic Guletic of Alt Clut
+	dynasty=816
+	martial=5
+	diplomacy=3
+	intrigue=6
+	stewardship=4
+	religion="nicene"
+	culture="welsh"
+	father=1589036
+	422.1.1={
+		birth="422.1.1"
+	}
+	501.1.1={
+		death="501.1.1"
+	}
+}
+
+1589036 = {  	
+	name="Ceretic Guletic"
+	# AKA: "Coroticus" Ceretic Guletic map Cynloyp of Alt Clut
+	dynasty=816
+	martial=8
+	diplomacy=3
+	intrigue=6
+	stewardship=4
+	religion="nicene"
+	culture="welsh"
+	trait="tough_soldier"
+	father=1589037
+	400.1.1={
+		birth="400.1.1"
+	}
+	488.1.1={
+		death="488.1.1"
+	}
+}
+
+1589037 = {  	
+	name="Cynloyp"
+	# AKA: Cynloyp map Cinhil
+	dynasty=816
+	religion="celtic_pagan"
+	culture="welsh"
+	father=1589038
+	383.1.1={
+		birth="383.1.1"
+	}
+	436.1.1={
+		death="436.1.1"
+	}
+}
+
+1589038 = {  	
+	name="Cinhil"
+	# AKA: Cinhil map Cluim
+	dynasty=816
+	religion="celtic_pagan"
+	culture="welsh"
+	father=1589039
+	360.1.1={
+		birth="360.1.1"
+	}
+	412.1.1={
+		death="412.1.1"
+	}
+}
+
+1589039 = {  	
+	name="Cluim"
+	# AKA: Cluim
+	dynasty=816
+	religion="celtic_pagan"
+	culture="welsh"
+	333.1.1={
+		birth="333.1.1"
+	}
+	384.1.1={
+		death="384.1.1"
+	}
+}
+
+1589040 = {
+	name="Riothamus"
+	dynasty=1589020
+	culture="romano_british"
+	religion="nicene"
+	martial=9
+	diplomacy=5
+	intrigue=7
+	stewardship=9
+	learning=5
+	434.4.7={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589041 = {
+	name="Concarius"
+	dynasty=1589021 # Cornugallius
+	culture="romano_british"
+	religion="nicene"
+	martial=5
+	diplomacy=9
+	intrigue=8
+	stewardship=8
+	learning=9
+	trait="honest"
+	423.11.9={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589042 = {
+	name="Concarius"
+	dynasty=1589021 # Cornugallius
+	father=1589041
+	culture="romano_british"
+	religion="nicene"
+	455.6.6={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589043 = {
+	name="Uturius"
+	dynasty=1589004
+	father=1589001
+	culture="romano_british"
+	religion="nicene"
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	learning=6
+	trait=cynical
+	trait=sympathy_pagans
+	trait=strong
+	trait=skilled_tactician
+	430.9.18={
+		birth=yes
+	}
+	496.1.1={
+		death=yes
+	}
+}
+
+1589044 = {
+	name="Cynan"
+	dynasty=1589004
+	father=1589002
+	culture="welsh"
+	religion="nicene"
+	trait=greedy
+	448.8.8={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589045 = {
+	name="Elasius"
+	dynasty=1589022
+	culture="romano_british"
+	religion="nicene"
+	martial=6
+	diplomacy=7
+	intrigue=10
+	stewardship=8
+	learning=7
+	trait=cynical
+	trait=proud
+	trait=wrothful
+	trait=ambitious
+	trait=misguided_warrior
+	419.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes
+	}
+}
+
+1589046 = {
+	name="Caraticus"
+	dynasty=1589022
+	father=1589045
+	culture="romano_british"
+	religion="nicene"
+	martial=6
+	diplomacy=7
+	intrigue=10
+	stewardship=8
+	learning=7
+	trait=cynical
+	trait=deceitful
+	trait=wrothful
+	trait=ambitious
+	trait=misguided_warrior
+	457.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes
+	}
+}
+
+1589047 = {
+	name="Cunedda"
+	dynasty=1589024 
+	culture="welsh"
+	religion="celtic_pagan"
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	learning=3
+	trait=sympathy_christendom
+	trait=brave
+	trait=diligent
+	trait=gregarious
+	trait=tough_soldier
+	410.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589048 = {
+	name="Triffyn"
+	dynasty=455002 
+	culture="irish"
+	religion="celtic_pagan"
+	385.1.1={
+		birth=yes
+	}
+	465.1.1={
+		death=yes
+	}
+}
+
+1589049 = {
+	name="Aergol"
+	dynasty=455002 
+	father=1589048
+	culture="welsh"
+	religion="nicene"
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=7
+	learning=6
+	trait=just
+	trait=kind
+	trait=sympathy_pagans
+	437.1.1={
+		birth=yes
+	}
+	515.1.1={
+		death=yes
+	}
+}
+
+1589050 = {
+	name="Gwrthefyr"
+	dynasty=455002 
+	father=1589049
+	culture="welsh"
+	religion="nicene"
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=3
+	learning=4
+	trait=cruel
+	trait=arbitrary
+	475.1.1={
+		birth=yes
+	}
+	540.1.1={
+		death=yes
+	}
+}
+
+1589051 = {
+	name="Rhyddfedd"
+	dynasty=1589013 #
+	father=1589006
+	culture="welsh"
+	religion="nicene"
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	learning=7
+	trait=just
+	trait=content
+	trait=chaste
+	trait=patient
+	trait=fortune_builder
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589053 = {
+	name="Tegid"
+	dynasty=1589013 #
+	father=1589009
+	mother=1589010
+	culture="welsh"
+	religion="nicene"
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	learning=6
+	trait=humble
+	trait=lustful
+	trait=zealous
+	trait=gregarious
+	460.1.1={
+		birth=yes
+	}
+	520.1.1={
+		death=yes
+	}
+}
+
+1589054 = {
+	name="Anblaud"
+	dynasty=455001 # Ercing
+	culture="welsh"
+	religion="nicene"
+	400.1.1={
+		birth=yes
+	}
+	473.1.1={
+		death=yes
+	}
+}
+
+1589055 = {
+	name="Gwrfoddw"
+	dynasty=455001 # Ercing
+	father=1589054
+	culture="welsh"
+	religion="nicene"
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	learning=5
+	trait=ambitious
+	trait=proud
+	442.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589056 = {
+	name="Claudius"
+	dynasty=1589023
+	culture="romano_british"
+	religion="nicene"
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	learning=8
+	trait=diligent
+	trait=martial_cleric
+	415.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes
+	}
+}
+
+1589057 = {
+	name="Custennin"
+	dynasty=455003
+	culture="welsh"
+	religion="nicene"
+	411.1.1={
+		birth=yes
+	}
+	443.1.1={
+		death=yes
+	}
+}
+
+1589058 = {
+	name="Erbin"
+	dynasty=455003
+	father=1589057
+	culture="welsh"
+	religion="nicene"
+	martial=8
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	learning=5
+	trait=paranoid
+	trait=diligent
+	427.1.1={
+		birth=yes
+	}
+	443.1.1 = {
+		add_claim = d_dumnonia
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589059 = {
+	name="Meirchion"
+	dynasty=455003
+	father=1589057
+	culture="welsh"
+	religion="nicene"
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	learning=6
+	trait=sympathy_pagans
+	trait=humble
+	430.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589060 = {
+	name="March"
+	dynasty=455003
+	father=1589059
+	culture="welsh"
+	religion="nicene"
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	learning=5
+	trait=ugly
+	trait=paranoid
+	trait=zealous
+	460.1.1={
+		birth=yes
+	}
+	510.1.1={
+		death=yes
+	}
+}
+
+1589061 = {
+	name="Maximilianus"
+	dynasty=1589025
+	culture="romano_british"
+	religion="pelagian"
+	martial=4
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+	learning=8
+	trait=craven
+	trait=cruel
+	trait=arbitrary
+	trait=scholar
+	trait=indulgent_wastrel
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589062 = {
+	name="Claudius"
+	# fictional
+	dynasty=1589026
+	culture="romano_british"
+	religion="nicene"
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	learning=6
+	trait=craven
+	trait=proud
+	trait=kind
+	trait=trusting
+	trait=naive_appeaser
+	443.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589063 = {
+	name="Romanus"
+	# fictional
+	dynasty=1589027
+	culture="romano_british"
+	religion="nicene"
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	learning=7
+	trait=diligent
+	trait=thrifty_clerk
+	439.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589064 = {
+	name="Gwrast"
+	# AKA: Gwrast Lledlwn
+	dynasty=1589003
+	father=1589031
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	learning=5
+	religion="pelagian"
+	culture="welsh"
+	add_trait=arbitrary
+	add_trait=slothful
+	add_trait=brave
+	add_trait="midguided_warrior"
+	422.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589065 = {
+	name="Meirchion"
+	# AKA: Meirchion Gul
+	dynasty=1589003
+	father=1589064
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=5
+	religion="pelagian"
+	culture="welsh"
+	add_trait=temperate
+	451.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589066 = {
+	name="Brutus"
+	# fictional
+	dynasty=1589028
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=7
+	religion="nicene"
+	culture="romano_british"
+	add_trait=craven
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589067 = {
+	name="Germanus"
+	# AKA: Garbonian
+	dynasty=1589003
+	father=1589030 # king cole
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pelagian"
+	culture="romano_british"
+	390.1.1={
+		birth=yes
+	}
+	460.1.2={
+		death=yes
+	}
+}
+
+1589068 = {
+	name="Dumnovellaunus"
+	# AKA: Dyfnwal, Dumnagual
+	dynasty=1589003
+	father=1589067 # Garbonian
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pelagian"
+	culture="romano_british"
+	440.1.1={
+		birth=yes
+	}
+	500.1.2={
+		death=yes
+	}
+}
+
+1589069 = {
+	name="Lludd"
+	dynasty=1589030
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pelagian"
+	culture="welsh"
+	trait=ambitious
+	455.1.1={
+		birth=yes
+	}
+	500.1.2={
 		death=yes
 	}
 }

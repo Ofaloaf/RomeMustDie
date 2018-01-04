@@ -4,8 +4,10 @@
 title = c_artois
 
 # Settlements
-max_settlements = 5
-b_bethune = tribal
+max_settlements = 4
+b_bethune = castle
+b_arras = city
+b_terwaan = temple
 
 #b_lens = city
 #b_lille = city
@@ -16,3 +18,4 @@ b_bethune = tribal
 # Misc
 culture = old_frankish
 religion = norse_pagan
+

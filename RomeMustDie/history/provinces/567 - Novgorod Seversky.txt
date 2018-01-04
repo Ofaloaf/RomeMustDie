@@ -1,0 +1,21 @@
+# 567 - Novgorod-Seversky
+
+# County Title
+title = c_novgorod_seversky
+
+# Settlements
+max_settlements = 5
+b_novgorodseversky = tribal
+
+#b_glukhov = city
+#b_starodub = castle
+
+#b_rysk = castle
+#b_putivl = temple
+#b_trubchevsk = castle
+#b_sevsk = city
+#b_semenivka = castle
+
+# Misc
+culture = antes
+religion = slavic_pagan

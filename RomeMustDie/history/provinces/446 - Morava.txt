@@ -7,7 +7,8 @@ title = c_znojmo
 max_settlements = 4
 
 b_znojmo = tribal
-b_trebic = temple
+#b_mikulov = city
+#b_trebic = temple
 
 #b_trebic = temple
 #b_mikulov = city
@@ -18,5 +19,5 @@ b_trebic = temple
 #b_ivancice = castle
 
 # Misc
-culture = ostrogothic
+culture = thuida
 religion = norse_pagan

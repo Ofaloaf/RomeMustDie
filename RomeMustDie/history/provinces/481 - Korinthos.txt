@@ -19,5 +19,5 @@ b_vostitza = city
 
 # Misc
 culture = graeci
-religion = nicene
+religion = hellenic_pagan
 terrain = hills

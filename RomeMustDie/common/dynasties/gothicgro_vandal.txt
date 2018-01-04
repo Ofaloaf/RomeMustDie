@@ -1,0 +1,59 @@
+123001 = {
+	name = "Silingi"
+	culture = vandal
+}
+
+123002 = {
+	name = "Hasdingi"
+	culture = vandal
+}
+
+123003 = {
+	name = "Lygianus"
+	culture = vandal
+}
+
+123004 = {
+	name = "Eils"
+	culture = vandal
+}
+
+123005 = {
+	name = "Fridinga"
+	culture = vandal
+}
+
+123006 = {
+	name = "Nahanarvalingi"
+	culture = vandal
+}
+
+123007 = {
+	name = "Lugius"
+	culture = vandal
+}
+
+123008 = {
+	name = "Helisius"
+	culture = vandal
+}
+
+123009 = {
+	name = "Harius"
+	culture = vandal
+}
+
+123010 = {
+	name = "Balas"
+	culture = vandal
+}
+
+123011 = {
+	name = "Tzazoning"
+	culture = vandal
+}
+
+123012 = {
+	name = "Victohaling"
+	culture = vandal
+}

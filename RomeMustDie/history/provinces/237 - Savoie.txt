@@ -16,5 +16,5 @@ b_ciamberi = city
 #b_bussoleno = castle
 
 # Misc
-culture = burgundian
+culture = burgundi
 religion = arian

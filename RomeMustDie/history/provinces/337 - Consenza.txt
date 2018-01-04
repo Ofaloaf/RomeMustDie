@@ -7,16 +7,16 @@ title = c_consenza
 max_settlements = 4
 
 b_cosenza = castle
-b_umbriatico = temple 
-b_rossano = city
+b_strongoli = temple
+b_crotone = city
 
-#b_strongoli = castle
+#b_umbriatico = temple 
 #b_argentano = castle
 #b_scalea = castle
 #b_cerenzia = castle
-#b_crotone = temple
+#b_rossano = city
 
 # Misc
-culture = roman
+culture = graeci
 religion = nicene
 terrain = hills

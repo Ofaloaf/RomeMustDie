@@ -15,5 +15,5 @@ b_almonte = city
 #b_aljaraque = castle
 
 #Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene

@@ -1,58 +1,142 @@
-562001 = {
-	name = "Ardaric"
-	dynasty=562003
-	religion=arian
-	culture=gepid
-
-	410.1.1={
+454001 = {
+	name="Ardaric"
+	dynasty=454001 #No idea what the actual family name was
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	learning=5
+	religion="norse_pagan"
+	culture="gepid"
+	add_trait="brave"
+	408.1.1= {
 		birth=yes
 	}
-	460.1.1={
+	460.1.1 = {
 		death=yes
 	}
 }
 
-562002 = {
-	name = "Gunderit"
-	dynasty=562003
-	religion=arian
-	culture=gepid
-	father=562001
-
-	435.1.1={
+454002 = {
+	name="Gunderit"
+	dynasty=454005 #No idea what the actual family name was
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	learning=7
+	religion="norse_pagan"
+	culture="gepid"
+	add_trait="drunkard"
+	add_trait="envious"
+	add_trait="ambitious"
+	428.1.1= {
 		birth=yes
 	}
-	485.1.1={
+	470.1.1 = {
 		death=yes
 	}
 }
 
-562003 = {
-	name = "Trapstila"
-	dynasty=562003
-	religion=arian
-	culture=gepid
-	father=562002
-
-	450.1.1={
+454003 = {
+	name="Thraustila"
+	dynasty=454006 #No idea what the actual family name was
+	martial=7
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	learning=7
+	religion="arian"
+	culture="gepid"
+	add_trait="proud"
+	add_trait="sympathy_pagans"
+	add_trait="wrothful"
+	428.1.1= {
 		birth=yes
 	}
-	515.1.1={
+	500.1.1 = {
 		death=yes
 	}
 }
 
-562004 = {
-	name = "Trasericus"
-	dynasty=562003
-	religion=arian
-	culture=gepid
-	father=562003
-
-	475.1.1={
+454004 = {
+	name="Leupichis"
+	# fictional
+	dynasty=454010
+	martial=3
+	diplomacy=5
+	intrigue=9
+	stewardship=8
+	learning=6
+	religion="norse_pagan"
+	culture="gepid"
+	439.1.1= {
 		birth=yes
 	}
-	530.1.1={
+	500.1.1 = {
+		death=yes
+	}
+}
+
+454005 = {
+	name="Fastida"
+	# fictional
+	dynasty=454011
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	learning=7
+	religion="norse_pagan"
+	culture="gepid"
+	trait="honest"
+	445.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+454006 = {
+	name="Trasericus"
+	# fictional
+	dynasty=454012
+	martial=8
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	learning=6
+	religion="arian"
+	culture="gepid"
+	trait="trusting"
+	trait="content"
+	trait="humble"
+	trait="gregarious"
+	trait="tough_soldier"
+	430.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+454007 = {
+	name="Giesmus"
+	# fictional
+	dynasty=454004
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	learning=6
+	religion="arian"
+	culture="gepid"
+	450.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
 		death=yes
 	}
 }

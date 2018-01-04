@@ -1,0 +1,79 @@
+409001 = {
+	name = "Hermenerici"
+	culture = suebi
+}
+
+409002 = {
+	name = "Beremundi"
+	culture = suebi
+}
+
+409003 = {
+	name = "Frumari"
+	culture = suebi
+}
+
+409004 = {
+	name = "Mironi"
+	culture = suebi
+}
+
+409005 = {
+	name = "Zumus"
+	culture = suebi
+}
+
+409006 = {
+	name = "Sibinus"
+	culture = suebi
+}
+
+409007 = {
+	name = "Sudinus"
+	culture = suebi
+}
+
+409008 = {
+	name = "Racatrias"
+	culture = suebi
+}
+
+409009 = {
+	name = "Bacenis"
+	culture = suebi
+}
+
+409010 = {
+	name = "Juthungus"
+	culture = suebi
+}
+
+409011 = {
+	name = "Suarinus"
+	culture = suebi
+}
+
+409012 = {
+	name = "Visburgus"
+	culture = suebi
+}
+
+409013 = {
+	name = "Farodinus"
+	culture = suebi
+}
+
+409014 = {
+	name = "Rugicleus"
+	culture = suebi
+}
+
+409015 = {
+	name = "Burus"
+	culture = suebi
+}
+
+409016 = {
+	name = Marcomannus
+	culture = suebi
+}

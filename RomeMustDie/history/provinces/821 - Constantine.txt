@@ -17,7 +17,5 @@ b_guelma = city
 #b_mechtakebira = castle
 
 # Misc
-culture = mauri
+culture = mauro_roman
 religion = donatist
-
-# History

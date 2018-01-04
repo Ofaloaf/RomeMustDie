@@ -1,9 +1,12 @@
 1.1.1 = {
-	liege = "e_wre"
+	liege = e_wre
 }
-465.1.1 = {
-	holder = 476004 # Julius Nepos
+468.1.1 = {
+	holder = 476004
+	law = succ_feudal_elective
+	law = imperial_administration
+	law = ze_administration_laws_2
 }
-475.10.31 = {
-	liege = "0"
+475.10.30 = {
+	liege = 0
 }

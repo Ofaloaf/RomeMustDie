@@ -1,0 +1,84 @@
+1991001 = {
+	name = Rhynchinoi
+	culture = sklaveni
+}
+
+1991002 = {
+	name = Sagoudatai
+	culture = sklaveni
+}
+
+1991003 = {
+	name = Drougoubitai
+	culture = sklaveni
+}
+
+1991004 = {
+	name = Braničevci
+	culture = sklaveni
+}
+
+1991005 = {
+	name = Docleani
+	culture = sklaveni
+}
+
+1991006 = {
+	name = Konavljani
+	culture = sklaveni
+}
+
+1991007 = {
+	name = Zachlumiani
+	culture = sklaveni
+}
+
+1991008 = {
+	name = Strymonitai
+	culture = sklaveni
+}
+
+1991009 = {
+	name = Zagoritai
+	culture = sklaveni
+}
+
+1991010 = {
+	name = Smolyani
+	culture = sklaveni
+}
+
+1991011 = {
+	name = Melingoi
+	culture = sklaveni
+}
+
+1991012 = {
+	name = Ezeritai
+	culture = sklaveni
+}
+
+1991013 = {
+	name = Berziti
+	culture = sklaveni
+}
+
+1991014 = {
+	name = Vajunitai
+	culture = sklaveni
+}
+
+1991015 = {
+	name = Belegezitai
+	culture = sklaveni
+}
+
+1991016 = {
+	name = Luchanius
+	culture = sklaveni
+}
+
+1991017 = {
+	name = Polanianus
+	culture = antes
+}

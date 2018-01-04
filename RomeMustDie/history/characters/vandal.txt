@@ -21,6 +21,7 @@
 	intrigue=9
 	stewardship=6
 	learning=6
+	health=7
 	religion=arian
 	culture=vandal
 	trait=deceitful
@@ -69,6 +70,187 @@
 		birth=yes
 	}
 	484.12.23={
+		death=yes
+	}
+}
+
+123005={
+	name="Obadus"
+	dynasty=123010
+	martial=9
+	diplomacy=9
+	intrigue=8
+	stewardship=10
+	learning=6
+	religion=arian
+	culture=vandal
+	trait=content
+	427.1.1={
+		birth=yes
+	}
+	450.1.1 = {
+		add_spouse = 123006
+	}
+	484.1.1={
+		death=yes
+	}
+}
+
+123006={
+	name="Herlinda"
+	female = yes
+	religion=arian
+	culture=vandal
+	431.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+123007={
+	name="Obadus"
+	dynasty=123010
+	father = 123005
+	mother = 123006
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	learning=10
+	religion=arian
+	culture=vandal
+	trait=zealous
+	452.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+123008={
+	name="Eberharda"
+	female = yes
+	dynasty=123010
+	father = 123005
+	mother = 123006
+	religion=arian
+	culture=vandal
+	453.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+123009={
+	name="Lutgardis"
+	female = yes
+	dynasty=123010
+	father = 123005
+	mother = 123006
+	religion=arian
+	culture=vandal
+	454.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+123010={
+	name="Pinta"
+	dynasty=123012
+	martial=6
+	diplomacy=3
+	intrigue=9
+	stewardship=7
+	learning=11
+	religion=arian
+	culture=vandal
+	trait=ugly
+	trait=scarred
+	437.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+123011={
+	name="Sersao"
+	dynasty=123002
+	martial=7
+	diplomacy=11
+	intrigue=10
+	stewardship=5
+	learning=11
+	religion=arian
+	culture=vandal
+	trait=craven
+	414.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+123012={
+	name="Godagis"
+	dynasty=123004
+	martial=12
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	learning=7
+	religion=arian
+	culture=vandal
+	trait=brave
+	trait=strong
+	trait=slow
+	439.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+123013={
+	name="Raus"
+	dynasty=123005
+	martial=6
+	diplomacy=9
+	intrigue=8
+	stewardship=8
+	learning=6
+	religion=arian
+	culture=vandal
+	trait=trusting
+	445.6.7={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+123014={
+	name="Hilderic"
+	dynasty=123012
+	father=123010
+	religion=arian
+	culture=vandal
+	463.1.1={
+		birth=yes
+	}
+	500.1.1={
 		death=yes
 	}
 }

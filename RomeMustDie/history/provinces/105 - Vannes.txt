@@ -15,7 +15,7 @@ b_hennebont = city
 #b_auray = city
 
 # Misc
-culture = britto
+culture = gallo_roman
 religion = nicene
 
 # History

@@ -1,6 +1,6 @@
 1.1.1 = {
-	liege = d_europa
+	liege = d_bithynia
 }
-475.1.9 = {
-	holder = 610013
+467.1.1 = {
+	holder = 610067
 }

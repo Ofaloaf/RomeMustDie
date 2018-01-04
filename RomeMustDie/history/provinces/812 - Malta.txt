@@ -16,8 +16,6 @@ b_sliema = city
 #b_sangjilan = castle
 
 # Misc
-culture = roman
+culture = graeci
 religion = nicene
 terrain = hills
-
-# History

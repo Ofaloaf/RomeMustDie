@@ -1,0 +1,1528 @@
+e_pannonia = {
+	color = { 124 40 30 }
+	color2= { 255 255 255 }
+
+	k_carantania = {
+		color = { 206 182 170 }
+		color2= { 255 255 255 }
+
+		allow = {
+			culture_group = early_slavic
+		}
+
+		d_carantania = {
+			color = { 213 223 153 }
+			color2= { 255 255 255}
+
+			c_steiermark = {
+				color={ 45 45 45 }
+				color2={ 255 255 255 }
+
+				# Stiria
+				
+				b_eppenstein = {
+					# Colatio # actually Stari Trg pri Slovenj Gradcu
+				}
+				b_graz = {
+					# Upellis # actually Stara Vas pri Velenju
+				}
+				b_lavant = {
+					# Lavantina
+				}
+				b_cilli = {
+					# Celeia
+				}
+				b_seckau = {
+					# Seccovia
+				}
+				b_leibnitz = {
+					# Flavia Solva
+
+					alemanni = Lipnizza
+					old_frankish = Lipnizza
+					thuringi = Lipnizza
+					old_saxon = Lipnizza
+					thuida = Lipnizza
+				}
+				b_radkersburg = {
+					# Ragando # actually Spodnje Grušovje
+				}
+				b_stubing = {
+					# Ad Lotodos # actually Stranice
+				}
+			}
+			c_krain = {
+				color={ 145 225 190 }
+				color2={ 255 255 255 }
+
+				# Carniola
+				
+				b_gorz = {
+					# Goritia
+				}
+				b_krainburg = {
+					# Carnium
+
+					old_frankish = Chreinariorum
+					alemanni = Chreinariorum
+					thuringi = Chreinariorum
+					old_saxon = Chreinariorum
+					thuida = Chreinariorum
+				}
+				b_gurk = {
+					# Carvanca (Mons)
+				}
+				b_stain = {
+					# Ad Quartodecimum # actually Groblje pri Mengšu
+				}
+				b_guetenegg = {
+					# Ad Publicanos # actually Lukovica
+				}
+				b_auersperg = {
+					# Turiacum # guessing
+				}
+				b_zerknitz = {
+					# Acidinana # making up shit, based off Lucius Manlius Acidinus
+				}
+				b_stveit = {
+					# Scaurana # making up shit, based off Marcus Aemilius Scaurus
+				}
+			}
+			c_karnten = {
+				color={ 125 225 195 }
+				color2={ 255 255 255 }
+
+				# Carnia
+				
+				b_villach = {
+					# Sanctium
+				}
+				b_klagenfurt = {
+					# Queremoniae Vadus # literal translation of Klagenfurt's etymology
+
+					old_frankish = Chlagenvurth
+					alemanni = Chlagenvurth
+					thuringi = Chlagenvurth
+					suebi = Chlagenvurth
+					thuida = Chlagenvurth
+				}
+				b_ossiach = {
+					# Ad Nonum # actually Log pri Brezovici
+				}
+				b_laibach = {
+					# Emona
+				}
+				b_treffen = {
+					# Trebina # Latinized early Slavic
+				}
+				b_sann = {
+					# Sovuina
+				}
+				b_pettau = {
+					# Poetovio
+				}
+				b_wolfsberg = {
+					# Acervo # actually Stary trg, Vishnja Gora
+				}
+			}
+		}
+	}
+	k_illyria = {
+		color = { 70 79 140 }
+		color2= { 255 255 255 }
+
+		d_dalmatia = {
+			color={ 155 57 65 }
+			color2={ 255 255 255 }
+			
+			capital = 465 # Zadar
+	
+			c_split = {
+				color={ 186 139 139 }
+				color2={ 255 255 255 }
+
+				# Spalatum
+
+				greek = "Spalathos"
+	
+				b_split = {
+					# Spalatum
+
+					greek = "Spalathos"
+				}
+				b_hvar = {
+					# Pharia
+
+					greek = Pharos
+				}
+				b_trogir = {
+					# Tragurium
+
+					greek = "Tragyrion"
+				}
+				b_solin = {
+					# Salona
+				}
+				b_klis = {
+					# Epetium # actually Stobrec
+				}
+				b_makarska = {
+					# Muccurum
+				}
+				b_sinj = {
+					# Setovium
+				}
+				b_imotski = {
+					# Pituntium # actually Podstrana
+				}
+			}
+			c_zadar = {
+				color={ 188 141 141 }
+				color2={ 255 255 255 }
+				
+				# Iadera
+	
+				b_zadar = {
+					# Iadera
+				}
+				b_nin = {
+					# Aenona
+				}
+				b_knin = {
+					# Burnum # BURNUM ALL
+				}
+				b_sibenik = {
+					# Nedinum # actually Nadin
+				}
+				b_novigrad = {
+					# Clambetis # actually Gracac
+				}
+				b_benkovac = {
+					# Sidrona # actually Gradina
+				}
+				b_obrovac = {
+					# Asseria # actually Podgrade
+				}
+				b_pag = {
+					# Pagus
+				}
+			}
+			c_zachlumia = {
+				color={ 166 57 57 }
+				color2={ 255 255 255 }
+
+				# Narona
+	
+				b_mostar = {
+					# Aufustianis # not Tkanice in Tihaljina
+				}
+				b_duvno = {
+					# Delminium
+				}
+				b_livno = {
+					# Cleuna
+				}
+				b_capljina = {
+					# Ad Turres
+				}
+				b_sirokibrijeg = {
+					# Collis Amplus
+				}
+				b_ljubuski = {
+					# Bigeste # actually Gracine, Humac
+				}
+				b_drvar = {
+					# Ad Libros # actually Bukova Gora
+				}
+				b_neretva = {
+					# Narona
+				}
+			}
+			c_senj = {
+				color={ 170 61 61 }
+				color2={ 255 255 255 }
+				
+				# Senia
+	
+				b_senj = {
+					# Senia
+				}
+				b_kaseg = {
+					# Ortopla # actually Stinica
+				}
+				b_brinje = {
+					# Monetium 
+				}
+				b_karlobag = {
+					# Vegia
+
+					sklaveni = Skrisa
+				}
+				b_perusic = {
+					# Avendo # actually Crkvina
+				} 
+				b_donjilapac = {
+					# Arupium # actually Prozor
+				}
+				b_udbina = {
+					# Lopsica # actually Sveti Juraj
+				}
+				b_otocac = {
+					# Arba # actually Rab
+				}
+			}
+			c_veglia = {
+				color={ 174 65 65 }
+				color2={ 255 255 255 }
+
+				# Curicta
+				
+				greek = "Kyrikon"
+				sklaveni = Vekla
+	
+				b_veglia = {
+					# Curicta
+
+					greek = "Kyrikon"
+					sklaveni = Vekla
+				}
+				b_krk = {
+					# Fulfinium # actually Omisalj
+					# KRK IS VEGLIA THEY'RE THE SAME
+				}
+				b_kraljevica = {
+					# Apsarus # actually Osor
+				}
+				b_frankopan = {
+					# Apsyrta # not Frankopan
+				}
+				b_bakar = {
+					# Plaunus # actually the island of Plavnik
+				}
+				b_crikvenica = {
+					# Ad Turres
+				}
+				b_cres = {
+					# Crepsa
+
+					graeci = Chersus
+					greek= Chersos
+				}
+				b_vrbovsko = {
+					# Colapis # actually the Kupa River
+				}
+			}
+			c_ragusa = {
+				color={ 133 98 17 }
+				color2={ 255 255 255 }
+				
+				# Epidaurum
+				
+				b_ragusa = {
+					# Stagnum # actually Ston, Croatia
+				}
+				b_narona = {
+					# Narona
+				}
+				b_cavtat = {
+					# Epidaurum
+					
+					greek = "Epidauros"
+				}
+				b_zaton = {
+					# Pardua # actually Gornji Gradac, Bosnia
+				} 
+				b_slano = {
+					# Ad Turres # actually Tasovcici, Bosnia
+				}
+				b_mljet = {
+					# Melita
+				}
+				b_kolocep = {
+					# Calamota
+				}
+				b_sipan = {
+					# Cerosa
+				}
+			}
+		}
+		d_savia = {
+			color={ 176 207 3 }
+			color2={ 255 255 255 }
+			
+			capital = 461 # Zagreb
+	
+			c_varadzin = {
+				color={ 193 226 3 }
+				color2={ 255 255 255 }
+
+				# Populi
+
+				sklaveni = Varasdinum
+				antes = Varasdinum
+	
+				b_varazdin = {
+					# Populi
+
+					sklaveni = Varasdinum
+					antes = Varasdinum
+				}
+				b_cakovec = {
+					# Aquama
+				}
+				b_ludbreg = {
+					# Iovia
+				}
+				b_lepoglava = {
+					# Ramista # actually Formin
+				}
+				b_toplice = {
+					# Curta # actually Ormoz
+				}
+				b_krapina = {
+					# Crapina
+				}
+				b_donjastubica = {
+					# Halicanum # actually Sveti Martin na Muri
+				}
+				b_oroslavje = {
+					# Mons Claudius # actually Ivanscica
+				}
+			}
+			c_krizevci = {
+				color={ 154 193 17 }
+				color2={ 255 255 255 }
+
+				# Mursa
+	
+				b_krizevci = {
+					# Mursella # actually Petrijevci
+				}
+				b_koprivnica = {
+					# Ad Labores # actually Nemetin
+				}
+				b_osijek = {
+					# Mursa
+				}
+				b_vinkovci = {
+					# Cibalae
+				}
+				b_vukovar = {
+					# Ulca
+				}
+				b_durdevac = {
+					# Marinianis # actually Donji Miholjac
+				}
+				b_pozega = {
+					# Incerum
+
+					sklaveni = Possega
+					antes = Possega
+				}
+				b_virovitica = {
+					# Cirtisa # actuall Strbinci
+				}
+			}
+			c_zagreb = {
+				color={ 173 211 44 }
+				color2={ 255 255 255 }
+
+				# Siscia
+	
+				b_zagreb = {
+					# Andautonia
+				}
+				b_sisak = {
+					# Siscia
+				}
+				b_karlovac = {
+					# Ad Fines # actually Busevec
+				}
+				b_cetin = {
+					# Romula # actually Ribnica pri Brezicah
+				}
+				b_zrin = {
+					# Pyrri # actually Komin
+				}
+				b_dreznik = {
+					# Varianus # actually Kutinska Lipa
+				}
+				b_stenicnjak = {
+					# Metulum # actually Vinicica
+				} 
+				b_ozalj = {
+					# Neviodunum # actually Drnovo
+				}
+			}
+		}
+		d_domavia = {
+			color={ 155 199 232 }
+			color2={ 255 255 255 }
+			
+			sklaveni = Bosona
+
+			capital = 504 # Rama / Domavia
+	
+			c_rama = {
+				color={ 159 209 236 }
+				color2={ 255 255 255 }
+
+				# Domavia
+	
+				b_rama = {
+					# Malvesia # actually Skelani
+				}
+				b_samobor = {
+					# Romula
+				}
+				b_usice = {
+					# Stanecli # actually Mali Mosunj
+				}
+				b_borac = {
+					# Gensis # actually Lesnica na Jadru
+				}
+				b_srebrenica = {
+					# Domavia
+				}
+				b_srebrnik = {
+					# Hedum Castellum (Daesitiatium) # actually Podgora
+				}
+				b_zenica = {
+					# Bistua Nova
+				}
+				b_zvornik = {
+					# Ad Drinum
+				}
+			}
+			c_usora = {
+				color={ 138 181 227 }
+				color2={ 255 255 255 }
+
+				# Baloia
+
+				sklaveni = Vozora
+	
+				b_usora = {
+					# Baloia # actually Sipovo
+
+					sklaveni = Vozora
+				}
+				b_banjaluka = {
+					# Castra
+				} 
+				b_bihac = {
+					# Aemate # actually Dobrnja
+				}
+				b_jajce = {
+					# Splonum # actually Vrtače, a hill near Cmiljeva Kosa
+				}
+				b_bocac = {
+					# Valdasus # actually Sana
+				}
+				b_kuljc = {
+					# Clandate # actually Rakanska Barice
+				}
+				b_prijedor = {
+					# Ad Ladios # actually Trn, near Banja Luka
+				}
+				b_blagaj = {
+					# Leusaba # actually Mrkonjic Grad
+				}
+			}
+		}
+	}
+	k_pannonia = {
+		color = { 152 85 92 }
+		color2= { 255 255 255 }
+
+		d_pannonia = {
+			color={ 155 25 65 }
+			color2={ 255 255 255 }
+			
+			capital = 451 # Aquincum
+			
+			c_pecs={
+				color={ 16 71 216 }
+				color2={ 255 255 255 }
+
+				# Sopianae
+				
+				b_pecs = {
+					# Sopianae
+				}
+				b_kalocsa = {
+					# Florentia # actually Dunaszekcso
+				}
+				b_mohacs = {
+					# Altinum # actually Kolked
+				}
+				b_sasd = {
+					# Ad Militare # actually Batina
+				}
+				b_pecsvarad = {
+					# Alisca # actually Szeksard
+				}
+				b_siklos = {
+					# Alta Ripa # actually Tolna
+				}
+				b_szentlorinc = {
+					# Iovia # actually Alsohetenypuszta
+				}
+				b_darda = {
+					# Lussonium # actually Dunakomlod
+				}
+			}
+			c_sopron = {
+				color={ 99 120 90 }
+				color2={ 255 255 255 }
+				
+				# Scarbantia
+				
+				b_sopron = {
+					# Scarbantia
+				}
+				b_gyor = {
+					# Arrabona
+				}
+				b_csorna = {
+					# Ad Flexum # actually Mosonmagyarovar
+				}
+				b_borsmonostor = {
+					# Quadrata # actually Lebenymiklos
+				}
+				b_csepreg = {
+					# Mursella # actually Kisarpas-Morichida
+				}
+				b_kapuvar = {
+					# (Lacus) Peiso # IT'S A LAKE OKAY, I KNOW, I KNOW
+				}
+				b_kismarton = {
+					# Castrum Ferrum # technically, that's 12-century Latin
+				}
+				b_nagymarton = {
+					# Villa Martini
+				}
+			}
+			c_szekezfehervar = {
+				color={ 100 72 47 }
+				color2={ 255 255 255 }
+				
+				# Pelso
+				
+				b_szekezfehervar = {
+					# Gorsium # also known as Herculia
+				}
+				b_csurgo = {
+					# Tricciana # actually Sagvar
+				}
+				b_kaposvar = {
+					# Caesariana # actually Szentkirályszabadja. Say that ten times fast!
+				}
+				b_szigetvar = {
+					# Sigethum # just a Latinization of the modern name tbh
+				}
+				b_barcs = {
+					# Mogetiana # actually Somlovasarhely
+				}
+				b_marcali = {
+					# Volgum # actually Fenékpuszta
+				}
+				b_nagyatad = {
+					# Floriana # actually Csakvar
+				}
+				b_lengyeltoti = {
+					# Silicenis # actually Beleg
+				}
+			}
+			c_vas = {
+				color={ 146 24 46 }
+				color2={ 255 255 255 }
+
+				# Savaria
+				
+				b_szombathely = {
+					# Savaria
+
+					roman = "Colonia Claudia Savaria"
+				}
+				b_szentgotthard = {
+					# Sala # actually Zalalovo
+				}
+				b_vasvar = {
+					# Ferrum
+				}
+				b_sarvar = {
+					# Bassiana
+				}
+				b_celldomolk = {
+					# Arrabo # actually the Raab River
+				}
+				b_kormend = {
+					# Sibaris # actually the Latin name for the Gyöngyös stream
+				}
+				b_koszeg = {
+					# Ginsium # Latinization of the modern name
+				}
+				b_nemetujvar = {
+					# Murus
+				}
+			}
+			c_fejer = {
+				color={ 193 78 78 }
+				color2={ 255 255 255 }
+				
+				# Aquincum
+				
+				b_sarbogard = {
+					# Aquincum
+				}
+				b_adony = {
+					# Transaquincum # actually Pest
+				}
+				b_mor = {
+					# Annamatia # actually Baracspuszta
+				}
+				b_val = {
+					# Intercisa # actually Dunaujvaros
+				}
+				b_szekszard = {
+					# Ponte Navata # actually Visegrad
+				}
+				b_dombovar = {
+					# Cirpi # actually Dunabogdany
+				}
+				b_tamasi = {
+					# Campona # actually Nagyteteny
+				}
+				b_bonyhad = {
+					# Matrica # actually Szazhalombatta-Dunafured
+				}
+			}
+		}
+		d_nitrava = {
+			color={ 58 95 43 }
+			color2={ 255 255 255 }
+			
+			capital = 443 # Nitra
+
+			suebi = Quadia
+			
+			c_nitra = {
+				color={ 77 119 60 }
+				color2={ 255 255 255 }
+
+				# Nitrava
+
+				roman = Anduaetium
+				graeci = Anduaetium
+				greek = Andouaition
+				
+				b_nyitra = {
+					# Nitrava
+
+					roman = Anduaetium
+					graeci = Anduaetium
+					greek = Andouaition
+				}
+				b_nagytapolcsany = {
+					# Singone # actually Sarovce
+				}
+				b_stbenedek = {
+				}
+				b_nagysurany = {
+				}
+				b_galgoc = {
+				}
+				b_zabokreky = {
+				}
+				b_postyen = {
+				}
+				b_preuigan = {
+				}
+			}
+			c_trencin = {
+				color={ 43 88 25 }
+				color2={ 255 255 255 }
+
+				# Laugaricio
+				
+				b_trencsen = {
+					# Laugaricio
+				}
+				b_zilina = {
+				}
+				b_turoc = {
+				}
+				b_ban = {
+				}
+				b_illava = {
+				}
+				b_povazskabystrica = {
+				}
+				b_congsberg = {
+				}
+				b_puho = {
+				}
+			}
+			c_gemer = {
+				color={ 102 142 87 }
+				color2={ 255 255 255 }
+				
+				# Gomurinum
+				
+				b_gomor = {
+					# Gomurinum
+				}
+				b_losonc = {
+				}
+				b_dobsina = {
+				}
+				b_rozsnyo = {
+				}
+				b_balassagyarmat = {
+				}
+				b_jolsva = {
+				}
+				b_nagyroce = {
+				}
+				b_nyustya = {
+				}
+			}
+			c_orava = {
+				color={ 58 128 31 }
+				color2={ 255 255 255 }
+
+				# Arua
+				
+				b_arvavara = {
+				}
+				b_nameszto = {
+				}
+				b_liptovskymikulas = {
+				}
+				b_zolyom = {
+				}
+				b_trsztena = {
+				}
+				b_turdossin = {
+				}
+				b_nemetlipcse = {
+				}
+				b_rozsahegy = {
+				}
+			}
+			c_esztergom = {
+				color={ 214 66 66 }
+				color2={ 255 255 255 }
+				
+				# Solva
+				
+				b_esztergom = {
+					# Solva
+				}
+				b_komarom = {
+					# Anabum
+				}
+				b_kakath = {
+				}
+				b_tatabanya = {
+				}
+				b_nagyigmand = {
+				}
+				b_nemesocsa = {
+				}
+				b_ogylla = {
+				}
+			}
+			c_pressburg = {
+				color={ 217 69 69 }
+				color2={ 255 255 255 }
+
+				# Gerulata	
+				
+				b_pressburg = {
+					# Gerulata # actually Rusovce, a suburb of Bratislava
+				}
+				b_nagyszombat = {
+				}
+				b_bazin = {
+				}
+				b_modor = {
+					# Modur
+				}
+				b_szentgyorgy = {
+					# Georgiacum # making shit up
+				}
+				b_dunaszerdahely = {
+				}
+				b_galanta = {
+				}
+				b_somorja = {
+				}
+			}
+		}
+		d_carpathia = {
+			color={ 156 15 15 }
+			color2={ 255 255 255 }
+			
+			capital = 538 # Abauj
+			
+			sklaveni = Chrobatia
+			
+			c_saris = { # "Spis" in-game
+				color={ 158 17 17 }
+				color2={ 255 255 255 }
+				
+				b_saris = {
+				}
+				b_bartfa = {
+				}
+				b_kisszeben = {
+				}
+				b_eperjes = {
+				}
+				b_scyuidnyk = {
+				}
+				b_giralth = {
+				}
+				b_hethars = {
+				}
+				b_lemesany = {
+				}
+			}
+			c_bereg = {
+				color={ 160 19 19 }
+				color2={ 255 255 255 }
+				
+				b_beregszasz = {
+				}
+				b_perecseny = {
+				}
+				b_munkacs = {
+				}
+				b_ungvar = {
+				}
+				b_ilosva = {
+				}
+				b_szolyva = {
+				}
+				b_szobranc = {
+				}
+				b_kapos = {
+				}
+			}
+			c_abauj = {
+				color={ 162 21 21 }
+				color2={ 255 255 255 }
+				
+				b_abauj = {
+				}
+				b_satoraljaujhely = {
+				}
+				b_kassa = {
+				}
+				b_szikszo = {
+				}
+				b_turna = {
+				}
+				b_szepsi = {
+				}
+				b_sarospatak = {
+				}
+				b_tokaj = {
+				}
+			}
+			c_marmaros = {
+				color={ 164 23 23 }
+				color2={ 255 255 255 }
+				
+				b_maramarossziget = {
+				}
+				b_nagybanya = {
+				}
+				b_nagykaroly = {
+				}
+				b_huszt = {
+				}
+				b_aknasugatag = {
+				}
+				b_tecso = {
+				}
+				b_raho = {
+				}
+				b_felsoviso = {
+				}
+			}
+		}
+		d_iazygia = {
+			color={ 252 193 73 }
+			color2={ 255 255 255 }
+			
+			capital = 521 # Csanad
+			
+			c_heves = {
+				color={ 243 181 33 }
+				color2={ 255 255 255 }
+
+				# Bormanum
+				
+				b_heves = {
+					# Bormanum
+				}
+				b_eger = {
+				}
+				b_gyongyos = {
+				}
+				b_miskolc = {
+				}
+				b_petervasara = {
+				}
+				b_hatvan = {
+				}
+				b_tiszafured = {
+				}
+				b_mezokovesd = {
+				}
+			}
+			c_pest = {
+				color={ 254 227 171 }
+				color2={ 255 255 255 }
+
+				# Pessium
+
+				sklaveni = Pestheda
+				
+				b_pest = {
+					# Pessium
+
+					sklaveni = Pestheda
+				}
+				b_vac = {
+				}
+				b_kecskemet = {
+				}
+				b_kiskunhalas = {
+				}
+				b_szentendre = {
+				}
+				b_cegled = {
+				}
+				b_abrahamtelke = {
+				}
+				b_kiskoros = {
+				}
+			}
+			c_csanad = {
+				color={ 255 214 70 }
+				color2={ 255 255 255 }
+
+				# Partiscum
+				
+				b_csanad = {
+					# Chanadium # Latinization of modern name. 'Comitatus Chanadiensis' 
+				}
+				b_szeged = {
+					# Partiscum
+				}
+				b_mako = {
+				}
+				b_battonya = {
+				}
+				b_csongrad = {
+				}
+				b_mindszent = {
+				}
+				b_szentes = {
+				}
+				b_hodmezovasarhely = {
+					# Castorium # the 'Hód' in Hozmezovasarhely refers to a 'Beaver's Lake'. 'Beaver' in Latin is 'Castor'.
+				}
+			}
+			c_bacs = {
+				color={ 243 82 55 }
+				color2={ 255 255 255 }
+
+				# Bascia # Latinization of modern name
+
+				sklaveni = Bagasin
+				
+				b_bacs = {
+					# Bascia
+
+					sklaveni = Bagasin
+				}
+				b_apatin = {
+				}
+				b_szintarev = {
+				}
+				b_baja = {
+				}
+				b_zombor = {
+				}
+				b_bacsalmas = {
+				}
+				b_pancsova = {
+				}
+				b_pardany = {
+				}
+			}
+		}
+	}
+	k_dacia = {
+		color = { 230 107 77 }
+		color2= { 255 255 255 }
+
+		d_apulensis = {
+			color={ 147 121 58 }
+			color2={ 255 255 255 }
+			
+			capital = 517 # Temes
+			
+			c_temes = {
+				color={ 153 127 64 }
+				color2={ 255 255 255 }
+
+				# Tibiscus
+				
+				b_temesvar = {
+					# Arcidava
+				}
+				b_lugos = {
+				}
+				b_csak = {
+					# Berzobia # recorded as such in the Tabula Peutingeriana
+
+					roman = Bersobis
+					graeci = Bersobis
+				}
+				b_buzias = {
+				}
+				b_versecz = {
+					# Centum Putea # I'm not sure where this was tbh
+				}
+				b_detta = {
+					# Singidava
+				}
+				b_kevevara = {
+					# Contra Margum
+				}
+				b_karansebes = {
+					# Tibiscum
+				}
+			}
+			c_feher = {
+				color={ 245 62 62 }
+				color2={ 255 255 255 }
+
+				# Apulum
+				
+				b_feher = {
+					# Ampelum # actually Patrangeni
+				}
+				b_arad = {
+					# Aradinum # Latinization of the modern name
+				}
+				b_gyulafehervar = {
+					# Apulum
+				}
+				b_elek = {
+					# Blandiana # acutally, uh, Blandiana
+				}
+				b_abrudbanya = {
+					# Abruttus # Latinization of the modern name
+				}
+				b_nagyenyed = {
+					# Brucla
+				}
+				b_vizakna = {
+					# Alburnus Maior # actually Carpeni in the Rosia Montana
+				}
+				b_tovis = {
+					# Ziridava # actually Ardeu, Balsa
+				}
+			}
+			c_tirgoviste = {
+				color={ 244 198 75 }
+				color2={ 255 255 255 }
+
+				# Sarmizegetusa
+			
+				b_targoviste = {
+					# Sarmizegetusa
+
+					roman = "Ulpia Traiana Sarmizegetusa"
+					graeci = "Ulpia Traiana Sarmizegetusa"
+				}
+				b_curteadearges = {
+					# Burridava # not Curtea de Arges
+				}
+				b_pitesti = {
+					# Pons Aluti
+				}
+				b_campulung = {
+					# Stepenium # maybe?????
+				}
+				b_calimanesti = {
+					# Arutela
+				}
+				b_poenari = {
+					# Castra Traiana
+				}
+				b_cotmeana = {
+					# Praetorium
+				}
+				b_ploiesti = {
+					# Caput Stenarum
+				}
+			}
+		}
+		d_porolissensis = {
+			color={ 56 148 143 }
+			color2={ 255 255 255 }
+			
+			capital = 520
+			
+			c_szekelyfold = {
+				color={ 237 54 54 }
+				color2={ 255 255 255 }
+
+				# Potaissa
+				
+				b_csik = {
+					# Potaissa
+				}
+				b_aranyos = {
+					# Napoca
+				}
+				b_haromszek = {
+					# Trisediensis # Latin for 'Three Chairs', which is what the Hungarian name also means
+				}
+				b_maros = {
+					# Marisus
+				}
+				b_kezdi = {
+					# Salinae
+				}
+				b_szekelyudvarhely = {
+					# Samus
+				}
+				b_sepsiszentgyorgy = {
+					# Sebesum
+				}
+				b_marosvasarhely = {
+					# Agropolis
+				}
+			}
+			c_bihar = {
+				color={ 241 58 58 }
+				color2={ 255 255 255 }
+
+				# Porolissum
+				
+				b_bihar = {
+					# Byhoriensis # attested only in 1067
+				}
+				b_nagyvarad = {
+					# Varadinum # Latin form from 1113
+				}
+				b_debrecen = {
+					# Porolissum
+				}
+				b_biharkeresztes = {
+					# Tisia
+				}
+				b_nagybajom = {
+					# Optatiana
+				}
+				b_szalard = {
+					# Resculum
+				}
+				b_zolonta = {
+					# Ulpianum
+				}
+				b_elesd = {
+					# Crisia
+				}
+			}
+		}
+		d_malvensis = {
+			color = { 147 35 163 }
+			color2= { 255 255 255 }
+
+			capital = 516
+
+			c_turnu = {
+				color={ 241 195 72 }
+				color2={ 255 255 255 }
+
+				# Ad Moesiam
+			
+				b_turnu = {
+					# Turris # guessing
+
+					sklaveni = Holavnik
+				}
+				b_giurgiu = {
+					# Theodorapolis # Justinian-era town
+				}
+				b_bucuresti = {
+					# Nentidava # not Bucharest
+				}
+				b_dristra = {
+					# Tiasum # not sure what this is tbh
+				}
+				b_strehaia = {
+					# Naparis # actually a river
+				}
+				b_oltenita = {
+					# Ister # actually a river
+				}
+				b_rosiorriidevede = {
+					# Ardiscus # actually a river
+				}
+				b_corabia = {
+					# Sucidava
+				}
+			}
+			c_severin = {
+				color={ 247 201 78 }
+				color2={ 255 255 255 }
+
+				# Malvensis
+			
+				b_severin = {
+					# Drobeta
+				}
+				b_ursova = {
+					# Amutrium # also known as Admutrium, Ad Mutrium, Ad Mutriam, etc. # near the Motru river. Not Ursova.
+
+					greek = Amutrion
+				}
+				b_craiova = {
+					# Pelendava
+				}
+				b_ramnic = {
+					# Acidava # actually near Enosesti in Olt County
+				}
+				b_tirgujiu = {
+					# Rabon # the Latin name for the Jiu River
+				}
+				b_slatina = {
+					# Rusidava # actually near Dragasani in Valcea County
+				}
+				b_caracal = {
+					# Romula # old Malva # not Severin
+				}
+				b_bals = {
+					# Pons Traiani # not Bals
+				}
+			}
+		}
+		d_roxolania = {
+			color = { 152 62 18 }
+			color2= { 255 255 255 }
+
+			c_birlad = {
+				color={ 233 212 155 }
+				color2={ 255 255 255 }
+
+				# Pyretus # one of several Greco-Roman names for the Prut River
+
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
+				
+				b_barlad = {
+					# Polondava # maybe a site near Vadu Rosca
+				}
+				b_husi = {
+					# Piroboridava # actually Poiana
+				}
+				b_vaslui = {
+					# Tamasidava # actually Racatau De Jos
+				}
+				b_galati = {
+					# Zargidava # actually Brad. Just Brad.
+				}
+				b_tecuci = {
+					# Utidava # actually a site in Targu Ocna
+				}
+				b_braila = {
+					# Proilava # actually a Byzantine Greek form of the medieval form of the current toponym
+				}
+				b_buzau = {
+					# Mouseos # Greek name for the Buzau River
+				}
+				b_ramnicusarat = {
+					# Paloda # I'm not sure what this is, but I found it on a map on Wikimedia Commons
+				}
+			}
+			c_torki = {
+				color={ 227 206 149 }
+				color2={ 255 255 255 }
+
+				# Petrodava
+			
+				b_torki = {
+					# Petrodava # not Torki
+				}
+				b_bogdana = {
+					# Patridava # a site in Campuling Moldovenesc
+				}
+				b_suceava = {
+					# Carsidava # actually a site near Horodistea
+				}
+				b_cernauti = {
+					# Czernovicum # Latinization of the modern name
+				}
+				b_hotin = {
+					# Ararus # actually a river
+				}
+				b_lipcani = {
+					# Hierasus # another name for the Prut River
+				}
+				b_herta = {
+					# Caestobocorum # making shit up
+				} 
+				b_siret = {
+					# Teuriscorum # making shit up
+				}
+			}
+			c_galaz = {
+				color={ 217 102 253 }
+				color2={ 255 255 255 }
+
+				# Getarum Solitudo
+				
+				b_galaz = {
+					# Ostium Sacrum # actually right by Izmail
+				}
+				b_vicina = {
+					# Bitzina # Greek rendering of the town's name as found in the 1148 'Alexiad'
+				}
+				b_aegyssus = {
+					# Aegyssus
+				}
+				b_isaccea = {
+					# (Castra) Noviodunum
+				}
+				b_macin = {
+					# Arrubium
+				}
+				b_sulina = {
+					# Plateypegiai # not Sulina
+				}
+				b_tulcea = {
+					# Sarmatica # not actually quite sure where this is
+					# TULCEA IS JUST AEGYSSUS BY ANOTHER NAME
+				}
+				b_crisan = {
+					# Aliobrix
+				}
+			}
+		}
+		d_olbia = {
+			color={ 223 202 145 }
+			color2={ 255 255 255 }
+
+			capital = 542 # Olvia / Olbia
+		
+			c_peresechen = {
+				color={ 225 204 147 }
+				color2={ 255 255 255 }
+
+				# Iassiorum
+			
+				b_iasi = {
+					# Iassiorum
+				}
+				b_varzaresti = {	
+					# Cleipdava # actually Soldanesti
+				}
+				b_orhei = {
+					# Vlasieum # making up shit. A record from the Early Middle Ages mentions 'Vlasiei' in the area, which I'd assume is a Byzantine garbled form of 'Vlach'. Whatever.
+				}
+				b_chisinau = {
+					# Fons Novus # Chisinau's name possibly comes from the old Romanian for 'New Spring'
+				}
+				b_harlau = {
+					# Bastarnorum # making up shit
+				}
+				b_tuzara = {
+				}
+				b_baltile = {
+				}
+				b_tutora = {
+				}
+			}
+			c_olvia = {
+				color={ 229 208 151 }
+				color2={ 255 255 255 }
+
+				# Borysthenes
+			
+				b_olvia = {
+					# Olbia
+				}
+				b_ophusia = {
+					# Scopuli # actually Dophinovka
+				}
+				b_cetateaalba = {
+					# Istrianon Limen # actually eastern Odessa
+				}
+				b_tighina = {
+					# Hypanis # actually the Bug River
+				}
+				b_causeni = {
+					# Portus Istrianus # actually might be Odessa, I DON'T KNOW FOR SURE
+				}
+				b_cainari = {
+				}
+				b_alibei = {
+				}
+				b_basarabeasca = {
+				}
+			}
+			c_belgorod = {
+				color={ 231 210 153 }
+				color2={ 255 255 255 }
+
+				# Tyragetae
+
+				greek = Maurokastron
+			
+				b_belgorod = {
+					# Tyras # not actually the same as Kievan Belgorod
+
+					roman = "Alba Julia"
+					graeci = "Alba Julia"
+
+					greek = Maurokastron
+				}
+				b_oblucita = {
+					# Aepolium # actually Shabalata
+				}
+				b_chilia = {
+					# Antiphili Turris # actually Trapivka
+				}
+				b_palada = {
+					# Kremniskoi # not Palada!
+				}
+				b_oancea = {
+					# Nikonion # actually Roxolany
+
+					roman = Niconium
+					graeci = Niconium
+				}
+				b_scheia = {
+					# Neoptolemi Turris
+				}
+				b_tigheci = {
+					# Isciacorum Portus
+				}
+				b_falciu = {
+					# Harpis
+				}
+			}
+		}
+	}
+}

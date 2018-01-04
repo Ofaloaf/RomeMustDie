@@ -16,5 +16,7 @@ b_treguier = temple
 #b_plourivo = temple
 
 # Misc
-culture = galloroman
-religion = hellenic_pagan
+culture = romano_british
+religion = nicene
+
+# History

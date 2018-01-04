@@ -1,0 +1,21 @@
+# 265 - Fyn
+
+# County Title
+title = c_fyn
+
+# Settlements
+max_settlements = 4
+b_svendborg = tribal
+
+#b_odense = temple
+#b_nyborg = city
+#b_faaborg = castle
+#b_assens = castle
+#b_middelfart = castle
+#b_kerteminde = castle
+#b_bogense = castle
+
+# Misc
+culture = protonorse
+religion = norse_pagan
+terrain = farmlands

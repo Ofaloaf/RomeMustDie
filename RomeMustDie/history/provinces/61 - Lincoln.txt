@@ -15,5 +15,5 @@ b_boston = city
 #b_bardney = castle
 
 # Misc
-culture = britto
+culture = romano_british
 religion = pelagian

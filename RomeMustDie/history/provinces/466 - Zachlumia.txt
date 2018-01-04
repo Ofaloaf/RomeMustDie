@@ -5,7 +5,7 @@ title = c_zachlumia
 
 # Settlements
 max_settlements = 4
-b_mostar = castle
+b_neretva = castle
 b_livno = city
 b_duvno = temple
 
@@ -13,8 +13,8 @@ b_duvno = temple
 #b_sirokibrijeg = castle
 #b_ljubuski = castle
 #b_drvar = castle
-#b_neretva = castle
+#b_mostar = castle
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene

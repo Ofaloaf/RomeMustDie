@@ -1,4 +1,3 @@
-470.1.1 = {
-	liege = d_thracia
-	holder = 410006
+475.1.9 = {
+	holder = 610013
 }

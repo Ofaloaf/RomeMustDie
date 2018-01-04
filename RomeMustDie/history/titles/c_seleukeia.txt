@@ -1,4 +1,4 @@
-475.1.9 = {
-	liege = k_isauria
-	holder = 610024
+475.1.10 = {
+	liege = d_isauria
+	holder = 610056
 }

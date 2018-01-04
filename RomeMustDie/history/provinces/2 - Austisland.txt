@@ -1,0 +1,21 @@
+# 2 - Austisland
+
+# County Title
+#title = c_austisland
+
+# Settlements
+max_settlements = 0
+#b_husavik = tribal
+
+#b_hrisey = city
+#b_holar = temple
+
+#b_glaumbaer = castle
+#b_valpjotstadur = castle
+#b_akureyri = castle
+#b_goddalir = castle
+#b_kirkjubaer = castle
+
+# Misc
+#culture = protonorse
+#religion = norse_pagan

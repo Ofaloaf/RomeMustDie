@@ -17,5 +17,5 @@ b_mila = temple
 #b_jijel = castle
 
 # Misc
-culture = mauri
+culture = mauro_roman
 religion = nicene

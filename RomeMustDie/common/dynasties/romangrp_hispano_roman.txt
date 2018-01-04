@@ -1,0 +1,278 @@
+492001 = {
+	name = "Myrtiliensis"
+	culture = hispano_roman
+}
+
+492002 = {
+	name = "Albionus"
+	culture = hispano_roman
+}
+
+492003 = {
+	name = "Quaquernus"
+	culture = hispano_roman
+}
+
+492004 = {
+	name = "Arronus"
+	culture = hispano_roman
+}
+
+492005 = {
+	name = "Baedus"
+	culture = hispano_roman
+}
+
+492006 = {
+	name = "Caladunus"
+	culture = hispano_roman
+}
+
+492007 = {
+	name = "Caporus"
+	culture = hispano_roman
+}
+
+492008 = {
+	name = "Cibarcus"
+	culture = hispano_roman
+}
+
+492009 = {
+	name = "Cilenus"
+	culture = hispano_roman
+}
+
+492010 = {
+	name = "Coelernus"
+	culture = hispano_roman
+}
+
+492011 = {
+	name = "Equaesus"
+	culture = hispano_roman
+}
+
+492012 = {
+	name = "Grovius"
+	culture = hispano_roman
+}
+
+492013 = {
+	name = "Interamicus"
+	culture = hispano_roman
+}
+
+492014 = {
+	name = "Hispaliensis"
+	culture = hispano_roman
+}
+
+492015 = {
+	name = "Lapatiancus"
+	culture = hispano_roman
+}
+
+492016 = {
+	name = "Lougueus"
+	culture = hispano_roman
+}
+
+492017 = {
+	name = "Naebisocus"
+	culture = hispano_roman
+}
+
+492018 = {
+	name = "Leunus"
+	culture = hispano_roman
+}
+
+492019 = {
+	name = "Namarinus"
+	culture = hispano_roman
+}
+
+492020 = {
+	name = "Nemetatus"
+	culture = hispano_roman
+}
+
+492021 = {
+	name = "Nerius"
+	culture = hispano_roman
+}
+
+492022 = {
+	name = "Poemanus"
+	culture = hispano_roman
+}
+
+492023 = {
+	name = "Tamaganus"
+	culture = hispano_roman
+}
+
+492024 = {
+	name = "Tarraconensis"
+	culture = hispano_roman
+}
+
+492025 = {
+	name = "Biclarensis"
+	culture = hispano_roman
+}
+
+492026 = {
+	name = "Pompaelonensis"
+	culture = hispano_roman
+}
+
+492027 = {
+	name = "Calagurriensis"
+	culture = hispano_roman
+}
+
+492028 = {
+	name = "Columella"
+	culture = hispano_roman
+}
+
+492029 = {
+	name = "Ulpius"
+	culture = hispano_roman
+}
+
+492030 = {
+	name = "Malacanensis"
+	culture = hispano_roman
+}
+
+492031 = {
+	name = "Urciensis"
+	culture = hispano_roman
+}
+
+492032 = {
+	name = "Italicensis"
+	culture = hispano_roman
+}
+
+492033 = {
+	name = "Segobrigensis"
+	culture = hispano_roman
+}
+
+492034 = {
+	name = "Toletensis"
+	culture = hispano_roman
+}
+
+492035 = {
+	name = "Saldubanus"
+	culture = hispano_roman
+}
+
+492036 = {
+	name = "Plentuisius"
+	culture = hispano_roman
+}
+
+492037 = {
+	name = "Amaianensis"
+	culture = hispano_roman
+}
+
+492038 = {
+	name = "Tapolus"
+	culture = hispano_roman
+}
+
+492039 = {
+	name = "Calurus"
+	culture = hispano_roman
+}
+
+492040 = {
+	name = "Veaminicorus"
+	culture = hispano_roman
+}
+
+492041 = {
+	name = "Durius"
+	culture = hispano_roman
+}
+
+492042 = {
+	name = "Gigurrus"
+	culture = hispano_roman
+}
+
+492043 = {
+	name = "Lanciensis"
+	culture = hispano_roman
+}
+
+492044 = {
+	name = "Amacus"
+	culture = hispano_roman
+}
+
+492045 = {
+	name = "Maelo"
+	culture = hispano_roman
+}
+
+492046 = {
+	name = "Lucanus"
+	culture = hispano_roman
+}
+
+492047 = {
+	name = "Murrius"
+	culture = hispano_roman
+}
+
+492048 = {
+	name = "Daphinus"
+	culture = hispano_roman
+}
+
+492049 = {
+	name = "Aranhas"
+	culture = hispano_roman
+}
+
+492050 = {
+	name = "Sappus"
+	culture = hispano_roman
+}
+
+492051 = {
+	name = "Luggonus"
+	culture = hispano_roman
+}
+
+492052 = {
+	name="Caecilius"
+}
+
+492053 = {
+	name="Salduviensis"
+	culture = hispano_roman
+}
+
+492054 = {
+	name="Spartariensis"
+	culture = hispano_roman
+}
+
+492055 = {
+	name = "Egnatuleius"
+	culture = hispano_roman
+}
+
+492056 = {
+	name = "Turgaliensis"
+	culture = hispano_roman
+}

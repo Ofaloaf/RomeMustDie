@@ -1,0 +1,81 @@
+# hispania romanica et hispania visigothica
+technology = {
+	titles = {
+		d_ballearica
+		d_barcinonensis
+		d_caesaraugustanus
+		d_carpetania
+		d_carthaginensis
+		d_celtiberia
+		d_cordubensis
+		d_emeritanus
+		d_gaditanus
+		d_hispalensis
+		d_pacensis
+		d_scalabitanus
+		d_tarraconensis
+	}
+	
+	475 = {
+		military = 0.75
+		economy = 0.85
+		culture = 1.0
+		
+		TECH_LIGHT_INFANTRY = 0.75
+		TECH_HEAVY_INFANTRY = 1.0
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# hispania barbarica
+technology = {
+	titles = {
+		d_asturica
+		d_bracarensis
+		d_cantabria
+		d_gallaecia
+		d_legionensis
+	}
+	
+	475 = {
+		military = 0.7
+		economy = 0.75
+		culture = 0.8
+		
+		TECH_LIGHT_INFANTRY = 0.85
+		TECH_HEAVY_INFANTRY = 0.85
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# Hispania Vasconica
+technology = {
+	titles = {
+		d_vasconia
+	}
+	
+	475 = {
+		military = 0.5
+		economy = 0.7
+		culture = 0.7
+		
+		TECH_LIGHT_INFANTRY = 1.0
+		TECH_HEAVY_INFANTRY = 1.0
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}

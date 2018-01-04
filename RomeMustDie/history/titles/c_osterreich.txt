@@ -1,8 +1,8 @@
-454.1.1 = {
-	liege = "k_rugiland"
-	holder = 410002 # Flaccitheus
+467.1.1 = {
+	liege = k_rugiland
+	holder = 1871005
 }
 
-475.1.1 = {
-	holder = 410003 # Feva, Feletheus
+475.10.5 = {
+	holder = 1871006
 }

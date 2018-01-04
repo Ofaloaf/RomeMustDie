@@ -18,5 +18,5 @@ b_ifni = tribal
 #b_tizgui = castle
 
 # Misc
-culture = maghreb_arabic
+culture = moor
 religion = west_african_pagan

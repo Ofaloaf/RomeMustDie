@@ -17,4 +17,4 @@ b_mut = temple
 
 # Misc
 culture = nubian
-religion = miaphysite
+religion = kemetic_pagan

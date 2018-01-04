@@ -1,0 +1,5 @@
+448.1.1 = {
+	historical_nomad = yes
+	set_tribute_suzerain = { who = d_saragurs percentage = 0.3 }
+	holder = 453011
+}

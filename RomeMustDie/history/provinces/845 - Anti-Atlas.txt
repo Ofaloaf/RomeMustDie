@@ -18,5 +18,5 @@ b_agadir = tribal
 #b_alogoum = castle
 
 # Misc
-culture = maghreb_arabic
+culture = moor
 religion = west_african_pagan

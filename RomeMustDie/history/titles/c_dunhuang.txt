@@ -1,0 +1,4 @@
+472.1.1 = {
+	liege = e_china_west_governor
+	holder = 244001
+}

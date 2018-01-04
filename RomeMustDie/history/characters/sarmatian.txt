@@ -1,0 +1,79 @@
+700001 = {
+	name="Badak"
+	# Fictional, in place to make Benga and Babai
+	dynasty=514024
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="tengri_pagan"
+	culture="sarmatian"
+	420.1.1={
+		birth=yes
+	}
+	465.1.1={
+		death=yes
+	}
+}
+
+700002 = {
+	name="Benga"
+	dynasty=514024
+	father=700001
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	learning=6
+	religion="tengri_pagan"
+	culture="sarmatian"
+	trait=honest
+	trait=proud
+	443.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+700003 = {
+	name="Babaï"
+	dynasty=514024
+	father=700001
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	learning=6
+	religion="tengri_pagan"
+	culture="sarmatian"
+	trait=trusting
+	trait=proud
+	444.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+700004 = {
+	name="Maniag"
+	# I know there was a Sarmatian tribe around Podlasie with a name that was corrupted into 'Inaunxes' and 'Inaxungis' by copyists, but I don't know its actual name and I don't know who led it.
+	dynasty=514025
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	learning=6
+	religion="tengri_pagan"
+	culture="sarmatian"
+	454.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

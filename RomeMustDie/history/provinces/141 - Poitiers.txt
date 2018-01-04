@@ -15,5 +15,8 @@ b_stsavin = temple
 #b_chatellerault = city
 #b_loudun = castle
 
-culture = galloroman
+#Misc
+culture = gallo_roman
 religion = nicene
+
+# History

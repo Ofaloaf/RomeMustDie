@@ -1,0 +1,16 @@
+# 933 - Roslavl
+
+# County Title
+title = c_roslavl
+
+# Settlements
+max_settlements = 3
+b_roslavl = tribal
+
+#b_pochinok = city
+
+#b_chocimsk = city
+
+# Misc
+culture = mordvin
+religion = finnish_pagan

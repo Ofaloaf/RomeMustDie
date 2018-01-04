@@ -1,0 +1,6 @@
+265.1.1 = {
+	law = succ_turkish_succession
+}
+467.1.1 = {
+	holder = 632003
+}

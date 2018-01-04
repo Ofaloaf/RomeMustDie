@@ -5,9 +5,9 @@ title = c_dyfed
 
 # Settlements
 max_settlements = 4
-b_dinefwr = castle
+b_dinefwr = tribal
 b_st_davids = temple
-b_carmarthen = city
+#b_carmarthen = city
 
 #b_kidwelly = castle
 #b_llandeilo = temple
@@ -17,5 +17,7 @@ b_carmarthen = city
 
 # Misc
 culture = welsh
-religion = druidic
+religion = celtic_pagan
 terrain = hills
+
+# History

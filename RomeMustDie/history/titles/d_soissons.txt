@@ -1,4 +1,11 @@
+#1.1.1 = {
+#	liege = "e_wre"
+#}
 457.1.1 = {
+	law = succ_feudal_elective
+	law = agnatic_succession
+	law = imperial_administration
+	law = ze_administration_laws_2
 	holder = 789006
 }
 464.1.1 = {

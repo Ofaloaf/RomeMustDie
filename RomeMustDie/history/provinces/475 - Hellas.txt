@@ -20,5 +20,3 @@ b_amphissa = temple
 culture = graeci
 religion = nicene
 terrain = hills
-
-

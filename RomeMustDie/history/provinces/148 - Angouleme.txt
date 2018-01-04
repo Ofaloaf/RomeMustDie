@@ -15,5 +15,6 @@ b_bassac = temple
 #b_latranchade = castle
 #b_fontdouce = temple
 
-culture = visigothic
-religion = arian
+#Misc
+religion = nicene
+culture = gallo_roman

@@ -1,0 +1,65 @@
+410023 = {
+	name = "Switering"
+	culture = burgundi
+}
+
+443001 = {
+	name="Nibelunging"
+	culture = burgundi
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 26
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+443002 = {
+	name = "Etzeling"
+	culture = burgundi
+}
+
+443003 = {
+	name = "Sigismunding"
+	culture = burgundi
+}
+
+443004 = {
+	name = "Gunnaring"
+	culture = burgundi
+}
+
+443005 = {
+	name = "Botelunging"
+	culture = burgundi
+}
+
+443006 = {
+	name = "Gernoting"
+	culture = burgundi
+}
+
+443007 = {
+	name = "Randvering"
+	culture = burgundi
+}
+
+443008 = {
+	name = "Erping"
+	culture = burgundi
+}
+
+443009 = {
+	name = "Sigurding"
+	culture = burgundi
+}
+
+443010 = {
+	name = "Giselhering"
+	culture = burgundi
+}

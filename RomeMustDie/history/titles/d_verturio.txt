@@ -1,0 +1,5 @@
+467.1.1 = {
+	holder = 1707001
+	law = cognatic_succession
+	law = succ_tanistry
+}

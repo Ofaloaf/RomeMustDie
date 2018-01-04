@@ -5,8 +5,8 @@ title = c_empuries
 
 # Settlements
 max_settlements = 4
-b_empuries = castle
-b_girona = city
+b_empuries = city
+b_girona = temple
 b_cerdana = castle
 #b_labisbaldemporda = temple
 #b_figueras = castle
@@ -15,5 +15,5 @@ b_cerdana = castle
 #b_castelldaro = castle
 
 # Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene

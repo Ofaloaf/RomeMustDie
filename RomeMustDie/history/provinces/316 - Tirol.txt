@@ -5,8 +5,9 @@ title = c_tirol
 
 # Settlements
 max_settlements = 4
-b_landeck = castle
-b_bregenz = temple
+b_bregenz = tribal
+#b_landeck = city
+b_stanton = temple
 
 #b_sterzing = castle
 #b_dornbirn = castle
@@ -15,7 +16,7 @@ b_bregenz = temple
 #b_ried = castle
 
 # Misc
-culture = alemannic
+culture = alemanni
 religion = norse_pagan
 
 # History

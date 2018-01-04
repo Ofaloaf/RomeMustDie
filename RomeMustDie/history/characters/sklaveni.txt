@@ -1,0 +1,16 @@
+1991001 = {
+	name="Luka"
+	dynasty=1991016
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="slavic_pagan"
+	culture="sklaveni"
+	449.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

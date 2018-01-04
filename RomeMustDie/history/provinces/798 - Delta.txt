@@ -16,5 +16,5 @@ b_burah = castle
 #b_shirbin = castle
 
 # Misc
-culture = graeci
+culture = coptic
 religion = miaphysite

@@ -20,4 +20,3 @@ b_kos = city
 culture = graeci
 religion = nicene
 terrain = mountain
- 

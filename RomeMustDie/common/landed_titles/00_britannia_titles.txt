@@ -1,0 +1,3803 @@
+e_britannia = {
+	color={ 172 22 22 }
+	color2={ 0 0 0 }
+
+	culture = welsh
+
+	capital = 32 # London/Londinium/etc.
+
+	romano_british = Britannia
+	gallo_roman = Britannia
+	mauro_roman = Britannia
+	hispano_roman = Britannia
+	roman = Britannia
+	graeci = Britannia
+
+	saxon = Brytenlond
+	old_saxon = Bryten
+
+	welsh = Prydain
+	irish = Bhreatain
+	pictish = Alba
+	#scotti = Alba
+
+	k_loegria = {
+		color = { 193 26 14 }
+		color2= { 255 255 255 }
+
+		saxon = Englaland
+		old_saxon = Englaland
+
+		welsh = Lloegr
+
+		roman = Britannia
+		graeci = Britannia
+
+		romano_british = Loegria
+
+		d_cantia = {
+			color = { 210 210 177 }
+			color2= { 255 255 255 }
+
+			capital = 73
+
+			saxon = Cent
+			old_saxon = Cent
+
+			welsh = Ceint
+
+			roman = Cantiacum
+			graeci = Cantiacum
+			greek = Kantiakon
+
+			c_surrey = {
+				color={ 241 105 55 }
+				color2={ 255 255 255 }
+
+				# Astolat
+
+				saxon = "Suthrige"
+				old_saxon = "Suthrige"
+				
+				b_farnham = {
+					# Vindomulis # not actually Vindomis
+
+					welsh = Gwyndomul
+
+					saxon = Fearnhamme
+					old_saxon = Fearnhamme
+				}
+				b_guildford = {
+					# Astolat
+
+					saxon = Guldeford
+					old_saxon = Guldeford
+				}
+				b_lambeth = {
+					# Lampiacum # making shit up
+
+					saxon = Lambehitha
+					old_saxon = Lambehitha
+				}
+				b_southwark = {
+					# Suthringa
+
+					saxon = Suthringanaweorc
+					old_saxon = Suthringanaweorc
+				}
+				b_woking = {
+					# Voccinga
+
+					saxon = Wochingas
+					old_saxon = Wochingas
+				}
+				b_chertsey = {
+					# Cirotis
+
+					saxon = Cirotisege
+					old_saxon = Cirotisege
+				}
+				b_croydon = {
+					# Crucidunum # making shit up # Crux + -dunum???
+
+					welsh = "Din Croes" # "Fort Cross"
+
+					saxon = Crogdaene
+					old_saxon = Crogdaene
+				}
+				b_waverley = {
+					# Helenadunum # making shit up. Astolat is where Elaine (latin 'Helena') is from, according to Arthurian tradition. Gonna treat this place as Warlingham, because i am arbitrary.
+
+					saxon = Waerlingaham # sort of guessing what the Anglo-Saxon form actually is
+					old_saxon = Waerlingaham
+				}
+			}
+			c_kent = {
+				color={ 241 115 65 }
+				color2={ 255 255 255 }
+
+				# Cantia
+				
+				holy_site = catholic
+
+				saxon = Cent
+				old_saxon = Cent
+
+				welsh = Ceint
+
+				roman = Cantiacum
+				graeci = Cantiacum
+				greek = Kantiakon
+				
+				b_rochester = {
+					# Durobrivis
+
+					saxon = Hrofescester
+					old_saxon = Hrofescester
+				}
+				b_dover = {
+					# Dubris
+
+					saxon = Dofras
+					old_saxon = Dofras
+				}
+				b_canterbury = {
+					# Durobernia
+
+					welsh = "Caer Ceint"
+
+					saxon = Cantwareburh
+					old_saxon = Cantwareburh
+				}
+				b_faversham = {
+					# Durolevum
+
+					saxon = Fefresham
+					old_saxon = Fefresham
+				}
+				b_sandwich = {
+					# Regulbium # actually Reculver
+
+					saxon = Raculf
+					old_saxon = Raculf
+				}
+				b_lympne = {
+					# Lemanis
+
+					saxon = Stutfall
+					old_saxon = Stutfall
+				}
+				b_romney = {
+					# Ritupis # actually Richborough Castle
+				}
+				b_tonbridge = {
+					# Tunnabriga # making shit up
+				}
+			}
+			c_sussex = {
+				color={ 241 110 60 }
+				color2={ 255 255 255 }
+
+				# Rhegin
+
+				roman = Reginorum
+				graeci = Reginorum
+				gallo_roman = Reginorum
+				hispano_roman = Reginorum
+				mauro_roman = Reginorum
+				pannonian = Reginorum
+				greek = Reginorum
+
+				saxon = Suthsaexe
+				old_saxon = Suthsaexe
+				
+				b_hastings = {
+					# Mutuatonis
+
+					saxon = Hastingas
+					old_saxon = Hastingas
+				}
+				b_pevensey = {
+					# Anderitum
+
+					welsh = Anderidos
+
+					saxon = Andredceaster
+					old_saxon = Andredceaster
+				}
+				b_chichester = {
+					# Reginorum
+
+					saxon = Cissaceaster
+					old_saxon = Cissaceaster
+				}
+				b_lewes = {
+					# Novus Portus # actually Portslade-by-Sea
+				}
+				b_arundel = {
+					# Trisantonis # This is what Ptolemy called the River Arun in the Geographia
+
+					saxon = Seoles # Selsey
+					old_saxon = Seoles
+				}
+				b_rye = {
+					# Ripa
+
+					saxon = Rie
+					old_saxon = Rie
+				}
+				b_bramber = {
+					# Arnus # old Latin name for the upper reachers of the River Arun
+
+					saxon = Bexelei # Bexhill-on-Sea
+					old_saxon = Bexelei
+				}
+				b_bodiam = {
+					# Limen # old Celtic name for the River Rother, which Bodiam is near
+
+					saxon = Burne # Eestbourne
+					old_saxon = Burne
+				}
+			}
+		}
+		d_anglia = {
+			color = { 210 136 56 }
+			color2= { 255 255 255 }
+
+			capital = 70
+
+			saxon = "East Engla"
+			old_saxon = "East Engla"
+
+			roman = "Icenia"
+			graeci = "Icenia"
+			greek = "Ikenia"
+
+			romano_british = "Venta"
+			gallo_roman = "Venta"
+			hispano_roman = "Venta"
+			mauro_roman = "Venta"
+
+			c_norfolk = {
+				color={ 255 95 5 }
+				color2={ 255 255 255 }
+
+				# Went
+
+				roman = "Icenia"
+				graeci = Icenia
+				greek = Ikenia
+
+				welsh = Caergwent
+
+				saxon = Northfolc
+				old_saxon = Northfolc
+
+				holy_site = celtic_pagan
+			
+				b_norwich = {
+					# Went
+
+					roman = "Venta Icenorum"
+					graeci = "Venta Icenorum"
+
+					romano_british = "Venta"
+					gallo_roman = "Venta"
+					mauro_roman = "Venta"
+					hispano_roman = "Venta"
+
+					saxon = Norþwic
+					old_saxon = Norþwic
+					norse = Norþwic
+				}
+				b_thetford = {
+					# Villa Faustina # Scole, probably
+
+					saxon = Theodford
+					old_saxon = Theodford
+				}
+				b_buckenham = {
+					# Branocastra # Brancaster, 'Branodunum' in Roman times.
+
+					roman = Branodunum
+					graeci = Branodunum
+					romano_british = Branodunum
+					gallo_roman = Branodunum
+					mauro_roman = Branodunum
+					hispano_roman = Branodunum
+
+					welsh = Caerbran
+
+					saxon = Branceaster
+					old_saxon = Branceaster
+				}
+				b_lynn = {
+					# Lacus
+
+					welsh = Llyn
+
+					old_saxon = Lean
+					saxon = Lean
+				}
+				b_yarmouth = {
+					# Gariannonum
+
+					saxon = Yernemuth
+					old_saxon = Gernemwa
+				}
+				b_elmham = {
+					# Ulmo # Latin translation of 'Elm'
+
+					saxon = Aelmham
+					old_saxon = Aelmham
+				}
+				b_castle_rising = {
+					# Ortus # Latin translation of 'Sunrise' or 'Rising'
+				}
+				b_chatteris = {
+					# Chatteris
+				}
+			}
+			c_suffolk = {
+				color={ 255 100 10 }
+				color2={ 255 255 255 }
+
+				# Combretovium / Tuddenham
+
+				saxon = Suthfolc
+				old_saxon = Suthfolc
+			
+				b_ipswich = {
+					# Combretovium
+
+					saxon = Gipeswic
+					old_saxon = Gipeswic
+					norse = Gipeswic
+				}
+				b_ely = {
+					# Elia
+
+					saxon = Elig
+					old_saxon = Elig
+				}
+				b_bury = {
+					# Adansam # Ad Ansam, Higham, Suffolk
+
+					saxon = Burh
+					old_saxon = Burh
+					norse = Borg
+					ostrogothi = Baurgs
+					visigothi = Baurgs
+				}
+				b_lowestoft = {
+					# Sitomagus
+
+					saxon = Hlothverstede
+					old_saxon = Hlothverstede
+
+					danish = "Lothvistoft"
+					swedish = "Lothvistoft"
+					norwegian = "Lothvistoft"
+					norse = "Lothvistoft"
+				}
+				b_dunwich = {
+					# Dunum # making shit up
+
+					saxon = Dunwic
+					old_saxon = Dunwic
+				}
+				b_stow = {
+				}
+				b_bungay = {
+					# Bonnacum # making shit up
+
+					saxon = Bunincgahaye
+					old_saxon = Bunincgahaye
+				}
+				b_framlingham = {
+				}
+			}
+		}
+		d_trinovantia = {
+			color = { 60 102 172 }
+			color2= { 255 255 255 }
+
+			capital = 72 # Camulodunum/Essex
+
+			saxon = "East Seaxna"
+			old_saxon = "East Seaxna"
+
+			c_middlesex = {
+				color={ 40 82 191 }
+				color2={ 255 255 255 }
+
+				# Londinium
+			
+				holy_site = aztec
+				holy_site = aztec_reformed
+				holy_site = pelagian
+
+				romano_british = "Caer Lundein"
+				welsh = Llundain
+
+				saxon = Middelseaxe
+				old_saxon = Middelseaxe
+
+				b_westminster = {
+					# Durolitum
+
+					used_for_dynasty_names = no
+
+					saxon = Westmynster
+					old_saxon = Westmynster
+					norse=Vestmystur
+				}
+				b_london = {
+					# Londinium
+
+					welsh = Llundain
+
+					saxon = Lundenburh
+					old_saxon = Lundenburh
+					norse=Lundúnir
+				}
+				b_st_pauls = {
+					# Sulloniacis
+				}
+				b_tottenham = {
+					# Decumana
+
+					saxon = Totaham
+					old_saxon = Totaham
+				}
+				b_fulham = {
+					# Ad Principales # Via Principalis was a Roman road in Roman London
+
+					saxon = "Fulanhamme"
+					old_saxon = Fulanhamme
+				}
+				b_staines = {
+					# Pontes
+
+					saxon = Stanas
+					old_saxon = Stanas
+				}
+				b_harrow = {
+					# Theodosiacum # making shit up
+
+					saxon = Hearg
+					old_saxon = Hearg
+				}
+				b_chelsea = {
+					# Salutiadunum # making shit up
+
+					saxon = Celchydh
+					old_saxon = Celchydh
+				}
+			}
+			c_essex = {
+				color={ 112 147 205 }
+				color2={ 255 255 255 }
+
+				# Camulodunum
+
+				saxon = Eastseaxe
+				old_saxon = Eastseaxe
+
+				welsh = "Caer Colun"
+
+				b_maldon = {
+					# Othona # actually Bradwell-on-Sea
+				}
+				b_havering = {
+					# Canonium
+				}
+				b_dunmow = {
+					# Mandubradunum # made up, riffing off Mandubracius of the Trinovantes
+
+					welsh = "Din Mondrag"
+				}
+				b_colchester = {
+					# Camulodunum
+
+					welsh = "Caer Colun"
+				}
+				b_waltham = {
+					# Caesaromagus # Chelmsford
+				}
+				b_barking = {
+					# Trinovantum
+				}
+				b_pleshey = {
+					# Addedodunum # made up, riffing off Addedmaros of the Trinovantes
+				}
+				b_hedingham = {
+					# Dubnovellaunum # made up, riffing off Dubnovellaunus of the Trinovantes
+
+					welsh = "Caer Dubnogwel"
+				}
+			}
+		}
+		d_glevensis = { 
+			color={ 146 120 156 }
+			color2={ 255 255 255 }
+			
+			capital = 21 # Gloucester
+			
+			romano_british = Glouvia
+			welsh = "Caer Gloui"
+
+			saxon = Hwicce
+			old_saxon = Hwicce
+			
+			c_gloucester = {
+				color={ 142 94 155 }
+				color2={ 255 255 255 }
+
+				# Glevum
+
+				romano_british = Glouvia
+				welsh = Caerloyw
+
+				saxon = Hwicce
+				old_saxon = Hwicce
+			
+				b_gloucester = {
+					# Glevum
+
+					romano_british = Glouvia
+					welsh = Caerloyw
+
+					saxon = Gleawcester
+					old_saxon = Gleawcester
+				}
+				b_sudeley = {
+					# Claudia Castra # possible Latin name for Gloucester at some point
+
+					welsh = "Caergladys" # 'Gladys' is the Welsh form of 'Claudia'
+
+					saxon = Gladeceaster
+					old_saxon = Gladeceaster
+				}
+				b_tewkesbury = {
+					# Theotocum # erroneous etymology but WHO CARES YOU NERD
+				}
+				b_cheltenham = {
+					# Ariconium # actually Weston-under-Penyard
+
+					welsh = Ergyng
+
+					saxon = Cheltingaham
+					old_saxon = Cheltingaham
+				}
+				b_cirencester = {
+					# Corinium
+
+					welsh = "Caer Ceri"
+
+					saxon = "Cirenceaster"
+					old_saxon = Cirenceaster
+				}
+				b_winchcombe = {
+					# Antona # actually a name of the River Avon in Latin
+
+					welsh = Afon
+				}
+				b_bristol = {
+					# Abona
+
+					saxon = Bricgstow
+					old_saxon = Bricgstow
+				}
+				b_hailes = {
+					# Dubonnorum # hey guess what the full name of Corinium was. did you guess 'Corinium Dobunnorum'? well done!!
+				}
+			}
+			c_wiltshire = {
+				color={ 179 160 186 }
+				color2={ 255 255 255 }
+
+				# Sorbiodunum
+
+				holy_site = celtic_pagan
+
+				welsh = "Caer Gradawc"
+
+				saxon = Wiltunscir
+				old_saxon = Wiltunscir
+			
+				b_wilton = {
+					# Cunetio # actually Mildenhall, Wilts
+
+					old_saxon = Mildanhald
+					saxon = Mildanhald
+				}
+				b_sarum = {
+					# Sarum
+				}
+				b_clarendon = {
+					# Verlucio # actually Sandy Lane or Chippenham
+				}
+				b_malmesbury = {
+					# Bladon
+				}
+				b_salisbury = {
+					# Sorviodunum
+
+					saxon = Searoburg
+					old_saxon = Searoburg
+				}
+				b_devizes = {
+					# Divisas
+				}
+				b_ramsbury = {
+					# Orphecum # there's an old Roman villa nearby with a mosaic of Orpheus
+
+					welsh = Orfeg # making shit up
+				}
+				b_marlborough = {
+					# Mansio # just some shit
+				}
+			}
+			c_oxford = {
+				color={ 157 119 156 }
+				color2={ 255 255 255 }
+
+				# Ælia, 'Ælia Castra', speculative name for Alchester Roman Town in Oxfordshire, near Wendlebury
+
+				saxon = Oxnafordscir
+				old_saxon = Oxnafordscir
+				
+				b_oxford = {
+					# Bovedunum # shit I made up. GUESS THE ETYMOLOGY
+
+					welsh = "Din Buwch"
+
+					saxon = Oxnaford
+					old_saxon = Oxnaford
+				}
+				b_wallingford = {
+					# Vallotransitum # literal translation of Wallingford
+
+					saxon = Wallingasford
+					old_saxon = Wallingasford
+				}
+				b_abingdon = {
+					# Magiovinium # actually Fenny Stratford
+
+					saxon = Æbbandun
+					old_saxon = Æbbandun
+				}
+				b_buckingham = {
+					# Spinis # actually Speen, Buckinghameshire
+
+					saxon = Buccingahame
+					old_saxon = Buccingahame
+				}
+				b_banbury = {
+					# Banna
+
+					saxon = Banesbyrig
+					old_saxon = Banesbyrig
+				}
+				b_reading = {
+					# Ælia # actually Alchester
+
+					roman = "Ælia Castra"
+
+					saxon = Readingas
+					old_saxon = Readingas
+				}
+				b_aylesbury = {
+					# Aquiladunum # shit I made up
+
+					welsh = "Dineryr"
+
+					saxon = Æglesburgh
+					old_saxon = Æglesburgh
+				}
+				b_eynsham = {
+					# Tamesis # Thames
+
+					welsh = Tafwys
+
+					saxon = Egonesham
+					old_saxon = Egonesham
+				}
+			}
+		}
+		d_atrebatia = {
+			color={ 24 143 63 }
+			color2={ 255 255 255 }
+			
+			capital = 26 # Winchester
+			
+			saxon = "Westseaxna"
+			old_saxon = "Westseaxna"
+			
+			c_winchester = {
+				color={ 241 20 65 }
+				color2={ 255 255 255 }
+
+				# Belgarum
+
+				welsh = "Caer Guinntguic"
+				
+				saxon="Westseaxna"
+				old_saxon = Westseaxna
+				
+				b_southampton = {
+					# Clausentum
+
+					saxon = Hamwic
+					old_saxon = Hamwic
+				}
+				b_portchester = {
+					# Portus Adurni
+
+					welsh = "Caer Peris"
+				}
+				b_winchester = {
+					# Venta
+
+					roman = "Venta Belgarum"
+
+					welsh = "Caer Guinntguic"
+
+					saxon = Wintanceastre
+					old_saxon = Wintanceastre
+				}
+				b_carisbrooke = {
+					# Leucomagus # actually East Anton
+				}
+				b_romsey = {
+					# Onna # actually Nursling
+				}
+				b_andover = {
+					# Vindomis # actually Neatham
+				}
+				b_st_swithun = {
+					# Calleva # actually Silchester
+					
+					romano_british = "Celemion"
+					welsh = "Caer Celemion"
+
+					saxon = Silcester
+					old_saxon = Silcester
+				}
+				b_wherwell = {
+					# Vectis # actually the Isle of Wight
+
+					saxon = "Wiht"
+					old_saxon = Wiht
+				}
+			}
+			c_dorset = {
+				color={ 241 25 70 }
+				color2={ 255 255 255 }
+
+				# Durnovaria
+
+				welsh = Durnac
+
+				saxon = Dorsetescir
+				old_saxon = Dorsetescir
+				
+				b_wareham = {
+					# Piscadoma
+
+					saxon = Werham
+					old_saxon = Werham
+				}
+				b_corfe = {
+					# Vindocladia # actually Badbury
+				}
+				b_shaftesbury = {
+					# Palladour
+
+					welsh = "Caer Palladwr"
+
+					saxon = Sceptesburh
+					old_saxon = Sceptesburh
+				}
+				b_dorchester = {
+					# Durnovaria
+
+					welsh = "Caer Durnac"
+
+					saxon = Dornwaraceaster
+					old_saxon = Dornwaraceaster
+				}
+				b_sherborne = {
+					# Sincerflumina
+				}
+				b_lyme = {
+					# Dunum
+				}
+				b_weymouth = {
+					# Vimutium
+				}
+				b_wimborne = {
+					# Isaca
+				}
+			}
+		}
+		d_cornovia = {
+			color={ 93 138 205 }
+			color2={ 255 255 255 }
+			
+			capital = 67 # Warwick
+			
+			saxon = Mercia
+
+			welsh = Pengwern			
+
+			c_warwick = {
+				color={ 241 60 30 }
+				color2={ 255 255 255 }
+
+				# Letocetum
+
+				welsh = "Luitcoyt"
+
+				saxon = Wearingscir
+			
+				b_coventry = {
+					# Coventria
+				}
+				b_warwick = {
+					# Manduessedum # actually Mancetter, near Atherstone
+
+					saxon = Waeringscir
+					old_saxon = Wearingscir
+				}
+				b_lichfield = {
+					# Letocetum
+
+					welsh = "Caer Luitcoyt"
+
+					saxon = Licidfelth
+					old_saxon = Licidfelth
+				}
+				b_stafford = {
+					# Pennocrucium # actually Stretton Bridge, Water Eaton, Staffordshire
+
+					welsh = Penncrug
+
+					saxon = Staefford
+					old_saxon = Staefford
+				}
+				b_tamworth = {
+					# Tamus # I have no idea what the proper Latin for the River Tame is
+
+					saxon = Tomworthig
+					old_saxon = Tomworthig
+				}
+				b_kenilworth = {
+					# Ardua (Silva) # guessing at a Latinization for the Forest of Arden.
+
+					welsh = Ardd
+
+					saxon = Arden
+					old_saxon = Arden
+				}
+				b_tutbury = {
+					# Tripontium # actually Rugby
+
+					welsh = Drochebrig # speculative
+
+					saxon = Hroceburh
+					old_saxon = Hroceburh
+					norse = Rokebi
+				}
+				b_dudley = {
+					# Alauna # actually Alcester. One of several British towns with this name.
+
+					saxon = Alencestre
+					old_saxon = Alencestre
+				}
+			}
+			c_worcester = {
+				color={ 250 25 25 }
+				color2={ 255 255 255 }
+
+				# Vertis
+
+				welsh = Guiragon
+
+				saxon = Wigreceastrescir
+				old_saxon = Wigreceastrescir
+				
+				b_worcester = {
+					# Vertis	# possibly, mentioned in the 7th century Ravenna Cosmography
+
+					welsh = "Cair Guiragon"
+
+					saxon = Wigornaceaster
+					old_saxon = Wigornaceaster
+				}
+				b_evesham = {
+					# Sabrina # actually the Latin name for the River Severn
+
+					welsh = Hafren
+
+					saxon = "Saefern"
+					old_saxon = Saefern
+				}
+				b_droitwich = {
+					# Salinae
+
+					saxon = "Saltwich"
+					old_saxon = "Saltwich"
+				}
+				b_kidderminster = {
+					# Coenobium # just a generic Latin term for a monastery tbh
+				}
+				b_pershore = {
+					# Abona # actually the pre-Roman Brythonic name for the River Avon
+				}
+				b_malvern = {
+					# Caratacum # the Malvern Hills are a possible location of the British chief Caratacus' last stand.
+				}
+				b_bromsgrove = {
+					# Bremis # making up some shit
+
+					saxon = Bremesburh # 909 Bromsgrove attestation
+					old_saxon = Bremesburg # 909 Bromsgrove attestation
+				}
+				b_laughern = {
+					# Arosetna # probably an Anglo-Saxon tribe settled in Arrow, Warwickshire?????????
+				}
+			}
+			c_derby = {
+				color={ 255 65 20 }
+				color2={ 255 255 255 }
+
+				# Derventio
+				
+				norwegian = "Djuraby"
+				danish = "Djuraby"
+				swedish = "Djuraby"
+				norse = "Djuraby"
+
+				welsh = Derwennydd
+			
+				b_derby = {
+					# Derventio
+
+					norwegian = "Djuraby"
+					danish = "Djuraby"
+					swedish = "Djuraby"
+					norse = "Djuraby"
+
+					welsh = Derwennydd
+				}
+				b_bakewell = {
+					# Navio # actually Brough-on-Noe
+				}
+				b_repton = {
+					# Icenis # Icknield Street passes through Derby & is a Roman road. The name might be derived from the Iceni, so I figured it might've been the "Via Icenis" or some such, and then I made shit up from there.
+				}
+				b_bolsover = {
+					# Dionysiacum # making shit up. Bolsover is what DENNIS SKINNER, THE BEAST OF BOLSOLVER represents in Parliament. 'Dennis' is descended from 'Dionysius'.
+				}
+				b_castleton = {
+					# Ostoria # making shit up. Ostorius Scapula was a Roman governor in Britain.
+				}
+				b_chesterfield = {
+					# Lutudarium # also rendered Lutudarum. There's a couple places where Roman Lutudarium could've been, but I picked here.
+				}
+				b_burton = {
+					# Aquae Arnemetiae # actually Buxton
+				}
+				b_wirksworth = {
+					# Cartimanducum # making shit up. Cartimandua was a British queen who helped out Romans around the time Strutt's Park Roman fort was built.
+				}
+			}
+		}
+		d_coritania = {
+			color={ 185 53 80 }
+			color2={ 255 255 255 }
+
+			romano_british = Corion
+
+			roman = Corieltauvia
+			graeci = Corieltauvia
+
+			welsh = Coraniaid
+
+			saxon = Lindesege
+			old_saxon = Lindesege
+
+			c_lincoln = {
+				color={ 255 90 20 }
+				color2={ 255 255 255 }
+				
+				# Lindum
+
+				romano_british = Linnuis
+				welsh = Linnuis
+
+				saxon = Lindesege
+				old_saxon = Lindesege
+
+				b_gainsborough = {
+					# Bannovallum # actually Horncastle
+				}
+				b_lincoln = {
+					# Lindum
+
+					saxon = Lindocolina
+					old_saxon = Lindocolina
+				}
+				b_boston = {
+					# Segelocum # actually Littleborough
+				}
+				b_spalding = {
+					# Caesennae (probably just Causennis near Grantham)
+				}
+				b_stamford = {
+					# Ad Abum # actually Winteringham; the Roman name is speculative, however.
+				}
+				b_grantham = {
+					# Causennis
+				}
+				b_louth = {
+					# Helenacum # making stuff up.
+				}
+				b_bardney = {
+					# Trisantona # speculative name for the River Trent
+				}
+			}
+			c_leicester = {
+				color={ 255 85 10 }
+				color2={ 255 255 255 }
+
+				# Coritania
+
+				romano_british = Corion
+
+				roman = Corieltauvia
+				graeci = Corieltauvia
+
+				welsh = Coraniaid
+
+				saxon = Laegreceastrescir
+				old_saxon = Laegreceastrescir
+			
+				b_leicester = {
+					# Lerion
+
+					roman = Ratae
+					graeci = Ratae
+					gallo_roman = Ratae
+					romano_british = "Rate Corion"
+					mauro_roman = Ratae
+					hispano_roman = Ratae
+
+					welsh = "Caer Lerion"
+
+					saxon = Ligoraceastre
+					old_saxon = Ligoraceastre
+				}
+				b_nottingham = {
+					# Tigguo Cobauc # Brythonic
+
+					saxon = Snotingaham
+					old_saxon = Snotingaham
+				}
+				b_southwell = {
+					# Ad Pontem
+				}
+				b_newark = {
+					# Venonis # actually High Cross
+				}
+				b_hucknall = {
+					# Vernemeto # actually Willoughby on the Wolds
+				}
+				b_tickhill = {
+					# Margidunum # actually Castle Hill, East Bridgeshire
+				}
+				b_worksop = {
+					# Crococalana # actually Brough, Nottinghamshire
+				}
+				b_newstead = {
+					# Volisiacum # making shit up, derived from Volisios of the Corieltauvi
+				}
+			}
+		}
+		d_catuvellaunia = {
+			color = { 247 231 115 }
+			color2= { 255 255 255 }
+			
+			romano_british = "Caer Mincip"
+			welsh = "Caer Mincip"
+
+			saxon = Middelenglaland
+			old_saxon = Middelenglaland
+
+			c_bedford = {
+				color={ 241 30 30 }
+				color2={ 255 255 255 }
+
+				# Verulamium
+
+				romano_british = "Caer Mincip"
+				welsh = "Caer Mincip"
+				
+				saxon = Verulamacæstir
+				old_saxon = Verulamacæstir
+				
+				b_bedford = {
+					# Bedaiacum # making up some shit
+
+					welsh = Badeg
+
+					saxon = Beadanford
+					old_saxon = Beadanford
+				}
+				b_hertford = {
+					# Cervidacum # making up some shit
+
+					saxon = Herutford
+					old_saxon = Herutford
+				}
+				b_st_albans = {
+					# Verulamium
+
+					welsh = "Caer Mincip"
+
+					saxon = Vaeclingscaester
+					old_saxon = Vaeclingscaester
+				}
+				b_berkhamsted = {
+					# Albanodunum # made up, riffing off St. Alban(us)
+				}
+				b_luton = {
+					# Lugdunum # making a wild guess. Wikipedia says it's made from a Brittonic -Lug and a Saxon -tun, but doesn't -tun look an awful lot like -dun(um)?
+
+					saxon = Leatun
+					old_saxon = Leatun
+				}
+				b_dunstable = {
+					# Cunobelindunum # made up, riffing off Cunobeline/Cunobelinus
+
+					welsh = "Dincynfelyn" # made up, riffing off the above
+				}
+				b_watford = {
+					# Caratacum # made up, riffing off Caratacus
+
+					welsh = "Din Caradog" # riffing off the above
+
+					saxon = Cerdicsceastre # riffing off the above
+					old_saxon = Cerdisceastre
+				}
+				b_ashridge = {
+					# Catuvellaunum # made up, riffing off the Catuvellauni tribe
+
+					welsh = "Caer Cadwgwll"
+				}
+			}
+			c_northampton = {
+				color={ 255 110 5 }
+				color2={ 255 255 255 }
+
+				# Durobrivae
+
+				welsh = Durwbont # I am not good at Welsh.
+				
+				b_peterborough = {
+					# Durobrivae
+
+					welsh = Durwbont
+				}
+				b_huntingdon = {
+					# Durovigutum # actually Godmanchester
+
+					saxon = Godmundceaster
+					old_saxon = Godmundceaster
+				}
+				b_ramsey = {
+					# Duroliponte # not actually Ramsey
+
+					saxon = Hramsige # this is Ramsey tho
+					old_saxon = Hramsige
+				}
+				b_northampton = {
+					# Bannaventa # actually a place near North
+
+					welsh = Bingwent
+
+					saxon = Northamtun # this is Northampton tho
+					old_saxon = Northamtun
+				}
+				b_kettering = {
+					# Catuvellaunorum # making up shit
+
+					saxon = Kyteringas # this is Ketting tho
+					old_saxon = Kyteringas
+				}
+				b_cambridge = {
+					# Cantabriga
+
+					welsh = Caergrawnt
+
+					saxon = Grantebrycge
+					old_saxon = Grantebrycge
+				}
+				b_crowland = {
+					# Corvorum # making up shit. It's about crows, GET IT
+
+					saxon = Crogelond # Crowland was also known as 'Croyland'. Croy/don/ was attested as Crogedene in 890. Lopping off the -dene and replacing it with -land/lond is good enough right.
+					old_saxon = Crogelond
+				}
+				b_rockingham = {
+					# Villa Petrina # making shit up. Riffing off the rock/petrus thing
+
+					saxon = Roccingaham # guessing
+					old_saxon = Roccingaham
+				}
+			}
+		}
+	}
+	k_cumbria = {
+		color={ 90 82 135 }
+		color2={ 255 255 255 }
+
+		welsh = "Ogledd"
+		old_saxon = Northumbria
+		saxon = Northumbria
+
+		d_eboracum = {
+			color={ 107 170 77 }
+			color2={ 255 255 255 }
+			
+			capital = 57 # York
+			
+			dignity = 2
+
+			welsh = Deifr
+
+			saxon = Deira
+			old_saxon = Deira
+			
+			norwegian = "Jorvik"
+			danish = "Jorvik"
+			swedish = "Jorvik"
+			norse = "Jorvik"
+			protonorse = Jorvik
+			
+			pagan_coa = {
+				template = 0
+				layer = {
+					texture = 2
+					texture_internal = 12
+					emblem = 0
+					color = 0
+					color = 0
+					color = 0
+				}
+				religion = "norse_pagan"
+			}
+			
+			c_york = {
+				color={ 255 80 5 }
+				color2={ 255 255 255 }
+
+				# Eboracum
+				
+				holy_site = pelagian
+
+				welsh = Deifr
+
+				saxon = Eoforwic
+				old_saxon = Eoforwic
+				
+				norwegian = "Jorvik"
+				danish = "Jorvik"
+				swedish = "Jorvik"
+				norse = "Jorvik"
+	
+				b_york = {
+					# Eboracum
+
+					welsh = Efrog
+
+					saxon = Eoforwic
+					old_saxon = Eoforwic
+
+					norwegian = "Jorvik"
+					danish = "Jorvik"
+					swedish = "Jorvik"
+					norse = "Jorvik"
+				}
+				b_richmond = {
+					# Petuaria # actually Brough-on-Humber
+				}
+				b_st_peters = {
+					# Petracum # making shit up
+				}
+				b_scarborough = {
+					# Gabrantovicorum # actually a suggested Roman name for Bridlington, East Riding of Yorkshire
+
+					norwegian = "Skardaborg"
+					danish = "Skardaborg"
+					swedish = "Skardaborg"
+					norse = "Skardaborg"
+				}
+				b_skipton = {
+					# Isurium # actually Isurium Brigantum, Aldborough
+				}
+				b_pontefract = {
+					# Delgovicia # exact location unknown, but nearish York
+
+					welsh = Dewowys # making a wild guess
+				}
+				b_hull = {
+					# Cataractonium # actually Catterick
+
+					welsh = Catraeth
+				}
+				b_conisbrough = {
+					# Derventio # actually Malton, North Yorkshire. 'Derventio Brigantium' if you want to differentiate it from the Derbyshire Derventio.
+				}
+			}
+		}
+		d_recet = {
+			color={ 233 188 91 }
+			color2={ 255 255 255 }
+			
+			welsh = Rheged
+			
+			capital = 53
+			
+			c_lancaster = {
+				color={ 104 182 90 }
+				color2={ 255 255 255 }
+
+				# Seteia # Ptolemy's name for the River Mersey, probably.
+
+				welsh = Robais
+
+				saxon = Lonceaster
+				old_saxon = Lonceaster
+
+				b_salford = {
+					# Salix
+				}
+				b_lancaster = {
+					# Calunium
+
+					welsh = Caerhirfryn
+
+					saxon = Lonceaster
+					old_saxon = Lonceaster
+				}
+				b_bolton = {
+					# Bremetennacum (Veteranorum) # actually Ribchester
+
+					roman = "Bremetennacum Veteranorum"
+					graeci = "Bremetennacum Veteranorum"
+
+					welsh = "Cair Robais"
+				}
+				b_preston = {
+					# Portus Setantiorum # actually Fleetwood
+				}
+				b_sawley = {
+					# Coccium # actually Wigan
+				}
+				b_gisburn = {
+					# Mamucium # actually Manchester
+				}
+				b_furness = {
+					# Ardotalia # actually Melandra Castle
+				}
+				b_clitheroe = {
+					# Belisama # classic name for the River Ribble
+				}
+			}
+			c_westmorland = {
+				color={ 105 138 94 }
+				color2={ 255 255 255 }
+
+				# Ituna # Latin for the River Eden
+
+				greek = Itouna
+
+				saxon = Westmoringaland
+				old_saxon = Westmoringaland
+			
+				b_appleby = {
+					# Galacum # actually Casterton, Burrow in Lonsdale
+				}
+				b_kendal = {
+					# Alauna # actually Watercrook
+				}
+				b_lowther = {
+					# Virosidum # actually Bainbridge
+				}
+				b_cartmel = {
+					# Galava # actually Ambleside
+				}
+				b_kirkby = {
+					# Bravoniacum
+				}
+				b_brough = {
+					# Verterae # or Veteris
+				}
+				b_shap = {
+					# Lapis # check out the etymology of 'Shap'
+				}
+				b_brougham = {
+					# Brocavum # ???
+				}
+			}
+			c_chester = {
+				color={ 156 186 148 }
+				color2={ 255 255 255 }
+
+				# Deva
+
+				welsh = "Cair Legion"
+
+				saxon = Legacaestir
+				old_saxon = Legacaestir
+			
+				b_chester = {
+					# Deva
+
+					welsh = "Cair Legion"
+
+					saxon = Legacaestir
+					old_saxon = Legacaestir
+				}
+				b_halton = {
+					# Salinae # actually Middlewich
+				}
+				b_malpas = {
+					# Bovium # actually Tilson
+
+					saxon = Tilastun
+					old_saxon = Tilastun
+				}
+				b_northwich = {
+					# Condate
+
+					saxon = Northwic
+					old_saxon = Northwic
+				}
+				b_macclesfield = {
+					# Rigodunum # actually now probably the Castleshaw Roman fort in the Pennines
+				}
+				b_beeston = {
+					# Apis # Latin for 'Bees'
+				}
+				b_sandbach = {
+					# Mediolanum # actually Whitchurch
+				}
+				b_nantwich = {
+					# Nemetum # guessing
+
+					saxon = Nametwic
+					old_saxon = Nametwic
+				}
+			}
+			c_cumberland = {
+				color={ 136 156 125 }
+				color2={ 255 255 255 }
+
+				# Cumbria
+
+				welsh = "Ligualid"
+
+				romano_british = Carvetiorum
+
+				saxon = Cumbraland
+				old_saxon = Cumbraland
+	
+				b_carlisle = {
+					# Luguvalium
+
+					romano_british = Carvetiorum
+
+					saxon = Luel
+					old_saxon = Luel
+				}
+				b_burgh = {
+					# Aballava
+
+					saxon = Burh
+					old_saxon = Burg
+				}
+				b_gilsland = {
+					# Banna # actually the nearby town of Birdoswald
+				}
+				b_penrith = {
+					# Voreda
+				}
+				b_egremont = {
+					# Tunnocelum # actually Beckermet / Calder Bridge
+				}
+				b_papcastlet = {
+					# Derventio # IT'S A POPULAR NAME OKAY
+				}
+				b_cockermouth = {
+					# Glannoventa # actually Ambleside
+
+					welsh = Glannwgwent # guessing
+				}
+				b_dacre = {
+					# Dacor
+				}
+			}
+		}
+		d_bernicia = {
+			color={ 255 0 0 }
+			color2={ 255 255 255 }
+			
+			capital = 52 # Northumberland
+
+			saxon = Bernice
+			old_saxon = Beornice
+			
+			protonorse = Beornica
+			norse = Beornica
+
+			welsh = Bryneich
+			
+			c_northumberland = {
+				color={ 255 10 0 }
+				color2={ 255 255 255 }
+
+				# Vinovia
+				
+				saxon = Northumbria
+
+				welsh = "Din Guardi"
+			
+				b_morpeth = {
+					# Vindovala # actually Rudchester
+				}
+				b_bamburgh = {
+					# Vinovia # actually Binchester. The Binchester Roman Fort, to be accurate.
+
+					welsh = "Din Guardi"
+					
+					saxon = Bebbanburgh
+					old_saxon = Bebbanburgh
+
+					norwegian = "Bamborg"
+					danish = "Bamborg"
+					swedish = "Bamborg"
+					norse = "Bamborg"
+				}
+				b_hexham = {
+					# Arbeia # actually South Shields
+					
+					welsh = Cantscaul # Welsh name for the Battle of Heavenfield, which occured near Hexham
+					saxon = Hefenfelth # Anglo-Saxon name for the Battle of Heavenfield, which occured near Hexham
+					old_saxon = Hefenfelth
+				}
+				b_newcastle = {
+					# Coria # actually Corbridge
+
+					roman = "Coriosopitum"
+					graeci = Coriosopitum
+
+					saxon="Corebricg"
+					old_saxon = Corebricg
+				}
+				b_alnwick = {
+					# Condercum # actually Benwell
+					
+					saxon = Bynnewalle
+					old_saxon = Bynnewalle
+				}
+				b_norham = {
+					# Vindomora # actually Ebchester
+				}
+				b_lindisfarne = {
+					# Medicata (Insula)
+
+					welsh = Medcaut
+
+					saxon = Lindisfarena
+					old_saxon = Lindisfarena
+				}
+				b_mitford = {
+					# Bremenium # actually High Rochester, Northumberland
+				}
+			}
+			c_durham = {
+				color={ 255 15 0 }
+				color2={ 255 255 255 }
+
+				# Concangis
+
+				saxon = Dunholm
+				old_saxon = Dunholm
+				
+				norwegian = "Dunholm"
+				danish = "Dunholm"
+				swedish = "Dunholm"
+				norse = "Dunholm"
+	
+				b_gateshead = {
+					# Ad Caput Caprae
+
+					saxon = Gaetesheafod # guessing
+					old_saxon = Gaetesheafod
+					norse = Gaetesheafod
+				}
+				b_durham = {
+					# Dunum # making shit up
+
+					saxon = Dunholm
+					old_saxon = Dunholm
+
+					norwegian = "Dunholm"
+					danish = "Dunholm"
+					swedish = "Dunholm"
+					norse = "Dunholm"
+				}
+				b_chester-le-street = {
+					# Concangis
+
+					saxon = Conceastre
+					old_saxon = Conceastre
+				}
+				b_jarrow = {
+					# Gyruum
+				}
+				b_hartlepool = {
+					# Longovicium # actually Lanchester
+
+					welsh = Longwyg # guessing
+
+					saxon = Brunanburh # speculative
+					old_saxon = Brunanburh
+				}
+				b_auckland = {
+					# Alcluith
+				}
+				b_raby = {
+					# Viminibriga # nearby Piercebridge is the site of an unnamed Roman force.
+						      # '-bridge' can easily be traced back to '-briga'
+						      # 'Pierce-' is spectulated to refer to the old word 'Pershe'
+						      # 'Pershe' in turn refers to osiers, which in Latin is Viminia
+				}
+				b_st_cuthbert = {
+					# Vinovia # actually Binchester
+
+					saxon = Binnceaster
+					old_saxon = Binnceater
+				}
+			}
+		}
+		d_gallovidia = {
+			color={ 77 116 208 }
+			color2={ 255 255 255 }
+			
+			capital = 50 # Galloway
+
+			pictish = "Nouantia"
+			irish = "Gall-Ghaidhealaibh"
+
+			roman = Novantia
+			gallo_roman = Novantia
+			hispano_roman = Novantia
+			mauro_roman = Novantia
+			graeci = Novantia
+			greek = Nouantia
+			
+			c_galloway = {
+				color={ 15 185 243 }
+				color2={ 255 255 255 }
+
+				# Gallovidia
+
+				holy_site = celtic_pagan
+				
+				pictish = "Nouantia"
+				welsh = "Nofant"
+				irish = "Na Rannaibh"
+				saxon = "Rhinns"
+
+				roman = Novantia
+				gallo_roman = Novantia
+				hispano_roman = Novantia
+				#romano_british = Novantia
+				mauro_roman = Novantia
+				graeci = Novantia
+				greek = Nouantia
+
+				b_dumfries = {
+					pictish = "Dunrad"
+					welsh = "Dinrhyd"
+					irish = "Dùn Phris"
+				}
+				b_dunragit = {
+					# Rerigonium
+
+					pictish = "Dunreget"
+					welsh = "Din Rheged"
+					irish = "Dùn Reicheit"
+				}
+				b_whithorn = {
+					pictish = "Taiuuan"
+					welsh = "Tygwyn"
+					irish = "Taigh Mhàrtainn"
+				}
+				b_dunrod = {
+					pictish = "Dun Brin"
+					welsh = "Din Brenin"
+					irish = "Dùn Droighnein"
+				}
+				b_kirkcudbright = {
+					pictish = "Cuthberbatu"
+					welsh = "Cuddbertbetws"
+					irish = "Cill Chuithbeirt"
+				}
+				b_glenluce = {
+					pictish = "Ulanchuan"
+					welsh = "Glynchwyn"
+					irish = "Ghlinn Lus"
+				}
+				b_wigtown = {
+					pictish = "Betrah"
+					welsh = "Faetref"
+					irish = "Baile na h-Ùige"
+				}
+				b_threave = {
+					pictish = "Insee Datrah"
+					welsh = "Ynys Dytref"
+					irish = "Eilean na h-Uisge Dhè"
+				}
+			}
+			c_teviotdale = {
+				color = { 11 51 145 }
+				color2={ 255 255 255 }
+
+				# Selcovia
+				
+				pictish = "Heluua"
+				welsh = "Caer Guendoleu"
+				irish = "Cealsaidh"
+				
+				b_jedburgh = {
+					pictish = "Dungod"
+					welsh = "Dingod"
+					irish = "Dùngot"
+				}
+				b_roxburgh = {
+					pictish = "Iaartreh"
+					welsh = "Iârtref"
+					irish = "Baile na h-Cearc"
+				}
+				b_peebles = {
+					pictish = "Peball"
+					welsh = "Pebyll"
+					irish = "Na Pùballan"
+				}
+				b_melrose = {
+					pictish = "Maelruusan"
+					welsh = "Mailrhosan"
+					irish = "Maol Ros"
+				}
+				b_kelso = {
+					pictish = "Calchanith"
+					welsh = "Calchfynydd"
+					irish = "Cealsaidh"
+				}
+				b_selkirk = {
+					pictish = "Halchraig"
+					welsh = "Halchraig"
+					irish = "Salcraig"
+				}
+				b_maxwell = {
+					pictish = "Mabfanon"
+					welsh = "Mabffynnon"
+					irish = "Tobar na Mac"
+				}
+				b_ednam = {
+					pictish = "Aethontreh"
+					welsh = "Aeddantref"
+					irish = "Baile na h-Aodhàn"
+				}
+			}
+		}
+		d_damnonia = {
+			color = { 194 223 98 }
+			color2= { 255 255 255 }
+
+			welsh = "Alt Clut"
+
+			saxon = "Strath-Clota"
+
+			c_clydesdale = {
+				color={ 5 140 240 }
+				color2={ 255 255 255 }
+
+				# Clota
+				
+				roman = Damnonia
+				graeci = Damnonia
+				greek = Damnonia
+				# the provincial Vulgar Roman cultures just use the less formal local name.
+				
+				pictish = "Damnunia"
+				welsh = "Alt Clut"
+				irish = "Dail Chluaidh"
+				
+				b_renfrew = {
+					pictish = "Bregurun"
+					welsh = "Brigffroen"
+					irish = "Rinn Friù"
+				}
+				b_st_kentigern = {
+					pictish = "Cantearn"
+					welsh = "Cyndeyrn Sant"
+					irish = "Cill Mungo"
+				}
+				b_glasgow = {
+					pictish = "Catuuris"
+					welsh = "Cathures"
+					irish = "Glaschu"
+				}
+				b_lanark = {
+					pictish = "Lanirc"
+					welsh = "Lanerc"
+					irish = "Lannraig"
+				}
+				b_cadzow = {
+					pictish = "Uuohan"
+					welsh = "Guofan"
+					irish = "Bàile Ghobhainn"
+				}
+				b_bothwell = {
+					pictish = "Mamuanon"
+					welsh = "Mamffynnon"
+					irish = "Tobar na Màthar"
+				}
+				b_lesmahagow = {
+					pictish = "Lanmahau"
+					welsh = "Llanmahagw"
+					irish = "Lios MoChuda"
+				}
+				b_dumbarton = {
+					pictish = "Alcluit"
+					welsh = "Alt Clut"
+					irish = "Dùn Breatainn"
+				}
+			}
+			c_carrick = {
+				color={ 50 185 243 }
+				color2={ 255 255 255 }
+
+				# Vindogara # also rendered 'Vindotara'
+				
+				pictish = "Ueron"
+				welsh = "Aeron"
+				irish = "A' Charraig"
+				
+				b_turnberry = {
+					pictish = "Dun Ueron"
+					welsh = "Din Aeron"
+					irish = "Dùn Àir"
+				}
+				b_dunure = {
+					pictish = "Dunauen"
+					welsh = "Din Ywen"
+					irish = "Dùn Iùbhair"
+				}
+				b_maybole = {
+					pictish = "Maescanatan"
+					welsh = "Y Maes Ynfytyn"
+					irish = "Am Magh Baoghail"
+				}
+				b_crossraguel = {
+					pictish = "Crosc Ruagal"
+					welsh = "Croes Rhygal"
+					irish = "Crois Riagal"
+				}
+				b_loch_doon = {
+					scottish = "Balloch"
+					pictish = "Landun"
+					welsh = "Llyndin"
+					irish = "Loch Dhùin"
+				}
+				b_ballantrae = {
+					pictish = "Tretrah"
+					welsh = "Traethtref"
+					irish = "Baile na Tràgha"
+				}
+				b_culzean = {
+					pictish = "Pinaglan"
+					welsh = "Pennyglyn"
+					irish = "Ceann na Gleann"
+				}
+				b_greenan = {
+					pictish = "Abereron"
+					welsh = "Aberaeron"
+					irish = "Inbhir Àir"
+				}
+			}
+		}
+		d_leudonia = {
+			color = { 215 208 204 }
+			color2={ 255 255 255 }
+			
+			capital = 48 # Lothian
+			
+			pictish = "Lut"
+			welsh = "Gododdin" # Guotodin for Old Welsh??
+			irish = "Labhdaidh"
+			
+			roman = Votadinia
+			graeci = Votadinia
+			greek = Votadinia
+			# the Vulgar Latin provincial cultures use the vulgar nameform
+			
+			saxon = Loþen
+			old_saxon = Loþen
+			
+			c_lothian = {
+				color = { 203 182 171 }
+				color2={ 255 255 255 }
+
+				# Leudonia
+				
+				pictish = "Lut"
+				welsh = "Lleuddiniawn"
+				irish = "Labhdaidh"
+				
+				saxon = Loþen
+				old_saxon = Loþen
+	
+				b_edinburgh = {
+					# Rumabo # Cramond Roman Fort
+
+					pictish = "Dun Eidan"
+					welsh = "Din Eidyn"
+					irish = "Dùn Eideann"
+
+					saxon = Edinburh
+					old_saxon = Edinburh
+				}
+				b_stirling = {
+					pictish = "Iutheu"
+					welsh = "Iuddeu"
+					irish = "Sruighlea"
+					
+					saxon = Striuelin
+					old_saxon = Striuelin
+				}
+				b_abercorn = {
+					pictish = "Abercarn"
+					welsh = "Abercarnedd"
+					irish = "Obar Chùirnidh"
+
+					saxon = Aeburcurnig
+					old_saxon = Aeburcurnig
+				}
+				b_linlithgow = {
+					pictish = "Glanaluu"
+					welsh = "Glynallwedd"
+					irish = "Gleann Iucha"
+				}
+				b_falkirk = {
+					# Curia # actually Traprain Law
+
+					pictish = "Dun Pelydr"
+					welsh = "Din Pelydr"
+					irish = "Dun Pelydr"
+				}
+				b_stow_of_wedale = {
+					pictish = "Gallath"
+					welsh = "Galladd"
+					irish = "An Geal Àth"
+				}
+				b_leith = {
+					pictish = "Aberlath"
+					welsh = "Aberlydd"
+					irish = "Inverlìte"
+				}
+				b_torphichen = {
+					pictish = "Trehechan"
+					welsh = "Treffechan"
+					irish = "Tóir Féichín"
+				}
+			}
+			c_dunbar = {
+				color = { 174 159 151 }
+				color2={ 255 255 255 }
+
+				# Votadina
+				
+				pictish = "Utudina"
+				welsh = "Guotodin"
+				irish = "Dùn Bár"
+	
+				b_dunbar = {
+					pictish = "Dun Ber"
+					welsh = "Din Baer"
+					irish = "Dùn Bár"
+				}
+				b_berwick = {
+					pictish = "Caer Brinech"
+					welsh = "Caer Bryneich"
+					irish = "Bearaig"
+				}
+				b_thirlestane = {
+					pictish = "Lauuether"
+					welsh = "Lauwedder"
+					irish = "Labhdar"
+				}
+				b_tyninghame = {
+					pictish = "Pisctaltreh"
+					welsh = "Pistylltref"
+					irish = "Linnebaile"
+				}
+				b_gordon = {
+					pictish = "Gor Dun"
+					welsh = "Gor Din"
+					irish = "Gòr Dùn"
+				}
+				b_huntly = {
+					pictish = "Istrad Bach"
+					welsh = "Ystrath Bach"
+					irish = "Srath Bhalgaidh"
+				}
+				b_coldingham = {
+					pictish = "Lanbrin"
+					welsh = "Llanbryn"
+					irish = "Cillecnoc"
+				}
+				b_crichton = {
+					pictish = "Finuultreh"
+					welsh = "Ffinioltref"
+					irish = "Criochdún"
+				}
+			}
+		}
+		d_the_isles = {
+			color={ 10 48 243 }
+			color2={ 255 255 255 }
+
+			capital = 54 # Isle of Man
+			
+			welsh = Manaw
+			norse = "Mön"
+			pictish = "Manu"
+			irish = "Mhannin"
+
+			roman = Maenavia
+			graeci = Maenavia
+			greek = Monarina
+			gallo_roman = Maenavia
+			hispano_roman = Maenavia
+			mauro_roman = Maenavia
+			pannonian = Maenavia
+			romano_british = Maenavia
+			
+			c_isle_of_man = {
+				color={ 25 65 243 }
+				color2={ 255 255 255 }
+
+				norse = "Mön"
+				pictish = "Insee Manu"
+				welsh = "Ynys Manaw"
+				irish = "Ellan Mhannin"
+
+				roman = Maenavia
+				graeci = Maenavia
+				greek = Monarina
+				gallo_roman = Maenavia
+				hispano_roman = Maenavia
+				mauro_roman = Maenavia
+				pannonian = Maenavia
+				romano_british = Maenavia
+				
+				b_peel = {
+					norwegian = "Pålø"
+					danish = "Pålø"
+					swedish = "Pålø"
+					norse = "Pålø"
+					pictish = "Pirtinsee"
+					welsh = "Porth Ynys"
+					irish = "Purt ny h-Inshey"
+				}
+				b_rushen = {
+					pictish = "Resan"
+					welsh = "Resyn"
+					irish = "Rosien"
+				}
+				b_maughold = {
+					pictish = "Mauugan"
+					welsh = "Mawgan Sant"
+					irish = "Macaille"
+				}
+				b_douglas = {
+					pictish = "Duunglasc"
+					welsh = "Duonglassafon"
+					irish = "Duboglassio"
+				}
+				b_kirk_michael = {
+					pictish = "Icluasc Mihagal"
+					welsh = "Eglwys Mihangel"
+					irish = "Cill Micheál"
+				}
+				b_sulby = {
+					pictish = "Drauuglan"
+					welsh = "Drywglyn"
+					irish = "Druígleann"
+					norwegian = "Sõlabyr"
+					danish = "Sõlabyr"
+					swedish = "Sõlabyr"
+				}
+				b_inis_patraic = {
+					pictish = "Inees Pedric"
+					welsh = "Ynys Padric"
+					irish = "Inis Pátraic"
+				}
+				b_laxey = {
+					pictish = "Ahonugad"
+					welsh = "Afoneogiaid"
+					irish = "Uisge Bradán"
+				}
+			}
+		}
+	}
+	k_cambria = {
+		color={ 117 127 174 }
+		color2={ 255 255 255 }
+		
+		capital = 64 # Gwynedd
+		
+		culture = welsh
+		
+		welsh = "Cymru"
+		pictish = "Brythoniaid"
+		irish = "Bhreatain Bheag"
+
+		saxon = "Wealas"
+		old_saxon = "Wealas"
+
+		d_dumnonia = {
+			color = { 155 56 0 }
+			color2= { 255 255 255 }
+
+			capital = 31 # Cornwall
+
+			welsh = Dyfneint
+
+			saxon = Cornweal
+			old_saxon = Cornweal
+			
+			c_cornwall = {
+				color={ 150 40 15 }
+				color2={ 255 255 255 }
+
+				# Cornubia
+
+				welsh = Cernyw
+
+				saxon = Cornweal
+				old_saxon = Cornweal
+				
+				b_bodmin = {
+					# Statio Deventiasteno # actually Nanstallo
+				}
+				b_launceston = {
+					# Sillinae # actually the Isles of Scilly
+
+					welsh = Syllan
+				}
+				b_st_germans = {
+					# Sanctus Germanus
+
+					welsh = Lannaled
+				}
+				b_truro = {
+					# Triverium
+
+					welsh = Truru
+				}
+				b_liskeard = {
+					welsh = Lyskerrys
+				}
+				b_tintagel = {
+					# Tagelldunum # totally speculative on my part
+
+					welsh = "Din Tagell"
+					irish = "Dun Tagell"
+					pictish = "Dun Tagell"
+				}
+				b_st_michael = {
+					# Sanctus Michael
+				}
+				b_restormel = {
+					welsh = Rostorrmel
+				}
+			}
+			c_devon = {
+				color={ 135 35 25 }
+				color2={ 255 255 255 }
+
+				# Dumnonia
+
+				welsh = Dyfnaint
+
+				saxon = Defenascir
+				old_saxon = Defenascir
+				
+				b_lydford = {
+					# Heracleus
+				}
+				b_exeter = {
+					# Isca
+
+					roman = "Isca Dumnoniorum"
+					graeci = "Isca Dumnoniorum"
+
+					welsh = "Cair Pensa"
+
+					saxon = Escanceaster
+					old_saxon = Escanceaster
+				}
+				b_crediton = {
+					# Cridia
+				}
+				b_totnes = {
+					# Nemetostatio # actually North Tawton
+				}
+				b_axminster = {
+					# Moridunum
+				}
+				b_tavistock = {
+					# Hellenis
+				}
+				b_buckfast = {
+					# Buffestra
+				}
+				b_dartmouth = {
+					# Darant
+				}
+			}
+			c_somerset = {
+				color={ 241 30 75 }
+				color2={ 255 255 255 }
+
+				# Badonicus
+
+				welsh = "Glastenning"
+
+				saxon = Sumoraete
+				old_saxon = Sumortunaete
+				
+				b_bath = {
+					# Badonicus
+
+					roman = "Aquae Sulis"
+
+					welsh = Baddan
+
+					saxon = Badanceaster
+					old_saxon = Badanceaster
+				}
+				b_wells = {
+					# Fontanetum
+				}
+				b_ilchester = {
+					# Lindinis
+
+					welsh = "Caerpensa"
+				}
+				b_taunton = {
+					# Uxella # possibly Bridgewater?
+
+					saxon = Brycg
+					old_saxon = Brycg
+				}
+				b_muchelney = {
+					# Ischalis (maybe Chaterhouse, maybe Bawdrip????)
+				}
+				b_castle_cary = {
+					# Vicus # Wick. I'm just taking a shot in the dark about its etymology.
+
+					saxon = Wic
+					old_saxon = Wik
+				}
+				b_glastonbury = {
+					# Glastenic
+
+					welsh = "Ynys Witrin"
+
+					saxon = Glestingaburg
+					old_saxon = Glestingaburg
+				}
+				b_cleeve = {
+					# Fossa # actually the Fosse Way
+				}
+			}
+		}
+		d_venedotia = {
+			color={ 180 63 106 }
+			color2={ 255 255 255 }
+			
+			capital = 64 # Gwynedd
+
+			welsh = Gwynedd
+			
+			c_gwynedd = {
+				color={ 199 92 133 }
+				color2={ 255 255 255 }
+
+				# Venedotia
+
+				welsh = Gwynedd
+				
+				b_caernarfon = {
+					# Segontium
+
+					welsh = "Caer Segeint"
+				}
+				b_degannwy = {
+					# Decantouion # I CANT FIGURE OUT THE ACTUAL LATIN FORM INSTEAD OF THIS RECONSTRUCTED BRITTONIC HELP
+							      # IS IT DECANTAIUM???
+
+					welsh = Deganwy
+				}
+				b_bangor_fawr = {
+					# Bangor
+				}
+				b_aberffraw = {
+					# Mona
+
+					norwegian = Ongullsøy
+					saxon = Anglesey
+
+					irish = Môn
+					welsh = Aberffro
+				}
+				b_harlech = {
+					# Harlech
+				}
+				b_cardigan = {
+					# Loventium # actually Llanio
+
+					welsh = Llanio
+				}
+				b_conwy = {
+					# Conovium # technically Caerhun, just a little inland from Conwy proper I think.
+
+					welsh = Conwy
+				}
+				b_llanbadarn = {
+					# Bremia # a fort near Llanio
+				}
+			}
+			c_perfeddwlad = {
+				color={ 158 58 114 }
+				color2={ 255 255 255 }
+
+				# Decianglia
+
+				welsh =  Tegeingl
+				
+				b_denbigh = {
+					# Dinbych # proper Welsh form. 
+				}
+				b_rhuddlan = {
+				}
+				b_llanelwy = {
+				}
+				b_flint = {
+					# Varis # actually St. Asaph in Flintshire
+				}
+				b_ruthin = {
+					# Rhuthun # proper Welsh form.
+				}
+				b_basingwerk = {
+				}
+				b_ewloe = {
+					# Ewlo # proper Welsh form
+				}
+				b_hawarden = {
+					# Pen-y-Llwch # old Welsh form
+				}
+			}
+		}
+		d_pagensis = {
+			color={ 181 184 160 }
+			color2={ 255 255 255 }
+
+			welsh = Powys
+				
+			capital = 66 # Shrewsbury
+
+			c_powys = {
+				color={ 189 190 154 }
+				color2={ 255 255 255 }
+
+				# Pagenses
+
+				welsh = Powys
+				
+				b_caersws = {
+					# Mediolanum
+				}
+				b_mathrafal = {
+				}
+				b_llangollen = {
+				}
+				b_llandinam = {
+				}
+				b_glascwm = {
+				}
+				b_radnor = {
+					# Pencraig # proper Welsh form
+				}
+				b_montgomery = {
+					# Trefaldwyn # proper Welsh form
+				}
+				b_rhayader = {
+					# Lavobrinta # actually Forden Gaer in Powys
+				}
+			}
+			c_shrewsbury = {
+				color={ 166 169 139 }
+				color2={ 255 255 255 }
+
+				# Viroconium
+				
+				welsh = Pengwern
+			
+				b_shrewsbury = {
+					# Viroconium
+
+					welsh = "Cair Guricon"
+				}
+				b_clun = {
+					# Colunwy # old Welsh name
+				}
+				b_wenlock = {
+					# Bravonium # actually Leintwardine
+				}
+				b_ludlow = {
+					# Branogenium # actually a Roman fort just a quarter-mile south of Leintwardine
+				}
+				b_whitchurch = {
+					# Mediolanum # yes, this is another place named that
+				}
+				b_bridgnorth = {
+					# Rutunium # possibly Harcourt Mill
+				}
+				b_oswestry = {
+					# Caer Ogyrfan # old poetic Welsh name
+				}
+				b_chirk = {
+					# Y Waun # old Welsh name just meaning 'The Moor'
+				}
+			}
+			c_hereford = {
+				color={ 147 150 103 }
+				color2={ 255 255 255 }
+
+				# Ariconium
+				
+				welsh = Ergyng
+			
+				b_st_ethelberts = {
+					# Magnis # actually Kenchester
+				}
+				b_hereford = {
+					# Ariconium
+
+					welsh = "Din Aricon"
+				}
+				b_leominster = {
+					# Llanllieni # welsh name for the town
+				}
+				b_archenfield = {
+					# Dubriciacum # making shit up
+				}
+				b_ewyas_harold = {
+					# Munus # Latin name for the River Monnow
+
+					welsh = Mynwy
+				}
+				b_ledbury = {
+					# Vaga # Latin name for the River Wye in Herefordshire
+
+					welsh = Gwy
+				}
+				b_clifford = {
+					# Scoriae # literally just means 'ash heap'
+				}
+				b_brobury = {
+					# Cunobelinacum # making shit up
+				}
+			}
+		}
+		d_demetia = {
+			color={ 125 51 3 }
+			color2={ 255 255 255 }
+			
+			capital = 18 # Dyfed
+			
+			c_dyfed = {
+				color={ 155 75 5 }
+				color2={ 255 255 255 }
+				
+				# Demetia
+				
+				welsh = Dyfed
+			
+				b_carmarthen = {
+					# Moridunum
+					
+					welsh = "Cair Guorthigirn"
+				}
+				b_dinefwr = {
+				}
+				b_st_davids = {
+					# Meneva
+					
+					welsh = Mynyw
+					norwegian = "Ramsøy"
+				}
+				b_kidwelly = {
+					# Cetgueli
+				
+					welsh = Cydweli
+				}
+				b_llandeilo = {
+					# Alabum # actually Llanfair-ar-y-bryn in Llandovery in Carmarthenshire
+				}
+				b_pembroke = {
+					# Penfro
+				}
+				b_narberth = {
+					# Arberth
+				}
+				b_haverford = {
+					# Luentinum # actually possibly Pumsaint
+				}
+			}
+			c_glamorgan = {
+				color={ 155 120 15 }
+				color2={ 255 255 255 }
+				
+				# Tamium
+				
+				welsh = Glywysing
+			
+				b_cardiff = {
+					# Tamium
+				}
+				b_neath = {
+					# Nidum
+				}
+				b_llandaff = {
+					# Llandaf
+				}
+				b_caerphilly = {
+					# Castra Philadelphia # a wild guess/joke on my part, based only on how "Philly" in American English is slang for Philadelphia, Pennsylvania.
+					
+					welsh = "Caerffili"
+				}
+				b_swansea = {
+					# Aper Tyui # older form of the welsh name as attested in 1150
+				}
+				b_loughor = {
+					# Leucarum
+				}
+				b_margam = {
+					# Hildutacum # St. Illtud founded a church in Llantwit, a place that had been near the site of a Roman fort (Caermead). 'Illtud' in Latin is 'Hildutus'.
+				}
+				b_ogmore = {
+					# Bovium # actually Cowbridge
+					
+					welsh = "Y Bont-faen"
+				}
+			}
+			c_gwent = {
+				color={ 160 75 5 }
+				color2={ 255 255 255 }
+				
+				# Siluria
+				
+				romano_british = Guenta
+				welsh = Guent
+			
+				b_caerwent = {
+					# Venta Silurum
+					
+					romano_british = "Castra Venta"
+					welsh = "Caer Guent"
+				}
+				b_chepstow = {
+					# Ystraigyl
+				}
+				b_abergavenny = {
+					# Gobannium
+					
+					welsh = "Gafenni"
+				}
+				b_monmouth = {
+					# Blestium
+					
+					welsh = Abermynwy
+				}
+				b_caerleon = {
+					# Isca
+					
+					roman = "Isca Augusta"
+					graeci = "Isca Augusta"
+					
+					welsh = "Caerllion"
+				}
+				b_newport = {
+					# Burrium # actually Usk
+				}
+				b_brecon = {
+					# Brocanacum # guessing a Latinization
+					
+					welsh = Brycheiniog
+				}
+				b_tintern = {
+					# Dinteryn # speculative Old Welsh
+				}
+			}
+		}
+	}
+
+	k_albion = {
+		color={ 199 175 12 }
+		color2={ 255 255 255 }
+		
+		capital = 43 #Gowrie
+		
+		culture = pictish
+		
+		catholic = 300 # Crusade target weight
+		norse_pagan_reformed = 200 # Crusade target weight
+		
+		norse = Skotland
+		welsh = Alban
+		irish = Alba
+		breton = Alba
+		pictish = Pictavia
+
+		roman = Caledonia
+		graeci = Caledonia
+		gallo_roman = Caledonia
+		hispano_roman = Caledonia
+		romano_british = Albion
+		mauro_roman = Caledonia
+		pannonian = Caledonian
+		
+		d_hebudes = {
+			color = { 141 209 73 }
+			color2 = { 255 255 255 }
+			capital = 35 # Inse Gall
+			
+			norwegian = "Søreyar"
+			danish = "Søreyar"
+			swedish = "Söröarna"
+			norse = "Suðreyjar"
+			pictish = "Insee Hilth"
+			welsh = "Ynysoedd Heledd"
+			irish = "Dál Riata"
+			
+			c_innse_gall = {
+				color={ 20 60 243 }
+				color2={ 255 255 255 }
+				
+				norwegian = "Søreyar"
+				danish = "Søreyar"
+				swedish = "Söröarna"
+				norse = "Suðreyjar"
+				pictish = "Carnonac"
+				welsh = "Ynysoedd Heledd"
+				irish = "Innse Gall"
+				scottish = "Innse Gall"
+				
+				b_snizort = {
+					pictish = "Lantalarc"
+					welsh = "Llantalarican"
+					irish = "Cill Targhlain"
+				}
+				b_finlaggan = {
+					pictish = "Inseepirt"
+					welsh = "Ynysporth"
+					irish = "Port an Eilein"
+				}
+				b_iona = {
+					pictish = "Auenle"
+					welsh = "Ywenlle"
+					irish = "Ì Chaluim Chille"
+				}
+				b_stornoway = {
+					norwegian = "Stornavåg"
+					danish = "Stornavik"
+					swedish = "Stornavik"
+					norse = "Stornavik"
+					pictish = "Laueube"
+					welsh = "Llywiobae"
+					irish = "Steòrnabhagh"
+				}
+				b_laggan = {
+					pictish = "Nuuathuchel"
+					welsh = "Neuadduchel"
+					irish = "Àird Talla"
+				}
+				b_uig = {
+					norwegian = "Vik"
+					danish = "Vik"
+					swedish = "Vik"
+					norse = "Vik"
+					pictish = "Betret"
+					welsh = "Baetraeth"
+					irish = "Càrnais Ùige"
+				}
+				b_dunvegan = {
+					pictish = "Dun Bachain"
+					welsh = "Din Bychan"
+					irish = "Dùn Bheagain"
+				}
+				b_dunyveg = {
+					pictish = "Dun Galiuu"
+					welsh = "Din Galïau"
+					irish = "Dùn Naomhaig"
+				}
+			}
+			c_argyll = {
+				color={ 15 150 240 }
+				color2={ 255 255 255 }
+				
+				# Epidia
+				
+				pictish = "Ebithan"
+				welsh = "Epiddant"
+				irish = "Airer Goídel"
+				
+				b_st_moluag = {
+					# Rauatonium
+					
+					irish = "Ceann mu Dheas"
+				}
+				b_dunollie = {
+					pictish = "Dun Ugastel"
+					welsh = "Din Ogystal"
+					irish = " Dùn Ollaigh"
+				}
+				b_loch_awe = {
+					pictish = "Lanahon"
+					welsh = "Llynafon"
+					irish = "Loch Obha"
+				}
+				b_sween = {
+					pictish = "Caer Sauunae"
+					welsh = "Caer Sywny"
+					irish = "Dùn Suibhne"
+				}
+				b_dunstaffnage = {
+					pictish = "Dun Stapan"
+					welsh = "Din Staffpentir"
+					irish = "Dùn Stafhainis"
+				}
+				b_ardchattan = {
+					pictish = "Uchdarcathan"
+					welsh = "Uchdercaddan"
+				}
+				b_kilmun = {
+					pictish = "Caer Muun"
+					welsh = "Caer Munn"
+					irish = "Cill Mhunna"
+				}
+				b_inverary = {
+					pictish = "Aberera"
+					welsh = "Aberaera"
+					irish = "Inbhir Aora"
+				}
+				b_argh = {
+				}
+			}
+		}
+		d_tava = {
+			color={ 113 78 160 }
+			color2={ 255 255 255 }
+			
+			capital = 43 # Gowrie
+			
+			pictish = "Alban"
+			welsh = "Alban"
+			irish = "Albanigh"
+			
+			c_gowrie = {
+				color={ 23 87 162 }
+				color2={ 255 255 255 }
+				
+				# Horrea
+				
+				pictish = "Circinn"
+				welsh = "Caer Cinn"
+				irish = "Gobharaidh"
+				
+				b_scone = {
+					pictish = "Sguun"
+					welsh = "Sgon"
+					irish = "Sgoinde"
+				}
+				b_dunkeld = {
+					pictish = "Dun Celadon"
+					welsh = "Din Celyddon"
+					irish = "Dùn Chailleann"
+				}
+				b_perth = {
+					# Pinnatis
+				}
+				b_forteviot = {
+					pictish = "Nan Aruadocet"
+					welsh = "Nant Arwyddocâd"
+					irish = "Fothair Tabhaicht"
+				}
+				b_dundee = {
+					# Horrea
+				
+					pictish = "Orrea"
+					welsh = "Dindân"
+					irish = "Dùn Dèagh"
+					
+					roman = "Horrea Classis"
+					graeci = "Horrea Classis"
+					gallo_roman = "Horrea Classis"
+					romano_british = "Horrea"
+					hispano_roman = "Horrea Classis"
+					pannonian = "Horrea Classis"
+					mauro_roman = "Horrea Classis"
+				}
+				b_abernethy = {
+					pictish = "Aber Naiton"
+					welsh = "Aber Neithon"
+					irish = "Obar Neithich"
+				}
+				b_clunie = {
+					pictish = "Luned"
+					welsh = "Llynaedd"
+					irish = "Cluainidh"
+				}
+				b_errol = {
+					pictish = "Landafan"
+					welsh = "Llandyffryn"
+					irish = "Lannfothir"
+				}
+			}
+			c_fife = {
+				color={ 20 80 152 }
+				color2={ 255 255 255 }
+				
+				pictish = "Fib"
+				welsh = "Gwidd"
+				irish = "Fìobha"
+				
+				b_dunfermline = {
+					pictish = "Dunfurlan"
+					welsh = "Dinfirllyn"
+					irish = "Dùn Phàrlain"
+				}
+				b_cupar = {
+					pictish = "Cafredun"
+					welsh = "Cyffredin"
+					irish = "Compàirt"
+				}
+				b_st_andrews = {
+					pictish = "Pinbed"
+					welsh = "Pennbaedd"
+					irish = "Cill Rígmonaid"
+				}
+				b_kirkcaldy = {
+					pictish = "Caercaled"
+					welsh = "Caer Caledin"
+					irish = "Cair Chaladain"
+				}
+				b_kinross = {
+					pictish = "Pinhadlen"
+					welsh = "Pennhadllin"
+					irish = "Ceann Rois"
+				}
+				b_leuchars = {
+					pictish = "Luchar"
+					welsh = "Brwyn"
+					irish = "Luachar"
+				}
+				b_lochore = {
+					pictish = "Laner"
+					welsh = "Llynaer"
+					irish = "Locháir"
+				}
+				b_falkland = {
+					pictish = "Maluen"
+					welsh = "Malfin"
+					irish = "Fháclainne"
+				}
+			}
+			c_strathearn = {
+				color={ 15 66 145 }
+				color2={ 255 255 255 }
+				
+				pictish = "Uuanun"
+				welsh = "Ystrad Iwerddon"
+				irish = "Srath Èireann"
+				
+				b_crieff = {
+					pictish = "Coiden"
+					welsh = "Coeden"
+					irish = "Craoibh"
+				}
+				b_dunblane = {
+					pictish = "Dul Blaan"
+					welsh = "Dinblyne"
+					irish = "Dùn Bhlàthain"
+				}
+				b_tullibardine = {
+					pictish = "Duunrud"
+					welsh = "Duonrhyd"
+					irish = "Dubhàth"
+				}
+				b_auchterarder = {
+					pictish = "Uchel"
+					welsh = "Hufenaruchel"
+					irish = "Uachdar Ardair"
+				}
+				b_madderty = {
+					pictish = "Pintu"
+					welsh = "Penndu"
+					irish = "Ceanndubh"
+				}
+				b_doune = {
+					pictish = "I Dun"
+					welsh = "Y Din"
+					irish = "An Dùn"
+				}
+				b_inchaffray = {
+					pictish = "Insee Ufirin"
+					welsh = "Ynys Offeren"
+					irish = "Innis Oifrend"
+				}
+				b_kenmore = {
+					pictish = "Bilauc"
+					welsh = "Belauc"
+					irish = "Bealach"
+				}
+			}
+			c_atholl = {
+				color={ 30 95 172 }
+				color2={ 255 255 255 }
+				
+				# Mons Graupius
+
+				irish = "Athfhotla"
+				
+				b_blair_atholl = {
+					# Blàr Ath Fhodla
+
+					pictish = "Athfocla"
+					welsh = "Brwydr Focla"
+					irish = "Blàr Athfhotla"
+				}
+				b_glen_dochart = {
+					pictish = "Lanuan"
+					welsh = "Llangwyn"
+					irish = "Cillefhinn"
+				}
+				b_pitlochry = {
+					pictish = "Moulin"
+					welsh = "Porth Craig"
+					irish = "Mhaothlinne"
+				}
+				b_fortingall = {
+					pictish = "Iuenlan"
+					welsh = "Ywenllan"
+					irish = "Iubharcille"
+				}
+				b_grandtully = {
+					pictish = "Uuag"
+					welsh = "Gwag y Rhwdfa"
+					irish = "Lag an Ratha"
+				}
+				b_rannoch = {
+					pictish = "Redan"
+					welsh = "Rhedyn"
+					irish = "Raineach"
+				}
+				b_strathardle = {
+					pictish = "Istrad Ardle"
+					welsh = "Ystrad Aerdôl"
+					irish = "Strath Àrdail"
+				}
+				b_struan = {
+					pictish = "Aberfel"
+					welsh = "Aberfelly"
+					irish = "Obar Pheallaidh"
+				}
+				b_anthrachs = {
+				}
+			}
+		}
+		d_verturio = {
+			color={ 227 72 64 }
+			color2={ 255 255 255 }
+			
+			capital = 40 # Moray
+			
+			pictish = "Fortriu"
+			welsh = "Gwrturio"
+			irish = "Muireb"
+			
+			c_moray = {
+				color={ 20 85 243 }
+				color2={ 255 255 255 }
+				
+				# Tuesis
+				
+				pictish = "Fortriu"
+				welsh = "Gwrturio"
+				irish = "Muireb"
+				
+				b_forres = {
+					pictish = "Uerris"
+					welsh = "Gwerrys"
+					irish = "Farrais"
+				}
+				b_cawdor = {
+					pictish = "Caerdurn"
+					welsh = "Caerdwrn"
+					irish = "Caladar"
+				}
+				b_elgin = {
+					pictish = "Eruan"
+					welsh = "Aergwyn"
+					irish = "Ailgin"
+				}
+				b_nairn = {
+					pictish = "Abernard"
+					welsh = "Abernard"
+					irish = "Inbhir Narann"
+				}
+				b_inverness = {
+					pictish = "Abernis"
+					welsh = "Abernis"
+					irish = "Inbhir Nis"
+				}
+				b_lochindorb = {
+					pictish = "Lansildod"
+					welsh = "Llyn y Sildod"
+					irish = "Loch nan Doirb"
+				}
+				b_kinloss = {
+					pictish = "Canalosc"
+					welsh = "Cynyddullosg"
+					irish = "Cinnlois"
+				}
+				b_urquhart = {
+					pictish = "Urcarthen"
+					welsh = "Aercardden"
+					irish = "Airdchartdan"
+				}
+			}
+			c_ross = {
+				color={ 15 55 243 }
+				color2={ 255 255 255 }
+				
+				pictish = "Fidach"
+				welsh = "Gwidauc"
+				irish = "Ros"
+				
+				b_applecross = {
+					pictish = "Aporcrosan"
+					welsh = "Aporcrosan"
+					irish = "Obar Crosain"
+				}
+				b_dingwall = {
+					norwegian = "Tingvall"
+					danish = "Tingvall"
+					swedish = "Tingvall"
+					norse = "Tingvall"
+					pictish = "Aberpis"
+					welsh = "Aberpeffry"
+					irish = "Inbhir Pheofharain"
+				}
+				b_rosemarkie = {
+					pictish = "Rosanmairch"
+					welsh = "Rhosan Meirchnant"
+					irish = "Ros Mhaircnidh"
+				}
+				b_fortrose = {
+					pictish = "Caerrosan"
+					welsh = "Caerrhosan"
+					irish = "Dùnrois"
+				}
+				b_fearn = {
+					pictish = "Manech Rasan"
+					welsh = "Mynachdy Rhosan"
+					irish = "Manachainn Rois"
+				}
+				b_tain = {
+					welsh = "Duthactref"
+					irish = "Baile Dubhthaich"
+				}
+				b_cromarty = {
+					pictish = "Crucabachu"
+					welsh = "Crwcabachwy"
+					irish = "Crombati"
+				}
+				b_avoch = {
+					pictish = "Aberauc"
+					welsh = "Aberauc"
+					irish = "Abhach"
+				}
+			}
+			c_buchan = {
+				color={ 40 227 250 }
+				color2={ 255 255 255 }
+
+				# Devana
+
+				saxon = Buchan
+				
+				pictish = "Ce"
+				welsh = "Cai"
+				irish = "Beanaomh"
+				
+				b_aberdeen = {
+					# Devana
+
+					saxon = Aiberdeen # actually just Scots
+
+					welsh = "Aberdwyafon"
+					irish = "Obar Dabhuin"
+				}
+				b_banff = {
+					pictish = "Banaugluas"
+					welsh = "Benywglwys"
+					irish = "Beanaomh"
+				}
+				b_deer = {
+					pictish = "Ceiru"
+					welsh = "Ceirw"
+					irish = "Fiadh"
+				}
+				b_kintore = {
+					pictish = "Pintar"
+					welsh = "Penntyrau"
+					irish = "Ceann Tòrr"
+				}
+				b_inverurie = {
+					pictish = "Aberury"
+					welsh = "Aberury"
+					irish = "Inbhir Uraidh"
+				}
+				b_fyvie = {
+					pictish = "Carubran"
+					welsh = "Carwbryn"
+					irish = "Fiachein"
+				}
+				b_ellon = {
+					pictish = "Inseeol"
+					welsh = "Ynysol"
+					irish = "Eilean"
+				}
+				b_st_machar = {
+					pictish = "Mabaur"
+					welsh = "Mabfawr Sant"
+					irish = "Naomh Machar"
+				}
+			}
+			c_caithness = {
+				color={ 30 95 243 }
+				color2={ 255 255 255 }
+				
+				# Cornavia
+				
+				norwegian = "Katanes"
+				danish = "Katanæs"
+				swedish = "Katanäs"
+				norse = "Katanæs"
+				pictish = "Cait"
+				welsh = "Caitnys"
+				irish = "Cataibh"
+				
+				b_wick = {
+					norwegian = "Vik"
+					danish = "Vik"
+					swedish = "Vik"
+					norse = "Vik"
+					pictish = "Aberbachuu"
+					welsh = "Aberbachwy"
+					irish = "Inbhir Ùige"
+				}
+				b_dunbeath = {
+					pictish = "Dunbathac"
+					welsh = "Dinbyddag"
+					irish = "Dùn Beithe"
+				}
+				b_dornoch = {
+					pictish = "Dirnfeth"
+					welsh = "Dyrnfedd"
+					irish = "Dòrnach"
+				}
+				b_thurso = {
+					swedish = "Tjurså"
+					danish = "Tyrså"
+					norwegian = "Tyrså"
+					norse = "Tyrså"
+					pictish = "Aberteuafon"
+					welsh = "Abertaewafon"
+					irish = "Inbhir Tarbhainn"
+				}
+				b_dunrobin = {
+					pictish = "Dunrubert"
+					welsh = "Dinraibeart"
+					irish = "Dùnrhobert"
+				}
+				b_freswick = {
+					swedish = "Fresvik"
+					danish = "Fresvik"
+					norwegian = "Fresvik"
+					norse = "Fresvik"
+					pictish = "Aberfauur"
+					welsh = "Aberfawr"
+					irish = "Obar Àrdair"
+				}
+				b_latheron = {
+					pictish = "Lathaeron"
+					welsh = "Lladdaeron"
+					irish = "Latharan"
+				}
+				b_golspie = {
+					pictish = "Fostreh"
+					welsh = "Ffostref"
+					irish = "Goillspidh"
+				}
+			}
+		}
+	}
+	
+	k_hibernia = {
+		color={ 6 127 2 }
+		color2={ 255 255 255 }
+		
+		capital = 11 # Dublin
+		
+		culture = irish
+		
+		catholic = 300 # Crusade target weight
+		norse_pagan_reformed = 200 # Crusade target weight
+
+		irish = Éire
+		pictish = Iuerthon
+		welsh = Iwerddon
+		
+		d_ultonia = {
+			color={ 5 222 31 }
+			color2={ 255 255 255 }
+			
+			capital = 5 # Ulster
+			
+			norwegian = Strangfjord
+			swedish = Strangfjord
+			danish = Strangfjord
+			norse = Strangfjorðr
+			irish = Ulaidh
+			
+			c_ulster = {
+				color={ 25 230 35 }
+				color2={ 255 255 255 }
+				
+				norwegian = Strangfjord
+				swedish = Strangfjord
+				danish = Strangfjord
+				norse = Strangfjorðr
+				irish = Ulaidh
+			
+				b_downpatrick = {
+					norwegian = Strangfjord
+					swedish = Strangfjord
+					danish = Strangfjord
+					norse = Strangfjorðr
+					irish = "Dún Pádraig"
+				}
+				b_dunseverick = {
+					irish = "Dún Sobhairce"
+				}
+				b_bangor = {
+					irish = "Inbhear Beg"
+				}
+				b_carrickfergus = {
+					irish = "Carraig Fhearghais"
+				}
+				b_connor = {
+					irish = "Con Doire"
+				}
+				b_dromore = {
+					irish = "Druim Mór"
+				}
+				b_larne = {
+					irish = "Latharna"
+				}
+				b_dunluce = {
+					irish = "Dún Libhse"
+				}
+			}
+			c_oriel = {
+				color={ 30 180 45 }
+				color2={ 255 255 255 }
+	
+				irish = Airgíalla
+				
+				b_clones = {
+					irish = "Cluain Eois"
+				}
+				b_armagh = {
+					irish = "Ard Mhacha"
+				}
+				b_dundalk = {
+					norwegian = Kerlingfjord
+					swedish = Kerlingfjord
+					danish = Kerlingfjord
+					norse = Kerlingfjorðr
+					irish = "Dún Dealgan"
+				}
+				b_clogher = {
+					irish = "Clochar"
+				}
+				b_drogheda = {
+					irish = "Droichead Átha"
+				}
+				b_monaghan = {
+					irish = "Muineachán"
+				}
+				b_olouth = {
+					irish = "Lúghbhaidh"
+				}
+				b_ardee = {
+					irish = "Baile Átha Fhirdhia"
+				}
+			}
+			c_tyrone = {
+				color={ 66 157 22 }
+				color2={ 255 255 255 }
+				
+				irish = "Tír Eoghain"
+	
+				b_coleraine = {
+					irish = "Cúil Rathain"
+				}
+				b_dungannon = {
+					irish = "Dún Geanainn"
+				}
+				b_aileach = {
+					irish = "Ailech"
+				}
+				b_maghera = {
+					irish = "Machaire Rátha"
+				}
+				b_derry = {
+					irish = "Daire Coluimb Chille"
+				}
+				b_omagh = {
+					irish = "An Óghmaigh"
+				}
+				b_tullyhogue = {
+					irish = "Tulaigh Óg"
+				}
+				b_dungiven = {
+					irish = "Dún Geimhin"
+				}
+			}
+			c_tyrconnell = {
+				color={ 25 190 31 }
+				color2={ 255 255 255 }
+				
+				irish = "Tír Chonaill"
+			
+				b_gartan = {
+					irish = "Gartán"
+				}
+				b_moville = {
+					irish = "Magh Bhile"
+				}
+				b_raphoe = {
+					irish = "Ráth Bhoth"
+				}
+				b_fahan = {
+					irish = "Fathain"
+				}
+				b_donegal = {
+					irish = "Dún na nGall"
+				}
+				b_ballyshannon = {
+					irish = "Béal Átha Seanaidh"
+				}
+				b_kilmacrenan = {
+					irish = "Cill Mhic nEanain"
+				}
+				b_ballymacswiney = {
+					irish = "Baile Mhic Suibhne"
+				}
+			}
+		}
+		d_connacht = {
+			color={ 73 229 56 }
+			color2={ 255 255 255 }
+			
+			capital = 9 # Connacht
+			
+			irish = "Connachta"
+		
+			c_breifne = {
+				color={ 40 230 65 }
+				color2={ 255 255 255 }
+				
+				irish = "Bréifne"
+	
+				b_dromahair = {
+					irish = "Droim Áth Thiar"
+				}
+				b_kilmore = {
+					irish = "Cill Mhór"
+				}
+				b_cavan = {
+					irish = "An Cabhán"
+				}
+				b_longford = {
+					irish = "An Longphort"
+				}
+				b_ardagh = {
+					irish = "Ardachadh"
+				}
+				b_leitrim = {
+					irish = "Liatroim"
+				}
+				b_drumcliffe = {
+					irish = "Droim Chliabh"
+				}
+				b_kells = {
+					irish = "Ceann Lios"
+				}
+			}
+			c_connacht = {
+				color={ 45 230 70 }
+				color2={ 255 255 255 }
+				
+				irish = "Connachta"
+	
+				b_galway = {
+					irish = "Dún Bhun na Gaillimhe"
+				}
+				b_elphin = {
+					irish = "Ail Finn"
+				}
+				b_tuam = {
+					irish = "Tuaim Dá Ghualann"
+				}
+				b_clonfert = {
+					irish = "Cluain Fearta"
+				}
+				b_roscommon = {
+					irish = "Ros Comáin"
+				}
+				b_mayo = {
+					irish = "Maigh Eó"
+				}
+				b_killala = {
+					irish = "Cill Ala"
+				}
+				b_anchory = {
+					irish = "Baile Uí Fhiacháin"
+				}
+			}
+		}
+		d_meath = {
+			color={ 49 249 72 }
+			color2={ 255 255 255 }
+			
+			capital = 11 # Dublin
+			
+			norwegian = Dublin
+			danish = Dublin
+			swedish = Dublin
+			norse = Dyflinn
+			irish = Mide
+			
+			pagan_coa = {
+				template = 0
+				layer = {
+					texture = 2
+					texture_internal = 3
+					emblem = 0
+					color = 0
+					color = 0
+					color = 0
+				}
+				religion = "norse_pagan"
+			}
+		
+			c_kildare = {
+				color={ 102 248 65 }
+				color2={ 255 255 255 }
+				
+				irish = "Cill Dara"
+	
+				b_knockaulin = {
+					irish = "Dún Ailinne"
+				}
+				b_athlone = {
+					irish = "Baile Átha Luain"
+				}
+				b_kildare = {
+					irish = "Cill Dara"
+				}
+				b_maynooth = {
+					irish = "Maigh Nuad"
+				}
+				b_st_brigit = {
+					irish = "Naomh Brigid"
+				}
+				b_rathangan = {
+					irish = "Ráth Iomgháin"
+				}
+				b_durrow = {
+					irish = "Darú"
+				}
+				b_clonard = {
+					irish = "Cluain Ioraird"
+				}
+			}
+			c_dublin = {
+				color={ 55 250 85 }
+				color2={ 255 255 255 }
+				
+				norse = Dyflinn
+				irish = Dubhlinn
+				welsh = Dulyn
+
+				holy_site = celtic_pagan
+				
+				b_dublin = {
+					norse = Dyflinn
+					irish = Dubhlinn
+					welsh = Dulyn
+				}
+				b_clondalkin = {
+				}
+				b_finglas = {
+					irish = "Fionnghlas"
+				}
+				b_wicklow = {
+					irish = "Cill Mhantáin"
+				}
+				b_ath_cliath = {
+					irish = "Baile Átha Cliath"
+				}
+				b_christ_church = {
+					irish = "Ardeaglais Chríost"
+				}
+				b_mellifont = {
+					irish = "An Mhainistir Mhór"
+				}
+				b_trim = {
+					irish = "Baile Átha Troim"
+				}
+			}
+		}
+		d_leinster = {
+			color={ 85 211 27 }
+			color2={ 255 255 255 }
+			
+			capital = 16 # Leinster
+			
+			norwegian = Veisafjord
+			swedish = Veisafjord
+			danish = Veisafjord
+			norse = Veisafjorðr
+			irish = Laigin
+			
+			c_leinster = {
+				color={ 65 210 85 }
+				color2={ 255 255 255 }
+				
+				norwegian = Veisafjord
+				swedish = Veisafjord
+				danish = Veisafjord
+				norse = Veisafjorðr
+				irish = Laigin
+	
+				b_wexford = {
+					norwegian = Veisafjord
+					swedish = Veisafjord
+					danish = Veisafjord
+					norse = Veisafjorðr
+					irish = "Loch Garman"
+				}
+				b_leighlin = {
+					irish = "Leithghlinn"
+				}
+				b_arklow = {
+					irish = "An tInbhear Mór"
+				}
+				b_carlow = {
+					irish = "Ceatharlach"
+				}
+				b_ferns = {
+					irish = "Fearna Mór Maedhóg"
+				}
+				b_glendalough = {
+					irish = "Gleann Dá Loch"
+				}
+				b_naas = {
+					irish = "Nás na Ríogh"
+				}
+				b_enniscorthy = {
+					irish = "Inis Córthaidh"
+				}
+			}
+			c_ossory = {
+				color={ 60 210 80 }
+				color2={ 255 255 255 }
+				
+				irish = "Osraige"
+		
+				b_kilkenny = {
+					irish = "Cill Chainnigh"
+				}
+				b_gowran = {
+					irish = "Gabhrán"
+				}
+				b_clonmacnoise = {
+					irish = "Cluain Mhic Nóis"
+				}
+				b_aghaboe = {
+					irish = "Achadh Bhó"
+				}
+				b_jerpoint = {
+					irish = "Sheireapúin"
+				}
+				b_callan = {
+					irish = "Callainn"
+				}
+				b_grennan = {
+					irish = "An Ghrianán"
+				}
+				b_grannagh = {
+					irish = "An Greannach"
+				}
+			}
+		}
+		d_munster = {
+			color={ 16 157 12 }
+			color2={ 255 255 255 }
+			
+			capital = 13 # Thomond
+			
+			norwegian = "Hlymrek"
+			danish = "Lymrek"
+			swedish = "Lymrek"
+			norse = "Hlymrek"
+			irish = "Mumu"
+		
+			c_thomond = {
+				color={ 90 221 111 }
+				color2={ 255 255 255 }
+				
+				norwegian = "Hlymrek"
+				danish = "Lymrek"
+				swedish = "Lymrek"
+				norse = "Hlymrek"
+				irish = "Tuadhmhumhain"
+		
+				b_limerick = {
+					norwegian = "Hlymrek"
+					danish = "Lymrek"
+					swedish = "Lymrek"
+					norse = "Hlymrek"
+					irish = "Luimneach"
+				}
+				b_bunratty = {
+					irish = "Bun na Raite"
+				}
+				b_killaloe = {
+					irish = "Cill Dálua"
+				}
+				b_emly = {
+					irish = "Imleach Iubhair"
+				}
+				b_ennis = {
+					irish = "Inis"
+				}
+				b_kilfenora = {
+					irish = "Cill Fhionnúrach"
+				}
+				b_askeaton = {
+					irish = "Eas Géitine"
+				}
+				b_adare = {
+				}
+			}
+			c_ormond = {
+				color={ 95 221 121 }
+				color2={ 255 255 255 }
+				
+				norwegian = Vedrafjord
+				swedish = Vedrafjord
+				danish = Vedrafjord
+				norse = Veðrafjorðr
+				irish = Urmhumhain
+		
+				b_waterford = {
+					norwegian = Vedrafjord
+					swedish = Vedrafjord
+					danish = Vedrafjord
+					norse = Veðrafjorðr
+					irish = "Port Láirge"
+				}
+				b_cahir = {
+					irish = "Cathair Dhún Iascaigh"
+				}
+				b_cashel = {
+					irish = "Dún Caiseal"
+				}
+				b_clonmel = {
+					irish = "Cluain Meala"
+				}
+				b_lismore = {
+					irish = "Lios Mór"
+				}
+				b_roscrea = {
+					irish = "Ros Cré"
+				}
+				b_nenagh = {
+					irish = "Aonach Urmhumhan"
+				}
+				b_fethard = {
+					irish = "Fiodh Ard"
+				}
+			}
+			c_desmond = {
+				color={ 100 221 90 }
+				color2={ 255 255 255 }
+				
+				irish = "Deasmhumhain"
+		
+				b_cork = {
+					irish = "Corcaigh"
+				}
+				b_dunasead = {
+					irish = "Dún na Séad"
+				}
+				b_ross = {
+					irish = "Ros Ó gCairbre"
+				}
+				b_youghal = {
+					irish = "Eochaill"
+				}
+				b_ardfert = {
+					irish = "Ard Fhearta"
+				}
+				b_cloyne = {
+					irish = "Cluain"
+				}
+				b_fermoy = {
+					irish = "Mainistir Fhear Maí"
+				}
+				b_blarney = {
+					irish = "An Bhlarna"
+				}
+			}
+		}
+	}
+}

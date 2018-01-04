@@ -1,0 +1,26 @@
+2424001 = {
+	name = Aphthonianus
+	culture = assyrian
+}
+
+2424002 = {
+	name = Idumaeus
+	culture = assyrian
+}
+
+2424003 = {
+	name = Kumra
+	culture = assyrian
+}
+
+2424004 = {
+	name = Gaddibol
+	culture = assyrian
+}
+
+2424005 = {
+	name = "Bar Sula"
+	culture = assyrian
+	
+	used_for_random = no
+}

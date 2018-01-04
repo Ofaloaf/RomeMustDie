@@ -6,7 +6,7 @@ title = c_hanyan
 # Settlements
 max_settlements = 2
 
-b_hanyan = castle
+b_hanyan = tribal
 
 #b_naama = city
 #b_saida = temple
@@ -18,5 +18,5 @@ b_hanyan = castle
 #b_raselma = castle
 
 # Misc
-culture = maghreb_arabic
+culture = moor
 religion = donatist

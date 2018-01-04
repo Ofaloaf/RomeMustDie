@@ -14,6 +14,5 @@ b_scarborough = city
 #b_hull = castle
 
 # Misc
-culture = welsh
+culture = romano_british
 religion = pelagian
- 

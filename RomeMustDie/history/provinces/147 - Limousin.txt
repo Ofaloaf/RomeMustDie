@@ -15,5 +15,8 @@ b_comborn = castle
 #b_ventadour = castle
 #b_chalus = castle
 
-culture = galloroman
+#Misc
 religion = nicene
+culture = gallo_roman
+
+# History

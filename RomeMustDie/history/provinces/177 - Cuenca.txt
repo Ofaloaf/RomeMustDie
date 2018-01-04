@@ -15,6 +15,6 @@ b_siguenza = temple
 #b_tarancon = city
 #b_sisante
 
-culture = iberoroman
+culture = hispano_roman
 religion = nicene
 terrain = hills

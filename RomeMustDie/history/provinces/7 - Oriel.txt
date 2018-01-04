@@ -18,5 +18,4 @@ b_armagh = temple
 
 # Misc
 culture = irish
-religion = druidic
-
+religion = nicene

@@ -16,5 +16,5 @@ b_nottingham = city
 b_newstead = temple
 
 # Misc
-culture = britto
+culture = romano_british
 religion = pelagian

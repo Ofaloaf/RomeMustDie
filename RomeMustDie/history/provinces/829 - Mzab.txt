@@ -6,7 +6,7 @@ title = c_mzab
 # Settlements
 max_settlements = 2
 
-b_mzab = castle
+b_mzab = tribal
 
 #b_noumerat = city
 #b_sebseb = temple
@@ -18,5 +18,7 @@ b_mzab = castle
 #b_elbour = castle
 
 # Misc
-culture = maghreb_arabic
+culture = moor
 religion = donatist
+
+

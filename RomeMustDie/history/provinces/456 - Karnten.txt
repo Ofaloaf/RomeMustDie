@@ -4,9 +4,9 @@
 title = c_karnten
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_villach = castle
-b_klagenfurt = city
+#b_klagenfurt = city
 b_ossiach = temple
 
 #b_laibach = city
@@ -16,5 +16,5 @@ b_ossiach = temple
 #b_pettau = castle
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene

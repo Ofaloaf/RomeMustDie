@@ -1,0 +1,130 @@
+### ROMAN IMPERIAL GOVERNMENT ###
+
+government_flavor = {
+	name = gov_roman_empire
+	graphics = GFX_evt_emissary_byzantine
+	priority = 1
+	trigger = {
+		government = roman_imperial_government
+		OR = {
+			culture_group = roman_group
+			culture_group = byzantine
+		}
+	}
+}
+
+government_flavor = {
+	name = gov_persian_empire
+	graphics = GFX_evt_imam
+	priority = 1
+	trigger = {
+		government = roman_imperial_government
+		culture_group = iranian
+	}
+}
+
+government_flavor = {
+	name = gov_barbarian_pretender
+	graphics = GFX_evt_rome_falls
+	priority = 1
+	trigger = {
+		government = roman_imperial_government
+		NOR = {
+			culture_group = roman_group
+			culture_group = byzantine
+			culture_group = iranian
+		}
+	}
+}
+
+
+### SUB-ROMAN GOVERNMENT ###
+
+government_flavor = {
+	name = gov_barbarian_kingdom
+	graphics = GFX_evt_viking_throneroom_oldgods
+	priority = 1
+	trigger = {
+		government = sub_roman_government
+		NOR = {
+			culture_group = roman_group
+			culture = welsh
+			culture = basque
+			culture = moor
+		}
+	}
+}
+
+government_flavor = {
+	name = gov_petty_tyranny
+	graphics = GFX_evt_victory_arch_byzantine
+	priority = 1
+	trigger = {
+		government = sub_roman_government
+		culture_group = roman_group
+	}
+}
+
+government_flavor = {
+	name = gov_independent_civitas
+	graphics = GFX_evt_tribal_lands
+	priority = 1
+	trigger = {
+		government = sub_roman_government
+		OR = {
+			culture = welsh
+			culture = basque
+			culture = moor
+		}
+	}
+}
+
+
+### WARLORD GOVERNMENT ###
+
+government_flavor = {
+	name = gov_heroic_realm
+	graphics = GFX_evt_viking_funeral_oldgods
+	priority = 1
+	trigger = {
+		government = warlord_government
+		OR = {
+			has_trait = brave
+			has_trait = ambitious
+		}
+	}
+}
+
+government_flavor = {
+	name = gov_barbarian_realm
+	graphics = GFX_evt_tribal_lands
+	priority = 1
+	trigger = {
+		government = warlord_government
+		NOR = {
+			has_trait = brave
+			has_trait = ambitious
+		}
+		NOR = {
+			culture_group = roman_group
+			culture_group = byzantine
+		}
+	}
+}
+
+government_flavor = {
+	name = gov_civilized_refuge
+	graphics = GFX_evt_throne_room
+	priority = 1
+	trigger = {
+		government = warlord_government
+		NOR = {
+			has_trait = brave
+			has_trait = ambitious
+		}
+		OR = {
+			culture_group = roman_group
+			culture_group = byzantine
+		}
+	}
+}

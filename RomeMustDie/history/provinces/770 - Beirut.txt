@@ -16,5 +16,5 @@ b_sidon = temple
 #b_beitkfeya = castle
 
 # Misc
-culture = assyrian
-religion = nicene
+culture = graeci
+religion = miaphysite

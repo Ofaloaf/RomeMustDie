@@ -16,5 +16,5 @@ b_crowland = temple
 #b_rockingham = castle
 
 # Misc
-culture = britto
+culture = romano_british
 religion = nicene

@@ -17,5 +17,7 @@ b_baniwaled = city
 #b_mazuzah = castle
 
 # Misc
-culture = maghreb_arabic
-religion = nicene
+culture = moor
+religion = donatist
+
+# History

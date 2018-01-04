@@ -1,0 +1,19 @@
+# 708 - Tell Bashir
+
+# County Title
+title = c_tell_bashir
+
+# Settlements
+max_settlements = 4
+b_manbij = castle
+b_turbessel = temple
+b_buzaa = city
+#b_makedonopolis = castle
+#b_jarabulus = castle
+#b_zeugma = castle
+#b_birtha = castle
+#b_nizip = castle
+
+# Misc
+culture = assyrian
+religion = nestorian

@@ -16,7 +16,7 @@ b_langonnet = temple
 #b_quimperle = city
 
 # Misc
-culture = galloroman
-religion = hellenic_pagan
+culture = romano_british
+religion = nicene
 
 # History

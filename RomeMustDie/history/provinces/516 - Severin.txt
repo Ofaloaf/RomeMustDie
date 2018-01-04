@@ -6,18 +6,18 @@ title = c_severin
 # Settlements
 max_settlements = 5
 
-b_severin = castle
+b_caracal = castle
+b_severin = city
 #b_tirgujiu = castle
 
-b_craiova = city
+#b_craiova = city
 b_ursova = temple
 
 #b_ramnic = castle
 #b_tirgujiu = castle
 #b_slatina = castle
-#b_caracal = castle
 #b_bals = castle
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene

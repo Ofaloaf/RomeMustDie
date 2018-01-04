@@ -4,8 +4,8 @@
 title = c_sijilmasa
 
 # Settlements
-max_settlements = 2
-b_sijilmasa = tribal
+max_settlements = 1
+b_sijilmasa = castle
 
 #b_merzouga = city
 #b_tanamouste = temple
@@ -16,5 +16,5 @@ b_sijilmasa = tribal
 #b_tisserdmine = castle
 
 # Misc
-culture = maghreb_arabic
+culture = moor
 religion = west_african_pagan

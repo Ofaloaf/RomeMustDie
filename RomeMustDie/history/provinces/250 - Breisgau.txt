@@ -6,6 +6,8 @@ title = c_breisgau
 # Settlements
 max_settlements = 4
 b_freiburg = tribal
+#b_offenburg = city
+b_stblasien = temple
 
 #b_zahringen = castle
 #b_lahr = castle
@@ -14,8 +16,5 @@ b_freiburg = tribal
 #b_rottweil = castle
 
 # Misc
-culture = alemannic
+culture = alemanni
 religion = norse_pagan
-
-# History
-

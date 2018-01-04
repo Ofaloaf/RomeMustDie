@@ -7,9 +7,9 @@ title = c_medjerda
 max_settlements = 5
 
 b_medjerda = castle
-#b_lekef = city
+b_lekef = city
 b_siliana = temple
-b_kasserine = city
+#b_kasserine = city
 
 #b_sidimubarak = castle
 #b_qaafur = castle
@@ -17,7 +17,8 @@ b_kasserine = city
 #b_elkrib = castle
 
 # Misc
-culture = mauri
+culture = moor
 religion = donatist
 
 # History
+

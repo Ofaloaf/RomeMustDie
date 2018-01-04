@@ -19,5 +19,5 @@ b_montbrison = city
 #b_stetienne = city
 
 # Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

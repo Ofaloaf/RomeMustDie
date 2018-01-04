@@ -16,5 +16,5 @@ b_brindas = castle
 #b_irigny = castle
 
 # Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

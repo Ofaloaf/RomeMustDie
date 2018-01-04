@@ -1,0 +1,4 @@
+469.1.1 = {
+	liege = "k_saxonia"
+	holder = 1066003
+}

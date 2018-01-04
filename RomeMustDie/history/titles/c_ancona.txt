@@ -1,6 +1,6 @@
 1.1.1 = {
-	liege = "d_picenum"
+	liege = d_umbria
 }
-473.1.1 = {
-	holder = 476012
+475.3.1 = {
+	holder = 476034
 }

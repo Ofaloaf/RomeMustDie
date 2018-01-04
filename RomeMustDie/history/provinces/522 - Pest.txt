@@ -4,7 +4,7 @@
 title = c_pest
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
 b_pest = tribal
 b_vac = temple
@@ -16,5 +16,5 @@ b_vac = temple
 #b_kiskoros = castle
 
 # Misc
-culture = gepid
-religion = norse_pagan
+culture = sarmatian
+religion = tengri_pagan

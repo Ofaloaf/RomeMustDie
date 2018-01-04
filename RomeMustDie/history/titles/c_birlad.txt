@@ -1,0 +1,4 @@
+469.1.1 = {
+	liege = e_hunnic_empire
+	holder = 453007 # Ernak
+}

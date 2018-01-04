@@ -1,0 +1,266 @@
+#Khotan
+
+166632 = {
+	name="Kirti" #Vijaya Kirti I
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	85.1.1={
+		birth=yes
+	}
+	130.1.1={
+		death=yes
+	}
+}
+166633 = {
+	name="Sangrama" #Vijaya Sangrama I "the Lion" (Fangqian)
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166632
+	102.1.1={
+		birth=yes
+	}
+	127.1.1 = {
+		give_nickname=nick_the_lion
+	}
+	132.1.1={
+		death=yes
+	}
+}
+166634 = {
+	name="Dharma" #Vijaya Dharma I (Jian)
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166633
+	122.1.1={
+		birth=yes
+	}
+	151.1.1={
+		death=yes
+	}
+}
+166635 = {
+	name="Jaya" #Vijaya Jaya I (Anguo)
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166634
+	146.1.1={
+		birth=yes
+	}
+	182.1.1={
+		death=yes
+	}
+}
+166636 = {
+	name="Shima" #Vijaya Shima I
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166635
+	161.1.1={
+		birth=yes
+	}
+	188.1.1={
+		death=yes
+	}
+}
+166637 = {
+	name="Saigrama" #Vijaya Saigrama I
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166636
+	178.1.1={
+		birth=yes
+	}
+	208.1.1={
+		death=yes
+	}
+}
+166638 = {
+	name="Andara" #Vijaya Andara I
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166637
+	195.1.1={
+		birth=yes
+	}
+	243.1.1={
+		death=yes
+	}
+}
+166639 = {
+	name="Vahana" #Vijaya Vahana I
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166638
+	213.1.1={
+		birth=yes
+	}
+	251.1.1={
+		death=yes
+	}
+}
+166640 = {
+	name="Simha" #Vijaya Simha I
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166639
+	240.1.1={
+		birth=yes
+	}
+	279.1.1={
+		death=yes
+	}
+}
+166641 = {
+	name="Sata" #Vijaya Sata I
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166640
+	262.1.1={
+		birth=yes
+	}
+	306.1.1={
+		death=yes
+	}
+}
+166642 = {
+	name="Ananta" #Vijaya Ananta I
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166641
+	287.1.1={
+		birth=yes
+	}
+	336.1.1={
+		death=yes
+	}
+}
+166643 = {
+	name="Saigrama" #Vijaya Saigrama II
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166642
+	310.1.1={
+		birth=yes
+	}
+	373.1.1={
+		death=yes
+	}
+}
+166644 = {
+	name="Dharma" #Vijaya Dharma II
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166643
+	333.1.1={
+		birth=yes
+	}
+	397.1.1={
+		death=yes
+	}
+}
+166645 = {
+	name="Sambhava" #Vijaya Sambhava I
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166644
+	360.1.1={
+		birth=yes
+	}
+	436.1.1={
+		death=yes
+	}
+}
+166646 = {
+	name="Pala" #Vijaya Pala I
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166645
+	386.1.1={
+		birth=yes
+	}
+	451.1.1={
+		death=yes
+	}
+}
+166647 = {
+	name="Amala" #Vijaya Amala I
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166646
+	432.1.1={
+		birth=yes
+	}
+	496.1.1={
+		death=yes
+	}
+}
+166648 = {
+	name="Jaya" #Vijaya Jaya II
+	dynasty=1040024
+	religion="buddhist"
+	culture="saka"
+	father=166647
+	471.1.1={
+		birth=yes
+	}
+	512.1.1={
+		death=yes
+	}
+}
+
+#Kashgar
+166690 = {
+	name="Kartir"
+	dynasty=1040057
+	religion="buddhist"
+	culture="saka"
+	425.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes
+	}
+}
+166691 = {
+	name="Lengleng"
+	dynasty=1040057
+	religion="buddhist"
+	culture="saka"
+	father=166690
+	450.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+166692 = {
+	name="Ranisa"
+	female=yes
+	dynasty=1040057
+	religion="buddhist"
+	culture="saka"
+	father=166690
+	452.1.1={
+		birth=yes
+	}
+	502.1.1={
+		death=yes
+	}
+}

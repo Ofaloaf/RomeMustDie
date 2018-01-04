@@ -15,8 +15,6 @@ b_mahon = city
 #b_ferreries = castle
 
 # Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene
 terrain = hills
-
-# History

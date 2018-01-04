@@ -1,0 +1,26 @@
+166701 = {
+	name="Bilong"
+	dynasty=1040059
+	religion="buddhist"
+	culture="tocharian"
+	420.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+166702 = {
+	name="Zhunashen"
+	# Wikipedia has a "Niruimo Zhunashen" ruling Kucha in 521. I assume that's rendered in the Chinese order, since there's some hella Chinese names alongside that.
+	dynasty=166701 # Niruimo
+	religion="buddhist"
+	culture="tocharian"
+	448.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

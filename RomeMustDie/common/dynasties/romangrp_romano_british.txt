@@ -1,0 +1,149 @@
+1589001 = {
+	name = "Hosidius"
+	culture = romano_british
+}
+
+1589002 = {
+	name = "Molmutius"
+	culture = romano_british
+}
+
+1589003 = {
+	name = "Coelianus"
+	culture = romano_british
+}
+
+1589004 = {
+	name = "Aurelianus"
+	culture = romano_british
+}
+
+1589005 = {
+	name = "Londiniensis"
+	culture = romano_british
+}
+
+1589006 = {
+	name = "Eboracensis"
+	culture = romano_british
+}
+
+1589007 = {
+	name = "Lindensis"
+	culture = romano_british
+}
+
+1589008 = {
+	name = "Icenius"
+	culture = romano_british
+}
+
+1589009 = {
+	name = "Cantiacus"
+	culture = romano_british
+}
+
+1589010 = {
+	name = "Catuvellaunus"
+	culture = romano_british
+}
+
+1589011 = {
+	name = "Dumnonius"
+	culture = romano_british
+}
+
+1589012 = {
+	name = "Dobunnus"
+	culture = romano_british
+}
+
+1589013 = {
+	name = "Gwerthrynion"
+	culture = romano_british
+}
+
+1589014 = {
+	name = "Glouvianus"
+	culture = romano_british
+}
+
+1589015 = {
+	name = "Purocoronavis"
+	culture = romano_british
+}
+
+1589016 = {
+	name = "Vreichvras"
+	culture = romano_british
+}
+
+1589017 = {
+	name = "Fullofaudes"
+	culture = romano_british
+}
+
+1589018 = {
+	name = "Guitolini"
+	culture = romano_british
+}
+
+1589019 = {
+	name = "Ceneanus"
+	culture = romano_british
+}
+
+1589020 = {
+	name = "Riataming"
+	culture = romano_british
+}
+
+1589021 = {
+	name = "Cornugallius"
+	culture = romano_british
+}
+
+1589022 = {
+	name = Elasianus
+	culture = romano_british
+}
+
+1589023 = {
+	name = Solorianus
+	culture = romano_british
+}
+
+1589024 = {
+	name = Cunetacianus
+	culture = romano_british
+}
+
+1589025 = {
+	name = Mascuidianus
+	culture = romano_british
+}
+
+1589026 = {
+	name = Cogidubnianus
+	culture = romano_british
+}
+
+1589027 = {
+	name = Verulamiensis
+	culture = romano_british
+}
+
+1589028 = {
+	name = Trinobantus
+	culture = romano_british
+}
+
+1589029 = {
+	name = Hamelinus
+	culture = romano_british
+}
+
+1589030 = {
+	name = Votadinus
+	culture = romano_british
+}

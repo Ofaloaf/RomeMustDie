@@ -1,0 +1,2433 @@
+e_oriens = {
+	color = { 146 211 206 }
+	color2= { 255 255 255 }
+
+	k_syria = {
+		color={ 145 130 88 }
+		color2={ 255 255 255 }
+		
+		culture = levantine_arabic
+		
+		capital = 728 # Damascus
+		
+		orthodox = 200 # Crusade target weight
+		muslim = 200 # Crusade target weight
+		zoroastrian_group = 500 # Crusade target weight
+		
+		d_osroene = {
+			color={ 204 213 183 }
+			color2={ 255 255 255 }
+			
+			capital = 699 # Edessa
+			
+			assyrian = Urhay
+			
+			c_edessa = {
+				color={ 179 197 143 }
+				color2={ 255 255 255 }
+				
+				holy_site = nestorian # place where faith originated
+				
+				assyrian = Urhay
+				
+				b_edessa = {
+					assyrian = Urhay
+				}
+				b_sruk = {
+					# Batnae
+					
+					greek = Markopolis
+				}
+				b_bile = {
+					# Barbare # not Bile
+				}
+				b_tulupe = {
+					# Bithias # actuakky Uckoy
+				}
+				b_kaisun = {
+					# Cannada # actually Yuvacik
+				}
+				b_samsat = {
+					# Samosata
+				}
+				b_harran = {
+					# Carrhae
+				}
+				b_edesurfa = {
+					# In Medio # actually Carmelik
+				}
+			}
+			c_nisibin = {
+				color={ 227 233 216 }
+				color2={ 255 255 255 }
+				
+				# Nisibis
+				
+				assyrian = Nsibin
+				
+				b_nusaybin = {
+					# Nisibis
+					
+					assyrian = Nsibin
+				}
+				b_savur = {
+					# Ammodios
+					
+					graeci = Ammodius
+					roman = Ammodius
+				}
+				b_dairodmorhannanyo = {
+					# Thannuris # actually Tell Tnenir
+				}
+				b_kerburan = {
+					# Sargathon # actually Sercihan
+				}
+				b_cizre = {
+					# Dara # actually Oguz, Mardin
+				}
+				b_sittiradviyyemadrasa = {
+					# Anastasiopolis # actually exactly the same town as Dara
+				}
+				b_dayrodmorgabriel = {
+					# Nabada # actually Tell Beidar
+				}
+				b_yaqobnsibnaya = {
+					# Resaina # actually Ras al-Ayn
+					
+					graeci = Theodosiopolis
+					roman = Theodosiopolis
+				}
+			}
+			c_al_jazira = {
+				color={ 70 160 30 }
+				color2={ 255 255 255 }
+				
+				# Zenobia
+				
+				b_hasakah = {
+					# Zenobia # not Hasakah
+				}
+				b_dayrik = {
+					# Basilia # not Dayrik
+				}
+				b_qamishhlo = {
+					# Gauzonitis # actually a region in the area
+				}
+				b_darbasiyah = {
+					# Araxes # actually another name for the Chaboras River
+				}
+				b_teltamer = {
+					# Tabite # actually Tell Ta'ban
+				}
+				b_hamoukar = {
+					# Tingene # actually a region in the area
+				}
+				b_amuda = {
+					# Shadikanni # actually Tell 'Ajaja
+				}
+				b_dakhiliyah = {
+					# Qatnu # actually possibly Tell Fadgami
+				}
+			}
+			c_al_bichri = {
+				color={ 15 242 95 }
+				color2={ 255 255 255 }
+				
+				# Circesium
+				
+				b_bichri = {
+					# Circesium # actually Buseira
+				}
+				b_deiralzur = {
+					# Gabalein 
+				}
+				b_osrhoene = {
+					# Sangarite # actually Tell Abu Ha'it
+				}
+				b_abukamal = {
+					# Corsote # not Abu Kamal
+				}
+				b_shamiyya = {
+					# Appadana # actually Tell Fiden
+					
+					graeci = Neapolis
+					roman = Neapolis
+				}
+				b_mayadin = {
+					# Audattha
+				}
+				b_sirhi = {
+					# Asicha # actually Ashara
+				}
+				b_mhaymidah = {
+					# Terqa # actually Ashara
+				}
+			}
+		}
+		
+		d_euphratensis = {
+			color = { 89 93 162 }
+			color2= { 255 255 255 }
+			
+			capital = 708
+		
+			c_tell_bashir = {
+				color={ 67 77 156 }
+				color2={ 255 255 255 }
+				
+				# Euphratensis
+				
+				b_turbessel = {
+					# Bersiba # actually Tell Ahmar
+				}
+				b_buzaa = {
+					# Chordiraza # actually Qal'at Najm
+				}
+				b_manbij = {
+					# Mabbog
+				
+					graeci = Bambyce
+					greek = Bambyke
+					
+					assyrian = Nappigu
+				}
+				b_nizip = {
+					# Ad Zociandem
+				}
+				b_zeugma = {
+				}
+				b_makedonopolis = {
+				}
+				b_birtha = {
+					# Caeciliana # actually Tell Aushariye
+				}
+				b_jarabulus = {
+					# Europos
+				}
+			}
+			c_aintab = {
+				color={ 99 115 171 }
+				color2={ 255 255 255 }
+				
+				# Doliche
+				
+				b_duluk = {
+					# Doliche
+				}
+				b_aintab = {
+					# Caphrena # actually possibly Ank Koy
+				}
+				b_marash = {
+					# Ourima # actually Horum Huyuk
+				}
+				b_kyrrhos = {
+				}
+				b_ravendan = {
+					# Tyba # # actually Tayba maybe???
+				}
+				b_hromgla = {
+					# Capersana # actually Gumusgun
+				}
+				b_raban = {
+					# Rhabaine
+				}
+				b_amanus = {
+				}
+			}
+			c_asas = {
+				color={ 87 234 22 }
+				color2={ 255 255 255 }
+				
+				# Callinicum
+				
+				greek = Kallinikos
+			
+				b_asas = {
+					# Barballisus
+					
+					greek = Barballisos
+				}
+				b_rakka = {
+					# Zenodotium
+					
+					greek = Zenodotion
+				}
+				b_kallinikos = {
+					# Callinicum
+					
+					greek = Kallinikos
+				}
+				b_talabyad = {
+					# Ichnae
+				}
+				b_tabqa = {
+					# Tetrapyrgium # actually Qusair as-Saila
+				}
+				b_souriya = {
+					# Dausara # actually Qalaat Jaber
+				}
+				b_resafa = {
+				}
+				b_zaazouaa = {
+					# Athis # actually Dibsi Faraj
+					
+					graeci = Neocaesarea
+					roman = Neocaesarea
+				}
+			}
+		}
+		
+		d_syria = {
+			color = { 224 203 101 }
+			color2= { 25 25 25 }
+			
+			capital = 733
+			
+			c_aleppo = {
+				color={ 91 238 26 }
+				color2={ 255 255 255 }
+				
+				# Beroea
+			
+				b_aleppo = {
+				}
+				b_azaz = {
+				}
+				b_mashala = {
+				} 
+				b_lerminet = {
+				}
+				b_sarmin = {
+				}
+				b_harim = {
+				}
+				b_qusayr = {
+				}
+				b_maaratannuman = {
+				}
+			}
+			c_hama = {
+				color={ 95 242 30 }
+				color2={ 255 255 255 }
+			
+				b_hama = {
+				}
+				b_hamath = {
+				}
+				b_mhardeh = {
+				}
+				b_qarqar = {
+				}
+				b_bara = {
+				} 
+				b_salamiyah = {
+				}
+				b_serjilla = {
+				}
+				b_kharsan = {
+				}
+			}
+			c_archa = {
+				color={ 109 194 47 }
+				color2={ 255 255 255 }
+			
+				b_archa = {
+				}
+				b_shayzar = {
+				}
+				b_famia = {
+				}
+				b_chastelblanc = {
+				}
+				b_kafroun = {
+				}
+				b_treiz = {
+				}
+				b_krakdeschevaliers = {
+				}
+				b_masyaf = {
+				}
+			}
+		}
+		
+		d_antioch = {
+			color={ 47 225 225 }
+			color2={ 255 255 255 }
+			
+			roman = Antiochia
+			graeci = Antiochia
+			greek = Antiocheia
+			gallo_roman = Antiochia
+			hispano_roman = Antiochia
+			mauro_roman = Antiochia
+			romano_british = Antiochia
+			pannonian = Antiochia
+			
+			capital = 764 # Antioch
+		
+			c_antiocheia = {
+				color={ 152 69 135 }
+				color2={ 255 255 255 }
+
+				holy_site = orthodox
+				holy_site = miaphysite
+				holy_site = monophysite
+				
+				b_antiocheia = {
+					pentarchy = yes
+				}
+				b_latakiah = {
+				}
+				b_stsymeon = {
+				}
+				b_darbsak = {
+				}
+				b_hazart = {
+				}
+				b_saone = {
+				}
+				b_harenc = {
+				}
+				b_baghras = {
+				}
+			}
+			c_alexandretta = {
+				color={ 112 197 50 }
+				color2={ 255 255 255 }
+				
+				bedouin_arabic = "Iskandarun"
+				maghreb_arabic = "Iskandarun"
+				levantine_arabic = "Iskandarun"
+				egyptian_arabic = "Iskandarun"
+				andalusian_arabic = "Iskandarun"
+				turkish = "Iskandarun"
+				armenian = "Hrosos"
+			
+				b_alexandretta = {
+					bedouin_arabic = "Iskandarun"
+					maghreb_arabic = "Iskandarun"
+					levantine_arabic = "Iskandarun"
+					egyptian_arabic = "Iskandarun"
+					andalusian_arabic = "Iskandarun"
+					turkish = "Iskandarun"
+				}
+				b_rhosus = {
+					armenian = "Hrosos"
+				}
+				b_portbonnel = {
+				}
+				b_myriandros = {
+				}
+				b_portella = {
+				}
+				b_derbasak = {
+				}
+				b_sarvantikar = {
+				}
+				b_larochederissole = {
+				}
+			}
+		}
+		d_phoenice = {
+			color={ 71 150 32 }
+			color2={ 255 255 255 }
+			
+			capital = 771 # Tyrus
+		
+			c_tortosa = {
+				color={ 73 152 34 }
+				color2={ 255 255 255 }
+				
+				# Antaradus
+			
+				b_tortosa = {
+					# Antaradus
+				}
+				b_maraclea = {
+					# Maraccas # actually Khrab Maraqiye
+				}
+				b_balemia = {
+					# Balanea
+				}
+				b_jabala = {
+					# Gabala
+				}
+				b_valania = {
+					# Enydra # actually Tell Ghamqe
+				}
+				b_ruad = {
+					# Aradus
+					
+					greek = Arados
+				}
+				b_alkhawabi = {
+					# Iammura # actually Qalaat Yahmour
+				}
+				b_margat = {
+					# Carne # actually Tell Qarnoun
+					
+					greek = Karnos
+				}
+			}
+			c_tripoli = {
+				color={ 75 154 36 }
+				color2={ 255 255 255 }
+				
+				# Tripolis
+			
+				b_syrtripoli = {
+					# Tripolis
+				}
+				b_gibelet = {
+					# Byblos
+					
+					graeci = Byblus
+					roman = Byblus
+					gallo_roman = Byblus
+					hispano_roman = Byblus
+					romano_british = Byblus
+					mauro_roman = Byblus
+					pannonian = Byblus
+				}
+				b_boutron = {
+					# Orthosia # actually Khan ard Artusi
+				}
+				b_arqah = {
+					# Arca
+				}
+				b_besmedin = {
+					# Bruttus # actually al-Abde
+				}
+				b_alqulayat = {
+					# Calamon # actually Qara
+					
+					greek = Kalamos
+				}
+				b_nephin = {
+					# Simyra # actually Kazel
+				}
+				b_alqadmus = {
+					# Cadmus
+				}
+			}
+			c_beirut = {
+				color={ 255 245 190 }
+				color2={ 255 255 255 }
+				
+				# Berytus
+			
+				b_beirut = {
+					# Berytus
+				}
+				b_sidon = {
+				}
+				b_journie = {
+					# Borrama # actually Brummana
+				}
+				b_abualhasan = {
+					# Porphyrium
+					
+					greek = Porpohyrion
+				}
+				b_cavedetyron = {
+					# Heldua # actually Khan el-Khulde
+				}
+				b_mashgarah = {
+					# Platanos # actually Aramun
+				} 
+				b_sarepta = {
+				}
+				b_beitkfeya = {
+					# Balmarcodes # actually Deir el-Qal'a
+				}
+			}
+			c_tyrus = {
+				color={ 245 245 200 }
+				color2={ 255 255 255 }
+				
+				bedouin_arabic = "Sur"
+				maghreb_arabic = "Sur"
+				levantine_arabic = "Sur"
+				egyptian_arabic = "Sur"
+				andalusian_arabic = "Sur"
+				ashkenazi = "Tzoir"
+				sephardi = "Tzor"
+			
+				b_tyrus = {
+					bedouin_arabic = "Sur"
+					maghreb_arabic = "Sur"
+					levantine_arabic = "Sur"
+					egyptian_arabic = "Sur"
+					andalusian_arabic = "Sur"
+				}
+				b_sarafand = {
+				}
+				b_scandalon = {
+				}
+				b_megedel = {
+				}
+				b_syrmontfort = {
+				}
+				b_casalimbert = {
+				}
+				b_hunin = {
+				}
+				b_syrbelfort = {
+				}
+			}
+			c_acre = {
+				color={ 230 190 154 }
+				color2={ 255 255 255 }
+				
+				# Acco
+				
+				roman = Ptolemais
+				graeci = Ptolemais
+				greek = Ptolemais
+				gallo_roman = Ptolemais
+				hispano_roman = Ptolemais
+				mauro_roman = Ptolemais
+				romano_british = Ptolemais
+				pannonian = Ptolemais
+				
+				ashkenazi = "Akkoi"
+				sephardi = "Akko"
+		
+				b_acre = {
+					# Acco
+				
+					roman = Ptolemais
+					graeci = Ptolemais
+					greek = Ptolemais
+					gallo_roman = Ptolemais
+					hispano_roman = Ptolemais
+					mauro_roman = Ptolemais
+					romano_british = Ptolemais
+					pannonian = Ptolemais
+				
+					ashkenazi = "Akkoi"
+					sephardi = "Akko"
+				}
+				b_haifa = {
+					roman = Sycaminum
+					graeci = Sycaminus
+					gallo_roman = Sycaminum
+					hispano_roman = Sycaminum
+					mauro_roman = Sycaminum
+					romano_british = Sycaminum
+					pannonian = Sycaminum
+					
+					greek = Sycaminon
+				}
+				b_syrcaesarea = {
+				}
+				b_merle = {
+					# Dora # nearby
+				}
+				b_adelon = {
+					# Gedru # actually Horvat Gedora or Jidru, depending on who you ask
+				}
+				b_manawat = {
+					# Ekdippa # actually Achziv
+				}
+				b_recordana = {
+				}
+				b_athlith = {
+					# Boukolonpolis
+				}
+			}
+		}
+		d_damascus = {
+			color={ 185 19 61 }
+			color2={ 255 255 255 }
+			
+			roman = Libanensis
+			graeci = Libanensis
+			gallo_roman = Libanensis
+			hispano_roman = Libanensis
+			mauro_roman = Libanensis
+			romano_british = Libanensis
+			pannonian = Libanensis
+			greek = "Koile Syria"
+			
+			bedouin_arabic = "Damashq"
+			maghreb_arabic = "Damashq"
+			levantine_arabic = "Damashq"
+			egyptian_arabic = "Damashq"
+			andalusian_arabic = "Damashq"
+			ashkenazi = "Damesheq"
+			sephardi = "Damesheq"				
+			
+			capital = 728 # Damascus
+		
+			c_damascus = {
+				color={ 125 255 6 }
+				color2={ 255 255 255 }
+				
+				bedouin_arabic = "Damashq"
+				maghreb_arabic = "Damashq"
+				levantine_arabic = "Damashq"
+				egyptian_arabic = "Damashq"
+				andalusian_arabic = "Damashq"
+				ashkenazi = "Damesheq"
+				sephardi = "Damesheq"
+
+				holy_site = shiite
+				holy_site = jewish
+				holy_site = samaritan
+				holy_site = karaite
+				
+				b_qsarbardawil = {
+				}
+				b_damascus = {
+				}
+				b_daraa = {
+				}
+				b_shahba = {
+				}
+				b_suada = {
+				}
+				b_alsanamayn = {
+				}
+				b_izra = {
+				}
+				b_duma = {
+				}
+			}
+			c_baalbek = {
+				color={ 77 156 38 }
+				color2={ 255 255 255 }
+			
+				b_baalbek = {
+				}
+				b_akkar = {
+				}
+				b_halbah = {
+				}
+				b_zahle = {
+				}
+				b_laboue = {
+				}
+				b_buissera = {
+				}
+				b_riyaq = {
+				}
+				b_chlifa = {
+				}
+			}
+			c_homs = {
+				color={ 93 240 28 }
+				color2={ 255 255 255 }
+			
+				b_homs = {
+				}
+				b_zweitina = {
+				}
+				b_emesa = {
+				}
+				b_alkhazandar = {
+				}
+				b_qadesh = {
+				}
+				b_sadad = {
+				}
+				b_marmarita = {
+				}
+				b_qatna = {
+				}
+			}
+			c_al_mafraq = {
+				color={ 134 255 15 }
+				color2={ 255 255 255 }
+			
+				b_mafraq = {
+				}
+				b_thughra = {
+				}
+				b_jarash = {
+				}
+				b_nasib = {
+				}
+				b_buwayda = {
+				}
+				b_ramtah = {
+				}
+				b_taebah = {
+				}
+				b_elemtaih = {
+				}
+			}
+			c_safed = {
+				color={ 230 250 190 }
+				color2={ 255 255 255 }
+			
+				b_safed = {
+				}
+				b_banyas = {
+				}
+				b_chastelet = {
+				}
+				b_toron = {
+				}
+				b_subeiba = {
+				}
+				#b_karmel = {
+				#}
+				b_qatsrin = {
+				}
+				b_belvoir = {
+				}
+			}
+		}
+		d_palmyra = {
+			color={ 35 232 20 }
+			color2={ 255 255 255 }
+			
+			capital = 730 # Palmyra
+			
+			c_palmyra = {
+				color={ 59 236 20 }
+				color2={ 255 255 255 }
+				
+				holy_site = arabic_pagan
+			
+				b_arak = {
+					# Aracha
+				}
+				b_palmyra = {
+				}
+				b_arraml = {
+					# Gennaes # actually Umm el-Amed
+				}
+				b_alqasr = {
+					# Veriaraca # actually Khan el-Hallabat
+				}
+				b_jihar = {
+					# Helela # actually Hlehleh
+				}
+				b_tiace = {
+				} 
+				b_alhuwaysis = {
+					# Acadama # actually Qdeym
+				}
+				b_khirbat = {
+					# Oriza # actually Tayibe
+				}
+			}
+			c_syria = {
+				color={ 37 234 22 }
+				color2={ 255 255 255 }
+				
+				# Auranitis (Hauran)
+				
+				assyrian = Hawran
+			
+				b_amrah = {
+					# Auranitis
+					
+					assyrian = Hawran
+				}
+				b_otaybah = {
+				}
+				b_adra = {
+					# Hadrach
+				}
+				b_jarba = {
+				}
+				b_qasmiye = {
+				}
+				b_hayjanah = {
+				}
+				b_buraq = {
+				}
+				b_baly = {
+				}
+			}
+			c_druz = {
+				color={ 39 236 24 }
+				color2={ 255 255 255 }
+				
+				# Masca
+			
+				b_salkhard = {
+					# Corsote
+				}
+				b_dibin = {
+					# Rhescipha
+				}
+				b_awas = {
+					# Agamana
+				}
+				b_busra = {
+					# Doura # actually Qal'at es-Salihiye
+				}
+				b_ghariyah = {
+					# Europos # also actually Qal'at es-Salihiye
+				}
+				b_shannireh = {
+				}
+				b_samj = {
+				}
+				b_thoula = {
+				}
+			}
+			c_tadmor = {
+				color={ 43 240 28 }
+				color2={ 255 255 255 }
+				
+				# Gadirtha
+			
+				b_husaiba = {
+					# Gadirtha
+				}
+				b_bukamal = {
+					# Auzara
+				}
+				b_alqaim = {
+					# Oruros
+				}
+				b_salhiyah = {
+				}
+				b_assusah = {
+				}
+				b_subaykhan = {
+				}
+				b_asharah = {
+				}
+				b_alqunjah = {
+				}
+			}
+		}
+		d_arabia = {
+			color = { 176 152 36 }
+			color2= { 20 20 20 }
+			
+			c_madaba = {
+				color={ 150 140 160 }
+				color2={ 255 255 255 }
+				
+				# Medaba
+				
+				ashkenazi = "Meidvo"
+				sephardi = "Meidva"
+				
+				b_madaba = {
+					# Medaba
+				}
+				b_muwaqqar = {
+					# Ziza # it's just a place
+				}
+				b_qastal = {
+					# Castellum # making shit up
+				}
+				b_bilal = {
+					# Libba # actually Khirbet Libb
+				}
+				b_umm_ar-rasas = {
+					# Mephaat
+					
+					graeci = "Castra Mefaa"
+					roman = "Castra Mefaa"
+					greek = "Kastron Mephaa"
+				}
+				b_sahab = {
+					# Nebo Mons # not Sahab
+				}
+				b_wadi_al_sir = {
+					# Esbous # actually Tell Hesban
+				}
+				b_samhal = {
+				}
+			}
+			c_tiberias = {
+				color={ 225 220 160 }
+				color2={ 255 255 255 }
+			
+				b_tiberias = {
+				}
+				b_nazareth = {
+				}
+				b_mnttabor = {
+					# Itabyrium
+				} 
+				b_bethsan = {
+					# Scythopolis
+				}
+				b_caymont = {
+					# Cammona
+				}
+				b_hattin = {
+				}
+				b_ashtera = {
+				}
+				b_lafeve = {
+					# Fube # Crusader Latin nameform, tbh
+				}
+			}
+			c_az_zarqa = {
+				color={ 103 214 143 }
+				color2={ 255 255 255 }
+				
+				# Bostra
+				
+				b_zarqa = {
+					# Bostra # actually Busra al-Sham
+				}
+				b_qasramra = {
+					# Dionysias # actually As-Suwayda, which I think technically is b_soada in c_damascus, but geographically that's... off.
+				}
+				b_russeifa = {
+					# Orsoua # actually Resas, Syria
+				}
+				b_qasralhallabat = {
+					# Tricomia # actually Salkhad
+				}
+				b_shabib = {
+					# Mothana # actually Imtam
+				}
+				b_hashemiyya = {
+					# Berroka # actually Buraq in the Jebel Druz
+				}
+				b_khurqah = {
+					# Aphetatha # actually el-Afine
+				}
+				b_amratamad = {
+					# Thantia # not... uh, not that place.
+				}
+			}
+			c_irbid = {
+				color={ 128 255 9 }
+				color2={ 255 255 255 }
+				
+				# Arabella
+			
+				b_aljun = {
+					# Capitolias
+					
+					greek = Kapitolias
+				}
+				b_irbid = {
+					# Arabella
+				}
+				b_pella = {
+				}
+				b_yarmouk = {
+					# Hieromices
+				}
+				b_habisjaldak = {
+					# Kamous # actually Qamm
+				}
+				b_aydoun = {
+					# Emmatha # it's Emmatha!
+				}
+				b_ummqais = {
+					# Gadara
+					
+					roman = Pompeia
+					graeci = Pompeia
+				}
+				b_gadera = {
+					# Hippos # actually Horvat Susita
+				}
+			}
+			c_amman = {
+				color={ 131 255 12 }
+				color2={ 255 255 255 }
+				
+				# Philadelphia
+			
+				b_amman = {
+					# Philadelphia
+				}
+				b_dhiban = {
+					# Dibon
+				}
+				b_salt = {
+					# Saltus
+				}
+				b_mahis = {
+					# Elealeh # actuall el-'Al
+				}
+				b_fuheis = {
+					# Tyrus # actually Iraq al-Amir, in Jordan
+					# MULTIPLE PLACES NAMED TYRUS? HOW CAN IT BEEEEEE
+				}
+				b_deir_alla = {
+					# Hatita # actually Khirbet es-Samra
+				}
+				b_jerash = {
+					# Gerasa
+				}
+				b_al_balqa = {
+					# Gadda # actually el-Hadid
+				}
+			}
+		}
+		d_cyprus = {
+			color={ 239 109 163 }
+			color2={ 255 255 20 }
+			
+			capital = 757 # Famagusta
+			
+			c_famagusta = {
+				color={ 228 19 156 }
+				color2={ 255 255 20 }
+				
+				turkish = "Magusa"
+				
+				b_famagusta = {
+					turkish = "Magusa"
+				}
+				b_cithium = {
+				}
+				b_nikosia = {
+				}
+				b_sthilarion = {
+				}
+				b_kyrenia = {
+				}
+				b_buffavento = {
+				}
+				b_kantara = {
+				}
+				b_peristerona = {
+				}
+			}
+			c_limisol = {
+				color={ 231 22 159 }
+				color2={ 255 255 20 }
+				
+				turkish = "Leymosun"
+				
+				b_limmassol = {
+					turkish = "Leymosun"
+				}
+				b_paphos = {
+				}
+				b_arsinoe = {
+				}
+				b_kolossi = {
+				}
+				b_morphou = {
+				}
+				b_agridi = {
+				}
+				b_dieudamour = {
+				}
+				b_khirokitia = {
+				}
+			}
+		}
+		d_cilicia = { # 
+			color={ 214 140 190 }
+			color2={ 255 255 255 }
+			
+			capital = 761 # Tarsos
+	
+			c_lykandos = {
+				color={ 214 140 195 }
+				color2={ 255 255 255 }
+				
+				turkish = "Elbistan"
+	
+				b_lykandos = {
+					turkish = "Elbistan"
+				}
+				b_tzamandos = {
+				}
+				b_comanagene = {
+				}
+				b_symposion = {
+				}
+				b_papurius = {
+				}
+				b_cocussus = {
+				}
+				b_germanikeia = {
+				}
+				b_arabissus = {
+				}
+			}
+			c_tarsos = {
+				color={ 194 140 175 }
+				color2={ 255 255 255 }
+				
+				turkish = "Mersin"
+				armenian = "Darson"
+	
+				b_tarsos = {
+					turkish = "Mersin"
+					armenian = "Darson"
+				}
+				b_lamas = {
+				}
+				b_castabala = {
+				}
+				b_lampron = {
+				}
+				b_zephyrium = {
+				}
+				b_pendosis = {
+				}
+				b_korikos = {
+				}
+				b_bardzerben = {
+				}
+			}
+			c_adana = {
+				color={ 194 110 145 }
+				color2={ 255 255 255 }
+	
+				b_adana = {
+				}
+				b_sis = {
+				}
+				b_anazarba = {
+				}
+				b_mamistra = {
+				}
+				b_lajazzo = {
+					armenian = "Ayas"
+					greek = "Aegeas"
+				}
+				b_trazak = {
+				}
+				b_vahka = {
+				}
+				b_mopsuestia = {
+				}
+			}
+			c_teluch = {
+				color={ 145 90 105 }
+				color2={ 255 255 255 }
+				
+				greek = "Doliche"
+				turkish = "Gâvur"
+	
+				b_teluch = {
+					greek = "Doliche"
+					turkish = "Kadirli"
+				}
+				b_germanias = {
+					turkish = "Haruniye"
+				}
+				b_perre = {
+				}
+				b_komanal = {
+				}
+				b_kapan = {
+				}
+				b_tavplur = {
+				}
+				b_koksen = {
+				}
+				b_hajin = {
+				}
+			}
+		}
+	}
+	k_palestina = {
+		color={ 180 180 180 }
+		color2={ 255 255 255 }
+		
+		capital = 774 # Jerusalem
+		
+		d_palestina = {
+			color={ 202 202 190 }
+			color2={ 255 255 255 }
+			
+			capital = 774 # Jerusalem
+			
+			c_jerusalem = {
+				color={ 250 250 230 }
+				color2={ 255 255 255 }
+				
+				roman = "Aelia Capitolina"
+				graeci = "Aelia Capitolina"
+				greek = "Aelia"
+				gallo_roman = Aelia
+				hispano_roman = Aelia
+				mauro_roman = Aelia
+				romano_british = Aelia
+				pannonian = Aelia
+				
+				ashkenazi = "Yerusholaim"
+				sephardi = "Yerushalaim"
+				
+				christian = 250 # Crusade target weight
+				muslim = 250 # Crusade target weight
+
+				holy_site = catholic
+				holy_site = orthodox
+				holy_site = sunni
+				holy_site = shiite
+				holy_site = miaphysite
+				holy_site = monophysite
+				holy_site = nestorian
+				holy_site = pagan
+				holy_site = yazidi
+				holy_site = jewish
+				holy_site = samaritan
+				holy_site = karaite
+				holy_site = ibadi
+				holy_site = manichean
+				holy_site = nicene
+				holy_site = early_islam
+				
+				b_mirabel = { # Base name changed to "Majdal Yaba"
+					greek = "Antipatris"
+					armenian = "Antipatris"
+					georgian = "Antipatris"
+				}
+				b_jerusalem = {
+					pentarchy = yes
+				}
+				b_nablus = {
+				}
+				b_rammala = {
+				}
+				b_beitnuba = {
+				}
+				b_montgisard = {
+				} 
+				b_jericho = {
+				}
+				b_saintsamuel = {
+				}
+			}
+			c_hebron = {
+				color={ 200 210 160 }
+				color2={ 255 255 255 }
+				
+				ashkenazi = "Hevron"
+				sephardi = "Hevron"
+		
+				b_hebron = {
+				}
+				b_bethlehem = {
+				}
+				b_deimachar = {
+				}
+				b_syrbelmont = {
+				}
+				b_alsamoa = {
+				}
+				b_saintcharlton = {
+				}
+				b_latrun = {
+				}
+				b_bethgibelin = {
+				}
+			}
+			c_darum = {
+				color={ 167 165 190 }
+				color2={ 255 255 255 }
+			
+				b_darum = {
+				}
+				b_gaza = {
+				}
+				b_rafah = {
+				}
+				b_radwan = {
+				}
+				b_salqah = {
+				}
+				b_gerar = {
+				}
+				b_jarara = {
+				}
+				b_abasan = {
+				}
+			}
+			c_jaffa = {
+				color={ 167 190 150 }
+				color2={ 255 255 255 }
+				
+				# Ioppe
+				
+				bedouin_arabic = "Arsuf"
+				maghreb_arabic = "Arsuf"
+				levantine_arabic = "Arsuf"
+				egyptian_arabic = "Arsuf"
+				andalusian_arabic = "Arsuf"
+				ashkenazi = "Yophoi"
+				sephardi = "Yapho"
+			
+				b_jaffa = {
+					# Ioppe
+				
+					bedouin_arabic = "Arsuf"
+					maghreb_arabic = "Arsuf"
+					levantine_arabic = "Arsuf"
+					egyptian_arabic = "Arsuf"
+					andalusian_arabic = "Arsuf"
+				}
+				b_arsuf = {
+				}
+				b_lydda = {
+				}
+				b_ibelin = {
+				}
+				b_ramleh = {
+				}
+				b_yazur = {
+				}
+				b_qula = {
+				}
+				b_beitdejan = {
+				}
+			}
+			c_ascalon = {
+				color={ 176 190 140 }
+				color2={ 255 255 255 }
+				
+				bedouin_arabic = "Asqalan"
+				maghreb_arabic = "Asqalan"
+				levantine_arabic = "Asqalan"
+				egyptian_arabic = "Asqalan"
+				andalusian_arabic = "Asqalan"
+				ashkenazi = "Ashqelon"
+				sephardi = "Ashqelon"
+			
+				b_ascalon = {
+					bedouin_arabic = "Asqalan"
+					maghreb_arabic = "Asqalan"
+					levantine_arabic = "Asqalan"
+					egyptian_arabic = "Asqalan"
+					andalusian_arabic = "Asqalan"
+				}
+				b_harbijah = {
+				}
+				b_agelen = {
+				}
+				b_laforbie = {
+				}
+				b_blanchegarde = {
+				}
+				b_bothme = {
+				}
+				b_huidre = {
+				}
+				b_semsem = {
+				}
+			}
+			c_beersheb = {
+				color={ 139 170 160 }
+				color2={ 255 255 255 }
+				
+				ashkenazi = "Beir-Sheva"
+				sephardi = "Ber-Sheva"
+			
+				b_beersheb = {
+				}
+				b_estemon = {
+				}
+				b_massada = {
+				}
+				b_debir = {
+				}
+				b_gilat = {
+				}
+				b_rahat = {
+				}
+				b_ofakim = {
+				}
+				b_abuzqayqa = {
+				}
+			}
+		}
+		
+		d_petrea = {
+			color={ 121 196 2 }
+			color2={ 255 255 255 }
+			
+			roman = "Arabia Petraea"
+			graeci = "Arabia Petraea"
+			
+			assyrian = "Nabatea"
+			
+			bedouin_arabic = "Al-Batra"
+			
+			capital = 783 # Maan
+			
+			#c_ar_ar = { # Shaka
+			#	color={ 97 208 137 }
+			#	color2={ 255 255 255 }
+			#	
+			#	b_shaka = {
+			#	}
+			#	b_ammaryah = {
+			#	}
+			#	b_dumat_al_jundal = {
+			#	}
+			#	b_umm_kunsur = {
+			#	}
+			#	b_ruthiyah = {
+			#	}
+			#	b_qasa = {
+			#	}
+			#	b_uwayquilah = {
+			#	}
+			#	b_judaidah = {
+			#	}
+			#}
+			c_maan = {
+				color={ 127 202 8 }
+				color2={ 255 255 255 }
+				
+				# Petra
+			
+				b_maan = {
+					# Petra # actually a little east of Ma'an
+				}
+				b_mutah = {
+					# Adrou # actually Udruh
+					
+					roman = Augustopolis
+					graeci = Augustopolis
+					pannonian = Augustopolis
+					greek = Augustopolis
+					gallo_roman = Augustopolis
+					romano_british = Augustopolis
+					mauro_roman = Augustopolis
+				}
+				b_shubak = {
+					# Ammatha # actually el-Hammam
+				}
+				b_maanaljafr = {
+					# Negla # actually Ain Najil
+				}
+				b_buseira = {
+					# Bostra # yes, another one
+				}
+				b_maanalhasa = {
+					# Zodacatha # actually Khirbet es-Sadaqa
+				}
+				b_afra = {
+				}
+				b_bubeita = {
+				}
+			}
+			#c_petra = {
+			#	color={ 133 208 14 }
+			#	color2={ 255 255 255 }
+			#
+			#	b_tophel = {
+			#	}
+			#	b_petra = {
+			#	}
+			#	b_wadi_musa = {
+			#	}
+			#	b_bozrah = {
+			#	}
+			#	b_shoubak = {
+			#	}
+			#	b_abdelliya = {
+			#	}
+			#	b_hamza = {
+			#	}
+			#	b_husseiniya = {
+			#	}
+			#}
+			c_al_aqabah = {
+				color={ 124 199 5 }
+				color2={ 255 255 255 }
+				
+				# Aelana
+			
+				b_aqabah = {
+					# Aelana
+				}
+				b_reeshah = {
+					# Praesidio # actually Khirbet al-Khalde
+				}
+				b_quwairah = {
+					# Aramaua # actually Wadi Ramm
+				}
+				b_mazraa = {
+					# Auara # actually Humayma
+				}
+				b_feifa = {
+				}
+				b_samar = {
+				}
+				b_elifaz = {
+					# Arieldela # actually Gharandal
+				}
+				b_yotvata = {
+				}
+			}
+			c_negev = {
+				color={ 190 180 165 }
+				color2={ 255 255 255 }
+				
+				# Idumaea
+			
+				b_negev = {
+				}
+				b_yeruham = {
+				}
+				b_dimona = {
+				}
+				b_avdat = {
+				}
+				b_albaqar = {
+				}
+				b_kmehin = {
+				}
+				b_ezuz = {
+				}
+				b_haluza = {
+				}
+			}
+			c_monreal = {
+				color={ 190 170 155 }
+				color2={ 255 255 255 }
+				
+				# Moab
+			
+				b_monreal = {
+					# Zoara # aka Segor, Zoar and Bela
+					
+					greek = Segor
+				}
+				b_hurmniz = {
+					# Mamopsora # actually not Hurmniz
+				}
+				b_sela = {
+					# Toloha # actually Qasr et-Tlah
+				}
+				b_tafila = {
+					# Tophel
+				}
+				b_bildad = {
+					# Arindela # actually Gharandal
+				}
+				b_paran = {
+					# Thornia # actually Khirbet eth-Thuwana
+				}
+				b_idan = {
+					# Mouthous # actually Mautah
+				}
+			}
+			c_kerak = {
+				color={ 150 150 170 }
+				color2={ 255 255 255 }
+				
+				# Perea
+			
+				b_kirhaseset = {
+					# Kir
+				}
+				b_kerak = {
+					# Ar
+				}
+				b_tamar = {
+					# Areopolis
+				}
+				b_zoar = {
+					# Betthorus # actually Al Lajjun
+				}
+				b_zaimona = {
+				}
+				b_bozra = {
+					# Adara # actually Adir
+				}
+				b_punon = {
+				}
+				b_krakdemoab = {
+					# Characmoba
+				}
+			}
+		}
+		d_sinai = {
+			color={ 88 99 2 }
+			color2={ 255 255 255 }
+			
+			roman = Saracena
+			graeci = Saracene
+			greek = Saracene
+		
+			c_sinai = {
+				color={ 143 201 8 }
+				color2={ 255 255 255 }
+
+				holy_site = jewish
+				holy_site = samaritan
+				holy_site = karaite
+				
+				holy_site = arabic_pagan
+				
+				b_attur = {
+				}
+				b_sharmelsheikh = {
+				}
+				b_mamlah = {
+				}
+				b_nuweiba = {
+				}
+				b_sinbarqa = {
+				}
+				b_dahab = {
+				}
+				b_jabalsamra = {
+				}
+				b_nabq = {
+				}
+			}
+			c_eilat = {
+				color={ 145 203 10 }
+				color2={ 255 255 255 }
+			
+				b_eilat = {
+				}
+				b_yahel = {
+				}
+				b_lotan = {
+				}
+				b_ketura = {
+				}
+				b_sapir = {
+				}
+				b_urim = {
+				}
+				b_tzofar = {
+				}
+				b_eliot = {
+				}
+			}
+			c_el-arish = {
+				color={ 147 205 12 }
+				color2={ 255 255 255 }
+				
+				# Rhinocolura
+				
+				greek = Rinokoroura
+			
+				b_arish = {
+					# Rhinocolura
+				
+					greek = Rinokoroura
+				}
+				b_tukkot = {
+					# Ostracena
+					
+					graeci = Ostracine
+					greek = Ostrakine
+				}
+				b_kharruba = {
+					# Serbonis # actually a lake or bog, probably modern-day Lake Bardawil
+				}
+				b_masyada = {
+				}
+				b_birelhamma = {
+				}
+				b_mitmatna = {
+				}
+				b_abuaweigila = {
+					# Casius Mons # actually Ras Qasrun or Khatib el Gals
+				}
+				b_zuwayid = {
+				}
+			}
+		}
+	}
+	k_egypt = {
+		color={ 10 255 80 }
+		color2={ 255 255 255 }
+		
+		capital	= 796 # Cairo
+		
+		culture = coptic
+		
+		orthodox = 20 # Crusade target weight
+		muslim = 400 # Crusade target weight
+		zoroastrian_group = 100 # Crusade target weight
+		zun_pagan_reformed = 100 # Crusade target weight
+		jewish_group = 500 # Crusade target weight
+		
+		d_alexandria = {
+			color={ 16 124 148 }
+			color2={ 255 255 255 }
+			
+			capital = 802 # Alexandria
+		
+			c_alexandria = {
+				color={ 102 221 136 }
+				color2={ 255 255 255 }
+
+				holy_site = miaphysite
+				holy_site = monophysite
+				holy_site = nicene
+				holy_site = hellenic_pagan
+				holy_site = kemetic_pagan
+				
+				b_alexandria = {
+					pentarchy = yes
+				}
+				b_abukir = {
+					# Canopus
+					
+					greek = Kanopos
+					coptic = Kanopos
+				}
+				b_damanhur = {
+					# Hermopolis
+					
+					greek = "Hermoupolis Mikra"
+				}
+				b_hammam = {
+					# Taposiris (Megale) # not Hammam
+					
+					greek = "Taposiris Megale"
+				}
+				b_naucratis = {
+					greek = Naukratis
+				}
+				b_burgelarab = {
+					# Juliopolis # not Burg el-Arab
+				}
+				b_marabout = {
+					# Mareia # actually Hawariyyah
+				}
+				b_elkanoun = {
+					# Derras # actually possibly Derasiya
+				}
+			}
+			c_gabiyaha = {
+				color={ 6 255 77 }
+				color2={ 255 255 255 }
+				
+				# Bolbitinum
+				
+				greek = Bolbitinon
+				
+				coptic = Rashit
+			
+				b_rosetta = {
+					# Bolbitinum
+					
+					greek = Bolbitinon
+					
+					coptic = Rashit
+				}
+				b_sais = {
+				}
+				b_fuwa = {
+					# Chemmis # actually Shaba
+				}
+				b_xois = {
+				}
+				b_hermopolis = {
+				}
+				b_buto = {
+					greek = Bouto
+				}
+				b_disuq = {
+					# Phragonis # actually Tell el-Faragin
+					# Disuq/Dosuq/Desouk was part of old Buto
+				}
+				b_mutubis = {
+					# Atarbechis # actually Prosopite
+				}
+			}
+			c_delta = {
+				color={ 9 255 80 }
+				color2={ 255 255 255 }
+				
+				# Tamiathis
+				
+				coptic = Tamiat
+			
+				b_damietta = {
+					# Tamiathis
+					
+					coptic = Tamiat
+				}
+				b_burlus = {
+					# Sebennytos # actually Samanud
+				}
+				b_saramsah = {
+					# Mendes # actually Tell el-Rub'a
+				}
+				b_burah = {
+					# Thmouis # actually Tell Timai
+				}
+				b_fareskur = {
+					# Diospolis (Kato or Mikra) # actually Tell el-Balamun
+				}
+				b_baramun = {
+					# Isidospolis # actually Behbeit el-Hagar
+				}
+				b_tanis = {
+					# I'm ignoring this Tanis and renaming Pelusia province to it.
+					# Kynopolis # actually Abu Sir Bana
+				}
+				b_shirbin = {
+					# Natho # not Shirbin!
+				}
+			}
+			c_manupura = {
+				color={ 15 255 86 }
+				color2={ 255 255 255 }
+				
+				# Athribis
+			
+				b_manusura = {
+					# Leontopolis # actually Tell el-Yahudiya
+				}
+				b_almahallah = {
+					# Pthumos # not Al-Mahallah
+				}
+				b_bilbays = {
+					# Bilbeis
+				}
+				b_zagazig = {
+					# Terenouthis # actually Kom Abu Billo
+				}
+				b_athribis = {
+				}
+				b_bubastis = {
+					greek = Boubastis
+				}
+				b_qantir = {
+					# Onouphis Ano # actually Manuf al-Uliya
+				}
+				b_busiris = {
+				}
+			}
+		}
+		d_cyrenaica = {
+			color={ 215 244 47 }
+			color2={ 255 255 255 }
+			
+			capital = 806 # Cyrenaica
+		
+			c_cyrenaica = {
+				color={ 34 152 65 }
+				color2={ 255 255 255 }
+			
+				b_cyrene = {
+				}
+				b_marsasusah = {
+					# Apollonia
+				}
+				b_derna = {
+					# Darnis
+				}
+				b_altamimi = {
+					# Ausigida # actually Gasr Disa
+				}
+				b_alqubbah = {
+					# Balagrae # actually El Beida
+				}
+				b_athrun = {
+					# Ptolemais # actually Tolmeitha
+				}
+				b_mukhayta = {
+					# Naustathmus
+					
+					greek = Naustathmos
+				}
+				b_khadra = {
+					# Erythrum # actually Wadi el-Atrum
+					
+					greek = Erythron
+				}
+			}
+			c_senoussi = {
+				color={ 36 154 67 }
+				color2={ 255 255 255 }
+				
+				# Augila
+			
+				b_kufra = {
+					# Augila
+				}
+				b_jalu = {
+				}
+				b_jakharrah = {
+				}
+				b_gabr = {
+				}
+				b_attallab = {
+				}
+				b_attaj = {
+				}
+				b_buzayman = {
+				}
+				b_tazirbu = {
+				}
+			}
+			c_benghazi = {
+				color={ 38 156 69 }
+				color2={ 255 255 255 }
+				
+				# Berenice
+			
+				b_benghazi = {
+					# Berenice
+					
+					greek = Berenike
+				}
+				b_barca = {
+				}
+				b_oriana = {
+					# Hadrianopolis
+				}
+				b_tulmaytath = {
+					# Theotimaium # actually Tereth
+					
+					greek = Theotimaion
+				}
+				b_ajdabiya = {
+					# Chersis # actually Chersa/Karsa
+				}
+				b_daryanah = {
+					# Chaminos # actually Ghemines
+				}
+				b_tansulukh = {
+					# Amastor # actually Bu Sceriba
+				}
+				b_jardinah = {
+					# Arsinoe # actually Tocra
+				}
+			}
+		}		
+		d_libya = {
+			color = { 36 141 18 }
+			color2= { 255 255 255 }
+			
+			c_tobruk = {
+				color={ 40 158 71 }
+				color2={ 255 255 255 }
+				
+				# Antipyrgus
+			
+				b_tobruk = {
+					# Antipyrgus
+				}
+				b_bardia = {
+					# Petrus Maior
+				}
+				b_sollum = {
+					# Miceris # actually Zaviet el-Mrassas
+				}
+				b_alqardabah = {
+					# Menelaos # actually possibly Marsa Ahora
+				}
+				b_acroma = {
+					# Gonia
+				}
+				b_kambut = {
+					# Batrachus # actually Gardaba
+					
+					greek = Batrachos
+				}
+				b_zanzur = {
+					# Kyrthanion
+				}
+				b_rukbah = {
+				}
+			}
+			c_al_alamayn = {
+				color={ 104 223 138 }
+				color2={ 255 255 255 }
+				
+				# Marmarica
+			
+				b_elalamein = {
+					# Catabathmus # actually Sallum/Sollum in CK2's Tobruk province, but eyeballing the provs it ought to be here instead
+					
+					greek = Katabathmos
+				}
+				b_mersamatruh = {
+					# Paraitonion
+					
+					graeci = Paraetonium
+					roman = Paraetonium
+					gallo_roman = Paraetonium
+					hispano_roman = Paraetonium
+					romano_british = Paraetonium
+					mauro_roman = Paraetonium
+					pannonian = Paraetonium
+				}
+				b_sidibarrani = {
+					# Zygra # or Zigris
+				}
+				b_fuka = {
+					# Selenis # actually just southeast of Marsa el-'Asi
+				}
+				b_katabathmos = {
+					# see b_elalamein and b_sollum
+					# Ainesisphyra # actually near Sidi Barrani as well
+				}
+				b_ghazal = {
+					# Apis # actually Zawiet Umm el-Rakham
+				}
+				b_paraitonion = {
+					# THIS IS JUST MERSA MATRUH
+					# Chautaion # actually Marsa Gargub
+					
+					graeci = Chettaia
+					roman = Chettaia
+					gallo_roman = Chettaia
+					hispano_roman = Chettaia
+					romano_british = Chettaia
+					pannonian = Chettaia
+					mauro_roman = Chettaia
+				}
+				b_shammas = {
+					# Syce # not sure where this actually is tbh
+				}
+			}
+			c_quattara = {
+				color={ 106 225 140 }
+				color2={ 255 255 255 }
+				
+				# Ammonium
+				
+				holy_site = kemetic_pagan
+			
+				b_siwa = {
+					# Ammonium
+				}
+				b_quattara = {
+					# Climax # Quattara Pass
+					
+					greek = Klimax
+				}
+				b_caraoasis = {
+					# Alexandrou Parembole # actually Qarat Umm es-Sugheir
+				}
+				b_qaretagnes = {
+				}
+				b_abdannabi = {
+					# (Mons) Asyphus
+				}
+				b_dayr = {
+				}
+				b_alamelshwawish = {
+					# (Mons) Ogdamus
+				}
+				b_ziwaelbahari = {
+					# (Montes) Anagombri
+				}
+			}
+		}
+		d_augustamnica = {
+			color = { 217 222 236 }
+			color2= { 20 20 20 }
+			
+			greek = Augoustamnike
+			
+			capital = 788
+		
+			c_pelusia = {
+				color={ 12 255 83 }
+				color2={ 255 255 255 }
+				
+				# Tanis
+			
+				b_pelusia = {
+					# Tanis
+				}
+				b_tinis = {
+					# Thennisus
+					
+					greek = Thennesos
+				}
+				b_alsalihiyah = {
+					# Avaris
+				}
+				b_sile = {
+					# Daphnai # actually Tell Defenneh
+				}
+				b_ismaillia = {
+					# Kalamine # not Ismaillia. Wasn't Ismaillia only built in the 19th century?
+				}
+				b_said = {
+					# Panephysis # actually el-Manzala
+				}
+				b_pithom = {
+					# Heroöpolis
+					
+					coptic = Pithom
+				}
+				b_serapeum = {
+				}
+			}
+			c_farama = {
+				color={ 141 198 5 }
+				color2={ 255 255 255 }
+				
+				# Pelusium
+			
+				b_farama = {
+					# Pelusium
+				}
+				b_sin = {
+					# Gerra # not Sin
+				}
+				b_seyan = {
+					# Megdolum # actually Tell el-Heir
+					
+					greek = Magdolos
+				}
+				b_romani = {
+					# Sile # actually Tell Abu Seifa
+				}
+				b_birqatia = {
+				}
+				b_birelabd = {
+					# Sirbonis (promontory)
+				}
+				b_zaaraniq = {
+				}
+				b_mustabiq = {
+				}
+			}
+		}
+		d_arcadia = {
+			color={ 148 20 103 }
+			color2={ 255 255 255 }
+			
+			capital = 796 # Cairo
+			
+			zun_pagan_reformed = 50 # Crusade target weight
+		
+			c_cairo = {
+				color={ 24 236 119 }
+				color2={ 255 255 255 }
+				
+				# Memphis
+				
+				coptic = Menfe
+
+				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
+				
+				holy_site = kemetic_pagan
+				
+				b_cairo = {
+					# Babylon # no really this was a fort in the area that became the nucleus for Cairo
+					
+					bedouin_arabic = Cairo
+				}
+				b_fustat = {
+					# Toachris # actually Kom el-Qal'a
+				}
+				b_memphis = {
+					coptic = Menfe
+					
+					bedouin_arabic = Manf
+				}
+				b_helwan = {
+					# Takyris # actually Dahshur
+				}
+				b_heliopolis = {
+				}
+				b_maadi = {
+					# Panarachthis # actually Barnasht
+				}
+				b_tekkekyahudiyya = {
+					# Peme # actually Bamha
+				}
+				b_merimdabenisalama = {
+					# Aphroditopolis # actually Atfih
+				}
+			}
+			c_sarqihya = {
+				color={ 28 240 123 }
+				color2={ 255 255 255 }
+				
+				# Clysma
+				
+				greek = Klysma
+			
+				b_sarqinya = {
+				}
+				b_clysma = {
+					# Clysma
+				
+					greek = Klysma
+				}
+				b_atfih = {
+				}
+				b_taufiq = {
+				}
+				b_agruda = {
+				}
+				b_shallufa = {
+				}
+				b_alhaifar = {
+				}
+				b_suez = {
+				}
+			}
+			c_gizeh = {
+				color={ 110 229 144 }
+				color2={ 255 255 255 }
+				
+				# Oxyrynchus
+				
+				coptic = Pemdje
+			
+				b_gizeh = {
+					# Oxyrynchus # actually El Bahnasa
+					
+					greek = Oxyrrhynkhos
+					
+					coptic = Pemdje
+				}
+				b_aburowash = {
+					# Theodosiopolis # actually Taha-el-Amudein
+				}
+				b_dashur = {
+					# Hermopolis Magna # actually El Ashmunein
+					
+					greek = "Hermoupolis Megale"
+					
+					coptic = Shmounein # the old Coptic spelling is slightly different from the modern form, but I can't read the Coptic alphabet
+				}
+				b_zawyetalayran = {
+					# Antinopolis # actually Sheikh 'Ibada
+					
+					greek = "Antinoë"
+					coptic = Antinow
+				}
+				b_abughorob = {
+					# Cynopolis # Cynopolis Superior, now El Kays
+					
+					greek = Kynopolis
+				}
+				b_abusir = {
+					# Acoris # actually Tihna al-Ghabal
+					
+					greek = Akoris
+				}
+				b_saqqara = {
+					# Seryphis # actually Ashruba
+				}
+				b_ellisht = {
+					# Mnachis # actually Deir Samalut
+				}
+			}
+		}
+		d_thebais = {
+			color={ 41 188 120 }
+			color2={ 255 255 255 }
+			
+			greek = "Thebaïs"
+			
+			capital = 794 # Aswan
+		
+			c_aswan = {
+				color={ 43 190 122 }
+				color2={ 255 255 255 }
+				
+				holy_site = kemetic_pagan
+			
+				b_aswan = {
+				}
+				b_elefantina = {
+				}
+				b_shellal = {
+				}
+				b_bigeh = {
+				}
+				b_veset = {
+				}
+				b_philae = {
+				}
+				b_kalabsha = {
+				}
+				b_edfu = {
+				}
+			}
+			c_buhairya = {
+				color={ 108 227 142 }
+				color2={ 255 255 255 }
+			
+				b_buhairya = {
+				}
+				b_mut = {
+				}
+				b_qasrfarfra = {
+				}
+				b_elkharga = {
+				}
+				b_baris = {
+				}
+				b_budhkula = {
+				}
+				b_abuminqar = {
+				}
+				b_ismant = {
+				}
+			}
+			c_quena = {
+				color={ 32 244 127 }
+				color2={ 255 255 255 }
+			
+				b_quena = {
+				}
+				b_kosseir = {
+				}
+				b_qus = {
+				}
+				b_abughusun = {
+				}
+				b_safaga = {
+				}
+				b_qift = {
+				}
+				b_ummrus = {
+				}
+			}
+			c_asyut = {
+				color={ 36 248 131 }
+				color2={ 255 255 255 }
+			
+				b_asyut = {
+				}
+				b_kusai = {
+				}
+				b_durunka = {
+				}
+				b_egypthebes = {
+				}
+				b_egypabydos = {
+				}
+				b_wannina = {
+				}
+				b_beitkhallaf = {
+				}
+				b_luxor = {
+				}
+				b_meir = {
+				}
+			}
+			c_aydhab = {
+				color = { 125 120 65 }
+				color2={ 255 255 255 }
+			
+				b_aydhab = {
+				}
+				b_halayeb = {
+				}
+				b_troglodytica = {
+				}
+				b_marsaalam = {
+				}
+				b_elba = {
+				}
+				b_shalateen = {
+				}
+				b_zabargad = {
+				}
+			}
+		}
+	}
+}

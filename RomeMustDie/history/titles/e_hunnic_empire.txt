@@ -1,0 +1,24 @@
+430.1.1 = {
+	holder = 453008 # Rugila
+	historical_nomad = yes
+}
+
+434.1.1 = {
+	holder = 453002 # Bleda
+}
+
+445.1.1 = {
+	holder = 453003 # Attila
+}
+
+453.3.1 = {
+	holder = 453005 # Ellac
+}
+
+454.1.1 = {
+	holder = 453006 # Dengizich
+}
+
+469.1.1 = {
+	holder = 453007 # Ernak
+}

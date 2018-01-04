@@ -4,17 +4,17 @@
 title = c_arborea
 
 # Settlements
-max_settlements = 3
-b_sassari = castle
-b_oristano = city
-b_ardara = temple
-#b_portotorres = castle
-#b_olbia = city
-#b_ottana = castle
-#b_tharros = castle
-#b_santaigia = castle
+max_settlements = 4
+b_tharros = castle
+#b_fordongianus = city
+b_santa_giusta = temple
+#b_oristano = castle
+#b_sanluri = castle
+#b_pabillonis = city
+#b_cabras = castle
+#b_sorgono = castle
 
 # Misc
 culture = roman
-religion = nicene
+religion = hellenic_pagan
 terrain = mountain

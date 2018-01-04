@@ -17,6 +17,6 @@ b_aire = temple
 #b_stsever = temple
 
 #Misc
-culture = vasconian
-religion = nicene
+culture = basque
+religion = hellenic_pagan
 terrain = hills

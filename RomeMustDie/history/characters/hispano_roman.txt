@@ -1,0 +1,238 @@
+492001 = {
+	name="Fistellus"	# 152 Addenda to the PLRE, Spain 21*) Fistellus
+	dynasty=492001
+	culture=hispano_roman
+	religion=nicene
+	trait="fair"
+	trait="proud"
+	trait="envious"
+	440.1.1={
+		birth=yes
+	}
+	510.1.1={
+		death=yes
+	}
+}
+
+492002 = {
+	name="Sicorius"		# Braulio mentions a Sicorius in his vitae for St. Aemilianus, which is a century off, but whatever
+	dynasty=492037
+	culture=hispano_roman
+	religion=hellenic_pagan
+	trait="cynical"
+	trait="cruel"
+	432.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492003 = {
+	name="Lusidius"
+	dynasty=492038
+	culture=hispano_roman
+	religion=nicene
+	trait="greedy"
+	trait="deceitful"
+	trait="craven"
+	439.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492004 = {
+	name="Palagorius"
+	dynasty=492042
+	culture=hispano_roman
+	religion=nicene
+	430.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492005 = {
+	name="Valerius"
+	dynasty=492048
+	culture=hispano_roman
+	religion=nicene
+	428.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492006 = {
+	name="Lupus"
+	dynasty=492048
+	father=492005
+	culture=hispano_roman
+	religion=nicene
+	454.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492007 = {
+	name="Ascanius"
+	dynasty=492050
+	culture=hispano_roman
+	religion=nicene
+	trait=proud
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492008 = {
+	name="Sofronius"
+	dynasty=492051
+	culture=hispano_roman
+	religion=priscillian
+	trait=patient
+	430.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492009 = {
+	name="Lectorius"
+	#LECTORIVS		governor of Baleares; comes  E V
+	dynasty=492052 #No idea what the actual family name was
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="jewish"
+	culture="hispano_roman"
+	add_trait="content"
+	add_trait="cynical"
+	add_trait="elusive_shadow"
+	431.1.1= {
+		birth="431.1.1"
+	}
+	493.1.2 = {
+		death="493.1.2"
+	}
+}
+492010 = {
+	name="Arthemisia"
+	female=yes
+	dynasty=492052 #No idea what the actual family name was
+	religion="jewish"
+	culture="hispano_roman"
+	father=492009
+	462.1.1= {
+		birth="462.1.1"
+	}
+	479.1.1={
+		religion=nicene
+	}
+	528.1.2 = {
+		death="528.1.2"
+	}
+}
+
+492011 = {
+	name="Burdunellus"
+	dynasty = 492053
+	martial=8
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="nicene"
+	culture="hispano_roman"
+	add_trait="ambitious"
+	add_trait="wroth"
+	add_trait="proud"
+	add_trait="misguided_warrior"
+	442.1.1= {
+		birth="442.1.1"
+	}
+	497.1.2 = {
+		death="497.1.2"
+	}
+}
+
+492012 = {
+	name="Belasco"
+	dynasty=936001
+	culture=basque
+	religion=hellenic_pagan
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492013 = {
+	name="Petrus"
+	dynasty=492054
+	culture=hispano_roman
+	religion=nicene
+	445.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492014 = {
+	name="Stephanus"
+	dynasty=492055
+	culture=hispano_roman
+	religion=nicene
+	431.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492015 = {
+	name="Celsus"
+	dynasty=492056
+	culture=hispano_roman
+	religion=priscillian
+	426.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492016 = {
+	name="Paulatus"
+	dynasty=492029
+	culture=hispano_roman
+	religion=nicene
+	419.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

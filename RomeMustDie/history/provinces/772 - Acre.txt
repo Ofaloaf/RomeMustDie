@@ -16,5 +16,5 @@ b_adelon = temple
 #b_athlith = castle
 
 # Misc
-culture = assyrian
-religion = nicene
+culture = graeci
+religion = jewish

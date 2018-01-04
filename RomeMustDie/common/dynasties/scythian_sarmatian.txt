@@ -1,0 +1,124 @@
+514001 = {
+	name = "Mares"
+	culture = sarmatian
+}
+
+514002 = {
+	name = "Syrmat"
+	culture = sarmatian
+}
+
+514003 = {
+	name = "Massaget"
+	culture = sarmatian
+}
+
+514004 = {
+	name = "Roxolan"
+	culture = sarmatian
+}
+
+514005 = {
+	name = "Batradz"
+	culture = sarmatian
+}
+
+514006 = {
+	name = "Lemigant"
+	culture = sarmatian
+}
+
+514007 = {
+	name = "Tyriget"
+	culture = sarmatian
+}
+
+514008 = {
+	name = "Aorsen"
+	culture = sarmatian
+}
+
+514009 = {
+	name = "Zeriuan"
+	culture = sarmatian
+}
+
+514010 = {
+	name = "Iaxamat"
+	culture = sarmatian
+}
+
+514011 = {
+	name = "Saius"
+	culture = sarmatian
+}
+
+514012 = {
+	name = "Metanast"
+	culture = sarmatian
+}
+
+514013 = {
+	name = "Ostoja"
+	culture = sarmatian
+}
+
+514014 = {
+	name = "Taifaliy"
+	culture = sarmatian
+}
+
+514015 = {
+	name = "Qola"
+	culture = sarmatian
+}
+
+514016 = {
+	name = "Raro"
+	culture = sarmatian
+}
+
+514017 = {
+	name = "Dzaw"
+	culture = sarmatian
+}
+
+514018 = {
+	name = "Edis"
+	culture = sarmatian
+}
+
+514019 = {
+	name = "Buzala"
+	culture = sarmatian
+}
+
+514020 = {
+	name = "Britat"
+	culture = sarmatian
+}
+
+514021 = {
+	name = "Kuaisa"
+	culture = sarmatian
+}
+
+514022 = {
+	name = "Naezidzin"
+	culture = sarmatian
+}
+
+514023 = {
+	name = "Khwalis"
+	culture = sarmatian
+}
+
+514024 = {
+	name = Iazyx
+	culture = sarmatian
+}
+
+514025 = {
+	name = Inaxungis
+	culture = sarmatian
+}

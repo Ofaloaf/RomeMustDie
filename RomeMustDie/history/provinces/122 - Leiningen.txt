@@ -6,7 +6,8 @@ title = c_leiningen
 # Settlements
 max_settlements = 5
 b_leiningen = tribal
-b_heidelberg = temple
+#b_heidelberg = city
+b_lorsch = temple
 
 #b_durkheim = castle
 #b_battenberg = castle
@@ -15,7 +16,7 @@ b_heidelberg = temple
 #b_pfeffingen = castle
 
 # Misc
-culture = alemannic
+culture = alemanni
 religion = norse_pagan
 
 # History

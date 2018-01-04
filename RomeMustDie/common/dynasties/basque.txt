@@ -1,0 +1,29 @@
+936001 = {
+	name = "Vardulus"
+	culture = basque
+}
+
+936002 = {
+	name = "Caristius"
+	culture = basque
+}
+
+936003 = {
+	name = "Autrigonus"
+	culture = basque
+}
+
+936004 = {
+	name = "Tarbellus"
+	culture = basque
+}
+
+936005 = {
+	name = "Sibuzates"
+	culture = basque
+}
+
+936006 = {
+	name = "Vescetanus"
+	culture = basque
+}

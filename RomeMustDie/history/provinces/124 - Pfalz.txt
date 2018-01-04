@@ -4,8 +4,7 @@
 title = c_pfalz
 
 # Settlements
-max_settlements = 5
-
+max_settlements = 4
 b_kaiserslautern = tribal
 b_worms = temple
 
@@ -15,5 +14,5 @@ b_worms = temple
 #b_saarbrucken = city
 
 # Misc
-culture = old_frankish
+culture = alemanni
 religion = norse_pagan

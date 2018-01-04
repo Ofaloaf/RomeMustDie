@@ -15,5 +15,6 @@ b_segovia = temple
 #b_iscar = city
 
 # Misc
-culture = iberoroman
-religion = nicene
+culture = hispano_roman
+religion = priscillian
+

@@ -6,6 +6,8 @@ title = c_kleve
 # Settlements
 max_settlements = 4
 b_kleve = tribal
+#b_goch = city
+b_rees = temple
 
 #b_anholt = castle
 #b_Xanten = city

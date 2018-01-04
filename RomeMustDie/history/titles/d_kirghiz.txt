@@ -1,0 +1,5 @@
+473.1.1 = {
+	liege = e_rouran
+	historical_nomad = yes
+	holder = 34873
+}

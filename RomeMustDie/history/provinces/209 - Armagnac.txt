@@ -17,5 +17,5 @@ b_eauze = temple
 #b_laplume = castle
 
 #Misc
-culture = galloroman
-religion = nicene
+religion = hellenic_pagan
+culture = basque

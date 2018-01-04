@@ -16,5 +16,5 @@ b_ismaillia = castle
 #b_serapeum = castle
 
 # Misc
-culture = coptic
+culture = graeci
 religion = miaphysite

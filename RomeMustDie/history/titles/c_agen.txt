@@ -1,6 +1,7 @@
 1.1.1 = {
-	liege = "d_narbonensis"
+	liege = "d_novempopulania"
 }
+
 466.1.1 = {
 	holder = 789025
 }

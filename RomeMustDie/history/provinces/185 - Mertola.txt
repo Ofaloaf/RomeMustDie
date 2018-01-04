@@ -14,5 +14,6 @@ b_monsaraz = temple
 #b_moura = castle
 #b_serpa = castle
 
-culture = iberoroman
+culture = hispano_roman
 religion = nicene
+

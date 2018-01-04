@@ -17,5 +17,5 @@ b_st_machar = temple
 
 # Misc
 culture = pictish
-religion = druidic
+religion = celtic_pagan
 terrain = hills

@@ -1,0 +1,8 @@
+224.1.1 = {
+	liege = e_persia
+	vice_royalty = yes
+}
+
+450.1.1 = {
+	holder = 1337006
+}

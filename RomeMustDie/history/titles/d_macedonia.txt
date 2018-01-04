@@ -1,7 +1,7 @@
-400.1.1={
-	liege="e_byzantium"
+1.1.1 = {
+	liege = e_byzantium
 	vice_royalty = yes
 }
-473.1.1={
-	holder=610014
+475.1.1 = {
+	holder = 610034
 }

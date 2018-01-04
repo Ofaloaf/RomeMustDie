@@ -1,0 +1,13 @@
+425.1.1 = {
+	holder = 632028
+	set_tribute_suzerain = { who = k_himyar percentage = 0.2 }
+	law = succ_turkish_succession
+}
+458.1.1 = {
+	holder = 632029
+	set_tribute_suzerain = { who = k_himyar percentage = 0.2 }
+}
+489.1.1 = {
+	holder = 632030
+	set_tribute_suzerain = { who = k_himyar percentage = 0.2 }
+}

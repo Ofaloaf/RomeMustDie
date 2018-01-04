@@ -1,4 +1,4 @@
-# 332 - Orbetello
+# 332 - Orbetello / Cosa
 
 # County Title
 title = c_orbetello
@@ -18,3 +18,4 @@ b_grosseto = city
 # Misc
 culture = roman
 religion = nicene
+ 

@@ -1,0 +1,59 @@
+454001 = {
+	name = "Aldigaring"
+	culture = gepid
+}
+
+454002 = {
+	name = Fauragagga
+	culture = gepid
+}
+
+454003 = {
+	name = Wulags # Gothic for 'gorgeous'/'glorious'
+	culture = gepid
+}
+
+454004 = {
+	name = Wullareis # Gothic for 'fuller'
+	culture = gepid
+}
+
+454005 = {
+	name = Weindrugkja # wine-drinker
+	culture = gepid
+}
+
+454006 = {
+	name = Hreigs # Victorious, triumphant
+	culture = gepid
+}
+
+454007 = {
+	name = Hundafas # centurion
+	culture = gepid
+}
+
+454008 = {
+	name = Hauhhairts # proud-hearted, haughty
+	culture = gepid
+}
+
+454009 = {
+	name = Sigis
+	culture = gepid
+}
+
+454010 = {
+	name = Riqiz
+	culture = gepid
+}
+
+454011 = {
+	name = Parakltus
+	culture = gepid
+}
+
+454012 = {
+	name = Migasina # travelling companion
+	culture = gepid
+}

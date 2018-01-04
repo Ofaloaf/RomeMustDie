@@ -14,6 +14,6 @@ b_hellin = temple
 #b_tobarra = castle
 #b_caudete = castle
 
-culture = iberoroman
+culture = hispano_roman
 religion = nicene
 terrain = hills

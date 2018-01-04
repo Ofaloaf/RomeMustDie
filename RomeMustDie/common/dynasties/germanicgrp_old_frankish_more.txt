@@ -1,0 +1,75 @@
+1940001 = {
+	name = "Ragnaring"
+	culture = old_frankish
+}
+
+1940002 = {
+	name = "Chararicing"
+	culture = old_frankish
+}
+
+1940003 = {
+	name = "Sigiberting"
+	culture = old_frankish
+}
+
+1940004 = {
+	name = "Chattus"
+	culture = old_frankish
+}
+
+1940005 = {
+	name=  "Chattuarius"
+	culture = old_frankish
+}
+
+1940006 = {
+	name = "Chasuarius"
+	culture = old_frankish
+}
+
+1940007 = {
+	name = "Cheruscus"
+	culture = old_frankish
+}
+
+1940008 = {
+	name = "Tencterus"
+	culture = old_frankish
+}
+
+1940009 = {
+	name = "Usipus"
+	culture = old_frankish
+}
+
+1940010 = {
+	name = "Bructerus"
+	culture = old_frankish
+}
+
+1940011 = {
+	name = "Camavus"
+	culture = old_frankish
+}
+
+1940012 = {
+	name = "Rodomno"
+	culture = old_frankish
+}
+
+1940013 = {
+	name = "Salius"
+	culture = old_frankish
+}
+
+1940014 = {
+	name = "Meroving"
+	culture = old_frankish
+	used_for_random = no
+}
+
+1940015 = {
+	name = "Vechte"
+	culture = old_frankish
+}

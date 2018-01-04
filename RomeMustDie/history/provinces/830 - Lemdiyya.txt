@@ -17,5 +17,5 @@ b_aindefla = temple
 #b_elhachem = castle
 
 # Misc
-culture = maghreb_arabic
+culture = moor
 religion = donatist

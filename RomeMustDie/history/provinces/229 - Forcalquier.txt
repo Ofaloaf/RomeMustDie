@@ -18,5 +18,5 @@ b_embrun = temple
 #b_apt = castle
 
 # Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

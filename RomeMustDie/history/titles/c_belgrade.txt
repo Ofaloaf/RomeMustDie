@@ -1,7 +1,7 @@
-455.1.1 = {
-	liege = "k_gepidia"
-	holder = 562001 # Ardaric
+469.1.1 = {
+	liege = k_gepidia
+	holder = 454002
 }
-460.1.1 = {
-	holder = 562002 # Gunderit
+470.1.1 = {
+	holder = 454003
 }

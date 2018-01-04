@@ -5,10 +5,10 @@ title = c_koln
 
 # Settlements
 max_settlements = 5
+b_berg = tribal
 b_koln = temple
-b_dietz = city
-b_berg = castle
-b_brauweiler = temple
+#b_dietz = city
+#b_brauweiler = temple
 
 #b_bonn = castle
 #b_saffenburg = castle
@@ -17,5 +17,5 @@ b_brauweiler = temple
 
 
 # Misc
-culture = galloroman
-religion = nicene
+culture = old_frankish
+religion = norse_pagan

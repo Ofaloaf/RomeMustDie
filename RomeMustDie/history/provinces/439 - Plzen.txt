@@ -17,5 +17,5 @@ b_plzen = tribal
 
 
 # Misc
-culture = thuringian
+culture = suebi
 religion = norse_pagan

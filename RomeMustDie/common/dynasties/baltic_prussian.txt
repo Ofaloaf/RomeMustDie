@@ -1,0 +1,5 @@
+1918001 = {
+	name = Gretuesius
+	culture = prussian
+	religion = baltic_pagan
+}

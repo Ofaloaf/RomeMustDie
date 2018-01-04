@@ -1,53 +1,103 @@
-# German lands bordering the Roman frontier
+# German territories on the periphery of the Roman world
 technology = {
 	titles = {
-		d_colonia
-		d_decumatia
+		d_bajovaria
+		d_orientalis
+		d_rhaetia
+		d_swabia
+		d_teriolis
 	}
-	475= {
-		military = 0.7
-		economy = 1.0
-		culture = 0.9
+	
+	475 = {
+		military = 0.4
+		economy = 0.35
+		culture = 0.25
 	}
 		
-	
-	1150 = {
-		military = 0.7
-		economy = 1.0
-		culture = 0.9
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
 	}
 }
 
-# Alemannia, Saxonia, Thuringia
+
+# Deepest darkest Germany
 technology = {
 	titles = {
-		### SAXONIA ###
-		d_angaria
+		d_angrivaria
+		d_boiohaemum
+		d_chude
+		d_courland
+		d_hevellia
+		d_kryvia
+		d_lithuanians
+		d_livonia
+		d_marahensis
+		d_mazovia
+		d_merya
+		d_meshchera
+		d_murom
+		d_mustajoki
 		d_nordalbingia
 		d_ostfalia
-		d_westfalia
-
-		### FRANCIA RIPUARIA ###
-		d_hessorum
-
-		### ALEMANNIA ###
-		d_swabia
-
-		### THURINGIA ###
-		d_bavaria
+		d_plescovia
+		d_polotsk
+		d_prussia
+		d_samogitia
+		d_silesia
 		d_thuringia
+		d_tueria
+		d_tur
+		d_uburzis
+		d_variscorum
+		d_vepsia
+		d_vidivaria
+		d_vistula
+		d_westfalia
+		d_yatviags
 	}
-
-	475= {
-		military = 0.5
-		economy = 0.8
-		culture = 0.8
+	
+	475 = {
+		military = 0.35
+		economy = 0.20
+		culture = 0.10
 	}
 		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# Deepest darkest coastal German
+technology = {
+	titles = {
+		d_bosporus
+		d_cimmeria
+		d_tanais
+		d_frisia
+		d_dania
+		d_hamaland
+		d_holland
+		d_iutum
+		d_lemovia
+		d_veletia
+		d_warinia
+	}
 	
-	1150 = {
-		military = 0.5
-		economy = 0.8
-		culture = 0.8
+	475 = {
+		military = 0.35
+		economy = 0.20
+		culture = 0.10
+
+		TECH_NAVAL = 1.0
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
 	}
 }

@@ -1,11 +1,12 @@
-# 311 - Plauen
+# 311 - Plauen / Lupfurdum
 
 # County Title
 title = c_plauen
 
 # Settlements
-max_settlements = 5
-b_plauen = tribal
+max_settlements = 4
+b_leipzig = tribal
+#b_plauen = city
 b_merseburg = temple
 
 #b_knobelsdorf = castle
@@ -15,5 +16,5 @@ b_merseburg = temple
 #b_naumburg = castle
 
 # Misc
-culture = thuringian
+culture = thuringi
 religion = norse_pagan

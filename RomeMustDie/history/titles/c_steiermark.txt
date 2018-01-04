@@ -1,7 +1,4 @@
-1.1.1 = {
-	liege = "d_noricum"
-}
-
 475.1.1 = {
+	liege = "d_teriolis"
 	holder = 1871004
 }

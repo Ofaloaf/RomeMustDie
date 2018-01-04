@@ -5,16 +5,17 @@ title = c_trier
 
 # Settlements
 max_settlements = 4
-b_coblenz = castle
-b_trier = temple
-b_bitburg = city
+b_trier = castle
+b_coblenz = temple
+#b_sponheim = city
 
 #b_andernach = castle
 #b_wittlich = castle
 #b_gerolstein = castle
 #b_laach = castle
-#b_sponheim = city
+#b_bitburg = castle
 
 # Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene
+

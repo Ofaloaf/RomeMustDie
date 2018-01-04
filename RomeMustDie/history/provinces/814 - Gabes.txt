@@ -17,5 +17,5 @@ b_kebili = temple
 #b_alqalah = castle
 
 # Misc
-culture = punic
+culture = moor
 religion = donatist

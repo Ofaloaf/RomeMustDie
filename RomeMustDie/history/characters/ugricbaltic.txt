@@ -1,0 +1,14 @@
+167001 = {
+	name="Neeme"
+	# fictional and also just reappropriating characters vanilla CK2 already has.
+	dynasty=167001
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait=content
+	437.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

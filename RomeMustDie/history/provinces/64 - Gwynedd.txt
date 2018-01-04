@@ -4,12 +4,12 @@
 title = c_gwynedd
 
 # Settlements
-max_settlements = 5
-b_aberffraw = castle
+max_settlements = 4
+b_aberffraw = tribal
 b_bangor_fawr = temple
 
 #b_degannwy = castle
-b_caernarfon = city
+#b_caernarfon = city
 #b_harlech = castle
 #b_cardigan = castle
 #b_llanbadarn = castle
@@ -17,5 +17,5 @@ b_caernarfon = city
 
 # Misc
 culture = welsh
-religion = druidic
+religion = celtic_pagan
 terrain = hills

@@ -1,4 +1,7 @@
 470.1.1 = {
+
 	liege = "k_visigothia"
+
 	holder = 492001
+
 }

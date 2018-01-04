@@ -17,5 +17,5 @@ b_vabres = temple
 
 
 #Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

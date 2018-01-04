@@ -1,4 +1,4 @@
-470.1.1 = {
-	liege = "d_numidia"
-	holder = 1962005
+467.1.1 = {
+	liege = d_aurasium
+	holder = 1962002
 }

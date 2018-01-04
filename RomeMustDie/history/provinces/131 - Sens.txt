@@ -15,5 +15,5 @@ b_nemours = city
 #b_villeneuveleroi = castle
 #b_montereau = castle
 
-culture = galloroman
+culture = gallo_roman
 religion = nicene

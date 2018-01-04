@@ -1,0 +1,4 @@
+1919001 = {
+	name = Reuda
+	culture = irish
+}

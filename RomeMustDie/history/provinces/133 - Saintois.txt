@@ -14,7 +14,6 @@ b_saintois = temple
 #b_ornois = castle
 #b_saulnois = castle
 #b_dompaire = castle
-
 # Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

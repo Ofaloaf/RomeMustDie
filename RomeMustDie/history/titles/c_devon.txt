@@ -1,7 +1,7 @@
-435.1.1 = {
+430.1.1 ={
 	liege = "d_dumnonia"
-	holder = 1589015
+	holder = 1589057
 }
 443.1.1 = {
-	holder = 1589016
+	holder = 1589002
 }

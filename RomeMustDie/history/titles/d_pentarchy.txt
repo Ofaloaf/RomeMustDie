@@ -1,6 +1,6 @@
 1.1.1 = {
-	liege = "e_wre"
+	active = no
 }
-468.1.1 = {
-	holder = 476015
+531.1.1 = {
+	active = yes
 }

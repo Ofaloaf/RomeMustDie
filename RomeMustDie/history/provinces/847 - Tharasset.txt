@@ -17,5 +17,5 @@ b_tharasset = tribal
 #b_tiglit = castle
 
 # Misc
-culture = maghreb_arabic
+culture = moor
 religion = west_african_pagan

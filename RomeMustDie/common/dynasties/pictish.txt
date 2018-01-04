@@ -1,0 +1,9 @@
+1707001 = {
+	name = Fortrenn
+	culture = pictish
+}
+
+1707002 = {
+	name = Eriping
+	culture = pictish
+}

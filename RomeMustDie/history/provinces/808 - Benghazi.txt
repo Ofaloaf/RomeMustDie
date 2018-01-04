@@ -16,5 +16,5 @@ b_tulmaytath = castle
 #b_jardinah = castle
 
 # Misc
-culture = maghreb_arabic
+culture = graeci
 religion = nicene

@@ -5,8 +5,7 @@ title = c_nordgau
 
 # Settlements
 max_settlements = 4
-b_egisheim = castle
-b_lauterburg = city
+b_egisheim = tribal
 b_strassburg = temple
 
 #b_selz = castle
@@ -16,5 +15,5 @@ b_strassburg = temple
 #b_schlettstadt = city
 
 # Misc
-culture = galloroman
-religion = nicene
+culture = alemanni
+religion = norse_pagan

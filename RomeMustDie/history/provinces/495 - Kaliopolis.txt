@@ -18,5 +18,3 @@ b_madyta = city
 # Misc
 culture = graeci
 religion = nicene
-
-# History

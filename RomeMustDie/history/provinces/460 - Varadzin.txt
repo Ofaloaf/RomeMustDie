@@ -16,5 +16,5 @@ b_ludbreg = temple
 #b_oroslavje = castle
 
 # Misc
-culture = roman
+culture = pannonian
 religion = nicene

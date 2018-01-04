@@ -1,7 +1,6 @@
 1.1.1 = {
-	liege = "d_samnium"
+	liege = d_samnium
 }
-
-469.1.1 = {
-	holder = 476013
+474.1.1 = {
+	holder = 476062
 }

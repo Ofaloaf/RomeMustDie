@@ -1,0 +1,126 @@
+scythic = {
+	graphical_cultures = { turkishgfx mongolgfx muslimgfx }
+
+	hun = {
+		graphical_cultures = { turkishgfx }
+		secondary_event_pictures = bedouin_arabic
+
+		horde = yes
+		
+		color = { 0.775 0.75 0.7 }
+
+		male_names = {
+			Akhad Alburia Alypbi Askungur Attila Aybat Almos Avitohol Aigan Atakam
+			Balamber Belk Bleda Bu-Timer Bu-Urgan Balkor
+			Chelbir Csaba
+			Dengizich Djilka Djurash 
+			Ellec Ermak Ezelag Emnetzur Esla
+			Gazan Gostun Grodas
+			Hernach Hülek
+			Khinialon Kurbat Karadach
+			Labertam 
+			Menumorut Mamas Mugel
+			Octar 
+			Phalis
+			Rugila 
+			Sandlikh Shambat Sinnion Sulabi Sunicas Simmas
+			Tat-Ugek Tat-Utyak Tatra Tingiz Tuldila Tarkatzus
+			Uldin Ügyek
+			Vund 
+			Zabergan
+		}
+		female_names = {
+			Asli Abacil
+			Dodola
+			Emese Erecan
+			Ildico 
+			Khala Kuma
+			N'Kara
+			Önedbelia
+			Toh
+		}
+		from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}
+
+	sarmatian = {
+		graphical_cultures = { turkishgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.85 0.7 0.87 }
+		
+		horde = yes
+
+		male_names = {
+			Abaziôn Abdarak Abeak Aboag Abroz Adoês Akkas Amaiak Amôspad Andranak Aphtheimak Apsach Araouêg
+			Ardagdak Argouanag Aroas Aseoach Asan Asar Aspak Aspurg Auasis Aubadag Aurazak Aziag
+			Badak Badas Bagdoch Bagês Bastak Baiorasp Banas Baxag Bidak Bistês Bôrak Bôrnôn Bradak Benga Babaï
+			Chanak Chard Chôdarz Chodek Chodios Chôdonak Chopharn Chouarsaz Chounar
+			Dadag Danarasmak Danarasmak Didumoxar Durgolel
+			Eisgoud Êlman Êrakas Eunon
+			Gadas Gadik Galat Gaos Gast Gokar Godigas Godos Gôsak Gosôn
+			Iôdas Insazag Irambust Irauad Irbis Irgan
+			Jafag Jauak Jazadag Jôdesmag
+			Kenexar Kamorsaz Karaxt Karsas Karzoaz Kasag Kasais Kattas Khuddan Kopharn Kossas Kouz
+			Madak Maisês Maniag Mardauos Masas Mastas Mazis Medosak Megis Mesak Mord Mordag
+			Nabaz Namgên Namok
+			Oarozbalak Okorzan Olgas Omrasmak Orsiomik Ossigas Ochodiak Ouaras Ourazak Ouastobal Ourbaz
+			Oxardoz Oustan
+			Parspanak Patias Pêrak Phazinam Phad Phaldaran Pharnag Phaldarn Pharnag Pharnês Pharsanz
+			Phidas Phoros Phourtas
+			Radamas Radamist Radamofort Radamps Radamsad Raodmêos Rapak Rassog Rathag Respendial Radamsad
+			Rescupor
+			Sadiman Saitapharn Sambida Sanag Sarak Sarat Saraxaz Sasas Sauagas Sauromat Seauag Senek Siauak
+			Siômak Sôchoubaz Sorchak Sozir Spak Spadak Spaldin Sparophot Synges
+			Thirthag Thulogan Tibês Tillês Tumibag
+			Xêgod Xobas
+			Zabag Zaband Zabarg Zosin
+		}
+		female_names = {
+			Ababa Aldi Amage Aritê
+			Borena Bisera Burdukhan Boyana
+			Dana
+			Gunêpag Gunêtasi Gergana
+			Iskra
+			Leimeiê Lala
+			Mada Maya Maiôsara
+			Nevena
+			Sarukê Storanê
+			Tamura Tirgataô Todorka
+			Yana Yoanan Yordanka
+		}
+		from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	alan = {
+		graphical_cultures = { easternslavicgfx }
+		
+		color = { 0.7 0.5 0.7 }
+
+		male_names = {
+			Ælbeg Æmbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot_Ashot Aslan Aspar Athom Balambar Balsag Barlah Bæqætar Basil_Basil Bazuk Beler Ber Biræg Boz-Uruz Buürgur Buriberdi
+			Burikhan Candak Chelakhsartag Davit_David Djadaron Durgulel Dzæræs Gætæg Georgy_George Girgon Gokhar Gubaz Guram_Guaram Hasqar Huddan Istor Itaz Iveri Kandak Kandz Kavtia Kaur
+			Khankhusy Khætag Konstantin_Constantine Kubal Kuddana Kul Kuluk Lak Levan_Leo Pulad Respendial Rosmag Safrak Sakhir Sangipan Saros Sathis Savkudz Soslan Suarn Syrdon Taymuraz_Teimuraz Taus Totraz Urdure Uruzma Uturku Yasynya Zaur
+		}
+		female_names = {
+			Adadza Alda Altun Ana_Anna Atsyrukhs Baia Bedisa Borena Btsenon Burudukan Duda Elene_Helen Eliso Gergana Gulchara Guranduht_Gorandukht Kera Keratsa Ketevan_Catherine Koser
+			Lamara Lashin Lela Mariami_Mariam Natia Nino Rusudan Sanatha Satinik_Satinik Shatana Shorena Shukhia Tamari_Tamar Tinatini Tsiala Vardo Vedokha Yeran
+		}	
+		
+		from_dynasty_prefix = "ve "
+		
+		male_patronym = "y fyrt"
+		female_patronym = "y chyzg"
+		prefix = no
+		
+		disinherit_from_blinding = yes
+		
+		modifier = default_culture_modifier
+	}
+}

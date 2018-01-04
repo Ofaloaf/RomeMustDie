@@ -18,8 +18,3 @@ b_gaeta = city
 # Misc
 culture = roman
 religion = nicene
-
-# History
-1066.1.1 = { trade_post = b_alliata }
-1107.1.1 = { culture = italian }
-1285.1.1 = { trade_post = b_spinola }

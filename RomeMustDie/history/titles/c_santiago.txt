@@ -1,6 +1,10 @@
 409.1.1 = {
-	liege = "d_galicia"
+
+	liege = "d_gallaecia"
 }
+
 469.1.1 = {
+
 	holder = 409001
+
 }

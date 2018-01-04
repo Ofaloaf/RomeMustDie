@@ -16,5 +16,5 @@ b_lydda = temple
 #b_beitdejan = castle
 
 # Misc
-culture = assyrian
-religion = nicene
+culture = graeci
+religion = miaphysite

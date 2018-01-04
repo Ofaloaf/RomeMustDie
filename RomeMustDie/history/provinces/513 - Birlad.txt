@@ -6,8 +6,8 @@ title = c_birlad
 # Settlements
 max_settlements = 4
 
-b_barlad = castle
-b_vaslui = city
+b_barlad = tribal
+#b_vaslui = city
 b_husi = temple # Slavic Pagan Holy site
 
 #b_galati = castle
@@ -18,5 +18,5 @@ b_husi = temple # Slavic Pagan Holy site
 
 # Misc
 
-culture = roman
-religion = nicene
+culture = hun
+religion = tengri_pagan

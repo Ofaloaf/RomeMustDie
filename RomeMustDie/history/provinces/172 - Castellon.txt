@@ -15,6 +15,7 @@ b_nules = temple
 #b_burriana = castle
 
 # Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene
 terrain = hills
+

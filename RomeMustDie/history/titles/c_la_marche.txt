@@ -1,7 +1,12 @@
 1.1.1 = {
-	liege = "d_aquitania"
+
+	liege = "d_bituricensis"
+
 }
 
+
 469.1.1 = {
+
 	holder = 789039
+
 }

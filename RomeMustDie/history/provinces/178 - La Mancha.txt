@@ -15,5 +15,6 @@ b_laroda = temple
 #b_jorquera = castle
 
 # Misc
-culture = iberoroman
+culture = hispano_roman
 religion = nicene
+

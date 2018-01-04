@@ -17,5 +17,5 @@ b_boutron = temple
 #b_nephin = castle
 
 # Misc
-culture = assyrian
-religion = nestorian
+culture = graeci
+religion = miaphysite

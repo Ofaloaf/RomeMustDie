@@ -17,5 +17,5 @@ b_assultan = temple
 #b_qaryatbishr = castle
 
 # Misc
-culture = maghreb_arabic
-religion = nicene
+culture = moor
+religion = kemetic_pagan

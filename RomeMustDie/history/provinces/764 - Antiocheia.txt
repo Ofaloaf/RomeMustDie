@@ -18,4 +18,4 @@ b_darbsak = castle
 
 # Misc
 culture = graeci
-religion = nestorian
+religion = miaphysite

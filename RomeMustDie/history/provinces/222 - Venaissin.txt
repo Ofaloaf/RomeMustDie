@@ -18,5 +18,5 @@ b_carpentras = city
 #b_mondragon = castle
 
 # Misc
-culture = galloroman
+culture = gallo_roman
 religion = nicene

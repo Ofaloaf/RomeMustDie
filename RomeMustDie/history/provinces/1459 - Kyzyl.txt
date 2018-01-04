@@ -1,0 +1,15 @@
+# County Title
+title = c_kyzyl
+
+# Settlements
+max_settlements = 4
+
+b_kyzyl = tribal
+#b_turan =
+#b_chadaana =
+#b_ulala =
+#b_ulagan =
+
+# Misc
+culture = turkish
+religion = tengri_pagan

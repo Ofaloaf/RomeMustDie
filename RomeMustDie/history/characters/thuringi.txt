@@ -1,0 +1,61 @@
+4321001 = {
+	name="Hermegisclus"
+	dynasty=4321001
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	learning=6
+	religion="norse_pagan"
+	culture=thuringi
+	add_trait=gregarious
+	add_trait="charismatic_negotiator"
+	449.11.17 = {
+		birth=yes
+	}
+	530.1.1 = {
+		death=yes
+	}
+}
+
+4321002 = {
+	name="Basinus" #duke of Thuringia
+	dynasty=227 #von Thüringen
+	religion="norse_pagan"
+	culture="thuringi"
+	438.1.1={
+		birth=yes
+	}
+	477.1.1={
+		death=yes
+	}
+}
+
+4321003 = {
+	name="Fisud" #duke of Thuringia
+	dynasty=227 #von Thüringen
+	religion="norse_pagan"
+	culture="thuringi"
+	father=4321002
+	458.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+4321004 = {
+	name="Ranigunda" #wife of Wacho of Lombards
+	female=yes
+	dynasty=227 #von Thüringen
+	religion="norse_pagan"
+	culture="thuringi"
+	father=4321003
+	475.10.21={
+		birth=yes
+	}
+	540.1.1={
+		death=yes
+	}
+}

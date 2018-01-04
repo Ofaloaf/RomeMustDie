@@ -1,0 +1,122 @@
+1337001 = {
+	name="Antipater"
+	# based off Antipater 2 in the PLRE but a bit earlier than was probably historical
+	dynasty=2424002
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	learning = 7
+	religion=nicene
+	culture=assyrian # Antipater's a Greek name, but it seems like one of those names that spread around after a while.
+	add_trait=arbitrary
+	add_trait=charitable
+	add_trait=indulgent_wastrel
+	437.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1337002 = {
+	name="Lazarus"
+	# fictional
+	dynasty=1059016
+	martial=5
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	learning = 5
+	religion=jewish
+	culture=assyrian
+	445.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1337003 = {
+	name="Thoma"
+	# fictional
+	dynasty=1059017
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	learning = 7
+	religion=nestorian
+	culture=assyrian
+	448.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1337004 = {
+	name="Babaeus"
+	# fictional
+	dynasty=2424004
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning = 7
+	religion=nestorian
+	culture=assyrian
+	add_trait=zealous
+	441.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1337005 = {
+	name="Barsauma"
+	# Metropolitan of Nisibis from 460 to 491
+	dynasty=2424005
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	learning = 8
+	religion=nestorian
+	culture=assyrian
+	add_trait=gregarious
+	add_trait=content
+	add_trait=humble
+	add_trait=charismatic_negotiator
+	419.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1337006 = {
+	name="Abbousta"
+	# possibly apocryphal bishop of the metropolitan province of Adiabene
+	dynasty=2424003
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning = 7
+	religion=nestorian
+	culture=assyrian
+	add_trait=charitable
+	418.1.1={
+		birth=yes
+	}
+	499.1.1={
+		death=yes
+	}
+}

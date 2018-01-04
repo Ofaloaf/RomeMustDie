@@ -1,6 +1,7 @@
-1.1.1 = {
-	liege = "d_carpetania"
+466.1.1 = {
+
+	liege = "k_visigothia"
+	holder = 200284
+
 }
-467.1.1={
-	holder=200301
-}
+
