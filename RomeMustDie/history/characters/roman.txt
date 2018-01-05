@@ -2787,7 +2787,7 @@
 	culture="roman"
 	add_trait="kind"
 	add_trait="temperate"
-	add_trait="detatched_priest"
+	add_trait="detached_priest"
 	441.1.1= {
 		birth="441.1.1"
 	}

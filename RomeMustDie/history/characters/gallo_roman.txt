@@ -554,7 +554,7 @@
 	diplomacy=11
 	intrigue=6
 	stewardship=7
-	learning=10d
+	learning=10
 	trait="shy"
 	trait="grey_eminence"
 	383.1.1={

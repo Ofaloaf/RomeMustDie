@@ -5,7 +5,7 @@ technology = {
 		d_svealand
 		d_smaland
 		d_gotland
-		d_gothia
+		d_gotaland
 		d_norrland
 		d_skane
 		d_orkney

@@ -69,7 +69,7 @@
 	culture="thuringi"
 	add_trait="brave"
 	add_trait="ambitious"
-	add_trait="underhanded_rouge"
+	add_trait="underhanded_rogue"
 	438.1.1 = {
 		birth=yes
 	}

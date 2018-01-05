@@ -65,7 +65,7 @@
 1848004 = {
 	name="Camundus"
 	# attested in 472
-	dynasty=1859043 # fictional dynasty
+	dynasty=1859054 # fictional dynasty
 	culture="pannonian"
 	religion="nicene"
 	martial=6

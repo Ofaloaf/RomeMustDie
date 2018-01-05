@@ -87,3 +87,8 @@
 	name = Rudericus
 	culture = visigothi
 }
+
+411019 = {
+	name = Argymirucus
+	culture = visigothi
+}

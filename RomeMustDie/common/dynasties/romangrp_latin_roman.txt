@@ -343,11 +343,6 @@
 	culture = roman
 }
 
-753069 = {
-	name = "Acerronius"
-	culture = roman
-}
-
 753070 = {
 	name = "Antistius"
 	culture = roman
@@ -760,5 +755,10 @@
 
 753152 = {
 	name = Claudius
+	culture = roman
+}
+
+753153 = {
+	name = "Acerronius"
 	culture = roman
 }

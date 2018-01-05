@@ -2611,6 +2611,8 @@ e_britannia = {
 				
 				romano_british = Guenta
 				welsh = Guent
+
+				holy_site = pelagian
 			
 				b_caerwent = {
 					# Venta Silurum

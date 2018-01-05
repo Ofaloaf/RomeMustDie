@@ -57,3 +57,8 @@
 	name = "Victohaling"
 	culture = vandal
 }
+
+123013 = {
+	name = "Godagising"
+	culture = vandal
+}

@@ -443,7 +443,7 @@
 
 200309 = {
 	name="Argymirus"
-	dynasty=411008
+	dynasty=411019
 	religion="arian"
 	culture="visigothi"
 	add_trait="ambitious"

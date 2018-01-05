@@ -9,7 +9,6 @@
 	law = vice_royalty_2
 	law = revoke_title_law_1
 	law = out_of_realm_inheritance_law_1
-	law = imperial_administration
 	law = vassal_wars_law_2
 } # this way Jan 27 BC is displayed in his date, only backwards!
 24.8.19={

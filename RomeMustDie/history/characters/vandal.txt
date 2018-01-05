@@ -203,7 +203,7 @@
 
 123012={
 	name="Godagis"
-	dynasty=123004
+	dynasty=123013
 	martial=12
 	diplomacy=6
 	intrigue=7

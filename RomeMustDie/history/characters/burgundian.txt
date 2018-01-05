@@ -107,7 +107,6 @@
 	trait="brave"
 	trait="envious"
 	trait="cruel"
-	trait="cruel"
 	trait="patient"
 	trait="temperate"
 	452.1.1={
