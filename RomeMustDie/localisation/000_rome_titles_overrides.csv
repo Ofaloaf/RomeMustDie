@@ -3834,6 +3834,17 @@ c_viken_adj;Ragnarician;;;;;;;;;;;;;x
 b_kungahalla;Konungahella;;;;;;;;;;;;;x
 c_vastergotland_adj;Vestrogothic;;;;;;;;;;;;;x
 b_galakvist;Hrefnesholt;;;;;;;;;;;;;x
+b_ouadane;Wadan;;;;;;;;;;;;;x
+b_aoudaghost;Awadaghust;;;;;;;;;;;;;x
+b_koumbi_saleh;Kumbi Saleh;;;;;;;;;;;;;x
+b_alouarta;Alwarta;;;;;;;;;;;;;x
+b_araouane;Arawan;;;;;;;;;;;;;x
+b_oualata;Walata;;;;;;;;;;;;;x
+b_aougrout;Awgrut;;;;;;;;;;;;;x
+b_tinzaouten;Tinzawatin;;;;;;;;;;;;;x
+b_ouallam;Wallam;;;;;;;;;;;;;x
+b_ouroali;Wurali;;;;;;;;;;;;;x
+d_songhay;Gao;;;;;;;;;;;;;x
 #
 PROV6;Blecingia;;;;;;;;;;;;;x
 PROV17;Ariconium;;;;;;;;;;;;;x
@@ -4362,6 +4373,11 @@ PROV868;Amithoscuta;;;;;;;;;;;;;x
 PROV869;Asabon;;;;;;;;;;;;;x
 PROV870;Regmah;;;;;;;;;;;;;x
 PROV900;Jaxartes;;;;;;;;;;;;;x
+PROV912;Awadaghust;;;;;;;;;;;;;x
+PROV915;Jenne;;;;;;;;;;;;;x
+PROV917;Arawan;;;;;;;;;;;;;x
+PROV919;Walata;;;;;;;;;;;;;x
+PROV920;Wadan;;;;;;;;;;;;;x
 PROV929;Interamna;;;;;;;;;;;;;x
 PROV930;Caturices;;;;;;;;;;;;;x
 PROV931;Morea;;;;;;;;;;;;;x
