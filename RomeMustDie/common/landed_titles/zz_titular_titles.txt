@@ -454,3 +454,18 @@ e_rouran = {
 		always = no
 	}
 }
+
+e_hephthalite = {
+	color= { 88 136 74 }
+	color2={ 220 220 0 }
+
+	culture = sogdian
+
+	capital = 1187 # Kunduz
+	
+	short_name = yes
+
+	allow = {
+		always = no
+	}
+}

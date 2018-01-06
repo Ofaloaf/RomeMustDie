@@ -1,0 +1,30 @@
+1222001 = {
+	name="Khingila" # 
+	dynasty=1222002 
+	
+	culture = sogdian
+	religion = buddhist
+	trait = vajrayana_buddhist
+	
+	410.1.1={
+		birth=yes
+	}	
+	480.1.1={
+		death=yes
+	}
+}
+
+1222002 = {
+	name="Mehama" # 
+	dynasty=1222001
+	culture = sogdian
+	religion = buddhist
+	trait = vajrayana_buddhist
+	
+	428.1.1={
+		birth=yes
+	}	
+	493.1.1={
+		death=yes
+	}
+}

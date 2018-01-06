@@ -1,0 +1,9 @@
+1222001 = {
+	name = Alakhana
+	culture = sogdian
+}
+
+1222002 = {
+	name = Hua
+	culture = sogdian
+}

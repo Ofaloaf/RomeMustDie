@@ -1,0 +1,50 @@
+1888001 = {
+	name="Xwedadad"
+	dynasty=1042134
+	religion="zoroastrian"
+	culture="baloch"
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1888002 = {
+	name="Keyxusrew"
+	dynasty=1042135
+	religion="zoroastrian"
+	culture="baloch"
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1888003 = {
+	name="Ferzad" 
+	dynasty=1042136
+	religion="zoroastrian"
+	culture="baloch"
+	444.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+1888004 = {
+	name="Tahmasp"
+	dynasty=1042146
+	religion="zoroastrian"
+	culture="baloch"
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

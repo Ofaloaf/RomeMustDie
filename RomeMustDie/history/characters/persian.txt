@@ -286,64 +286,74 @@
 }
 
 144568 = {
-	name="Akhsitan"
-	dynasty=101873
-	religion="sunni"
+	name="Azadbeh"
+	# fictional
+	dynasty=8888008
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=zoroastrian
 	culture="persian"
-	trait="ambitious"
-	trait="deceitful"
-	trait="envious"
-	trait="diligent"
-	father=232753
-	mother=232750
-	1128.1.1={
-		birth="1128.1.1"
+	438.1.1={
+		birth=yes
 	}
-	1197.1.1={
-		death="1197.1.1"
+	500.1.1={
+		death=yes
 	}
 }
 
 144569 = {
 	name="Farrukhzad"
-	dynasty=101873
-	religion="sunni"
+	# fictional
+	dynasty=8888011
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=zoroastrian
 	culture="persian"
-	father=232753
-	mother=232750
-	1138.1.1={
-		birth="1138.1.1"
+	430.1.1={
+		birth=yes
 	}
-	1204.8.1={
-		death="1204.8.1"
+	500.1.1={
+		death=yes
 	}
 }
 
 144570 = {
-	name="Gushtasb"
-	dynasty=101873
-	religion="sunni"
+	name="Shahriyar"
+	# fictional
+	dynasty=8888012
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=zoroastrian
 	culture="persian"
-	father = 144569
-	1171.1.1={
-		birth="1171.1.1"
+	439.1.1={
+		birth=yes
 	}
-	1230.1.1={
-		death="1230.1.1"
+	500.1.1={
+		death=yes
 	}
 }
 
 144571 = {
-	name="Fariburz"
-	dynasty=101873
-	religion="sunni"
+	name="Zarmihr"
+	# fictional
+	dynasty=7511 # Karen
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion=zoroastrian
 	culture="persian"
-	father = 144570
-	1192.1.1={
-		birth="1192.1.1"
+	424.1.1={
+		birth=yes
 	}
-	1243.1.1={
-		death="1243.1.1"
+	500.1.1={
+		death=yes
 	}
 }
 
@@ -352,7 +362,6 @@
 	dynasty=101873
 	religion="sunni"
 	culture="persian"
-	father = 144571
 	1210.1.1={
 		birth="1210.1.1"
 	}
@@ -366,7 +375,6 @@
 	dynasty=101873
 	religion="sunni"
 	culture="persian"
-	father = 144572
 	1229.1.1={
 		birth="1229.1.1"
 	}
@@ -4985,7 +4993,6 @@
 	dynasty=101873
 	religion="sunni"
 	culture="persian"
-	father=144568
 	1162.1.1={
 		birth=yes
 	}
@@ -5000,7 +5007,6 @@
 	female=yes
 	religion="sunni"
 	culture="persian"
-	father=144568
 	1174.1.1={
 		birth=yes
 	}
@@ -5014,7 +5020,6 @@
 	dynasty=101873
 	religion="sunni"
 	culture="persian"
-	father=144568
 	1176.1.1={
 		birth=yes
 	}
@@ -5029,7 +5034,6 @@
 	female=yes
 	religion="sunni"
 	culture="persian"
-	father=144568
 	1178.1.1={
 		birth=yes
 	}
@@ -5044,7 +5048,6 @@
 	female=yes
 	religion="sunni"
 	culture="persian"
-	father=144568
 	1180.1.1={
 		birth=yes
 	}
@@ -5087,7 +5090,6 @@
 	dynasty=101873
 	religion="sunni"
 	culture="persian"
-	father=144569
 	1173.1.1={
 		birth=yes
 	}
