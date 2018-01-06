@@ -85,7 +85,7 @@ e_africa = {
 				b_dougga = {
 					# Thugga
 
-					greek = "TokaÃ¯"
+					greek = "Tokaï"
 				}
 				b_elkrib = {
 					# Lares # not modern-day El Krib
@@ -434,7 +434,7 @@ e_africa = {
 					# Thullio # actually Ksar beni-Feredj
 				}
 				b_meroudj = {
-					# Culucitanis # actually Sidi bou MÃ©rouane
+					# Culucitanis # actually Sidi bou Mérouane
 				}
 			}
 		}
@@ -517,7 +517,7 @@ e_africa = {
 					# Tabudium (Oppidum) # actually Tehouda
 				}
 				b_nebka = {
-					# Badias # actually BadÃ¨s.
+					# Badias # actually Badès.
 				}
 				b_bigou = {
 					# Tfilzi # actually Menaa
@@ -559,7 +559,7 @@ e_africa = {
 					# Gunugu # actually Sidi-Brahim
 				}
 				b_rhedadoua = {
-					# Cartennae # actually TÃ©nÃ¨s
+					# Cartennae # actually Ténès
 				}
 				b_elachour = {
 					# Castra Germanorum # actually near Oued Damous
@@ -770,10 +770,10 @@ e_africa = {
 				b_naama = {
 				}
 				b_saida = {
-					# Tigit # actually BÃ©nian
+					# Tigit # actually Bénian
 				}
 				b_alkasdir = {
-					# Alamiliaria # 'Ala Miliaria', technically # actually also BÃ©nian
+					# Alamiliaria # 'Ala Miliaria', technically # actually also Bénian
 				}
 				b_alancha = {
 					# Aquae Sirenses # actually Hammam bou Hanifa

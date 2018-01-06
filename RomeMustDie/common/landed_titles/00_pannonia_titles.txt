@@ -45,7 +45,7 @@ e_pannonia = {
 					thuida = Lipnizza
 				}
 				b_radkersburg = {
-					# Ragando # actually Spodnje Gru≈°ovje
+					# Ragando # actually Spodnje Gruöovje
 				}
 				b_stubing = {
 					# Ad Lotodos # actually Stranice
@@ -73,7 +73,7 @@ e_pannonia = {
 					# Carvanca (Mons)
 				}
 				b_stain = {
-					# Ad Quartodecimum # actually Groblje pri Meng≈°u
+					# Ad Quartodecimum # actually Groblje pri Mengöu
 				}
 				b_guetenegg = {
 					# Ad Publicanos # actually Lukovica
@@ -514,7 +514,7 @@ e_pannonia = {
 					# Aemate # actually Dobrnja
 				}
 				b_jajce = {
-					# Splonum # actually Vrtaƒçe, a hill near Cmiljeva Kosa
+					# Splonum # actually Vrtace, a hill near Cmiljeva Kosa
 				}
 				b_bocac = {
 					# Valdasus # actually Sana
@@ -616,7 +616,7 @@ e_pannonia = {
 					# Tricciana # actually Sagvar
 				}
 				b_kaposvar = {
-					# Caesariana # actually Szentkir√°lyszabadja. Say that ten times fast!
+					# Caesariana # actually Szentkir·lyszabadja. Say that ten times fast!
 				}
 				b_szigetvar = {
 					# Sigethum # just a Latinization of the modern name tbh
@@ -625,7 +625,7 @@ e_pannonia = {
 					# Mogetiana # actually Somlovasarhely
 				}
 				b_marcali = {
-					# Volgum # actually Fen√©kpuszta
+					# Volgum # actually FenÈkpuszta
 				}
 				b_nagyatad = {
 					# Floriana # actually Csakvar
@@ -658,7 +658,7 @@ e_pannonia = {
 					# Arrabo # actually the Raab River
 				}
 				b_kormend = {
-					# Sibaris # actually the Latin name for the Gy√∂ngy√∂s stream
+					# Sibaris # actually the Latin name for the Gyˆngyˆs stream
 				}
 				b_koszeg = {
 					# Ginsium # Latinization of the modern name
@@ -1035,7 +1035,7 @@ e_pannonia = {
 				b_szentes = {
 				}
 				b_hodmezovasarhely = {
-					# Castorium # the 'H√≥d' in Hozmezovasarhely refers to a 'Beaver's Lake'. 'Beaver' in Latin is 'Castor'.
+					# Castorium # the 'HÛd' in Hozmezovasarhely refers to a 'Beaver's Lake'. 'Beaver' in Latin is 'Castor'.
 				}
 			}
 			c_bacs = {

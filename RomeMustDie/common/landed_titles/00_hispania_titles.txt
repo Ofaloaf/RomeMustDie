@@ -1,4 +1,4 @@
-Ôªøe_hispania = {
+e_hispania = {
 	color={ 231 181 12 }
 	color2={ 255 255 255 }
 	
@@ -50,7 +50,7 @@
 					# Egara # actually Errassa
 				}
 				b_provencana = {
-					# (Castrum) Octavianum # actually Sant Cugat del Vall√®s
+					# (Castrum) Octavianum # actually Sant Cugat del VallËs
 				}
 			}
 			c_urgell = {
@@ -68,13 +68,13 @@
 					# Urgellum
 				}
 				b_suert = {
-					# Orgia # actually Organy√†
+					# Orgia # actually Organy‡
 				}
 				b_viella = {
 					# Sicoris # actually the Segre River
 				}
 				b_puigcerda = {
-					# (Julia) Libyca # actually Ll√≠via
+					# (Julia) Libyca # actually LlÌvia
 
 					roman = "Iulia Libyca"
 				}
@@ -202,7 +202,7 @@
 					# Celsona
 				}
 				b_agramunt = {
-					# Ceresus # actually Ser√≤s
+					# Ceresus # actually SerÚs
 				}
 				b_tarrega = {
 					# Villa Fortunatus # actually Fraga
@@ -258,7 +258,7 @@
 					# Salauris # actually Salou
 				}
 				b_vendrell = {
-					# Palfuriana # actually Sant Vicen√ß de Calders, Vendrell
+					# Palfuriana # actually Sant VicenÁ de Calders, Vendrell
 				}
 				b_amposta = {
 					# Biclaro # actually Vallclara
@@ -700,7 +700,7 @@
 					# Caput Deitanorum
 				}
 				b_villarrobledo = {
-					# Saltigi # actually Chinchilla de Monte-Arag√≥n
+					# Saltigi # actually Chinchilla de Monte-AragÛn
 				}
 				b_alcaladeljucar = {
 					# Elotana # actually Albatana
@@ -731,7 +731,7 @@
 					# Ad Putea # not Quintanar Del Rey
 				}
 				b_lagineta = {
-					# Limitanea # actually Leda√±a
+					# Limitanea # actually LedaÒa
 
 					visigothi = Letania
 					ostrogothi = Letania
@@ -863,10 +863,10 @@
 					# Arenetum
 				}
 				b_alfara = {
-					# Barbariana # actually San Mart√≠n de Barberana, Agoncillo
+					# Barbariana # actually San MartÌn de Barberana, Agoncillo
 				}
 				b_zizurmayor = {
-					# Ilurcis # actually Eras de San Mart√≠n, Alfaro
+					# Ilurcis # actually Eras de San MartÌn, Alfaro
 				}
 				b_santodomingodelacalzada = {
 					# Cara # actually Santacara
@@ -995,7 +995,7 @@
 					# Caesada # actually Espinosa de Henares
 				}
 				b_motadelcuervo = {
-					# Dipolis # actually Buend√≠a
+					# Dipolis # actually BuendÌa
 
 					visigothi = Recaredopolis # 6th century
 					ostrogothi = Recaredopolis
@@ -1060,7 +1060,7 @@
 					# Palantia
 				}
 				b_silos = {
-					# Segisamo # actually Sasam√≥n
+					# Segisamo # actually SasamÛn
 				}
 				b_castrobarte = {
 					# Avia # actually Abia de las Torres
@@ -1072,7 +1072,7 @@
 					# Rauda
 				}
 				b_carrion = {
-					# Maggaviensium # actually, uh, Monte Cild√°, Olleros de Pisuerga?
+					# Maggaviensium # actually, uh, Monte Cild·, Olleros de Pisuerga?
 				}
 			}
 			c_asturias_de_santillana = {
@@ -1097,7 +1097,7 @@
 					# Aracelium # actually in the whereabouts of La Espina del Gallego, Corvera de Toranzo, Anievas
 				}
 				b_reinosa = {
-					# Octaviolca # actually in the whereabouts of El Convent√≥n, Rebolledo, Valdeola
+					# Octaviolca # actually in the whereabouts of El ConventÛn, Rebolledo, Valdeola
 				}
 				b_suances = {
 					# Portus Blendium
@@ -1174,7 +1174,7 @@
 					# Tubalacum # making up shit. Tubal/Tiberanoi was a grandson of biblical Noah, and medieval legend says he founded towns in both Caucasian Iberia and Hispanian Iberia
 				}
 				b_pinilla = {
-					# Ferraria # actually Herrer√≠a
+					# Ferraria # actually HerrerÌa
 				}
 				b_cabanillasdelcampo = {
 					# Idibedacus # making up shit
@@ -1434,7 +1434,7 @@
 				# Baeturia
 				
 				b_aracena = {
-					# Ilipa Magna actually Alcal√° del R√≠o
+					# Ilipa Magna actually Alcal· del RÌo
 				}
 				b_italica = {
 					# Italica
@@ -1449,7 +1449,7 @@
 					# Cortesa
 				}
 				b_facanias = {
-					# Munigua # actually Dehesa de Mulva, Villanueva del R√≠o y Minas
+					# Munigua # actually Dehesa de Mulva, Villanueva del RÌo y Minas
 				}
 				b_alajar = {
 					# Canama # actually La Mesa, Alcolea del Rio
@@ -1505,7 +1505,7 @@
 					# Antipolis
 				}
 				b_alcaladelosgazules = {
-					# Ad Portum # actually Do√±a Blanca, El Puerto de Santa Mar√≠a
+					# Ad Portum # actually DoÒa Blanca, El Puerto de Santa MarÌa
 				}
 			}
 			c_niebla = {
@@ -1536,7 +1536,7 @@
 					# Urium
 				}
 				b_almonte = {
-					# Olontigi # actually Aznalc√°zar
+					# Olontigi # actually Aznalc·zar
 				}
 				b_aljaraque = {
 					# Ostur # not Aljaraque
@@ -1592,16 +1592,16 @@
 					# Aratispi # actually Cauche el Viejo, Antequera
 				}
 				b_tamisa = {
-					# Nescania # actually Cortijo de Esca√±a, Valle de Abdalaj√≠s
+					# Nescania # actually Cortijo de EscaÒa, Valle de AbdalajÌs
 				}
 				b_coin = {
-					# Iluro # actually √Ålora
+					# Iluro # actually ¡lora
 				}
 				b_suel = {
 					# Suel
 				}
 				b_cartajima = {
-					# Cartima # actually C√°rtama
+					# Cartima # actually C·rtama
 				}
 				b_velezmalaga = {
 					# Maenoba # also known as Maenuba and Menova
@@ -1612,7 +1612,7 @@
 
 k_gallaecia = {
 		color={ 255 224 94 }
-		capital = 156 # Coru√±a
+		capital = 156 # CoruÒa
 		
 		culture = suebi
 		
@@ -1691,7 +1691,7 @@ k_gallaecia = {
 					suebi = Warmse
 				}
 				b_verin = {
-					# Burbida # actually Borb√©n
+					# Burbida # actually BorbÈn
 				}
 				b_padron = {
 					# Iria
@@ -1699,7 +1699,7 @@ k_gallaecia = {
 					roman = "Iria Flavia"
 				}
 				b_vilagarcia = {
-					# Turoqua # actually Tour√≥n, Pontecaldelas
+					# Turoqua # actually TourÛn, Pontecaldelas
 				}
 			}
 		}
@@ -1811,7 +1811,7 @@ k_gallaecia = {
 					# Memoriana # actually Pola de Lena
 				}
 				b_luarca = {
-					# Navia # The R√≠o Navia was also called the Navia in Roman times. Neat!
+					# Navia # The RÌo Navia was also called the Navia in Roman times. Neat!
 				}
 				b_norena = {
 					# Castropolis # actually Castropol. Just making a wild guess.
@@ -1830,7 +1830,7 @@ k_gallaecia = {
 					# Interamnium
 				}
 				b_ribadelago = {
-					# Vallata # actually Villadangos del P√°ramo
+					# Vallata # actually Villadangos del P·ramo
 				}
 				b_cacabelos = {
 					# Bergidum (Flavium)
@@ -1842,10 +1842,10 @@ k_gallaecia = {
 					# Gemestarium # actually O Robledo da Lastra
 				}
 				b_camponaraya = {
-					# Argentiolum # actually Mi√±ambres, Villamont√°n de la Valduerna
+					# Argentiolum # actually MiÒambres, Villamont·n de la Valduerna
 				}
 				b_toreno = {
-					# Baedunia # actually El Castro, San Mart√≠n de Torres, Cebrones del R√≠o
+					# Baedunia # actually El Castro, San MartÌn de Torres, Cebrones del RÌo
 
 					visigothi = Bedunia
 					ostrogothi = Bedunia
@@ -1921,7 +1921,7 @@ k_gallaecia = {
 					# Ventosa # Suebic period
 				}
 				b_fermoselle = {
-					# Camala # actually El Lagunal, Sahag√∫n
+					# Camala # actually El Lagunal, Sahag˙n
 				}
 				b_toro = {
 					# Campus Gothorum
@@ -1933,10 +1933,10 @@ k_gallaecia = {
 					# Viminiacium # actually Castro Muza, Calzadilla de la Cueza
 				}
 				b_fuentesauco = {
-					# Lacobriga # actually Iglesia Nuestra Se√±ora de Bel√©n, Carri√≥n de los Condes
+					# Lacobriga # actually Iglesia Nuestra SeÒora de BelÈn, CarriÛn de los Condes
 				}
 				b_polvorosa = {
-					# Saldania # actually Alto de la Morterona, Sanda√±a
+					# Saldania # actually Alto de la Morterona, SandaÒa
 				}
 			}
 		}
@@ -2322,7 +2322,7 @@ k_gallaecia = {
 				andalusian_arabic = "Ambroz"
 				
 				b_hervas = {
-					# Capera # actually C√°parra
+					# Capera # actually C·parra
 				}
 				b_plasencia = {
 					# Ambracia
@@ -2343,7 +2343,7 @@ k_gallaecia = {
 					# Augustobriga # actually Talavera la Vieja
 				}
 				b_ventadelmoral = {
-					# Tettare # pre-Latin etymology of the R√≠o Ti√©tar
+					# Tettare # pre-Latin etymology of the RÌo TiÈtar
 				}
 				b_jarandilla = {
 					# (Flavium) Vivertorum
@@ -2352,7 +2352,7 @@ k_gallaecia = {
 					graeci = "Flavium Vivertorum"
 				}
 				b_talayuela = {
-					# Caelionicco # actually Fina de la Vega, Pe√±acaballera
+					# Caelionicco # actually Fina de la Vega, PeÒacaballera
 				}
 			}
 			c_alcantara = {
@@ -2480,7 +2480,7 @@ k_gallaecia = {
 					# Bletisama # actually Ledesma
 				}
 				b_albadetormes = {
-					# Sentice # actually Due√±a de Abajo, Pedrosillo de los Aires
+					# Sentice # actually DueÒa de Abajo, Pedrosillo de los Aires
 				}
 				b_terradillos = {
 					# Calvellinum # actually Carbellino, speculative etymology i just made up
