@@ -469,3 +469,12 @@ e_hephthalite = {
 		always = no
 	}
 }
+
+d_medvezhrsky = {
+	color = { 245 140 218 }
+	color2= { 255 255 255 }
+
+	capital = 393 #Onega (half of d_karelia)
+	
+	culture = ugricbaltic
+}

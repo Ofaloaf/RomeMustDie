@@ -12,3 +12,60 @@
 		death=yes
 	}
 }
+167002 = {
+	name="Risto"
+	# fictional holder of half of d_karelia
+	dynasty=167002
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	430.1.1={
+		birth=yes
+	}
+	451.1.1={ 
+		add_spouse=167003
+	}
+	500.1.1={
+		death=yes
+	}
+}
+167003 = {
+	name="Terhi"
+	female=yes
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	430.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+167004 = {
+	name="Riku"
+	dynasty=167002
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=167002
+	mother=167003
+	461.1.1={
+		birth=yes
+	}
+	531.1.1={
+		death=yes
+	}
+}
+167005 = {
+	name="Metta"
+	female=yes
+	dynasty=167002
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=167002
+	mother=167003
+	471.1.1={
+		birth=yes
+	}
+	541.1.1={
+		death=yes
+	}
+}
