@@ -7,3 +7,13 @@
 	name = Hua
 	culture = sogdian
 }
+
+1222003 = {
+	name = Nezak
+	culture = sogdian
+}
+
+1222004 = {
+	name = Badkhiz # technically Persian, but whatever
+	culture = sogdian
+}

@@ -1,0 +1,5 @@
+472.1.1 = {
+	liege = e_hephthalite
+	holder = 1222006
+	historical_nomad = yes
+}

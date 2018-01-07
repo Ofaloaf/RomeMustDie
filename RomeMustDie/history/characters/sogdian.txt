@@ -1,9 +1,9 @@
 1222001 = {
 	name="Khingila" # 
-	dynasty=1222002 
+	dynasty=1222001
 	
 	culture = sogdian
-	religion = buddhist
+	religion = khurmazta
 	trait = vajrayana_buddhist
 	
 	410.1.1={
@@ -17,14 +17,72 @@
 1222002 = {
 	name="Mehama" # 
 	dynasty=1222001
+	father = 1222001
 	culture = sogdian
-	religion = buddhist
-	trait = vajrayana_buddhist
+	religion = khurmazta
 	
 	428.1.1={
 		birth=yes
 	}	
 	493.1.1={
+		death=yes
+	}
+}
+
+1222003 = {
+	name="Malka" 
+	dynasty=1222003
+	
+	culture = sogdian
+	religion = khurmazta
+	
+	451.1.1={
+		birth=yes
+	}	
+	500.1.1={
+		death=yes
+	}
+}
+
+1222004 = {
+	name="Kushnavaz" # 
+	dynasty=1222002
+	
+	culture = sogdian
+	religion = khurmazta
+	
+	430.1.1={
+		birth=yes
+	}	
+	487.1.1={
+		death=yes
+	}
+}
+
+1222005 = {
+	name="Tishvandak"
+	# fictional
+	dynasty=1042109 # Bamiyan is an Afghan dynasty name, but it's literally just the name of the province so w/e
+	religion="khurmazta"
+	culture="sogdian"
+	429.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1222006 = {
+	name="Parsak"
+	# fictional
+	dynasty=1222004 #
+	religion="khurmazta"
+	culture="sogdian"
+	442.1.1={
+		birth=yes
+	}
+	500.1.1={
 		death=yes
 	}
 }
