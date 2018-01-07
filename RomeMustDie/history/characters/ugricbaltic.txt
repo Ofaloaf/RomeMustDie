@@ -17,7 +17,7 @@
 	# fictional holder of half of d_karelia
 	dynasty=167002
 	religion="finnish_pagan"
-	culture="ugricbaltic"
+	culture="finnish"
 	430.1.1={
 		birth=yes
 	}
@@ -32,7 +32,7 @@
 	name="Terhi"
 	female=yes
 	religion="finnish_pagan"
-	culture="ugricbaltic"
+	culture="finnish"
 	430.1.1={
 		birth=yes
 	}
@@ -44,7 +44,7 @@
 	name="Riku"
 	dynasty=167002
 	religion="finnish_pagan"
-	culture="ugricbaltic"
+	culture="finnish"
 	father=167002
 	mother=167003
 	461.1.1={
@@ -59,7 +59,7 @@
 	female=yes
 	dynasty=167002
 	religion="finnish_pagan"
-	culture="ugricbaltic"
+	culture="finnish"
 	father=167002
 	mother=167003
 	471.1.1={
