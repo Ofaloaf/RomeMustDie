@@ -57,3 +57,15 @@
 	culture = persian
 	religion = zoroastrian
 }
+
+8888011 = {
+	name = Razi
+	culture = persian
+	religion = zoroastrian
+}
+
+8888012 = {
+	name = Chobin
+	culture = persian
+	religion = zoroastrian
+}

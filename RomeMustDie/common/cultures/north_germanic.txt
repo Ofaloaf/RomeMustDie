@@ -7,18 +7,41 @@ north_germanic = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund Arnbjörn Arngrimr Arni_Arne Arnfast Asbjörn_Asbjörn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger Björn_Beorn Bo Borkvard Botulfr Bragi_Brage Buðli
-			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek Froði_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim Guðfrið_Godfrey Guðmundr_Gudmund Guðröðr_Gudröd Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Haukr Helgi_Helge
-			Hemming Holmger Hrafn Hrolfr_Rolf Hrane Hæsteinn Hjalmar_Hjalmar Hroðgar Hroðulfr Hrörekr_Rurik Hysing Ingólfr_Ingolf Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol Kolbjörn Magnus_Magnus Markus_Marcus 
-			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr Rögnvaldr_Ragnvald Skuli_Skule Snorri Sigbjörn Sigtrygg Sigurðr_Sigurd Starkaðr_Starkad Steinn_Sten Sturla Styrbjörn Styrkar Sumarliði_Somerled Suni_Sune Sveinn_Sven
-			Sverker Sæmundr_Sämund Sölvi_Sölve Sörkver Tjudmund_Tjudmund Toke_Toke Tolir Þorbjörn_Torbjörn Þorfinn_Torfinn Þorbrandr_Torbrand Þordr_Tord Þorgil_Torkel Þorsteinn_Torsten Þorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Åke Yngvar_Ingvar Örvar_Orvar Öysteinn_Eysteinn
+			Agharjar_Agnar Agi_Agni Agilamundur_Ögmundr Agilar_Egill Agiwaldar_Ögvaldr Agiþewar_Ecgþeow Aglaivar_Ecglaf Agvarr_Ögurr Agwala_Ecgwela 
+			Ainalivar_Æilífr Aiwamundur_Eanmund Aiwarikiar_Eric Aiwigairar Aiwiharjar_Ævarr Ala_Ala Alarikiar_Alaric Albigairar_Alfgeirr Albiharjar_Alfarr 
+			Albir_Alfr Alugoda Alunir_Ölnir Aluwíhar_Ölvér Anagæirr_Anager Andswarur_Andsvarr Angaþewar_Angantyr Ansubernur_Ásbjörn Ansulaivar_Áslæifr 
+			Anugairar_Agæirr Anugairar_Ávæirr Anuherr_Ánarr Anula_Áli Anulaivar_Anleifr Anumundur_Ámundr Anuwandur_Anundr Arnubernur_Arnbjörn 
+			Arnukatil_Arnkætill Askaharjar_Æschere Asugis Asugisalar_Ásgísl Aujastainar_Eysteinn Aujawindur_Eyvindr Auþabernur_Audbjörn Auþawinir_Auðvin 
+			Awiomundur_Eymundr Aþagíslar_Eadgils Aþawinir_Ánn Aþawulfar_Adalwolf Banastainar_Banstan Baðufriður_Bároðr Baðuheldio_Böðvildr Baðuherr_Bödvarr 
+			Bergiar_Birgir Bernur_Björn Bewwarjar_Beowa Bijowulfar_Beowulf Brekka_Breca Brond Domaharjar_Dómarr Domawaldar_Dómaldi Duggwi_Dyggvi 
+			Eldaiarn_Eldjárn Erminlaivar_Yrmenlaf Erminmarir_Arminius Erminrikiar_Ermanaric Etunabernur_Jötunbjörn Evurar_Eofor Feldunir_Fjolnir 
+			Finnalba_Finnalf Finnar_Finn Fraujabernur_Freybjörn Fraujagarðio_Freygard Fraujastainar_Freystein Frawaradar Fróði_Fróði Gairaþewar_Geirþjófr 
+			Garðio_Gard Gautar_Goth Gautawulfar_Getwulf Gisur_Gissur Givuka_Gjúki Godabrandar_Godbrand Godafriður_Godfrey Godaga Godagastir_Goðgestr 
+			Godalaivar_Guðlaf Godamundur_Gudmund Godaþormar_Guðormr Gramar_Gram Granamarir_Granmarr Greipar_Greip Gríma_Grim Gulvir_Gylfir Gunþaharjar_Gunther 
+			Habukoþur Hagani_Hagen Hagustaldar_Höðskuldr Hailaga_Helgi Haiðiokyn_Hæþcyn Haki_Hoc Halbadanir_Halfdan Hallukatil_Hallkell Halluþónr_Hallþórr 
+			Harabanar_Raven Hariuha Hariwulfar_Hærulfr Harjabalðar_Herebeald Harjagairar_Heorogar Harjamodar_Heremod Harjar_Harry Harjawaldar_Haraldr 
+			Harjaþewar_Herþjófr Harðuraðar_Hardrada Haukoþur Havaþónr_Hafþórr Haþubroddar_Hothbrodd Haþulaivar_Heaðolaf Haþuwarður_Hávarðr Haþuwulfar_Aulfr 
+			Heldar Heldio_Hildi Heldiowulfar_Hildulfr Heruwardur_Hjörvarðr Heruwulfar_Hiörulfr Hilmir_Hilmir Hjalmar_Helm Hjalmharjar_Hjalmarr 
+			Hlewagastir_Hlégestr Hlewar_Chlothar Hnavi_Hnæf Hok_Hoc Hraþar_Hrœrir Hringar_Hring Hrussabernur_Hrossbjörn Hróþigairar_Roger Hróþilar_Hreðel 
+			Hróþimundur_Hroðmund Hróþirikiar_Hreðric Hróþiwulfar_Hrólfr Hróþiwíhar_Hróðvér Hróþuwulfar_Hróðulfr Hugilaikar_Hygelac Hunafriður_Unferð 
+			Hunaþewar_Hunthjóf Ingwar_Ingvarr Ingwiamundur_Ingmund Ingwiawaldar_Ingeld Ingwiawinir_Yngwin Janas_John Jarawindur_Jörundr Kjuwwi_Tyggi 
+			Kristan_Christian Kunimundur_Cunimund Laivar_Leif Leugar Muha Móðwíhar_Móir Naudigastir Niþahaþur_Níðuðr Ohtaharjar_Óttarr Pal_Paul Petir_Peter 
+			Raginaharjar_Ragnarr Raginalba_Rugalf Raginawaldar_Reginald Raumar_Raumr Raunijar Resir_Ræsir Saiwafara_Sæfari Saluga_Sölgi Sawilagar 
+			Sigisfriður_Siegfried Sigisgairar_Siggeirr Sigisharjar_Sighere Sigismundur_Sigmund Sigistrug_Sigtrygg Sigiswaldar_Sigwald Sigiswarður_Sigvard 
+			Sigiwarur_Syvurr Skelbaþewar Skilf_Scylf Skuld_Scyld Snaiwar_Snow Sowihar_Sölvér Spærðla_Spærla Stainawarijar_Steinarr Starkahaþur_Starkad 
+			Sturgarðio_Styrgurd Swabaharjar Swanar_Swan Swartingar_Swerting Swartkatil_Syrkæll Swipdagar_Svipdagr Tunþa Túkiar_Týki Ubar Waigomundur_Wægmund 
+			Waihalar Walhar_Wæls Wandarádar_Vandráðr Wanilandar_Vanlandi Wanilo_Wallia Welandar_Wayland Wikoharjar_Víkarr Wiwar Woduridar Wonraðar_Wonred 
+			Wulfagairar_Wulfgar Wulfar_Wolf Wulþur_Ullr Wulþuwíhar Wulþuþewar Wurmar_Orm Wíhabernur_Víbiörn Wíhagarðio_Vegard Wíhar Wíhastainar_Vístæinn 
+			Wíhlaivar_Wiglaf Wíwila_Vífill Þengilar_Thengel Þijalfiharjar_Þialfarr Þrawówindur_Þróndr Þrummar_Trymr Þunragarðio_Thorgard Þunragautar_Þórgautr 
+			Þunrastainar_Þórsteinn Þunrawulfar_Þórulfr Þunrawíhar_Þórvér
+			Ansmundur_Osmond
 		}
 		female_names = {
-			Aleta Alfhildr_Alfhild Alfrið_Alfridh Alvör Anna_Anna Asa_Åsa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Björg Bodil Bothildr_Bothild Cecilia_Cecilia
-			Edla Elin Elisabet_Elizabeth Freyja_Freja Gerðr Gloð Grima Gunnhildr_Gunhild Gurli Guðrun_Gudrun Gyla Gyrið Gyða_Gytha Hafrid Halla Helena_Helen Holmfrid
-			Iliana Inga_Inga Ingfrid Ingibjörg_Ingeborg Ingjerðr_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
-			Malmfrið_Malmfrid Margareta_Margaret Maria_Maria Rikissa Rögnfrið_Ragnfrid Rögnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
-			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Þora_Thora Þordis_Thordis Þyra_Thyra
+			Agilamundo Albiheldio_Alfhild Alla Ansufriþior_Ásfríðr Ansulaug_Aslaug Anulaug_Ólaug Arnudís_Arndís Aujadís_Eydís Baunila_Beyla Brunheldio_Brunhild 
+			Dagahaiðio_Dagheiðr Druhti_Drótti Evurarunþi_Iórunnr Fraujadís_Freydís Fraujawarjar_Freawaru Godaruno_Gudrún Grimaheldio_Grímhildr 
+			Gudowaigo_Guðveig Hailaga_Helga Haiðio_Heiðr Haiðioruno_Heiðrún Hallagarðio_Hallgerðr Heldioburgo_Hildeburh Ingwiaheldio_Yngvildr 
+			Kristano_Christina Nanþi_Nanna Raginaheldio_Ragnhild Ranawaigo_Rannveig Sigisfriþior_Sigfriðr Sigisniwja_Signy Skulddís_Skjalddís Sowwaigo_Sölveig 
+			Ursa_Yrsa Vrinda_Vrindr Walhaþewa_Wealþeow Wiwjo Wiðusternu Wulfaheldio_Ulfhildr Wíhdís_Vígdís Þruþi_Trude Þunragarðio_Þorgerðr
 		}
 		
 		dukes_called_kings = yes

@@ -10724,15 +10724,34 @@ e_persia = {
 			
 			capital = 639 # Kerman
 			
+			roman = Carmania
+			graeci = Carmania
+			greek = Carmania
+			gallo_roman = Carmania
+			hispano_roman = Carmania
+			mauro_roman = Carmania
+			romano_british = Carmania
+			pannonian = Carmania
+			
 			c_kerman = {
 				color={ 110 130 75 }
 				color2={ 255 255 255 }
+				
+				roman = Carmania
+				graeci = Carmania
+				greek = Carmania
+				gallo_roman = Carmania
+				hispano_roman = Carmania
+				mauro_roman = Carmania
+				romano_british = Carmania
+				pannonian = Carmania
 				
 				b_rayen = {
 				} 
 				b_behdesir = {
 				}
 				b_kerman = {
+					persian = "Veh-Ardashir"
 				}
 				b_maymand = {
 				}
@@ -11302,7 +11321,7 @@ e_persia = {
 	}
 	
 	k_baluchistan = { # Kingdom of Sistan
-		color={ 155 169 114 }
+		color={ 16 82 175 }
 		color2={ 255 255 255 }
 		
 		capital = 1183 # Bost
@@ -11316,14 +11335,32 @@ e_persia = {
 		culture = afghan
 	
 		d_baluchistan = { # Makran
-			color={ 150 170 118 }
+			color={ 175 82 16 }
 			color2={ 255 255 255 }
 			
 			capital = 1139 # Makran
 			
+			roman = Gedrosia
+			graeci = Gedrosia
+			greek = Gedrosia
+			gallo_roman = Gedrosia
+			hispano_roman = Gedrosia
+			mauro_roman = Gedrosia
+			romano_british = Gedrosia
+			pannonian = Gedrosia
+			
 			c_makran = {
 				color={ 152 185 96 }
 				color2={ 255 255 255 }
+				
+				roman = Gedrosia
+				graeci = Gedrosia
+				greek = Gedrosia
+				gallo_roman = Gedrosia
+				hispano_roman = Gedrosia
+				mauro_roman = Gedrosia
+				romano_british = Gedrosia
+				pannonian = Gedrosia
 				
 				b_al_haur = {
 				}
@@ -11538,6 +11575,8 @@ e_persia = {
 			
 			zun_pagan_reformed = 300 # Crusade target weight
 			
+			persian = Kushanshahr
+			
 			c_kabul = {
 				color={ 135 90 30 }
 				color2={ 255 255 255 }
@@ -11604,6 +11643,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			saka = "Seyanish"
+			persian = Paratan # or Paradan
 			
 			capital = 1182 # Ghazna
 			
@@ -12868,14 +12908,14 @@ e_persia = {
 	}
 	
 	k_khorasan = {
-		color = { 89 175 30 }
+		color = { 224 130 168 }
 		color2={ 255 255 255 }
 		
 		capital	= 634 # Nishapur
 		culture = persian
 		
 		d_khorasan = {
-			color={ 99 150 9 }
+			color={ 130 168 224 }
 			color2={ 255 255 255 }
 			
 			capital = 634 # Nishapur
@@ -17793,12 +17833,16 @@ e_rajastan = {
 			
 			capital = 1180 # Udabhanda
 			
+			sogdian = Taxila
+			
 			c_udabhanda = {
 				color={ 255 130 31 }
 				color2={ 255 255 255 }
 				
 				holy_site = taoist
 				holy_site = manichean # Site of Mani's first learning trip
+				
+				sogdian = Taxila
 				
 				b_udabhanda = {
 				}
