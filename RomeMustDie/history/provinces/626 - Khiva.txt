@@ -1,0 +1,21 @@
+# 626 - Khiva
+
+# County Title
+title = c_khiva
+
+# Settlements
+max_settlements = 7
+b_kath = castle
+b_khiva = city
+b_kuskupir = temple
+b_darvaza = city
+
+#b_tahta = castle
+#b_kizketken = castle
+#b_atajab = castle
+#b_sumanay = castle
+
+# Misc
+culture = persian
+religion = zoroastrian
+terrain = steppe
