@@ -1,4 +1,4 @@
 471.1.1 = {
-	liege = d_medvezhrsky
+	liege = d_itainen_karjala
 	holder = 167002
 }

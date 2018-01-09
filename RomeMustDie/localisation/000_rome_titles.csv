@@ -569,5 +569,13 @@ AQUITANIA_PRIMA;Aquitania Prima;;;;;;;;;;;;;x
 AQUITANIA_PRIMA_adj;Aquitanian;;;;;;;;;;;;;x
 AQUITANIA_SECUNDA;Aquitania Secunda;;;;;;;;;;;;;x
 AQUITANIA_SECUNDA_adj;Aquitanian;;;;;;;;;;;;;x
-d_medvezhrsky;Medveshrsky;;;;;;;;;;;;;x
-d_medvezhrsky_adj;Medveshrsky;;;;;;;;;;;;;x
+d_itainen_karjala;Itäinen Karjala;;;;;;;;;;;;;x
+d_itainen_karjala_adj;Itä Karjalainen;;;;;;;;;;;;;x
+d_lansi_karjala;Länsi Karjala;;;;;;;;;;;x
+d_lansi_karjala_adj;Länsi Karjalainen;;;;;;;;;;;x
+d_ita_suomi;Itä Suomi;;;;;;;;;;;x
+d_ita_suomi_adj;Itä Suomi;;;;;;;;;;;x
+d_lansi_suomi;Länsi Suomi;;;;;;;;;;;x
+d_lansi_suomi_adj;Länsi Suomi;;;;;;;;;;;x
+d_pohjois_suomi;Pohjois Suomi;;;;;;;;;;;x
+d_pohjois_suomi_adj;Pohjois Suomi;;;;;;;;;;;x

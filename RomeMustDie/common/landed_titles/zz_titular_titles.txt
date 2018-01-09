@@ -470,11 +470,44 @@ e_hephthalite = {
 	}
 }
 
-d_medvezhrsky = {
+d_itainen_karjala = {
 	color = { 245 140 218 }
 	color2= { 255 255 255 }
 
-	capital = 393 #Onega (half of d_karelia)
+	capital = 393 #Onega (east half of d_karelia)
 	
-	culture = ugricbaltic
+	culture = finnish
+}
+
+d_lansi_karjala = {
+	color = { 192 241 6 }
+	color2= { 255 255 255 }
+
+	capital = 390 #Savolaks (west half of d_karelia)
+	
+	culture = finnish
+}
+d_ita_suomi = {
+	color = { 247 179 208 }
+	color2= { 255 255 255 }
+
+	capital = 381 #Nyland (part of d_finland)
+	
+	culture = finnish
+}
+d_lansi_suomi = {
+	color = { 100 105 144 }
+	color2= { 255 255 255 }
+
+	capital = 382 #Finland (part of d_finland)
+	
+	culture = finnish
+}
+d_pohjois_suomi = {
+	color = { 186 226 93 }
+	color2= { 255 255 255 }
+
+	capital = 385 #Osterbotten (part of d_finland)
+	
+	culture = finnish
 }
