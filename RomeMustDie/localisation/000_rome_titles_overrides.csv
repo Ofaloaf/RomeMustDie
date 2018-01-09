@@ -3846,6 +3846,8 @@ b_ouallam;Wallam;;;;;;;;;;;;;x
 b_ouroali;Wurali;;;;;;;;;;;;;x
 d_songhay;Gao;;;;;;;;;;;;;x
 #
+PROV1;Thule;Thule;Thule;;Thule;;;;;;;;;x
+PROV2;Thule;Thule;Thule;;Thule;;;;;;;;;x
 PROV6;Blecingia;;;;;;;;;;;;;x
 PROV17;Ariconium;;;;;;;;;;;;;x
 PROV18;Demetia;;;;;;;;;;;;;x
@@ -4373,26 +4375,18 @@ PROV868;Amithoscuta;;;;;;;;;;;;;x
 PROV869;Asabon;;;;;;;;;;;;;x
 PROV870;Regmah;;;;;;;;;;;;;x
 PROV900;Jaxartes;;;;;;;;;;;;;x
+PROV909;Libyan Desert;Désert du Libyan;Libya;;Desierto del Libyan;;;;;;;;;x
 PROV912;Awadaghust;;;;;;;;;;;;;x
 PROV915;Jenne;;;;;;;;;;;;;x
 PROV917;Arawan;;;;;;;;;;;;;x
 PROV919;Walata;;;;;;;;;;;;;x
 PROV920;Wadan;;;;;;;;;;;;;x
+PROV924;Western Africa;;;;;;;;;;;;;x
 PROV929;Interamna;;;;;;;;;;;;;x
 PROV930;Caturices;;;;;;;;;;;;;x
 PROV931;Morea;;;;;;;;;;;;;x
 PROV932;Theustes;;;;;;;;;;;;;x
 PROV935;Amalphia;;;;;;;;;;;;;x
-PROV1530;Lugana;;;;;;;;;;;;;x
-PROV1532;Muza;;;;;;;;;;;;;x
-PROV1533;Nagara;;;;;;;;;;;;;x
-PROV1534;Thabba;;;;;;;;;;;;;x
-PROV1535;Ambe;;;;;;;;;;;;;x
-PROV1536;Charmuthas;;;;;;;;;;;;;x
-PROV1560;Sulcis;;;;;;;;;;;;;x
-PROV1574;Barbaria;;;;;;;;;;;;;x
-PROV1576;Turris;;;;;;;;;;;;;x
-PROV1577;Adiacium;;;;;;;;;;;;;x
 #
 PROV938;Libycum Mare;;;;;;;;;;;;;x
 PROV954;Fretum Herculeum;;;;;;;;;;;;;x
@@ -4404,6 +4398,7 @@ PROV974;Oceanus Cantabricus;;;;;;;;;;;;;x
 PROV976;Fortunatae Insulae;;;;;;;;;;;;;x
 PROV980;Litus Lusitanius;;;;;;;;;;;;;x
 PROV981;Sinus Gaditanus;;;;;;;;;;;;;x
+PROV982;Mare Concretum;;;;;;;;;;;;;x
 PROV986;Oceanus Germanicus;;;;;;;;;;;;;x
 PROV987;Oceanus Germanicus;;;;;;;;;;;;;x
 PROV988;Oceanus Germanicus;;;;;;;;;;;;;x
@@ -4507,3 +4502,13 @@ PROV1107;Garunna;;;;;;;;;;;;;x
 PROV1108;Garunna;;;;;;;;;;;;;x
 PROV1109;Hadriaticum Mare;;;;;;;;;;;;;x
 PROV1110;Sinus Venetus;;;;;;;;;;;;;x
+PROV1530;Lugana;;;;;;;;;;;;;x
+PROV1532;Muza;;;;;;;;;;;;;x
+PROV1533;Nagara;;;;;;;;;;;;;x
+PROV1534;Thabba;;;;;;;;;;;;;x
+PROV1535;Ambe;;;;;;;;;;;;;x
+PROV1536;Charmuthas;;;;;;;;;;;;;x
+PROV1560;Sulcis;;;;;;;;;;;;;x
+PROV1574;Barbaria;;;;;;;;;;;;;x
+PROV1576;Turris;;;;;;;;;;;;;x
+PROV1577;Adiacium;;;;;;;;;;;;;x
