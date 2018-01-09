@@ -3,6 +3,22 @@
 	culture = ugricbaltic
 }
 167002 = {
-	name = Pryaranta
+	name = Vilske # "bustle"
+	culture = ugricbaltic
+}
+167003 = {
+	name = Tyttö # "girl"
+	culture = ugricbaltic
+}
+167004 = {
+	name = Neito # "maiden"
+	culture = ugricbaltic
+}
+167005 = {
+	name = Rulla # "roll"
+	culture = ugricbaltic
+}
+167006 = {
+	name = Kuoriainen # "beetle"
 	culture = ugricbaltic
 }

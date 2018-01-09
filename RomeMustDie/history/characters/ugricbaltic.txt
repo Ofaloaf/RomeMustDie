@@ -14,7 +14,7 @@
 }
 167002 = {
 	name="Risto"
-	# fictional holder of half of d_karelia
+	# fictional holder of eastern half of d_karelia
 	dynasty=167002
 	religion="finnish_pagan"
 	culture="finnish"
@@ -66,6 +66,132 @@
 		birth=yes
 	}
 	541.1.1={
+		death=yes
+	}
+}
+167006 = {
+	name="Taisto"
+	# fictional holder of western half of d_karelia
+	dynasty=167003
+	religion="finnish_pagan"
+	culture="finnish"
+	440.1.1={
+		birth=yes
+	}
+	461.1.1={ 
+		add_spouse=167007
+	}
+	510.1.1={
+		death=yes
+	}
+}
+167007 = {
+	name="Tuuli"
+	female=yes
+	religion="finnish_pagan"
+	culture="finnish"
+	440.1.1={
+		birth=yes
+	}
+	510.1.1={
+		death=yes
+	}
+}
+167008 = {
+	name="Kuuti"
+	dynasty=167003
+	religion="finnish_pagan"
+	culture="finnish"
+	father=167006
+	mother=167007
+	471.1.1={
+		birth=yes
+	}
+	541.1.1={
+		death=yes
+	}
+}
+167009 = {
+	name="Armas"
+	# fictional holder of part of d_finland
+	dynasty=167004
+	religion="finnish_pagan"
+	culture="finnish"
+	447.1.1={
+		birth=yes
+	}
+	468.1.1={ 
+		add_spouse=167010
+	}
+	517.1.1={
+		death=yes
+	}
+}
+167010 = {
+	name="Ilmatar"
+	female=yes
+	religion="finnish_pagan"
+	culture="finnish"
+	447.1.1={
+		birth=yes
+	}
+	517.1.1={
+		death=yes
+	}
+}
+167011 = {
+	name="Haapa"
+	# fictional holder of part of d_finland
+	dynasty=167005
+	religion="finnish_pagan"
+	culture="finnish"
+	454.1.1={
+		birth=yes
+	}
+	475.1.1={ 
+		add_spouse=167012
+	}
+	524.1.1={
+		death=yes
+	}
+}
+167012 = {
+	name="Elisabet"
+	female=yes
+	religion="finnish_pagan"
+	culture="finnish"
+	454.1.1={
+		birth=yes
+	}
+	524.1.1={
+		death=yes
+	}
+}
+167013 = {
+	name="Kolli"
+	# fictional holder of part of d_finland
+	dynasty=167006
+	religion="finnish_pagan"
+	culture="finnish"
+	448.1.1={
+		birth=yes
+	}
+	469.1.1={ 
+		add_spouse=167014
+	}
+	518.1.1={
+		death=yes
+	}
+}
+167014 = {
+	name="Aino"
+	female=yes
+	religion="finnish_pagan"
+	culture="finnish"
+	448.1.1={
+		birth=yes
+	}
+	518.1.1={
 		death=yes
 	}
 }
