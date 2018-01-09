@@ -2,3 +2,7 @@
 	name = Setod
 	culture = ugricbaltic
 }
+167002 = {
+	name = Pryaranta
+	culture = ugricbaltic
+}

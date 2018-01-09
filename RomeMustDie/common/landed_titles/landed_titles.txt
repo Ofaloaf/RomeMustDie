@@ -11710,11 +11710,18 @@ e_persia = {
 		sogdian = "Sogdiana"
 		saka = "Margiana"
 		
-		d_khiva = {
-			color={ 185 210 142 }
+		d_chorasmia = {
+			color={ 215 130 35 }
 			color2={ 255 255 255 }
 			
 			capital = 626 # Khiva
+			
+			han = Hualazimó
+			
+			persian = Khwarezm
+			turkish = Khwarezm
+			sogdian = Khwarezm
+			bedouin_arabic = Xuwarizm
 			
 			c_khiva = {
 				color={ 167 245 32 }
