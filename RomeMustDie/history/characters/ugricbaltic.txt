@@ -195,3 +195,175 @@
 		death=yes
 	}
 }
+167015 = {
+	name="Agul"
+	# fictional holder of part of d_livonia
+	dynasty=167007
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	434.1.1={
+		birth=yes
+	}
+	455.1.1={ 
+		add_spouse=167016
+	}
+	494.1.1={
+		death=yes
+	}
+}
+167016 = {
+	name="Aita"
+	female=yes
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	434.1.1={
+		birth=yes
+	}
+	494.1.1={
+		death=yes
+	}
+}
+167017 = {
+	name="Alur"
+	dynasty=167007
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=167015
+	mother=167016
+	465.1.1={
+		birth=yes
+	}
+	531.1.1={
+		death=yes
+	}
+}
+167018 = {
+	name="Aune"
+	female=yes
+	dynasty=167007
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=167015
+	mother=167016
+	475.1.1={
+		birth=yes
+	}
+	541.1.1={
+		death=yes
+	}
+}
+167019 = {
+	name="Hurmas"
+	# fictional holder of part of d_livonia
+	dynasty=167008
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	406.1.1={
+		birth=yes
+	}
+	427.1.1={ 
+		add_spouse=167020
+	}
+	476.1.1={
+		death=yes
+	}
+}
+167020 = {
+	name="Helmi"
+	female=yes
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	406.1.1={
+		birth=yes
+	}
+	476.1.1={
+		death=yes
+	}
+}
+167021 = {
+	name="Ihameel"
+	dynasty=167008
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=167019
+	mother=167020
+	437.1.1={
+		birth=yes
+	}
+	458.1.1={ 
+		add_spouse=167022
+	}
+	507.1.1={
+		death=yes
+	}
+}
+167022 = {
+	name="Päivi"
+	female=yes
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	437.1.1={
+		birth=yes
+	}
+	507.1.1={
+		death=yes
+	}
+}
+167023 = {
+	name="Ohevald"
+	dynasty=167008
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=167021
+	mother=167022
+	468.1.1={
+		birth=yes
+	}
+	538.1.1={
+		death=yes
+	}
+}
+167024 = {
+	name="Taimi"
+	female=yes
+	dynasty=167008
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=167019
+	mother=167020
+	447.1.1={
+		birth=yes
+	}
+	517.1.1={
+		death=yes
+	}
+}
+167025 = {
+	name="Piho"
+	dynasty=167008
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=167019
+	mother=167020
+	457.1.1={
+		birth=yes
+	}
+	527.1.1={
+		death=yes
+	}
+}
+167026 = {
+	name="Virge"
+	female=yes
+	dynasty=167008
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=167019
+	mother=167020
+	467.1.1={
+		birth=yes
+	}
+	537.1.1={
+		death=yes
+	}
+}

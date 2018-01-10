@@ -4,21 +4,29 @@
 }
 167002 = {
 	name = Vilske # "bustle"
-	culture = ugricbaltic
+	culture = finnish
 }
 167003 = {
 	name = Tyttö # "girl"
-	culture = ugricbaltic
+	culture = finnish
 }
 167004 = {
 	name = Neito # "maiden"
-	culture = ugricbaltic
+	culture = finnish
 }
 167005 = {
 	name = Rulla # "roll"
-	culture = ugricbaltic
+	culture = finnish
 }
 167006 = {
 	name = Kuoriainen # "beetle"
+	culture = finnish
+}
+167007 = {
+	name = Järelmõte # "afterthought"
+	culture = ugricbaltic
+}
+167008 = {
+	name = Kesklinn # "downtown"
 	culture = ugricbaltic
 }

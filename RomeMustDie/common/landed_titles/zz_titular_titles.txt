@@ -511,3 +511,19 @@ d_pohjois_suomi = {
 	
 	culture = finnish
 }
+d_rannikuelavonia = {
+	color = { 36 98 122 }
+	color2= { 255 255 255 }
+
+	capital = 376 #Osel (part of d_livonia)
+	
+	culture = ugricbaltic
+}
+d_siseelavonia = {
+	color = { 120 125 198 }
+	color2= { 255 255 255 }
+
+	capital = 375 #Lettigalians (part of d_livonia)
+	
+	culture = ugricbaltic
+}
