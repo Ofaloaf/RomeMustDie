@@ -23,3 +23,32 @@
 		death = yes
 	}
 }
+
+194003 = {
+	name = "Auctune"
+	dynasty = 20054
+	religion = baltic_pagan
+	culture = prussian
+	453.1.1 = {
+		birth = yes
+	}
+	474.1.1 = {
+		add_spouse = 194004
+	}
+	523.1.1 = {
+		death = yes
+	}
+}
+
+194004 = {
+	name = "Ziedas"
+	female=yes
+	religion = baltic_pagan
+	culture = prussian
+	453.1.1 = {
+		birth = yes
+	}
+	523.1.1 = {
+		death = yes
+	}
+}

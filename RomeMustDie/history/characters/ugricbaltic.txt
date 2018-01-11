@@ -367,3 +367,101 @@
 		death=yes
 	}
 }
+167027 = {
+	name="Gáivvas"
+	# fictional holder of d_sapmi
+	dynasty=167009
+	religion="finnish_pagan"
+	culture="lappish"
+	446.1.1={
+		birth=yes
+	}
+	467.1.1={ 
+		add_spouse=167028
+	}
+	516.1.1={
+		death=yes
+	}
+}
+167028 = {
+	name="Gierá"
+	female=yes
+	religion="finnish_pagan"
+	culture="lappish"
+	446.1.1={
+		birth=yes
+	}
+	516.1.1={
+		death=yes
+	}
+}
+167029 = {
+	name="Orddot"
+	# fictional holder of d_finnmark
+	dynasty=167010
+	religion="finnish_pagan"
+	culture="lappish"
+	445.1.1={
+		birth=yes
+	}
+	466.1.1={ 
+		add_spouse=167030
+	}
+	515.1.1={
+		death=yes
+	}
+}
+167030 = {
+	name="Giste"
+	female=yes
+	religion="finnish_pagan"
+	culture="lappish"
+	445.1.1={
+		birth=yes
+	}
+	515.1.1={
+		death=yes
+	}
+}
+167031 = {
+	name="Biejan"
+	# fictional holder of d_kola
+	dynasty=167011
+	religion="finnish_pagan"
+	culture="lappish"
+	444.1.1={
+		birth=yes
+	}
+	465.1.1={ 
+		add_spouse=167032
+	}
+	514.1.1={
+		death=yes
+	}
+}
+167032 = {
+	name="Juoksáhkká"
+	female=yes
+	religion="finnish_pagan"
+	culture="lappish"
+	444.1.1={
+		birth=yes
+	}
+	514.1.1={
+		death=yes
+	}
+}
+167033 = {
+	name="Lágon"
+	dynasty=167008
+	religion="finnish_pagan"
+	culture="lappish"
+	father=167031
+	mother=167032
+	475.1.1={
+		birth=yes
+	}
+	535.1.1={
+		death=yes
+	}
+}

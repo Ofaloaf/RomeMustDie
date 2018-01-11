@@ -30,3 +30,15 @@
 	name = Kesklinn # "downtown"
 	culture = ugricbaltic
 }
+167009 = {
+	name = Näytellä # "play"
+	culture = lappish
+}
+167010 = {
+	name = Mehiläinen # "bee"
+	culture = lappish
+}
+167011 = {
+	name = Lintuja # "bee"
+	culture = lappish
+}

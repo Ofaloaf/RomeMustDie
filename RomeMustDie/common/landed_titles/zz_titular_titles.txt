@@ -527,3 +527,11 @@ d_siseelavonia = {
 	
 	culture = ugricbaltic
 }
+d_warmians = {
+	color = { 171 162 126 }
+	color2= { 255 255 255 }
+
+	capital = 370 #Marienburg (prussian tribe)
+	
+	culture = prussian
+}
