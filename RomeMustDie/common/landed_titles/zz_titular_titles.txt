@@ -535,3 +535,11 @@ d_warmians = {
 	
 	culture = prussian
 }
+d_sambians = {
+	color = { 217 1 144 }
+	color2= { 255 255 255 }
+
+	capital = 371 #Sambia (prussian tribe)
+	
+	culture = prussian
+}

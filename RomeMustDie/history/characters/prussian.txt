@@ -25,8 +25,8 @@
 }
 
 194003 = {
-	name = "Auctune"
-	dynasty = 20054
+	name = "Auctune" #fictional ruler of Warmians
+	dynasty = 100370
 	religion = baltic_pagan
 	culture = prussian
 	453.1.1 = {
@@ -39,7 +39,6 @@
 		death = yes
 	}
 }
-
 194004 = {
 	name = "Ziedas"
 	female=yes
@@ -49,6 +48,76 @@
 		birth = yes
 	}
 	523.1.1 = {
+		death = yes
+	}
+}
+194005 = {
+	name = "Golding" # fictional ruler of Sambians
+	dynasty = 100371
+	religion = baltic_pagan
+	culture = prussian
+	418.1.1 = {
+		birth = yes
+	}
+	439.1.1 = {
+		add_spouse = 194006
+	}
+	488.1.1 = {
+		death = yes
+	}
+}
+194006 = {
+	name = "Gelennis"
+	female=yes
+	religion = baltic_pagan
+	culture = prussian
+	418.1.1 = {
+		birth = yes
+	}
+	488.1.1 = {
+		death = yes
+	}
+}
+194007 = {
+	name = "Kugis"
+	dynasty = 100371
+	religion = baltic_pagan
+	culture = prussian
+	father=194005
+	mother=194006
+	449.1.1 = {
+		birth = yes
+	}
+	519.1.1 = {
+		death = yes
+	}
+}
+194008 = {
+	name = "Ziedas"
+	female=yes
+	dynasty = 100371
+	religion = baltic_pagan
+	culture = prussian
+	father=194005
+	mother=194006
+	459.1.1 = {
+		birth = yes
+	}
+	529.1.1 = {
+		death = yes
+	}
+}
+194009 = {
+	name = "Arelis"
+	dynasty = 100371
+	religion = baltic_pagan
+	culture = prussian
+	father=194005
+	mother=194006
+	469.1.1 = {
+		birth = yes
+	}
+	539.1.1 = {
 		death = yes
 	}
 }
