@@ -1,0 +1,148 @@
+#Licchavi Dynasty
+
+12300 = {
+	name="Sankaradeva"
+	dynasty=19116 #Licchavi
+	religion="hindu"
+	culture="nepali"
+	trait = kshatriya
+	400.1.1={
+		birth=yes
+	}
+	420.1.1={
+		add_spouse=12301
+	}
+	450.1.1={
+		death=yes
+	}
+}
+
+12301 = {
+	name="Ahilyabai"
+	female=yes
+	religion="hindu"
+	culture="nepali"
+	trait = kshatriya
+	400.1.1={
+		birth=yes
+	}
+	450.1.1={
+		death=yes
+	}
+}
+
+12302 = {
+	name="Dharmadeva"
+	dynasty=19116 #Licchavi
+	religion="hindu"
+	culture="nepali"
+	trait = kshatriya
+	father=12300
+	mother=12301
+	420.1.1={
+		birth=yes
+	}
+	440.1.1={
+		add_spouse=12303
+	}
+	464.1.1={
+		death=yes
+	}
+}
+
+12303 = {
+	name="Ambikabai"
+	female=yes
+	religion="hindu"
+	culture="nepali"
+	trait = kshatriya
+	420.1.1={
+		birth=yes
+	}
+	464.1.1={
+		death=yes
+	}
+}
+
+12304 = {
+	name="Manadeva"
+	dynasty=19116 #Licchavi
+	religion="hindu"
+	culture="nepali"
+	trait = kshatriya
+	father=12302
+	mother=12303
+	440.1.1={
+		birth=yes
+	}
+	460.1.1={
+		add_spouse=12305
+	}
+	505.1.1={
+		death=yes
+	}
+}
+
+12305 = {
+	name="Anandibai"
+	female=yes
+	religion="hindu"
+	culture="nepali"
+	trait = kshatriya
+	440.1.1={
+		birth=yes
+	}
+	505.1.1={
+		death=yes
+	}
+}
+
+12306 = {
+	name="Mahideva"
+	dynasty=19116 #Licchavi
+	religion="hindu"
+	culture="nepali"
+	trait = kshatriya
+	father=12304
+	mother=12305
+	460.1.1={
+		birth=yes
+	}
+	480.1.1={
+		add_spouse=12307
+	}
+	506.1.1={
+		death=yes
+	}
+}
+
+12307 = {
+	name="Anubai"
+	female=yes
+	religion="hindu"
+	culture="nepali"
+	trait = kshatriya
+	460.1.1={
+		birth=yes
+	}
+	506.1.1={
+		death=yes
+	}
+}
+
+
+### ONWARDS
+
+12308 = {
+	name="Thekung Adek"
+	# a 'Thekung Adek' unified most of Sikkim in the 7th century. I got nothing else at the moment, so let's say this is an ancestor with the same name
+	dynasty=123501 # Rongkup is the original endonym of the Lepcha people.
+	religion="bon"
+	culture="nepali"
+	446.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

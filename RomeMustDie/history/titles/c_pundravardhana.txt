@@ -1,0 +1,19 @@
+350.1.1={
+	holder=190054 #Pusyavarman
+	liege=d_para_lauhitya
+}
+374.1.1={
+	holder=190055 #Samudravarman
+}
+398.1.1={
+	holder=190056 #Balavarman
+}
+422.1.1={
+	holder=190057 #Kalyanavarman
+}
+446.1.1={
+	holder=190058 #Ganapativarman
+}
+470.1.1={
+	holder=190059 #Mahendravarman
+}

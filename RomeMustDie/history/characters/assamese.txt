@@ -1,0 +1,104 @@
+190054 = {
+	name="Pushyavarman"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	324.1.1={
+		birth=yes
+	}
+	374.1.1={
+		death=yes
+	}
+}
+190055 = {
+	name="Samudravarman"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190054
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	346.1.1={
+		birth=yes
+	}
+	398.1.1={
+		death=yes
+	}
+}
+190056 = {
+	name="Balavarman"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190055
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	380.1.1={
+		birth=yes
+	}
+	422.1.1={
+		death=yes
+	}
+}
+190057 = {
+	name="Kalyanavarman"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190056
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	402.1.1={
+		birth=yes
+	}
+	446.1.1={
+		death=yes
+	}
+}
+190058 = {
+	name="Ganapativarman"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190057
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	422.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+190059 = {
+	name="Mahendravarman"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190058
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	444.1.1={
+		birth=yes
+	}
+	494.1.1={
+		death=yes
+	}
+}
+190060 = {
+	name="Narayanavarman"
+	dynasty=1044003
+	religion="hindu"
+	culture="assamese"
+	father=190059
+	trait="kshatriya"
+	trait="shaktist_hindu"
+	467.1.1={
+		birth=yes
+	}
+	518.1.1={
+		death=yes
+	}
+}

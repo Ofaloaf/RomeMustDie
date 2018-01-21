@@ -1,0 +1,78 @@
+175001 = {
+	name="Gunavarman" 
+	dynasty=535001 # Vasishtha
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	405.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes
+	}
+}
+
+175002 = {
+	name="Prabhanjanavarman" 
+	dynasty=1043014
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=175001
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+175003 = {
+	name="Anantavarman" 
+	dynasty=1043014
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=175002
+	470.1.1={
+		birth=yes
+	}
+	550.1.1={
+		death=yes
+	}
+}
+
+
+175004 = {
+	name="Anantashaktivarman" 
+	dynasty=535002 # Mathara
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+175005 = {
+	name="Umavarman" 
+	dynasty=535003 # Pitrbhakta
+	religion="hindu"
+	culture="oriya"
+	trait=kshatriya
+	trait=shaivist_hindu
+	trait=ambitious
+	442.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

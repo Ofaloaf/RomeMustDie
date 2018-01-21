@@ -1,0 +1,17 @@
+# County Title
+title = c_sikkim
+
+# Settlements
+max_settlements = 5
+
+b_gangdoz = castle
+b_mangan = city
+b_gyalshing = temple
+#b_namchi = {
+#b_rumtheg = {
+#b_ralang = {
+#b_rangpo = {
+
+# Misc
+culture = nepali
+religion = bon # the Sikkimese were initially animist, and Buddhism was only introduced there /from Tibet/ in the 8th or 9th century

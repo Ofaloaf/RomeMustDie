@@ -1,0 +1,286 @@
+191001 = {
+	name="Sri Gupta"
+	dynasty=1044321 # Gupta
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	210.1.1={
+		birth=yes
+	}
+	280.1.1={
+		death=yes
+	}
+}
+
+191002 = {
+	name="Ghatotkacha"
+	dynasty=1044321 #Gupta
+	father = 191001
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	245.1.1={
+		birth=yes
+	}
+	319.1.1={
+		death=yes
+	}
+}
+
+191003 = {
+	name="Chandragupta"
+	dynasty=1044321 # Gupta
+	father = 191002
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	275.1.1={
+		birth=yes
+	}
+	335.1.1={
+		death=yes
+	}
+}
+
+191004 = {
+	name="Kachagupta"
+	dynasty=1044321 #Gupta
+	father = 191003
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	300.1.1={
+		birth=yes
+	}
+	336.1.1={
+		death=yes
+	}
+}
+
+191005 = {
+	name="Samudragupta"
+	dynasty=1044321 # Gupta
+	father = 191003
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	305.1.1={
+		birth=yes
+	}
+	380.1.1={
+		death=yes
+	}
+}
+
+191006 = {
+	name="Ramagupta"
+	dynasty=1044321 # Gupta
+	father = 191005
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	340.1.1={
+		birth=yes
+	}
+	381.1.1={
+		death=yes
+	}
+}
+
+191007 = {
+	name="Chandragupta"
+	dynasty=1044321 # Gupta
+	father = 191005
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	345.1.1={
+		birth=yes
+	}
+	415.1.1={
+		death=yes
+	}
+}
+
+191008 = {
+	name="Kumaragupta"
+	dynasty=1044321 # Gupta
+	father = 191005
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	380.1.1={
+		birth=yes
+	}
+	455.1.1={
+		death=yes
+	}
+}
+
+191009 = {
+	name="Skandagupta"
+	dynasty=1044321 # Gupta
+	father = 191008
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	410.1.1={
+		birth=yes
+	}
+	467.1.1={
+		death=yes
+	}
+}
+
+191010 = {
+	name="Purugupta"
+	dynasty=1044321 # Gupta
+	father = 191008
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	415.1.1={
+		birth=yes
+	}
+	473.1.1={
+		death=yes
+	}
+}
+
+191011 = {
+	name="Kumaragupta"
+	dynasty=1044321 # Gupta
+	father = 191010
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	trait=deceitful
+	trait=proud
+	445.1.1={
+		birth=yes
+	}
+	476.1.1={
+		death=yes
+	}
+}
+
+191012 = {
+	name="Budhagupta"
+	dynasty=1044321 # Gupta
+	father = 191010
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	448.1.1={
+		birth=yes
+	}
+	495.1.1={
+		death=yes
+	}
+}
+
+191013 = {
+	name="Marasimhagupta"
+	dynasty=1044321 # Gupta
+	father = 191010
+	religion="hindu"
+	culture="bengali"
+	trait="vaishya"
+	trait="shaivist_hindu"
+	500.1.1={
+		birth=yes
+	}
+	505.1.1={
+		death=yes
+	}
+}
+
+191014 = {
+	name="Gopala"
+	# fictional. I know the Samatata dynasty ruled in Bengal proper, but I have no idea who headed the dynasty.
+	dynasty=1043011 # Samatata
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+191015 = {
+	name="Prannath"
+	# giving Gopala an heir
+	dynasty=1043011 # Samatata
+	father = 191014
+	religion="buddhist"
+	culture="bengali"
+	trait="kshatriya"
+	470.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+191016 = {
+	name="Susharman"
+	# making up stuff. I don't know when the Reo clan first really came to power in Jharkand, so I'm making up a dude for the time being.
+	dynasty=1212001 #
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	430.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+191017 = {
+	name="Virasena"
+	# making up stuff. I don't know when the Reo clan first really came to power in Jharkand, so I'm making up a dude for the time being.
+	dynasty=1212001
+	father = 191016
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	464.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+191018 = {
+	name="Roopnarayan"
+	# fictional ancestor of Shashanka of the Gauda Kingdom
+	dynasty=1212001 #
+	religion="hindu"
+	culture="bengali"
+	trait="kshatriya"
+	trait=ambitious
+	443.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

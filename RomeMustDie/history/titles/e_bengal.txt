@@ -1,0 +1,47 @@
+250.1.1 = {
+	holder = 191001 # Sri Gupta
+}
+
+280.1.1 = {
+	holder = 191002 # Gatotkacha
+}
+
+319.1.1 = {
+	holder = 191003 # Chandragupta
+}
+
+335.1.1 = {
+	holder = 191004 # Kachagupta
+}
+
+336.1.1 = {
+	holder = 191005 # Samudragupta
+}
+
+380.1.1 = {
+	holder = 191006 # Ramagupta
+}
+
+381.1.1 = {
+	holder = 191007 # Chandragupta II
+}
+
+415.1.1 = {
+	holder = 191008 # Kumaragupta
+}
+
+455.1.1 = {
+	holder = 191009 # Skandagupta
+}
+
+467.1.1 = {
+	holder = 191010 # Purugupta
+}
+
+473.1.1 = {
+	holder = 191011 # Kumaragupta II
+}
+
+476.1.1 = {
+	holder = 191012 # Budhagupta
+}
