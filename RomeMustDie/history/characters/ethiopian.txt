@@ -1,0 +1,311 @@
+1935001 = {
+	name="Zoskales"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pagan"
+	culture="ethiopian"
+	70.1.1={
+		birth=yes
+	}
+	140.1.1={
+		death=yes
+	}
+}
+
+1935002 = {
+	name="Gadarat"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pagan"
+	culture="ethiopian"
+	170.1.1={
+		birth=yes
+	}
+	230.1.1={
+		death=yes
+	}
+}
+
+1935003 = {
+	name="Adhebah"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pagan"
+	culture="ethiopian"
+	200.1.1={
+		birth=yes
+	}
+	245.1.1={
+		death=yes
+	}
+}
+
+1935004 = {
+	name="Sembrouthes"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pagan"
+	culture="ethiopian"
+	210.1.1={
+		birth=yes
+	}
+	260.1.1={
+		death=yes
+	}
+}
+
+1935005 = {
+	name="Datawnas"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pagan"
+	culture="ethiopian"
+	215.1.1={
+		birth=yes
+	}
+	270.1.1={
+		death=yes
+	}
+}
+
+1935006 = {
+	name="Endubis"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pagan"
+	culture="ethiopian"
+	240.1.1={
+		birth=yes
+	}
+	300.1.1={
+		death=yes
+	}
+}
+
+1935007 = {
+	name="Aphilas"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pagan"
+	culture="ethiopian"
+	270.1.1={
+		birth=yes
+	}
+	310.1.1={
+		death=yes
+	}
+}
+
+1935008 = {
+	name="Wazeba"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pagan"
+	culture="ethiopian"
+	271.1.1={
+		birth=yes
+	}
+	315.1.1={
+		death=yes
+	}
+}
+
+1935009 = {
+	name="Ousanas"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pagan"
+	culture="ethiopian"
+	trait=sympathy_christendom
+	274.1.1={
+		birth=yes
+	}
+	333.1.1={
+		death=yes
+	}
+}
+
+1935010 = {
+	name="Ezana"
+	dynasty=1935001
+	father = 1935009
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="pagan"
+	culture="ethiopian"
+	300.1.1={
+		birth=yes
+	}
+	333.1.1 = {
+		religion = miaphysite
+	}
+	356.1.1={
+		death=yes
+	}
+}
+
+1935011 = {
+	name="Mehadeyis"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="ethiopian"
+	320.1.1={
+		birth=yes
+	}
+	375.1.1={
+		death=yes
+	}
+}
+
+1935012 = {
+	name="Ouazebas"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="ethiopian"
+	342.1.1={
+		birth=yes
+	}
+	395.1.1={
+		death=yes
+	}
+}
+
+1935013 = {
+	name="Eon"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="ethiopian"
+	370.1.1={
+		birth=yes
+	}
+	430.1.1={
+		death=yes
+	}
+}
+
+1935014 = {
+	name="Ebana"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="miaphysite"
+	culture="ethiopian"
+	400.1.1={
+		birth=yes
+	}
+	460.1.1={
+		death=yes
+	}
+}
+
+1935015 = {
+	name="Nezool"
+	dynasty=1935001
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="miaphysite"
+	culture="ethiopian"
+	trait=humble
+	trait=patient
+	trait=charitable
+	425.1.1={
+		birth=yes
+	}
+	480.1.1={
+		death=yes
+	}
+}
+
+1935016 = {
+	name="Ousas"
+	dynasty=1935001
+	father = 1935015
+	religion="miaphysite"
+	culture="ethiopian"
+	trait=proud
+	450.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1935017 = {
+	name="Tazena"
+	dynasty=1935001
+	father = 1935015
+	religion="miaphysite"
+	culture="ethiopian"
+	453.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1935018 = {
+	name="Kaleb"
+	dynasty=1935001
+	father = 1935017
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="miaphysite"
+	culture="ethiopian"
+	trait=ambitious
+	475.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}

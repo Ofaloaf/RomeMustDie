@@ -14321,7 +14321,7 @@ e_arabia = {
 	}
 }
 
-e_abyssinia = {
+e_ethiopia = {
 	color={ 181 133 68 }
 	color2={ 255 255 255 }
 	
@@ -14329,18 +14329,24 @@ e_abyssinia = {
 	
 	culture = ethiopian
 	
-	k_abyssinia = {
-		color={ 120 62 20 }
+	greek = Aithiopia
+	
+	k_ethiopia = {
+		color={ 56 120 191 }
 		color2={ 255 255 255 }
 		
-		capital = 883 # Gondar
+		capital = 875 # Axum
 		
 		culture = ethiopian
 		
 		jewish_group = 100
 		
+		greek = Aithiopia
+		
+		ethiopian = Aksum
+		
 		d_harer = { # Berbera
-			color={ 127 151 52 }
+			color={ 230 240 255 }
 			color2={ 255 255 255 }
 			
 			capital = 872 # Berbera
@@ -14369,8 +14375,11 @@ e_abyssinia = {
 			c_berbera = {
 				color={ 127 151 52 }
 				color2={ 255 255 255 }
+				
+				# Malao
 			
 				b_berbera = {
+					# Malao
 				}
 				b_maydh = {
 				}
@@ -14388,8 +14397,11 @@ e_abyssinia = {
 			c_zeila = {
 				color={ 127 151 52 }
 				color2={ 255 255 255 }
+				
+				# Avalites
 			
 				b_zeila = {
+					# Avalites
 				}
 				b_hargeysa = {
 				}
@@ -14437,8 +14449,11 @@ e_abyssinia = {
 			c_massawa = {
 				color={ 186 135 70 }
 				color2={ 255 255 255 }
+				
+				# Adulis
 			
 				b_massawa = {
+					# Coloe # mentioned in the Periplus of the Erythraean Sea. Gonna be honest though, I'm pretty sure Coloe's not Massawa since Coloe was inland a bit. Whatever.
 				}
 				b_cheren = {
 				}
@@ -14475,7 +14490,7 @@ e_abyssinia = {
 
 		}
 		d_semien = {
-			color={ 146 105 50 }
+			color={ 232 121 145 }
 			color2={ 255 255 255 }
 			
 			ashkenazi = "Beta Israel"
@@ -14523,7 +14538,7 @@ e_abyssinia = {
 			}
 		}
 		d_afar = {
-			color={ 159 189 65 }
+			color={ 145 70 130 }
 			color2={ 255 255 255 }
 			
 			capital = 873 # Harer
@@ -14747,7 +14762,7 @@ e_abyssinia = {
 			}
 		}
 		d_damot = {
-			color={ 198 93 30 }
+			color={ 243 106 0 }
 			color2={ 255 255 255 }
 			
 			capital = 1428 # Damot
@@ -14794,7 +14809,7 @@ e_abyssinia = {
 			}
 		}
 		d_shewa = {
-			color={  147 90 48 }
+			color={ 1 200 200 }
 			color2={ 255 255 255 }
 			
 			capital = 882 # Ankober

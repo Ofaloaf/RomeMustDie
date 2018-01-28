@@ -1,0 +1,4 @@
+1935001 = {
+	name = Axsum # Tigrinya rendering of Axum
+	culture = ethiopian
+}
