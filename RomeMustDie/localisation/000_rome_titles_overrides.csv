@@ -3845,6 +3845,14 @@ b_tinzaouten;Tinzawatin;;;;;;;;;;;;;x
 b_ouallam;Wallam;;;;;;;;;;;;;x
 b_ouroali;Wurali;;;;;;;;;;;;;x
 d_songhay;Gao;;;;;;;;;;;;;x
+c_simaramapura_adj;Vaishali;;;;;;;;;;;;;x
+b_simaramapura;Vaishali;;;;;;;;;;;;;x
+c_zeila_adj;Avalitian;;;;;;;;;;;;;x
+b_zeila;Avalites;;;;;;;;;;;;;x
+c_massawa_adj;Adulian;;;;;;;;;;;;;x
+b_massawa;Coloe;;;;;;;;;;;;;x
+c_berbera_adj;Malao;;;;;;;;;;;;;x
+b_berbera;Malao;;;;;;;;;;;;;x
 #
 PROV1;Thule;Thule;Thule;;Thule;;;;;;;;;x
 PROV2;Thule;Thule;Thule;;Thule;;;;;;;;;x
@@ -4374,6 +4382,7 @@ PROV867;Omanum;;;;;;;;;;;;;x
 PROV868;Amithoscuta;;;;;;;;;;;;;x
 PROV869;Asabon;;;;;;;;;;;;;x
 PROV870;Regmah;;;;;;;;;;;;;x
+PROV872;Malao;;;;;;;;;;;;;x
 PROV900;Jaxartes;;;;;;;;;;;;;x
 PROV909;Libyan Desert;Désert du Libyan;Libya;;Desierto del Libyan;;;;;;;;;x
 PROV912;Awadaghust;;;;;;;;;;;;;x
@@ -4502,6 +4511,9 @@ PROV1107;Garunna;;;;;;;;;;;;;x
 PROV1108;Garunna;;;;;;;;;;;;;x
 PROV1109;Hadriaticum Mare;;;;;;;;;;;;;x
 PROV1110;Sinus Venetus;;;;;;;;;;;;;x
+PROV1343;Adulis;;;;;;;;;;;;;x
+PROV1344;Avalites;;;;;;;;;;;;;x
+PROV1420;Vaishali;;;;;;;;;;;;;x
 PROV1530;Lugana;;;;;;;;;;;;;x
 PROV1532;Muza;;;;;;;;;;;;;x
 PROV1533;Nagara;;;;;;;;;;;;;x

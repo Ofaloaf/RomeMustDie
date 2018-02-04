@@ -1,0 +1,11 @@
+1212001 = {
+	name = Reo
+	culture = bengali
+	religion = hindu
+}
+
+1212002 = {
+	name = Gauda
+	culture = bengali
+	religion = hindu
+}

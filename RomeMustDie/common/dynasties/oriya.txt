@@ -1,0 +1,18 @@
+535001={
+	name="Vasishtha"
+	culture="oriya"
+	religion="hindu"
+}
+
+535002={
+	name="Mathara"
+	culture="oriya"
+	religion="hindu"
+}
+
+535003={
+	name="Pitrbhakta"
+	culture="oriya"
+	religion="hindu"
+}
+

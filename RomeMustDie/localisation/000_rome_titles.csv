@@ -11,6 +11,8 @@ e_britannia;Britannia;;;;;;;;;;;;;x
 e_britannia_adj;Britannia;;;;;;;;;;;;;x
 e_caucasia;Caucasia;;;;;;;;;;;;;x
 e_caucasia_adj;Caucasian;;;;;;;;;;;;;x
+e_ethiopia;Æthiopia;;;;;;;;;;;;;x
+e_ethiopia_adj;Æthiopian;;;;;;;;;;;;;x
 e_gallic_empire;Gallic Empire;;;;;;;;;;;;;x
 e_gallic_empire_adj;Gallic;;;;;;;;;;;;;x
 e_germania;Germania;;;;;;;;;;;;;x
@@ -61,6 +63,8 @@ k_cumbria;Cumbria;;;;;;;;;;;;;x
 k_cumbria_adj;Cumbrian;;;;;;;;;;;;;x
 k_dacia;Dacia;;;;;;;;;;;;;x
 k_dacia_adj;Dacian;;;;;;;;;;;;;x
+k_ethiopia;Æthiopia;;;;;;;;;;;;;x
+k_ethiopia_adj;Æthiopian;;;;;;;;;;;;;x
 k_gallaecia;Gallaecia;;;;;;;;;;;;;x
 k_gallaecia_adj;Gallaecian;;;;;;;;;;;;;x
 k_gallia;Gallia;;;;;;;;;;;;;x
@@ -77,6 +81,8 @@ k_hyperborea;Hyperborea;;;;;;;;;;;;;x
 k_hyperborea_adj;Hyperborean;;;;;;;;;;;;;x
 k_illyria;Illyria;;;;;;;;;;;;;x
 k_illyria_adj;Illyrian;;;;;;;;;;;;;x
+k_kalinga;Kalinga;;;;;;;;;;;;;x
+k_kalinga_adj;Kalinga;;;;;;;;;;;;;x
 k_loegria;Loegria;;;;;;;;;;;;;x
 k_loegria_adj;Loegrian;;;;;;;;;;;;;x
 k_lusitania;Lusitania;;;;;;;;;;;;;x

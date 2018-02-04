@@ -1,0 +1,11 @@
+#Licchavi Dynasty
+425.1.1 = {
+	liege="k_nepal"
+	holder=12300 #Sankaradeva I
+}
+450.1.1 = {
+	holder=12302 #Dharmadeva
+}
+464.1.1 = {
+	holder=12304 #Manadeva I
+}

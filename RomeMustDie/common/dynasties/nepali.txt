@@ -1,0 +1,11 @@
+123501 = {
+	name = Rongkup
+	culture = nepali
+	religion = hindu
+}
+
+123502 = {
+	name = Phipon
+	culture = nepali
+	religion = hindu
+}
