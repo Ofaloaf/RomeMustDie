@@ -543,3 +543,11 @@ d_sambians = {
 	
 	culture = prussian
 }
+d_kulmas = {
+	color = { 107 48 31 }
+	color2= { 255 255 255 }
+
+	capital = 369 #Chelminskie (prussian tribe)
+	
+	culture = prussian
+}

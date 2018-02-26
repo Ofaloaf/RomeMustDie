@@ -121,3 +121,44 @@
 		death = yes
 	}
 }
+194010 = {
+	name = "Budo" # fictional ruler of the Kulmas
+	dynasty = 9542
+	religion = baltic_pagan
+	culture = prussian
+	436.1.1 = {
+		birth = yes
+	}
+	457.1.1 = {
+		add_spouse = 194011
+	}
+	496.1.1 = {
+		death = yes
+	}
+}
+194011 = {
+	name = "Gulbis"
+	female=yes
+	religion = baltic_pagan
+	culture = prussian
+	436.1.1 = {
+		birth = yes
+	}
+	496.1.1 = {
+		death = yes
+	}
+}
+194012 = {
+	name = "Glande"
+	dynasty = 9542
+	religion = baltic_pagan
+	culture = prussian
+	father=194010
+	mother=194011
+	467.1.1 = {
+		birth = yes
+	}
+	527.1.1 = {
+		death = yes
+	}
+}
