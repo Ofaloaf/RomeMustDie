@@ -551,3 +551,11 @@ d_kulmas = {
 	
 	culture = prussian
 }
+d_sudovians = {
+	color = { 38 209 113 }
+	color2= { 255 255 255 }
+
+	capital = 423 #Sudovia (lithuanian tribe)
+	
+	culture = lithuanian
+}

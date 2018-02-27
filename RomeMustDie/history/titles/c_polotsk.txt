@@ -1,0 +1,4 @@
+475.1.1 = {
+	holder = 195000
+	liege = d_polotsk
+}

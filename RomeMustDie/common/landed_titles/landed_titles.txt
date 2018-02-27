@@ -5747,6 +5747,8 @@ e_scythia = {
 			color2={ 255 255 255 }
 			
 			capital = 419 # Polotsk
+
+			lithuanian = "Lettgallen"
 			
 			c_polotsk = {
 				color={ 125 14 14 }

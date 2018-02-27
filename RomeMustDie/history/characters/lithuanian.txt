@@ -1,0 +1,121 @@
+195000 = {
+	name = "Songaila" #fictional ruler of Polotsk (Lettgallen)
+	dynasty = 9
+	religion = baltic_pagan
+	culture = lithuanian
+	457.1.1 = {
+		birth = yes
+	}
+	517.1.1 = {
+		death = yes
+	}
+}
+195001 = {
+	name = "Vaisvilkas" #fictional ruler of Lithuanians
+	dynasty = 11
+	religion = baltic_pagan
+	culture = lithuanian
+	442.1.1 = {
+		birth = yes
+	}
+	463.1.1 = { 
+		add_spouse = 195002
+	}
+	502.1.1 = {
+		death = yes
+	}
+}
+195002 = {
+	name = "Gaudimante"
+	female=yes
+	religion = baltic_pagan
+	culture = lithuanian
+	442.1.1 = {
+		birth = yes
+	}
+	502.1.1 = {
+		death = yes
+	}
+}
+195003 = {
+	name = "Vytautas"
+	dynasty = 11
+	religion = baltic_pagan
+	culture = lithuanian
+	father=195001
+	mother=195002
+	473.1.1 = {
+		birth = yes
+	}
+	523.1.1 = {
+		death = yes
+	}
+}
+195004 = {
+	name = "Budrys" #fictional ruler of Lithuanians
+	dynasty = 27
+	religion = baltic_pagan
+	culture = lithuanian
+	439.1.1 = {
+		birth = yes
+	}
+	460.1.1 = { 
+		add_spouse = 195005
+	}
+	499.1.1 = {
+		death = yes
+	}
+}
+195005 = {
+	name = "Svajone"
+	female=yes
+	religion = baltic_pagan
+	culture = lithuanian
+	439.1.1 = {
+		birth = yes
+	}
+	499.1.1 = {
+		death = yes
+	}
+}
+195006 = {
+	name = "Erdvilas"
+	dynasty = 27
+	religion = baltic_pagan
+	culture = lithuanian
+	father=195004
+	mother=195005
+	470.1.1 = {
+		birth = yes
+	}
+	520.1.1 = {
+		death = yes
+	}
+}
+195007 = {
+	name = "Kesgaila" #fictional ruler of Semigalians
+	dynasty = 31
+	religion = baltic_pagan
+	culture = lithuanian
+	447.1.1 = {
+		birth = yes
+	}
+	468.1.1 = { 
+		add_spouse = 195008
+	}
+	507.1.1 = {
+		death = yes
+	}
+}
+195008 = {
+	name = "Ausra"
+	female=yes
+	religion = baltic_pagan
+	culture = lithuanian
+	447.1.1 = {
+		birth = yes
+	}
+	507.1.1 = {
+		death = yes
+	}
+}
