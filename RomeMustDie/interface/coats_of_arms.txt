@@ -122,22 +122,15 @@ culture =
 		}
 		texture = {
 			file = "gfx\\coats_of_arms\\pattern_roman.tga"
-			size = { x = 10 y = 5 }
-			noOfFrames = 43
+			size = { x = 10 y = 9 }
+			noOfFrames = 86
 			color = 3
 			emblem = no
 		}
 		texture = {
 			file = "gfx\\coats_of_arms\\pattern_christian.tga"
-			size = { x = 10 y = 2 }
-			noOfFrames = 20
-			color = 3
-			emblem = no
-		}
-		texture = {
-			file = "gfx\\coats_of_arms\\pattern_classical.tga"
-			size = { x = 10 y = 3 }
-			noOfFrames = 29
+			size = { x = 10 y = 4 }
+			noOfFrames = 34
 			color = 3
 			emblem = no
 		}
@@ -876,8 +869,8 @@ culture =
 		}
 		texture = {
 			file = "gfx\\coats_of_arms\\pattern_roman.tga"
-			size = { x = 10 y = 5 }
-			noOfFrames = 43
+			size = { x = 10 y = 9 }
+			noOfFrames = 86
 			color = 3
 			emblem = no
 		}
