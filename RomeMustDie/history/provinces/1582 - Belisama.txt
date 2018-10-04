@@ -1,0 +1,21 @@
+# 1582 - Belisama
+
+# County Title
+title = c_belisama
+
+# Settlements
+max_settlements = 3
+b_cataractonium = castle
+b_cravona = temple
+
+#b_belisama
+#b_isura
+#b_verbeia
+#b_olenacum
+#b_penno
+#b_rith
+
+# Misc
+culture = welsh
+religion = pelagian
+terrain = hills

@@ -42,7 +42,7 @@
 	stewardship=6
 	learning=6
 	culture="suebi"
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	trait="craven"
 	443.1.1={
 		birth=yes
@@ -63,6 +63,59 @@
 	culture="suebi"
 	religion="arian"
 	422.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+409005 = {
+	name="Dulcemirus"
+	dynasty=409017
+	culture="suebi"
+	religion="germanic_pagan"
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+409006 = {
+	name="Romarigus"
+	dynasty=409017
+	father = 409005
+	culture="suebi"
+	religion="germanic_pagan"
+	462.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+409007 = {
+	name="Nitigis"
+	dynasty=409003
+	culture=suebi
+	religion=germanic_pagan
+	442.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+409008 = {
+	name="Audeca"
+	dynasty=409004
+	culture=suebi
+	religion=germanic_pagan
+	446.1.1={
 		birth=yes
 	}
 	500.1.1={

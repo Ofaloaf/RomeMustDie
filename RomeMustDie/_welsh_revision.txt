@@ -1,0 +1,19 @@
+	welsh = {
+		male = {
+			Arthwys_Arthur Aergol_Agricola Aldwr_Aldroenus
+			Bigan_Bican Buddig_Budic
+			Custennin_Constantine Cynan_Conan
+			Edelig_Edelicus Eudaf_Octavius
+			Gildas_Gildas Gwrfawr_Vorimer
+			Illtud_Illtud
+			Macsen_Maximus Maelgwn_Maglocunus
+			Owain_Eugenius
+			Pabo_Pabius
+			Triffyn_Tribune
+			Uthyr_Uther
+		}
+		female = {
+			An_Anna
+			Eigyr_Igraine
+		}
+	}

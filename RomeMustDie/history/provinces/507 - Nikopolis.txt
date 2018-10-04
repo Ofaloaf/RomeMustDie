@@ -17,5 +17,5 @@ b_oescus = temple
 #b_knezha = castle
 
 # Misc
-culture = ostrogothi
+culture = gothic
 religion = arian

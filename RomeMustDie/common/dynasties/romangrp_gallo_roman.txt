@@ -287,3 +287,28 @@
 	name = "Avitus"
 	culture = gallo_roman
 }
+
+451059 = {
+	name = "Tutomalus"
+	culture = gallo_roman
+}
+
+451060 = {
+	name = "Catugnatus"
+	culture = gallo_roman
+}
+
+451061 = {
+	name = "Roucillus"
+	culture = gallo_roman
+}
+
+451062 = {
+	name = "Adbucillus"
+	culture = gallo_roman
+}
+
+451063 = {
+	name = "Viernensis" # Viernum, near Arelate/Arles
+	culture = gallo_roman
+}

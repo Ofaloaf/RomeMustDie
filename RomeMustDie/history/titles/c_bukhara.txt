@@ -1,0 +1,4 @@
+470.1.1 = {
+	liege = e_hephthalite
+	holder = 1222015
+}

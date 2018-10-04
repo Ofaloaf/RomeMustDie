@@ -15,6 +15,10 @@ e_africa = {
 		west_african_pagan_reformed = 50
 		zoroastrian_group = 50 # Crusade target weight
 		
+		allow = {
+			NOT = { has_landed_title = k_vandalia }
+		}
+		
 		d_zeugitana = {
 			color={ 20 232 95 }
 			color2={ 255 255 255 }
@@ -378,7 +382,7 @@ e_africa = {
 				# Constantina
 
 				vandal = Abaritana	# name attested in 442 treaty, but it's not actually know what place 'Abaritana' refers to.
-				ostrogothi = Abaritana
+				gothic = Abaritana
 				visigothi = Abaritana
 			
 				b_constantine = {
@@ -450,6 +454,10 @@ e_africa = {
 		
 		muslim = 100 # Crusade target weight
 		west_african_pagan_reformed = 100
+		
+		allow = {
+			NOT = { has_landed_title = k_vandalia }
+		}
 
 		d_sitifis = {
 			color = { 26 88 134 }

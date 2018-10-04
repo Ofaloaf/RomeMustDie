@@ -254,3 +254,35 @@
 		death=yes
 	}
 }
+
+123015={
+	name="Geilaris"
+	# fictional
+	dynasty=123014
+
+	religion=arian
+	culture=vandal
+
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+123016={
+	name="Gildilas"
+	# fictional
+	dynasty=123014
+	father = 123015
+	religion=arian
+	culture=vandal
+
+	468.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}

@@ -713,6 +713,9 @@
 	430.9.18={
 		birth=yes
 	}
+	465.1.1={
+		add_spouse = 1589076
+	}
 	496.1.1={
 		death=yes
 	}
@@ -910,10 +913,13 @@
 1589054 = {
 	name="Anblaud"
 	dynasty=455001 # Ercing
-	culture="welsh"
+	culture="romano_british"
 	religion="nicene"
 	400.1.1={
 		birth=yes
+	}
+	431.1.1 = {
+		add_spouse = 1589075
 	}
 	473.1.1={
 		death=yes
@@ -921,10 +927,11 @@
 }
 
 1589055 = {
-	name="Gwrfoddw"
+	name="Gorbotonus" # Gwrfoddw
 	dynasty=455001 # Ercing
 	father=1589054
-	culture="welsh"
+	mother=1589075
+	culture="romano_british"
 	religion="nicene"
 	martial=6
 	diplomacy=7
@@ -1226,6 +1233,218 @@
 		birth=yes
 	}
 	500.1.2={
+		death=yes
+	}
+}
+
+1589070 = {
+	name="Pabius"
+	dynasty=1589003
+	father=1589031
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	culture="romano_british"
+	religion="pelagian"
+	trait=brave
+	432.1.1={
+		birth=yes
+	}
+	452.1.1 = {
+		add_spouse = 1589071
+	}
+	530.1.1={
+		death=yes
+	}
+}
+
+1589071 = {
+	name="Eleutheria"
+	female=yes
+	religion="pelagian"
+	culture="romano_british"
+	436.1.1={
+		birth=yes
+	}
+	500.1.2={
+		death=yes
+	}
+}
+
+1589072 = {
+	name="Donatus"
+	dynasty=1589003
+	father=1589070
+	mother=1589071
+	culture="romano_british"
+	religion="pelagian"
+	452.1.1={
+		birth=yes
+	}
+	580.1.1={
+		death=yes
+	}
+}
+
+1589073 = {
+	name="Samuvellus"
+	dynasty=1589003
+	father=1589070
+	mother=1589071
+	culture="romano_british"
+	religion="pelagian"
+	454.1.1={
+		birth=yes
+	}
+	580.1.1={
+		death=yes
+	}
+}
+
+1589074 = {  	
+	name="Tudwal"
+	# AKA: Tutgual, Theodovellaunus
+	dynasty=816
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="nicene"
+	culture="welsh"
+	father=1589035
+	trait=envious
+	447.1.1={
+		birth=yes
+	}
+	525.1.1={
+		death=yes
+	}
+}
+
+1589075 = {
+	name="Gwenwyn"
+	female=yes
+	culture="welsh"
+	religion="nicene"
+	415.1.1={
+		birth=yes
+	}
+	473.1.1={
+		death=yes
+	}
+}
+
+1589076 = {
+	name="Igerna"
+	female = yes
+	dynasty=455001 # Ercing
+	father=1589054 # Anblaud
+	mother=1589075
+	culture="romano_british"
+	religion="nicene"
+	trait=fair
+	trait=trusting
+	443.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589077 = {
+	name="Rieingulid"
+	female = yes
+	dynasty=455001 # Ercing
+	father=1589054 # Anblaud
+	mother=1589075
+	culture="romano_british"
+	religion="nicene"
+	444.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589078 = {
+	name="Goleuddydd"
+	female = yes
+	dynasty=455001 # Ercing
+	father=1589054 # Anblaud
+	mother=1589075
+	culture="romano_british"
+	religion="nicene"
+	trait=fair
+	446.1.1={
+		birth=yes
+	}
+	462.1.1={
+		add_trait = lunatic
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589079 = {
+	name="Tywanwedd"
+	female = yes
+	dynasty=455001 # Ercing
+	father=1589054 # Anblaud
+	mother=1589075
+	culture="romano_british"
+	religion="nicene"
+	447.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589080 = {
+	name="Natanleod"
+	dynasty=455001 # Ercing
+	father=1589054 # Anblaud
+	mother=1589075
+	culture="romano_british"
+	religion="nicene"
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	trait=misguided_warrior
+	451.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1589081 = {
+	name="Artorius"
+	dynasty=1589004
+	father=1589043
+	mother=1589076
+	culture="romano_british"
+	religion="nicene"
+	martial=9
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	learning=6
+	trait=legit_bastard
+	trait=strong
+	trait=trusting
+	472.1.1={
+		birth=yes
+	}
+	540.1.1={
 		death=yes
 	}
 }

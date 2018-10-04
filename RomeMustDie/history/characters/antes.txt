@@ -23,7 +23,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	culture=antes
+	culture=sklaveni
 	religion=slavic_pagan
 	437.1.1={
 		birth=yes

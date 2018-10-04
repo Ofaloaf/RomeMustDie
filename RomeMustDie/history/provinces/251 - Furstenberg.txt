@@ -18,7 +18,7 @@ b_furstenberg = tribal
 
 # Misc
 culture = alemanni
-religion = norse_pagan
+religion = germanic_pagan
 
 # History
 

@@ -15,7 +15,7 @@ technology = {
 		d_jamtland
 		d_karelia
 		d_finland
-		d_esthonia
+		d_hestia
 		d_kola
 		d_finnmark
 		d_sapmi

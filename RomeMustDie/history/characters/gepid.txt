@@ -6,7 +6,7 @@
 	intrigue=6
 	stewardship=8
 	learning=5
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="gepid"
 	add_trait="brave"
 	408.1.1= {
@@ -25,7 +25,7 @@
 	intrigue=5
 	stewardship=5
 	learning=7
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="gepid"
 	add_trait="drunkard"
 	add_trait="envious"
@@ -68,7 +68,7 @@
 	intrigue=9
 	stewardship=8
 	learning=6
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="gepid"
 	439.1.1= {
 		birth=yes
@@ -87,7 +87,7 @@
 	intrigue=5
 	stewardship=8
 	learning=7
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="gepid"
 	trait="honest"
 	445.1.1= {

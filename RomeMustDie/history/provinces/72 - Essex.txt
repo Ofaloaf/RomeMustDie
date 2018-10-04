@@ -17,4 +17,4 @@ b_waltham = temple
 
 # Misc
 culture = saxon
-religion = norse_pagan
+religion = germanic_pagan

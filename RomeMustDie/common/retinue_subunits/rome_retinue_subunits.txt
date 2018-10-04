@@ -1,0 +1,115 @@
+# Types:
+# 0 - Light Infantry
+# 1 - Heavy Infantry
+# 2 - Pikemen
+# 3 - Light Cavalry
+# 4 - Heavy Cavalry
+# 5 - Archers
+# 6 - Special troops
+
+RETTYPE_CUL_ROMAN_GROUP = { # Bucellarii
+	first_type = 3
+	first_amount = 150
+	
+	second_type = 4
+	second_amount = 100
+	
+	potential = {
+		is_nomadic = no
+		OR = {
+			culture = roman
+			culture = graeci
+			culture = hispano_roman
+			culture = gallo_roman
+			culture = pannonian
+			culture = mauro_roman
+		}
+	}
+	
+	modifier = {
+		knights_offensive = 0.2
+		knights_morale = 0.2
+	}
+}
+
+RETTYPE_CUL_SUB_ROMAN_BRITAIN_CAV = { # Iluric (Lorica) Cavalry
+	first_type = 3
+	first_amount = 400
+	
+	potential = {
+		is_nomadic = no
+		OR = {
+			culture = romano_british
+			culture = welsh
+		}
+	}
+	
+	modifier = {
+		light_cavalry_defensive = 0.2
+		light_cavalry_offensive = 0.2
+		light_cavalry_morale = 0.2
+	}
+}
+
+RETTYPE_CUL_GOTH_CAV = { # Contus Cavalry
+	first_type = 4
+	first_amount = 150
+	
+	second_type = 6
+	second_amount = 100
+	
+	special_troops = horse_archers
+	
+	potential = {
+		is_nomadic = no
+		culture_group = gothic_group
+	}
+	
+	modifier = {
+		knights_offensive = 0.2
+		knights_morale = 0.2
+	}
+}
+
+RETTYPE_CUL_GOTH_INF = { # Contus Infantry
+	first_type = 2
+	first_amount = 400
+	
+	potential = {
+		is_nomadic = no
+		culture_group = gothic_group
+	}
+	
+	modifier = {
+		pikemen_defensive = 0.2
+		pikemen_offensive = 0.4
+		pikemen_morale = 0.2
+	}
+}
+
+RETTYPE_CUL_SUB_ROMAN_WEST = { # Provincial Milites
+	first_type = 0
+	first_amount = 300
+	
+	second_type = 2
+	second_amount = 100
+	
+	potential = {
+		is_nomadic = no
+		OR = {
+			culture = romano_british
+			culture = pannonian
+			culture = gallo_roman
+			culture = hispano_roman
+		}
+	}
+	
+	modifier = {
+		light_infantry_offensive = 0.2
+		light_infantry_defensive = 0.2
+		light_infantry_morale = 0.1
+		pikemen_offensive = 0.2
+		pikemen_defensive = 0.3
+		pikemen_morale = 0.1
+	}
+}

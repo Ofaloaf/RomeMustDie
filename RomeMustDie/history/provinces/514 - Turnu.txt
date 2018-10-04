@@ -17,5 +17,5 @@ b_dristra = temple
 #b_corabia = castle
 
 # Misc
-culture = ostrogothi
+culture = gothic
 religion = arian

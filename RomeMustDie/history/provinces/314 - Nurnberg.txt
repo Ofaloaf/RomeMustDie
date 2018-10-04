@@ -16,5 +16,5 @@ b_nurnberg = tribal
 #b_erlangen = castle
 
 # Misc
-culture = thuida
+culture = gothic
 religion = arian

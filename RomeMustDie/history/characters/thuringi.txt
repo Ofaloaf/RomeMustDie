@@ -6,7 +6,7 @@
 	intrigue=8
 	stewardship=7
 	learning=6
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture=thuringi
 	add_trait=gregarious
 	add_trait="charismatic_negotiator"
@@ -21,7 +21,7 @@
 4321002 = {
 	name="Basinus" #duke of Thuringia
 	dynasty=227 #von Thüringen
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="thuringi"
 	438.1.1={
 		birth=yes
@@ -34,7 +34,7 @@
 4321003 = {
 	name="Fisud" #duke of Thuringia
 	dynasty=227 #von Thüringen
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="thuringi"
 	father=4321002
 	458.1.1={
@@ -49,7 +49,7 @@
 	name="Ranigunda" #wife of Wacho of Lombards
 	female=yes
 	dynasty=227 #von Thüringen
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="thuringi"
 	father=4321003
 	475.10.21={

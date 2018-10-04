@@ -1,7 +1,7 @@
 410001 = {
 	name="Triarius"
 	dynasty=410002
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	410.1.1 = {
 		birth=yes
@@ -20,7 +20,7 @@
 	intrigue=8
 	stewardship=4
 	learning=5
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	add_trait="gregarious"
 	add_trait="scholar"
@@ -46,7 +46,7 @@
 	intrigue=9
 	stewardship=5
 	learning=6
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	add_trait="deceitful"
 	add_trait="envious"
@@ -72,7 +72,7 @@
 	intrigue=7
 	stewardship=6
 	learning=4
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	trait="sympathy_pagans"
 	trait=cynical
@@ -93,7 +93,7 @@
 	intrigue=6
 	stewardship=7
 	learning=6
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	trait="sympathy_pagans"
 	trait="skilled_tactician"
@@ -108,7 +108,7 @@
 410006 = {
 	name="Thiudimir"
 	dynasty=410001
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	add_trait="tough_soldier"
 	429.1.1 = {
@@ -126,7 +126,7 @@
 410007 = {
 	name="Ereleuva"
 	female=yes
-	culture="ostrogothi"
+	culture = gothic
 	religion="nicene"
 	429.1.1 = {
 		birth=yes
@@ -146,7 +146,7 @@
 	intrigue=8
 	stewardship=8
 	learning=8
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	add_trait="just"
 	add_trait="diligent"
@@ -172,7 +172,7 @@
 	intrigue=6
 	stewardship=6
 	learning=6
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	452.1.1 = {
 		birth=yes
@@ -185,7 +185,7 @@
 410010 = {
 	name="Aedoingus"
 	dynasty=410027
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	405.1.1 = {
 		birth=yes
@@ -203,7 +203,7 @@
 	female = yes
 	#father = 410006
 	#mother = 410007
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	405.1.1 = {
 		birth=yes
@@ -223,7 +223,7 @@
 	intrigue=8
 	stewardship=8
 	learning=8
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	add_trait="cynical"
 	add_trait=gregarious
@@ -241,7 +241,7 @@
 	dynasty=410027
 	father = 410010
 	mother = 410011
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	427.1.1 = {
 		birth=yes
@@ -257,7 +257,7 @@
 410014 = {
 	name="Bescela"
 	female = yes
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	427.1.1 = {
 		birth=yes
@@ -277,7 +277,7 @@
 	intrigue=8
 	stewardship=8
 	learning=8
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	add_trait="deceitful"
 	add_trait=gregarious
@@ -300,7 +300,7 @@
 	intrigue=6
 	stewardship=6
 	learning=6
-	culture="ostrogothi"
+	culture = gothic
 	religion="nicene"
 	add_trait="honest"
 	add_trait="tough_soldier"
@@ -321,7 +321,7 @@
 	intrigue=6
 	stewardship=6
 	learning=6
-	culture="ostrogothi"
+	culture = gothic
 	religion="nicene"
 	add_trait="deceitful"
 	add_trait="brave"
@@ -343,7 +343,7 @@
 	intrigue=6
 	stewardship=7
 	learning=6
-	culture="ostrogothi"
+	culture = gothic
 	religion="arian"
 	add_trait="gregarious"
 	add_trait="deceitful"

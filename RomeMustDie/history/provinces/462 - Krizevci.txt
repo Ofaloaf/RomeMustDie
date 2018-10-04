@@ -16,5 +16,5 @@ b_krizevci = temple
 #b_virovitica = castle
 
 # Misc
-culture = ostrogothi
+culture = gothic
 religion = arian

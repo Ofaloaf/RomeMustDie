@@ -1,0 +1,12 @@
+1117001 = {
+	name="Soorudasaruna-Adeettiya"
+	dynasty=1117001
+	religion="buddhist"
+	culture="tamil"
+	430.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

@@ -7749,6 +7749,10 @@ pagan_subjugation = {
 				}
 			}
 #			NOT = { lower_tier_than = FROM }
+
+			any_demesne_title = {
+				NOT = { higher_tier_than = duke }
+			}
 			
 			OR = {
 				NOT = { has_character_modifier = launched_subjugation }

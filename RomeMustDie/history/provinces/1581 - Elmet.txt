@@ -1,0 +1,21 @@
+# 1581 - Elmet
+
+# County Title
+title = c_elmet
+
+# Settlements
+max_settlements = 4
+b_loidis = castle
+b_danum = city
+
+#b_calcaria
+#b_lagentium
+#b_olicana
+#b_sefelda
+#b_dobunnorum
+#b_rodwr
+
+# Misc
+culture = welsh
+religion = pelagian
+terrain = hills

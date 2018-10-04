@@ -77,3 +77,18 @@
 	name="Lechitus"
 	culture = veneti
 }
+
+734017 = {
+	name="Calisius"
+	culture = veneti
+}
+
+734018 = {
+	name="Cadlubkonis"
+	culture = veneti
+}
+
+734019 = {
+	name="Zheglinus"
+	culture = veneti
+}

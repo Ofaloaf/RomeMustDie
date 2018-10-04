@@ -17,7 +17,7 @@ b_canterbury = temple
 
 # Misc
 culture = saxon
-religion = norse_pagan
+religion = germanic_pagan
 
 475.1.1 = {
 	b_canterbury = tp_elite_barracks_1

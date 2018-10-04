@@ -17,4 +17,4 @@ b_nassau = tribal
 
 # Misc
 culture = old_frankish
-religion = norse_pagan
+religion = germanic_pagan

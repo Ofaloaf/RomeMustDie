@@ -17,5 +17,5 @@ b_kaliakra = temple
 #b_smyadovo = castle
 
 # Misc
-culture = ostrogothi
+culture = gothic
 religion = arian

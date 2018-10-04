@@ -1,0 +1,22 @@
+name = "Zeno's Recovery"
+
+casus_belli={
+	casus_belli=claim
+	actor=610056
+	recipient=610013
+	landed_title=e_byzantium
+	date=475.1.10
+}
+
+# In civil wars defender MUST be added before attacker!
+475.1.10 = {
+	add_defender = 610013
+	add_attacker = 610056
+	start_war = yes
+}
+
+476.8.1= {
+	end_war = yes
+	rem_attacker = 610056
+	rem_defender = 610013
+}

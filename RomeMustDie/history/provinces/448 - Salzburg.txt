@@ -16,7 +16,7 @@ b_salzburg = temple
 #b_gastein = castle
 
 # Misc
-culture = thuida
+culture = gothic
 religion = arian
 
 # History

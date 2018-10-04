@@ -762,3 +762,9 @@
 	name = "Acerronius"
 	culture = roman
 }
+
+753154 = {
+	name = Noricus
+	culture = roman
+	used_for_random = no
+}

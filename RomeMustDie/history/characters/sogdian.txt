@@ -86,3 +86,145 @@
 		death=yes
 	}
 }
+
+1222007 = {
+	name="Shaka"
+	# fictional
+	dynasty=1222005 # Kushano
+	religion="buddhist"
+	culture="sogdian"
+	trait=zealous
+	450.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1222008 = {
+	name="Böru"
+	# fictional, but filling in a historical role. The Wusun did /exist/, I just have no idea who led them.
+	dynasty=1222006 # Wusunmi
+	religion="khurmazta"
+	culture="sogdian"
+	trait=depressed # The Wusun have had a rough time, okay
+	431.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1222009 = {
+	name="Fu-li"
+	father = 1222008
+	dynasty=1222006 # Wusunmi
+	religion="khurmazta"
+	culture="sogdian"
+	453.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1222010 = {
+	name="Cenzou"
+	father = 1222008
+	dynasty=1222006 # Wusunmi
+	religion="khurmazta"
+	culture="sogdian"
+	455.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1222011 = {
+	name="Shabolo"
+	# fictional
+	dynasty=1222007 # Huttalyan
+	religion="buddhist"
+	culture="sogdian"
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1222012 = {
+	name="Pukarzate"
+	# fictional
+	dynasty=1222008 # Tarmidh
+	religion="manichean"
+	culture="sogdian"
+	429.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1222013 = {
+	name="Yodkhsetak"	# fictional
+	dynasty=1222009 # Asmarakand
+	religion="manichean"
+	culture="sogdian"
+	420.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1222014 = {
+	name="Karzanj"	# fictional
+	dynasty=1222009 # Asmarakand
+	father=1222013
+	religion="manichean"
+	culture="sogdian"
+	447.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1222015 = {
+	name="Abarzi"	# fictional
+	dynasty=1222010 # Numijkat
+	religion="nestorian"
+	culture="sogdian"
+	trait=zealous
+	trait=cruel
+	437.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1222016 = {
+	name="Makh"	# fictional
+	dynasty=1222011 # Darya
+	religion="manichean"
+	culture="sogdian"
+	trait=strong
+	449.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

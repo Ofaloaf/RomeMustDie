@@ -16,7 +16,7 @@ b_galich = tribal
 #b_brody = castle
 
 # Misc
-culture = antes
+culture = sklaveni
 religion = slavic_pagan
 
 # History

@@ -15,5 +15,5 @@ b_regensburg = temple
 #b_kirchroth = castle
 
 # Misc
-culture = thuida
+culture = gothic
 religion = arian

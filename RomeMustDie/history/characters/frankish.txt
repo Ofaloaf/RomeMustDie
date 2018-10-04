@@ -7,7 +7,7 @@
 	intrigue=7
 	stewardship=8
 	learning=4
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	add_trait="cruel"
 	add_trait="paranoid"
@@ -24,7 +24,7 @@
 1940002= {
 	name="Merovech"
 	dynasty=1940014
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	add_trait="strong"
 	412.1.1 = {
@@ -44,7 +44,7 @@
 	intrigue=10
 	stewardship=8
 	learning=5
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	add_trait="ambitious"
 	add_trait="lustful"
@@ -65,7 +65,7 @@
 	intrigue=10
 	stewardship=8
 	learning=7
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="thuringi"
 	add_trait="brave"
 	add_trait="ambitious"
@@ -88,7 +88,7 @@
 	intrigue=8
 	stewardship=7
 	learning=6
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	add_trait="ambitious"
 	add_trait="cynical"
@@ -112,7 +112,7 @@
 	dynasty=1940014
 	father=1940003
 	mother=1940004
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	467.1.1 = {
 		birth=yes
@@ -131,7 +131,7 @@
 	dynasty=1940014
 	father=1940003
 	mother=1940004
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	468.1.1 = {
 		birth=yes
@@ -147,7 +147,7 @@
 	dynasty=1940014
 	father=1940003
 	mother=1940004
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	470.1.1 = {
 		birth=yes
@@ -166,7 +166,7 @@
 	intrigue=4
 	stewardship=8
 	learning=6
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	add_trait="trusting"
 	add_trait="shy"
@@ -188,7 +188,7 @@
 	intrigue=11
 	stewardship=6
 	learning=5
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	add_trait="ambitious"
 	add_trait="deceitful"
@@ -206,7 +206,7 @@
 	name="Ragnarius"
 	dynasty=1940014
 	father=1940002
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	444.1.1 = {
 		birth=yes
@@ -225,7 +225,7 @@
 	intrigue=4
 	stewardship=13
 	learning=7
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	add_trait="gregarious"
 	add_trait="zealous"
@@ -248,7 +248,7 @@
 	intrigue=6
 	stewardship=7
 	learning=4
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	add_trait="proud"
 	add_trait="shy"
@@ -269,7 +269,7 @@
 	intrigue=3
 	stewardship=6
 	learning=5
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	add_trait="trusting"
 	add_trait="honest"
@@ -290,7 +290,7 @@
 	intrigue=8
 	stewardship=6
 	learning=7
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	add_trait="craven"
 	add_trait="shy"
@@ -308,7 +308,7 @@
 	name="Latro"
 	dynasty=1940014
 	father=1940015
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	add_trait="gregarious"
 	add_trait="quick"
@@ -329,7 +329,7 @@
 	intrigue=7
 	stewardship=6
 	learning=6
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	445.1.29 = {
 		birth=yes
@@ -342,7 +342,7 @@
 1940018 = {
 	name="Vulvari"
 	dynasty=1940015
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_frankish"
 	447.5.8 = {
 		birth=yes

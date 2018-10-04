@@ -78,7 +78,7 @@ technology = {
 		d_qamdo
 		d_nyingchi
 		d_kathmandu
-		d_gorkha
+		d_khasa
 		d_kashmir
 		d_pamir
 		d_uttaranchal

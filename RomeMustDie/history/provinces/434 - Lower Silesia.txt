@@ -5,9 +5,9 @@ title = c_lower_silesia
 
 # Settlements
 max_settlements = 5
-b_glogow = tribal
+b_legnica = tribal
+#b_glogow = temple
 #b_krosno = city
-#b_legnica = temple
 
 #b_jawor = castle
 #b_lwowek = castle
@@ -16,5 +16,5 @@ b_glogow = tribal
 #b_zagan = castle 
 
 # Misc
-culture = suebi
-religion = norse_pagan
+culture = veneti
+religion = slavic_pagan

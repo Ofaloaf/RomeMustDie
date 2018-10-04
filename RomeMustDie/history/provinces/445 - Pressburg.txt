@@ -16,7 +16,7 @@ b_nagyszombat = temple
 #b_somorja = castle
 
 # Misc
-culture = thuida
-religion = norse_pagan
+culture = gothic
+religion = germanic_pagan
 
 # History

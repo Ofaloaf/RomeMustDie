@@ -94,8 +94,9 @@
 }
 
 496020 = {
-	name = Juthunging
-	culture = alemanni
+	name = Sprewa
+	culture = suebi
+	used_for_random = no
 }
 
 496021 = {
@@ -145,5 +146,10 @@
 
 496030 = {
 	name = Elisaz
+	culture = alemanni
+}
+
+496031 = {
+	name = Juthunging
 	culture = alemanni
 }

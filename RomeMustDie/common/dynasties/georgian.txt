@@ -1,0 +1,4 @@
+456001 = {
+	name = Egrisis
+	culture = georgian
+}

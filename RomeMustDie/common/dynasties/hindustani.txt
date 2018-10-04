@@ -1,0 +1,35 @@
+1200001={
+	name="Yaudheya"
+	culture="hindustani"
+	religion="hindu"
+}
+
+1200002 = {
+	name = "Dhillu"
+	culture = hindustani
+	religion = hindu
+}
+
+1200003 = {
+	name = "Pushyabhuti" # also known as the Vardhana dynasty
+	culture = hindustani
+	religion = hindu
+}
+
+1200004 = {
+	name = "Maukhari"
+	culture = hindustani
+	religion = hindu
+}
+
+1200005 = {
+	name = "Chand Rai"
+	culture = hindustani
+	religion = hindu
+}
+
+1200006 = {
+	name="Aulikara"
+	culture="hindustani"
+	religion="hindu"
+}

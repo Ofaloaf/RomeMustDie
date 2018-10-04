@@ -1,7 +1,7 @@
 793001 = {
 	name="Schwyt"
 	dynasty=410023
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="burgundi"
 	trait="brave"
 	400.1.1={
@@ -16,7 +16,7 @@
 	name="Restius"
 	dynasty=410023
 	father=793001
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="burgundi"
 	trait="brave"
 	435.1.1={
@@ -31,7 +31,7 @@
 	name="Hastus"
 	dynasty=410023
 	father=793001
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="burgundi"
 	trait="brave"
 	433.1.1={

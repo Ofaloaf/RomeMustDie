@@ -16,4 +16,4 @@ b_csik = tribal
 
 # Misc
 culture = gepid
-religion = norse_pagan
+religion = germanic_pagan

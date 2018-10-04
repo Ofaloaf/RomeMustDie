@@ -5,7 +5,7 @@
 	father=200284
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	463.1.1={
 		birth=yes
@@ -27,7 +27,7 @@
 	learning=8
 	health=4
 	religion=arian
-	culture=visigothi
+	culture = gothic
 	trait=ambitious
 	trait=just
 	trait=fortune_builder
@@ -47,7 +47,7 @@
 	mother=200293
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	428.1.1={
 		birth=yes
@@ -65,7 +65,7 @@
 	mother=200293
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	423.1.1={
 		birth=yes
@@ -82,7 +82,7 @@
 	father=200297
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	379.1.1={
 		birth=yes
@@ -102,7 +102,7 @@
 	father=200296
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	374.1.1={
 		birth=yes
@@ -116,7 +116,7 @@
 	name="Sigeric"
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	370.1.1={
 		birth=yes
@@ -133,7 +133,7 @@
 	father=200296
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	372.1.1={
 		birth=yes
@@ -150,7 +150,7 @@
 	father=200292
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	370.1.1={
 		birth=yes
@@ -169,8 +169,8 @@
 
 	father=200295
 
-	religion=norse_pagan
-	culture=visigothi
+	religion=germanic_pagan
+	culture = gothic
 
 	341.1.1={
 		birth=yes
@@ -189,7 +189,7 @@
 	mother=200294
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	402.1.1={
 		birth=yes
@@ -207,7 +207,7 @@
 	father=200296
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	392.1.1={
 		birth=yes
@@ -221,8 +221,8 @@
 	name="Aoric"
 	dynasty=1046035
 
-	religion=norse_pagan
-	culture=visigothi
+	religion=germanic_pagan
+	culture = gothic
 
 	311.1.1={
 		birth=yes
@@ -238,8 +238,8 @@
 
 	father=200295
 
-	religion=norse_pagan
-	culture=visigothi
+	religion=germanic_pagan
+	culture = gothic
 
 	334.1.1={
 		birth=yes
@@ -255,8 +255,8 @@
 
 	father=200295
 
-	religion=norse_pagan
-	culture=visigothi
+	religion=germanic_pagan
+	culture = gothic
 
 	350.1.1={
 		birth=yes
@@ -271,7 +271,7 @@
 	dynasty=492035
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	435.1.1={
 		birth=yes
@@ -289,7 +289,7 @@
 	dynasty=411001
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	433.1.1={
 		birth=yes
@@ -304,7 +304,7 @@
 	dynasty=411003
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	422.1.1={
 		birth=yes
@@ -319,7 +319,7 @@
 	dynasty=410001
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	450.1.1={
 		birth=yes
@@ -337,7 +337,7 @@
 	female=yes
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 
 	452.1.1={
 		birth=yes
@@ -352,7 +352,7 @@
 	dynasty=411004
 
 	religion=arian
-	culture=visigothi
+	culture = gothic
 	trait=gluttonous
 
 	440.1.1={
@@ -371,7 +371,7 @@
 	intrigue=8
 	stewardship=9
 	religion="arian"
-	culture="visigothi"
+	culture = gothic
 	add_trait="gregarious"
 	add_trait="mystic"
 	add_trait="underhanded_rogue"
@@ -392,7 +392,7 @@
 	stewardship=6
 	learning=7
 	religion="arian"
-	culture="visigothi"
+	culture = gothic
 	add_trait="charismatic_negotiator"
 	add_trait="trusting"
 	add_trait="gregarious"
@@ -413,7 +413,7 @@
 	stewardship=8
 	learning=9
 	religion="arian"
-	culture="visigothi"
+	culture = gothic
 	add_trait="lunatic"
 	add_trait="just"
 	add_trait="kind"
@@ -431,7 +431,7 @@
 	name="Paitrus"
 	dynasty=411008
 	religion="arian"
-	culture="visigothi"
+	culture = gothic
 	add_trait="ambitious"
 	436.1.1 = {
 		birth=yes
@@ -445,7 +445,7 @@
 	name="Argymirus"
 	dynasty=411019
 	religion="arian"
-	culture="visigothi"
+	culture = gothic
 	add_trait="ambitious"
 	436.1.1 = {
 		birth=yes
@@ -464,7 +464,7 @@
 	stewardship=7
 	learning=7
 	religion="arian"
-	culture="visigothi"
+	culture = gothic
 	add_trait="ambitious"
 	add_trait="gregarious"
 	435.5.3 = {

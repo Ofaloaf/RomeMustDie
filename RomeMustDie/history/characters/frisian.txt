@@ -1,0 +1,30 @@
+1313001 = {
+	name="Folcwald"
+	dynasty=246
+	religion="germanic_pagan"
+	culture="frisian"
+	400.1.1 = {
+		birth=yes
+	}
+	440.1.1 = {
+		death = yes
+	}
+}
+
+1313002 = {
+	name="Finn"
+	dynasty=246
+	religion="germanic_pagan"
+	culture="frisian"
+	father = 1313001
+	trait=tough_soldier
+	427.1.1 = {
+		birth=yes
+	}
+	450.1.1 = {
+		trait=scarred # Finnsburg
+	}
+	500.1.1 = {
+		death = yes
+	}
+}

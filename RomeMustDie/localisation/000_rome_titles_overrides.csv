@@ -1914,7 +1914,7 @@ b_melk;Medilica;;;;;;;;;;;;;x
 b_stpolten;Treisma;;;;;;;;;;;;;x
 b_hohenwarth;Lauriacum;;;;;;;;;;;;;x
 b_wagram;Carnuntum;;;;;;;;;;;;;x
-b_krems;Cremisa;;;;;;;;;;;;;x
+b_favianis;Favianis;;;;;;;;;;;;;x
 b_steyr;Gesodunum;;;;;;;;;;;;;x
 c_wolgast_adj;Hologostan;;;;;;;;;;;;;x
 b_wolgast;Hologosta;;;;;;;;;;;;;x
@@ -2667,12 +2667,16 @@ b_hradeckralove;Condorgis;;;;;;;;;;;;;x
 c_domazlice_adj;Furgisatian;;;;;;;;;;;;;x
 c_praha_adj;Casurgian;;;;;;;;;;;;;x
 b_praga;Casurgis;;;;;;;;;;;;;x
-c_lower_silesia_adj;Burdorigan;;;;;;;;;;;;;x
-b_gloglow;Budorigum;;;;;;;;;;;;;x
+c_lower_silesia_adj;Lugidunum;;;;;;;;;;;;;x
+b_gloglow;Glogovia;;;;;;;;;;;;;x
 b_legnica;Lugidunum;;;;;;;;;;;;;x
 b_swidnica;Svidnica;;;;;;;;;;;;;x
 b_boleslawiec;Boleslavia;;;;;;;;;;;;;x
 b_zagan;Saganum;;;;;;;;;;;;;x
+c_upper_silesia_adj;Budorigan;;;;;;;;;;;;;x
+b_wroclaw;Budorigum;;;;;;;;;;;;;x
+b_brzeg;Alta Ripa;;;;;;;;;;;;;x
+b_milicz;Milicium;;;;;;;;;;;;;x
 c_kaliskie_adj;Setidavan;;;;;;;;;;;;;x
 b_kalisz;Calisia;;;;;;;;;;;;;x
 b_konin;Setidava;;;;;;;;;;;;;x
@@ -2842,6 +2846,7 @@ c_gnieznienskie_adj;Scurgan;;;;;;;;;;;;;x
 c_poznanskie_adj;Ascaucalian;;;;;;;;;;;;;x
 c_lubusz_adj;Limis Lucan;;;;;;;;;;;;;x
 c_opole_adj;Arsonian;;;;;;;;;;;;;x
+b_opole;Arsonium;;;;;;;;;;;;;x
 c_split_adj;Spalatan;;;;;;;;;;;;;x
 b_split;Spalatum;;;;;;;;;;;;;x
 b_hvar;Pharia;;;;;;;;;;;;;x
@@ -3853,6 +3858,28 @@ c_massawa_adj;Adulian;;;;;;;;;;;;;x
 b_massawa;Coloe;;;;;;;;;;;;;x
 c_berbera_adj;Malao;;;;;;;;;;;;;x
 b_berbera;Malao;;;;;;;;;;;;;x
+c_holland_adj;Holtlanter;;;;;;;;;;;;;x
+b_haarlem;Harula;;;;;;;;;;;;;x
+b_amsterdam;Chattenwik;;;;;;;;;;;;;x
+b_vlaardingen;Flenio;;;;;;;;;;;;;x
+b_sgravenhage;Cananefatium;;;;;;;;;;;;;x
+b_dordrecht;Praetorium Agrippinae;;;;;;;;;;;;;x
+b_leiden;Matilo;;;;;;;;;;;;;x
+b_muiden;Amuda;;;;;;;;;;;;;x
+b_gouda;Flevum;;;;;;;;;;;;;x
+c_westfriesland_adj;Baduhennan;;;;;;;;;;;;;x
+b_alkmaar;Castricum;;;;;;;;;;;;;x
+b_hoorn;Hornus;;;;;;;;;;;;;x
+b_medemblik;Medemelacha;;;;;;;;;;;;;x
+b_enkhuizen;Actania;;;;;;;;;;;;;x
+b_texel;Thesla;;;;;;;;;;;;;x
+b_schagen;Scagha;;;;;;;;;;;;;x
+c_zeeland_adj;Walachrian;;;;;;;;;;;;;x
+b_middelburg;Walichrum;;;;;;;;;;;;;x
+b_tholen;Nehalennia;;;;;;;;;;;;;x
+b_vlissingen;Flissingas;;;;;;;;;;;;;x
+b_borsele;Brumisela;;;;;;;;;;;;;x
+b_zierikzee;Creka;;;;;;;;;;;;;x
 #
 PROV1;Thule;Thule;Thule;;Thule;;;;;;;;;x
 PROV2;Thule;Thule;Thule;;Thule;;;;;;;;;x
@@ -3911,6 +3938,9 @@ PROV75;Boloniensis;;;;;;;;;;;;;x
 PROV76;Menapiorum;;;;;;;;;;;;;x
 PROV77;Atrebatensis;;;;;;;;;;;;;x
 PROV78;Flandrensis;;;;;;;;;;;;;x
+PROV79;Walachria;;;;;;;;;;;;;x
+PROV80;Holtlant;;;;;;;;;;;;;x
+PROV81;Baduhenna;;;;;;;;;;;;;x
 PROV82;Traiectum;;;;;;;;;;;;;x
 PROV83;Batavorum;;;;;;;;;;;;;x
 PROV84;Frisia;;;;;;;;;;;;;x
@@ -4093,6 +4123,7 @@ PROV260;Polabia;;;;;;;;;;;;;x
 PROV261;Sturmaria;;;;;;;;;;;;;x
 PROV262;Liubice;;;;;;;;;;;;;x
 PROV263;Holstatia;;;;;;;;;;;;;x
+PROV267;Iutum;;;;;;;;;;;;;x
 PROV268;Augandia;;;;;;;;;;;;;x
 PROV272;Raumaurici;;;;;;;;;;;;;x
 PROV288;Værmalandia;;;;;;;;;;;;;x
@@ -4172,7 +4203,8 @@ PROV430;Limis Lucus;;;;;;;;;;;;;x
 PROV431;Ascaucalis;;;;;;;;;;;;;x
 PROV432;Setidava;;;;;;;;;;;;;x
 PROV433;Arsonium;;;;;;;;;;;;;x
-PROV434;Budorigum;;;;;;;;;;;;;x
+PROV434;Lugidunum;;;;;;;;;;;;;x
+PROV435;Budorigum;;;;;;;;;;;;;x
 PROV436;Hegetmatia;;;;;;;;;;;;;x
 PROV437;Casurgis;;;;;;;;;;;;;x
 PROV438;Condorgis;;;;;;;;;;;;;x

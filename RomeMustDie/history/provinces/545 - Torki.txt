@@ -18,5 +18,5 @@ b_torki = tribal
 #b_siret = castle
 
 # Misc
-culture = antes
+culture = sklaveni
 religion = slavic_pagan

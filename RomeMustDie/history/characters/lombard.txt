@@ -1,7 +1,7 @@
 190122 = {
 	name="Godehoc"
 	dynasty=190001 # Lething
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="lombard"
 	trait = ambitious
 	442.1.1={

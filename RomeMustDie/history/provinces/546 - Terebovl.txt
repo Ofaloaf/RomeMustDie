@@ -17,5 +17,5 @@ b_terebovl = tribal
 #b_zalischyky = castle
 
 # Misc
-culture = antes
+culture = sklaveni
 religion = slavic_pagan

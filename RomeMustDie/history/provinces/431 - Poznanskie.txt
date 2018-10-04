@@ -17,4 +17,4 @@ b_poznan = tribal
 
 # Misc
 culture = suebi
-religion = norse_pagan
+religion = germanic_pagan

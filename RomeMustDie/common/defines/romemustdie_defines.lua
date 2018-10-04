@@ -2,6 +2,8 @@
 --
 -- NDefines.NDiplomacy.DEMESNE_BASE_MAX_SIZE = 2.0
 
+NDefines.NDiplomacy.MAX_DIPLO_DISTANCE = 500
+
 NDefines.NTitle.ALLOW_DE_JURE_ASSIMILATION_ANYWHERE = 0
 
 NDefines.NTechnology.DONT_EXECUTE_TECH_BEFORE = 475

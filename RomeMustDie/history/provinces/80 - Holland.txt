@@ -4,18 +4,17 @@
 title = c_holland
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_vlaardingen = tribal
-#b_leiden = castle
-
+b_sgravenhage = tribal
 #b_amsterdam = city
-#b_sgravenhage = castle
+#b_leiden = castle
+#b_vlaardingen = castle
 #b_dordrecht = city
 #b_gouda = castle
-b_haarlem = temple
+#b_haarlem = temple
 #b_muiden = castle
 
 # Misc
 culture = frisian
-religion = norse_pagan
+religion = germanic_pagan

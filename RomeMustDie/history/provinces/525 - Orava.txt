@@ -16,5 +16,5 @@ b_liptovskymikulas = temple
 #b_nemetlipcse = castle
 
 # Misc
-culture = lombard
-religion = norse_pagan
+culture = gothic
+religion = germanic_pagan

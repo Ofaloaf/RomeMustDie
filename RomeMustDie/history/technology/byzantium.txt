@@ -112,7 +112,7 @@ technology = {
 
 technology = {
 	titles = {
-		d_abkhazia
+		d_lazica
 		d_iberia
 	}
 

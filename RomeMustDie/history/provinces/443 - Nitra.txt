@@ -16,5 +16,5 @@ b_nyitra = tribal
 #b_galgoc = castle
 
 # Misc
-culture = thuida
-religion = norse_pagan
+culture = gothic
+religion = germanic_pagan

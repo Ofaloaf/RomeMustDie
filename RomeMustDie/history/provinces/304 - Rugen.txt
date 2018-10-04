@@ -15,6 +15,6 @@ b_arkona = temple
 #b_hiddensee = castle
 #b_tribuzin = castle
 
-culture = thuida
-religion = norse_pagan
+culture = gothic
+religion = germanic_pagan
 terrain = plains

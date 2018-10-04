@@ -17,4 +17,4 @@ b_toul = temple
 
 # Misc
 culture = alemanni
-religion = norse_pagan
+religion = germanic_pagan

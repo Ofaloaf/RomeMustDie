@@ -1,0 +1,288 @@
+1253001 = {
+	name="Vallabh"
+	# Fictional, but the clan is real
+	dynasty=1200001 # Yaudheya
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	430.1.1= {
+		birth=yes
+	}
+	457.1.1 = {
+		add_spouse = 1253002
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+1253002 = {
+	name="Yasodevi"
+	female = yes
+	religion="hindu"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="vaishnavist_hindu"
+	441.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1253003 = {
+	name="Ahibaran"
+	# Fictional, but the clan is real
+	father = 1253001
+	mother = 1253002
+	dynasty=1200001 # Yaudheya
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	458.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+1253004 = {
+	name="Kalayandevi"
+	female = yes
+	# Fictional, but the clan is real
+	father = 1253001
+	mother = 1253002
+	dynasty=1200001 # Yaudheya
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	459.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+1253005 = {
+	name="Karmavati"
+	female = yes
+	# Fictional, but the clan is real
+	father = 1253001
+	mother = 1253002
+	dynasty=1200001 # Yaudheya
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	461.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+1253006 = {
+	name="Ambikadevi"
+	female = yes
+	# Fictional, but the clan is real
+	father = 1253001
+	mother = 1253002
+	dynasty=1200001 # Yaudheya
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	464.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+1253007 = {
+	name = "Karshanji"
+	# fictional
+	dynasty=1200002 # Dhillu
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	424.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+1253008 = {
+	name = "Adityavardhana"
+	# real! but slightly ahead of time probably
+	dynasty=1200003 # Pushyabhuti / Vardhana
+	health = 8 # florit AD 500 (i.e. already an adult when the year 500 rolled around), but he had a son who died around AD 600. I'm just going to assume this guy had kids late in life and was able to make it to late in life.
+	religion="buddhist"
+	culture="hindustani"
+	trait=kshatriya
+	trait="mahayana_buddhist"
+	453.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+1253009 = {
+	name = "Harivarman"
+	# real! 
+	dynasty=1200004 # Maukhari
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	441.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+1253010 = {
+	name = Yashovigraha
+	dynasty=1200005 # 
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	437.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+1253011 = {
+	name = Drumacardhana
+	dynasty=1200006 # Aulikara
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	310.1.1= {
+		birth=yes
+	}
+	365.1.1 = {
+		death=yes
+	}
+}
+
+1253012 = {
+	name = Jayavardhana
+	dynasty=1200006 # Aulikara
+	father=1253011
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	329.1.1= {
+		birth=yes
+	}
+	390.1.1 = {
+		death=yes
+	}
+}
+
+1253013 = {
+	name = Ajitavardhana
+	dynasty=1200006 # Aulikara
+	father=1253012
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	370.1.1= {
+		birth=yes
+	}
+	430.1.1 = {
+		death=yes
+	}
+}
+
+1253014 = {
+	name = Vibhishanavardhana 
+	dynasty=1200006 # Aulikara
+	father=1253013
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	395.1.1= {
+		birth=yes
+	}
+	460.1.1 = {
+		death=yes
+	}
+}
+
+1253015 = {
+	name = Rajyavardhana  
+	dynasty=1200006 # Aulikara
+	father=1253014
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	420.1.1= {
+		birth=yes
+	}
+	490.1.1 = {
+		death=yes
+	}
+}
+
+1253016 = {
+	name = Prakashadharma  
+	dynasty=1200006 # Aulikara
+	father=1253015
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	450.1.1= {
+		birth=yes
+	}
+	517.1.1 = {
+		death=yes
+	}
+}
+
+1253017 = {
+	name = Yashodharma   
+	dynasty=1200006 # Aulikara
+	father=1253016
+	religion="hindu"
+	culture="hindustani"
+	trait=kshatriya
+	trait=vaishnavist_hindu
+	480.1.1= {
+		birth=yes
+	}
+	540.1.1 = {
+		death=yes
+	}
+}

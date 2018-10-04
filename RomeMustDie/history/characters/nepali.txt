@@ -146,3 +146,50 @@
 		death=yes
 	}
 }
+
+### KINGDOM OF KHASA
+
+12309 = {
+	name="Naagraj"
+	# Probably not the ruler then! I'm not sure of Khasa chronology tbh.
+	dynasty=19120 #
+	religion="hindu"
+	culture="nepali"
+	trait = kshatriya
+	400.1.1={
+		birth=yes
+	}
+	460.1.1={
+		death=yes
+	}
+}
+
+12310 = {
+	name="Chaap"
+	dynasty=19120
+	father = 12309
+	religion="hindu"
+	culture="nepali"
+	trait = kshatriya
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+12311 = {
+	name="Chapilla"
+	dynasty=19120
+	father = 12310
+	religion="hindu"
+	culture="nepali"
+	trait = kshatriya
+	470.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

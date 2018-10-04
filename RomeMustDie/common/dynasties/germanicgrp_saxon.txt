@@ -47,3 +47,13 @@
 	name = Oiscingas
 	culture = saxon
 }
+
+1066011 = {
+	name = Rugas
+	culture = old_saxon
+}
+
+1066012 = {
+	name = Leonas
+	culture = old_saxon
+}

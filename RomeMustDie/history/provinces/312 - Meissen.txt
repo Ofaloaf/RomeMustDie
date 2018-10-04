@@ -17,5 +17,5 @@ b_dresden = tribal
 
 # Misc
 culture = thuringi
-religion = norse_pagan
+religion = germanic_pagan
 

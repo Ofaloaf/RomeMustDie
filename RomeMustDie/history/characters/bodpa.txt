@@ -1,0 +1,28 @@
+681001 = {
+	name="Nyantsen" 
+	dynasty=681002 # Thothori
+	culture = bodpa
+	religion=bon
+
+	436.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+681002 = {
+	name="Namri" 
+	# NAMRI NAMRI... U HERD ME RITE
+	dynasty=681001 # Namri
+	culture = bodpa
+	religion=bon
+	trait=ambitious
+	441.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

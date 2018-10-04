@@ -17,4 +17,4 @@ b_merseburg = temple
 
 # Misc
 culture = thuringi
-religion = norse_pagan
+religion = germanic_pagan

@@ -17,5 +17,5 @@ b_aqmescit = temple
 #b_qurman = castle
 
 # Misc
-culture = ostrogothi
-religion = norse_pagan
+culture = gothic
+religion = germanic_pagan

@@ -7,7 +7,7 @@ title = c_sticht
 max_settlements = 4
 
 b_dorestad = tribal
-b_utrecht = temple
+#b_utrecht = temple
 #b_woerden = castle
 
 #b_gorinchem = city
@@ -18,4 +18,4 @@ b_utrecht = temple
 
 # Misc
 culture = old_frankish
-religion = norse_pagan
+religion = germanic_pagan

@@ -598,21 +598,21 @@ e_italy = {
 				# Ticinum
 
 				old_frankish = Papia
-				ostrogothi = Papia
+				gothic = Papia
 				visigothi = Papia
 				
 				b_pavia = {
 					# Ticinum
 
 					old_frankish = Papia
-					ostrogothi = Papia
+					gothic = Papia
 					visigothi = Papia
 				}
 				b_bobbio = {
 					# Ebovium
 
 					old_frankish = Bobium
-					ostrogothi = Bobium
+					gothic = Bobium
 					visigothi = Bobium
 					thuida = Bobium
 				}
@@ -623,7 +623,7 @@ e_italy = {
 					# Iria
 
 					old_frankish = "Vicus Iria"
-					ostrogothi = "Vicus Iria"
+					gothic = "Vicus Iria"
 					visigothi = "Vicus Iria"
 					thuida = "Vicus Iria"
 				}

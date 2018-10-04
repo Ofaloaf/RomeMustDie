@@ -77,3 +77,8 @@
 	name = Marcomannus
 	culture = suebi
 }
+
+409017 = {
+	name = Widiwaring
+	culture = suebi
+}

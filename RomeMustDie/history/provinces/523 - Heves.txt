@@ -16,5 +16,5 @@ b_eger = temple
 #b_mezokovesd = castle
 
 # Misc
-culture = thuida
-religion = norse_pagan
+culture = gothic
+religion = germanic_pagan

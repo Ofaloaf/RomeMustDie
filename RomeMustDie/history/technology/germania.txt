@@ -80,7 +80,7 @@ technology = {
 		d_frisia
 		d_dania
 		d_hamaland
-		d_holland
+		d_holtlant
 		d_iutum
 		d_lemovia
 		d_veletia

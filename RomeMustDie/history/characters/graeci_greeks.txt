@@ -204,8 +204,12 @@
 	trait=trusting
 	trait=schemer
 	trait=misguided_warrior
+	disallow_random_traits = yes
 	434.1.1={
 		birth=yes
+	}
+	475.1.10 = {
+		wealth = -300
 	}
 	477.1.1={
 		death=yes
@@ -1034,6 +1038,7 @@
 	trait=brave
 	trait=paranoid
 	trait=skilled_tactician
+	disallow_random_traits = yes
 	425.1.1={
 		birth=yes
 	}
@@ -1042,6 +1047,34 @@
 	}
 	475.1.10 = {
 		add_claim = e_byzantium
+		effect = {
+			wealth = 250
+			spawn_unit = {
+				province = 759 # Ikonion
+				owner = ROOT
+				troops = {
+				   light_infantry = { 1800 1800 }
+				   heavy_infantry = { 3500 3500 }
+				   horse_archers = { 800 800 }
+				   knights = { 160 160 }
+				   light_cavalry = { 750 750 }
+				   archers = { 980 980 }
+				}
+				disband_on_peace = yes
+			}
+			spawn_unit = {
+				province = 758 # Seleukia
+				owner = ROOT
+				troops = {
+				   light_infantry = { 455 455 }
+				   heavy_infantry = { 677 677 }
+				   horse_archers = { 250 250 }
+				   light_cavalry = { 466 466 }
+				   archers = { 240 240 }
+				}
+				disband_on_peace = yes
+			}
+		}
 	}
 	467.1.1 = {
 		add_spouse = 610060 # Ariadne

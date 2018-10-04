@@ -314,9 +314,18 @@ e_caucasia = {
 				color={ 240 185 185 }
 				color2={ 255 255 255 }
 				
+				roman = Lazica
+				pannonian = Lazica
+				gallo_roman = Lazica
+				romano_british = Lazica
+				hispano_roman = Lazica
+				mauro_roman = Lazica
+				graeci = Lazica
 				greek = "Lazike"
+				
 				turkish = "Batum"
 				armenian = "Yeger"
+				persian = Lazestan
 				
 				b_bukistsikhe = {
 				}
@@ -459,11 +468,15 @@ e_caucasia = {
 				}
 			}
 		}
-		d_abkhazia = {
-			color={ 255 173 196 }
-			color2={ 255 255 255 }
+		d_lazica = {
+			color = { 158 164 207 }
+			color2= { 255 255 255 }
 			
-			capital = 601 # Imeretia
+			capital = 677 # Guria / Archaeopolis
+			
+			culture = georgian
+			
+			persian = Lazestan
 			
 			c_imeretia = {
 				color={ 246 152 152 }

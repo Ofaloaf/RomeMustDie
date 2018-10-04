@@ -1,0 +1,25 @@
+# Define mercenary types here now instead of in the static_composition.txt file
+# Also remember to tell the landed title to use this mercenary type instead.
+# Several titles can refer to the same type as well now.
+
+bagaudae_composition = {
+	levy_size = 2
+	archers = 150
+	pikemen = 150
+	light_infantry = 350
+	light_cavalry = 50
+}
+
+martiobarbuli_composition = {
+	levy_size = 2
+	archers = 150
+	pikemen = 200
+	light_infantry = 350
+}
+
+turcilingi_composition = {
+	levy_size = 3
+	pikemen = 250
+	light_infantry = 300
+	heavy_infantry = 200
+}

@@ -310,3 +310,31 @@ custom_eastern_access = {
 		world_himalayas
 	}
 }
+
+custom_west_slavs = {
+	duchies = {
+		# Venedia
+		d_warinia d_hevellia d_veletia d_lemovia d_silesia d_vidivaria d_vistula d_mazovia
+		# Maraha/Moravia/Bohemia
+		d_boiohaemum d_marahensis
+		# Slovakia
+		d_nitrava d_carpathia
+		# bits of Germany
+		d_orientalis d_bajovaria d_teriolis d_variscorum
+	}
+}
+
+custom_south_slavs = {
+	duchies = {
+		# Pannonia et Illyricum
+		d_carantania d_dalmatia d_savia d_domavia d_pannonia d_iazygia d_carpathia d_nitrava d_porolissensis
+		# Macedonia et Thracia
+		d_margensis d_dardania d_macedonia d_epirus d_thessalia d_hellas d_rhodope d_thracia d_moesia d_scythia 
+	}
+}
+
+custom_romania_mare = {
+	duchies = {
+		d_malvensis d_apulensis d_roxolania d_porolissensis d_scythia d_olbia
+	}
+}

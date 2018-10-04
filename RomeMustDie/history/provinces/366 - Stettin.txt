@@ -17,4 +17,4 @@ b_wollin = temple
 
 # Misc
 culture = thuringi
-religion = norse_pagan
+religion = germanic_pagan

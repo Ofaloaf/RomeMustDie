@@ -19,5 +19,5 @@ b_znojmo = tribal
 #b_ivancice = castle
 
 # Misc
-culture = thuida
-religion = norse_pagan
+culture = gothic
+religion = germanic_pagan

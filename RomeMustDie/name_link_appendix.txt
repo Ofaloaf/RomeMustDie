@@ -1,0 +1,20 @@
+	common_appendice ={
+		male = {
+			Arthur Agricola Aldroenus
+			Bartholomeus Bican Budic
+			Constantine Conan
+			Edelicus Eugenius
+			Gildas
+			Illtud
+			Maximus
+			Octavius
+			Pabius
+			Tribune
+			Uther
+			Vorimer
+		}
+		female = {
+			Anna
+			Igraine
+		}
+	}

@@ -1,0 +1,5 @@
+1117001 = {
+	name = "Adeetta Vansa"
+	culture = tamil
+	religion = hindu
+}

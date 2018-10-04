@@ -254,3 +254,17 @@
 		death=yes
 	}
 }
+
+453014 = {
+	name="Tarkatzus"
+	# fictional/placeholder. Jordanes mentioned a 'Sadagis' tribe in the Pannonian interior in 468, but nothing beyond that.
+	dynasty=434018 # Sadagarius
+	religion="tengri_pagan"
+	culture="hun"
+	441.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}

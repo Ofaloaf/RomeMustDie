@@ -1,7 +1,7 @@
-gothic = {
+gothic_group = {
 	graphical_cultures = { easterngfx }
 
-	ostrogothi = {
+	gothic = {
 		graphical_cultures = { saxongfx }
 		
 		color = { 0.3 0.1 0.1 }
@@ -247,7 +247,7 @@ gothic = {
 			Dagila
 			Elpiodoforus
 			Felix_Felix Fastidiosus
-			Gaiseric Gelimer Geilar Gento Gunthamund Godas Gamuth Guntharic Godagis Gondegusulus
+			Gaiseric Gelimer Geilaris Gento Gunthamund Godas Gamuth Guntharic Godagis Gondegusulus Gildilas Godigisel
 			Hilderic Huneric Heldica
 			Iucundus
 			Masculas Maioricus Marivadus Muritta
@@ -263,7 +263,7 @@ gothic = {
 			Beblina Bernildis Bescela Biua Borena 
 			Dionysia Dativa
 			Eva Eberharda Ebersuintha
-			Gisela Guitifrida Guiliaruna
+			Gisela Guitifrida Guiliaruna Godisthea
 			Herlinda
 			Isolde 
 			Lutgardis 

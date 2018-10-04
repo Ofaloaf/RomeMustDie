@@ -6,7 +6,7 @@
 	intrigue=6
 	stewardship=6
 	learning=5
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_saxon"
 	trait="cruel"
 	trait=zealous
@@ -23,7 +23,7 @@
 1066002 = {
 	name="Benno"
 	dynasty=1066002
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_saxon"
 	433.1.1={
 		birth=yes
@@ -41,7 +41,7 @@
 	intrigue=7
 	stewardship=7
 	learning=6
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_saxon"
 	trait="proud"
 	439.3.9={
@@ -60,7 +60,7 @@
 	intrigue=10
 	stewardship=9
 	learning=7
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_saxon"
 	443.2.2={
 		birth=yes
@@ -78,7 +78,7 @@
 	intrigue=10
 	stewardship=9
 	learning=7
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_saxon"
 	trait="proud"
 	trait="wroth"
@@ -99,7 +99,7 @@
 	intrigue=6
 	stewardship=7
 	learning=6
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="saxon"
 	trait="trusting"
 	trait="brave"
@@ -121,7 +121,7 @@
 	intrigue=7
 	stewardship=7
 	learning=5
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="saxon"
 	trait="ambitious"
 	trait="brave"
@@ -147,7 +147,7 @@
 	intrigue=6
 	stewardship=6
 	learning=4
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="saxon"
 	457.1.1={
 		birth=yes
@@ -165,7 +165,7 @@
 	intrigue=6
 	stewardship=5
 	learning=5
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="saxon"
 	trait="scarred"
 	trait="just"
@@ -183,7 +183,7 @@
 	dynasty=418
 	father = 1066009
 	culture = saxon
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	474.1.1={
 		birth=yes
 	}
@@ -200,10 +200,36 @@
 	intrigue=6
 	stewardship=6
 	learning=6
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture="old_saxon"
 	trait=shy
 	439.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1066012 = {
+	name="Immed"
+	dynasty=1066011 # Rugas
+	culture = old_saxon
+	religion="germanic_pagan"
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1066013 = {
+	name="Heodin"
+	dynasty=1066012 # Leonas
+	culture = old_saxon
+	religion="germanic_pagan"
+	442.1.1={
 		birth=yes
 	}
 	500.1.1={

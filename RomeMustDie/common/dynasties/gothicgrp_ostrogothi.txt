@@ -1,139 +1,139 @@
 410001 = {
 	name = "Amaling"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410002 = {
 	name = "Triarius"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410003 = {
 	name = "Afouim"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410004 = {
 	name = "Airzjands"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410005 = {
 	name = "Diups"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410006 = {
 	name = "Fuls"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410007 = {
 	name = "Afdrunkja"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410008 = {
 	name = "Balths"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410009 = {
 	name = "Koneis"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410010 = {
 	name = "Bihaitja"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410011 = {
 	name = "Bairhts"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410012 = {
 	name = "Rampa"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410013 = {
 	name = "Ubils"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410014 = {
 	name = "Launawargs"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410015 = {
 	name = "Hwota"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410016 = {
 	name = "Motareis"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410017 = {
 	name = "Hardus"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410018 = {
 	name = "Bidagwa"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410019 = {
 	name = "Tharba"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410020 = {
 	name = "Baurgja"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410021 = {
 	name = "Atleweis"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410022 = {
 	name = "Untriggws"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410023 = {
 	name = "Switering"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410024 = {
 	name = "Grews"		# 'Grey/Gray'
-	culture = ostrogothi
+	culture = gothic
 }
 
 410025 = {
 	name = "Waithja"	# 'Huntsman'
-	culture = ostrogothi
+	culture = gothic
 }
 
 410026 = {
 	name = "Rugius"
-	culture = ostrogothi
+	culture = gothic
 }
 
 410027 = {
 	name = Aedoingianus
-	culture = ostrogothi
+	culture = gothic
 }
 
 410028 = {
 	name = Cemandrius
-	culture = ostrogothi
+	culture = gothic
 }

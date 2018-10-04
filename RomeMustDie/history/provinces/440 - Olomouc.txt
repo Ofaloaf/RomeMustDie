@@ -17,6 +17,6 @@ b_ostrava = tribal
 
 # Misc
 culture = lombard
-religion = norse_pagan
+religion = germanic_pagan
 
 # History

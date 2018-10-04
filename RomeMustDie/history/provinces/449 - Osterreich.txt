@@ -7,14 +7,13 @@ title = c_osterreich
 max_settlements = 5
 b_wien = tribal
 #b_linz = city
-b_melk = temple
-
+#b_melk = temple
 #b_hohenwarth = castle
 #b_stpolten = city
 #b_wagram = castle
-#b_krems = castle
+b_favianis = temple
 #b_steyr = castle
 
 # Misc
-culture = thuida
+culture = gothic
 religion = arian

@@ -1,0 +1,64 @@
+468001 = {
+	name = "Vokil"
+	culture = bulgar
+}
+
+468002 = {
+	name = "Ugain"
+	culture = bulgar
+}
+
+468003 = {
+	name = "Dilom"
+	culture = bulgar
+}
+
+468004 = {
+	name = "Dokhs"
+	culture = bulgar
+}
+
+468005 = {
+	name = "Shegor"
+	culture = bulgar
+}
+
+468006 = {
+	name = "Somor"
+	culture = bulgar
+}
+
+468007 = {
+	name = "Vereni"
+	culture = bulgar
+}
+
+468008 = {
+	name = "Sitsze"
+	culture = bulgar
+}
+
+468009 = {
+	name = "Hutsze"
+	culture = bulgar
+}
+
+468010 = {
+	name = "Dinglin"
+	culture = bulgar
+}
+
+468011 = {
+	name = "Qara Igil"
+	culture = bulgar
+}
+
+468012 = {
+	name = "Amuca"
+	culture = bulgar
+}
+
+468013 = {
+	name = "Kayi"
+	culture = bulgar
+}

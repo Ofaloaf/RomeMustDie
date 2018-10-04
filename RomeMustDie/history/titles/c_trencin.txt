@@ -1,4 +1,4 @@
-474.1.1 = {
-	liege = d_langobardi
-	holder = 190122
+470.1.1 = {
+	liege = d_turcilingi
+	holder = 1871013
 }

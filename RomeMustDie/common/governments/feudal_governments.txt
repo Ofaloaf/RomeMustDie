@@ -89,6 +89,7 @@ feudal_governments = {
 		}
 		accepts_liege_governments = {
 			feudal_government
+			sub_roman_government
 			roman_imperial_government
 		}
 		

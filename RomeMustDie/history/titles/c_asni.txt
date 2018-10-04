@@ -1,0 +1,4 @@
+472.1.1 = {
+	liege = d_kanyakubja
+	holder = 1253009
+}

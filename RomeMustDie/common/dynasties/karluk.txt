@@ -1,0 +1,17 @@
+680001 = {
+	name = "Chigil"
+	culture = karluk
+	religion = zoroastrian
+}
+
+680002 = {
+	name = "Yagma"
+	culture = karluk
+	religion = zoroastrian
+}
+
+680003 = {
+	name = "Shato"
+	culture = karluk
+	religion = zoroastrian
+}

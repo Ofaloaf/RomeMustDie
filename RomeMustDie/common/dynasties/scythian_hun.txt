@@ -82,3 +82,8 @@
 	name = Saraghur
 	culture = hun
 }
+
+434018 = {
+	name = Sadagarius
+	culture = hun
+}

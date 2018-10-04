@@ -1,0 +1,21 @@
+
+	romano_british = {
+		male = {
+			Artorius_Arthur Agricola_Agricola Aldroenus_Aldroenus
+			Bartholomeus_Bartholomeus Bicanus_Bican Budicius_Budic
+			Constantinus_Constantine Conanus_Conan
+			Edelicus_Edelicus Eugenius_Eugenius
+			Gildas_Gildas
+			Hiltudus_Illtud
+			Marius Marcus Maximus_Maximus Maglocunus_Maglocunus
+			Octavius_Octavius
+			Pabius_Pabius
+			Tribunus_Tribune
+			Uturius_Uther
+			Vorimorus_Vorimer
+		}
+		female = {
+			Anna_Anna
+			Igerna_Igraine
+		}
+	}

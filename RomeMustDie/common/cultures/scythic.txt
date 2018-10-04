@@ -12,28 +12,30 @@ scythic = {
 		male_names = {
 			Akhad Alburia Alypbi Askungur Attila Aybat Almos Avitohol Aigan Atakam
 			Balamber Belk Bleda Bu-Timer Bu-Urgan Balkor
-			Chelbir Csaba
+			Chelbir Csaba Chelchal Curs_Curs
 			Dengizich Djilka Djurash 
 			Ellec Ermak Ezelag Emnetzur Esla
 			Gazan Gostun Grodas
 			Hernach Hülek
 			Khinialon Kurbat Karadach
 			Labertam 
-			Menumorut Mamas Mugel
+			Menumorut Mamas Mugel Mundzuk
 			Octar 
 			Phalis
+			Qaraton
 			Rugila 
 			Sandlikh Shambat Sinnion Sulabi Sunicas Simmas
 			Tat-Ugek Tat-Utyak Tatra Tingiz Tuldila Tarkatzus
 			Uldin Ügyek
 			Vund 
+			Yonat
 			Zabergan
 		}
 		female_names = {
 			Asli Abacil
 			Dodola
-			Emese Erecan
-			Ildico 
+			Emese Erecan_Erecan
+			Ildiko 
 			Khala Kuma
 			N'Kara
 			Önedbelia
@@ -41,6 +43,8 @@ scythic = {
 		}
 		from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
+		
+		allow_looting = yes
 		
 		modifier = default_culture_modifier
 	}
@@ -120,6 +124,39 @@ scythic = {
 		prefix = no
 		
 		disinherit_from_blinding = yes
+		
+		modifier = default_culture_modifier
+	}
+	
+	bulgar = {
+		graphical_cultures = { turkishgfx }
+		
+		color = { 0.65 0.5 0.45 }
+		
+		male_names = {
+			Avitohol Asparuh Ascum Alp
+			Batbayan Bezmer Birdžihan
+			Enravota
+			Gostun
+			Irnik
+			Kuridach Kubrat Kormisosh Krum Karadam Kormesiy Kours_Curs
+			Omurtag
+			Sabin Sabanša Sunicas
+			Tamgan Tervel Telets Telerig Toktu
+			Umor
+			Vinekh Voin
+			Zizei
+		}
+		
+		female_names = {
+			Asenina
+			Ereca_Erecan
+			Kosara
+		}
+		from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		allow_looting = yes
 		
 		modifier = default_culture_modifier
 	}

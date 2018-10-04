@@ -10,22 +10,22 @@
 
 411003 = {
 	name = "Rhedaeneis"
-	culture = visigothi
+	culture = gothic
 }
 
 411004 = {
 	name = "Afetja"
-	culture = visigothi
+	culture = gothic
 }
 
 411005 = {
 	name = "Gabeigs"	# 'Rich'
-	culture = visigothi
+	culture = gothic
 }
 
 411006 = {
 	name = "Qairrus"	# 'Friendly', 'Meek, Gentle, Kingly'
-	culture = visigothi
+	culture = gothic
 }
 
 411007 = {
@@ -35,60 +35,60 @@
 
 411008 = {
 	name = "Goddasing"
-	culture = visigothi
+	culture = gothic
 }
 
 411009 = {
 	name = "Austris"
-	culture = visigothi
+	culture = gothic
 }
 
 411010 = {
 	name = Vesus
-	culture = visigothi
+	culture = gothic
 }
 
 411011 = {
 	name = Walabonsus
-	culture = visigothi
+	culture = gothic
 }
 
 411012 = {
 	name = Widesindus
-	culture = visigothi
+	culture = gothic
 }
 
 411013 = {
 	name = Abundius
-	culture = visigothi
+	culture = gothic
 }
 
 411014 = {
 	name = Wistremundus
-	culture = visigothi
+	culture = gothic
 }
 
 411015 = {
 	name = Gumesindus
-	culture = visigothi
+	culture = gothic
 }
 
 411016 = {
 	name = Rogellus
-	culture = visigothi
+	culture = gothic
 }
 
 411017 = {
 	name = Sandolus
-	culture = visigothi
+	culture = gothic
 }
 
 411018 = {
 	name = Rudericus
-	culture = visigothi
+	culture = gothic
 }
 
 411019 = {
 	name = Argymirucus
-	culture = visigothi
+	culture = gothic
 }

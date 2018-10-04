@@ -17,4 +17,4 @@ b_stendal = tribal
 
 # Misc
 culture = old_saxon
-religion = norse_pagan
+religion = germanic_pagan

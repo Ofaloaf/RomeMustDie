@@ -17,3 +17,39 @@
 	name = Badkhiz # technically Persian, but whatever
 	culture = sogdian
 }
+
+1222005 = {
+	name = Kushano
+	culture = sogdian
+}
+
+1222006 = {
+	name = Wusunmi
+	culture = sogdian
+	used_for_random = no
+}
+
+1222007 = {
+	name = Huttalyan
+	culture = sogdian
+}
+
+1222008 = {
+	name = Tarmidh
+	culture = sogdian
+}
+
+1222009 = {
+	name = Asmarakand
+	culture = sogdian
+}
+
+1222010 = {
+	name = Numijkat
+	culture = sogdian
+}
+
+1222011 = {
+	name = Darya
+	culture = sogdian
+}

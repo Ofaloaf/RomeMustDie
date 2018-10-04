@@ -8,15 +8,17 @@
 	intrigue=4
 	stewardship=5
 	learning=5
-	culture="thuida"
+	culture="gothic"
 	religion="arian"
 	trait="ambitious"
 	trait="greedy"
 	trait="brave"
 	trait="strong"
 	trait="skilled_tactician"
+	disallow_random_traits = yes
 	433.1.1={
 		birth=yes
+		effect = { set_character_flag = is_odoacer }
 	}
 	493.1.1={
 		death=yes
@@ -26,7 +28,7 @@
 1871002 = {
 	name="Edeko"
 	dynasty=911001 
-	culture="thuida"
+	culture="gothic"
 	religion="arian"
 	409.1.1={
 		birth=yes
@@ -42,7 +44,7 @@
 1871003 = {
 	name="Edeca"
 	female = yes
-	culture="thuida"
+	culture="gothic"
 	religion="arian"
 	409.1.1={
 		birth=yes
@@ -61,7 +63,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	culture="thuida"
+	culture="gothic"
 	religion="arian"
 	trait="trusting"
 	trait="honest"
@@ -83,7 +85,7 @@
 	intrigue=7
 	stewardship=7
 	learning=9
-	culture="thuida"
+	culture="gothic"
 	religion="arian"
 	trait="kind"
 	trait="cynical"
@@ -104,7 +106,7 @@
 	intrigue=11
 	stewardship=7
 	learning=9
-	culture="thuida"
+	culture="gothic"
 	religion="arian"
 	trait="paranoid"
 	trait="cynical"
@@ -131,7 +133,7 @@
 	intrigue=9
 	stewardship=7
 	learning=7
-	culture="thuida"
+	culture="gothic"
 	religion="arian"
 	trait="deceitful"
 	trait="zealous"
@@ -165,7 +167,7 @@
 	intrigue=6
 	stewardship=7
 	learning=6
-	culture="thuida"
+	culture="gothic"
 	religion="arian"
 	trait="honest"
 	trait="misguided_warrior"
@@ -185,8 +187,8 @@
 	intrigue=7
 	stewardship=8
 	learning=5
-	culture="thuida"
-	religion="norse_pagan"
+	culture="gothic"
+	religion="germanic_pagan"
 	trait="charismatic_negotiator"
 	431.1.1={
 		birth=yes
@@ -204,8 +206,8 @@
 	intrigue=6
 	stewardship=5
 	learning=6
-	culture="thuida"
-	religion="norse_pagan"
+	culture="gothic"
+	religion="germanic_pagan"
 	trait="misguided_warrior"
 	428.1.1={
 		birth=yes
@@ -223,9 +225,27 @@
 	intrigue=6
 	stewardship=6
 	learning=6
-	culture="thuida"
-	religion="norse_pagan"
+	culture="gothic"
+	religion="germanic_pagan"
 	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1871013 = {
+	name="Sindila"
+	dynasty=911023 # Rutichlius
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="gothic"
+	religion="germanic_pagan"
+	434.1.1={
 		birth=yes
 	}
 	500.1.1={

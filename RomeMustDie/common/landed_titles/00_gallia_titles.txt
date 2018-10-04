@@ -9,12 +9,20 @@ e_gallic_empire = {
 	#purple_born_heirs = yes
 
 	old_frankish = "Frankish Empire"
+	burgundi = "Burgundian Empire"
 
 	k_gallia = {
 		color={ 39 100 157 }
 		color2= { 255 255 255 }
 
 		culture = gallo_roman
+		
+		old_frankish = Neustria
+		alemanni = Neustria
+		
+		allow = {
+			NOT = { has_landed_title = k_visigothia }
+		}
 
 		d_parisiorum = {
 			color={ 20 50 210 }
@@ -147,6 +155,14 @@ e_gallic_empire = {
 
 				# Suessionensis
 				
+				old_frankish = Sessionicus
+				old_saxon = Sessionicus
+				alemanni = Sessionicus
+				burgundi = Sessionicus
+				saxon = Sessionicus
+				thuringi = Sessionicus
+				gothic = Sessionicus
+				
 				b_peronne = {
 					# Perunna
 				}
@@ -254,11 +270,21 @@ e_gallic_empire = {
 
 				# Senonia
 				
+				old_frankish = Senonicus
+				alemanni = Senonicus
+				suebi = Senonicus
+				gothic = Senonicus
+				
 				b_montargis = {
 					# Aridiacus
 				}
 				b_sens = {
 					# Senonum
+					
+					old_frankish = Senonae
+					alemanni = Senonae
+					suebi = Senonae
+					gothic = Senonae
 
 					roman = Agedincum
 				}
@@ -356,11 +382,21 @@ e_gallic_empire = {
 
 				# Aurelianum
 				
+				old_frankish = Aurelianensis
+				alemanni = Aurelianensis
+				suebi = Aurelianensis
+				gothic = Aurelianensis
+				
 				b_gien = {
 					# Genabum
 				}
 				b_orleans = {
 					# Aurelianum
+					
+					old_frankish = Aureliani
+					alemanni = Aureliani
+					suebi = Aureliani
+					gothic = Aureliani
 				}
 				b_fleury = {
 					# Floriacum
@@ -592,6 +628,9 @@ e_gallic_empire = {
 				# Cenomanica
 
 				old_frankish = Celmannico
+				alemanni = Cenomannicus
+				suebi = Cenomannicus
+				gothic = Cenomannicus
 				
 				b_le_mans = {
 					# Cenomanorum
@@ -640,6 +679,11 @@ e_gallic_empire = {
 				}
 				b_tours = {
 					# Turonum
+					
+					old_frankish = Turones
+					alemanni = Turones
+					suebi = Turones
+					gothic = Turones
 				}
 				b_beaulieu = {
 					# Bellus Locus
@@ -698,13 +742,7 @@ e_gallic_empire = {
 			
 			capital = 105 # Vannes
 			
-			culture = breton
-			
-			norse = Bertangaland
-			breton = Breizh
 			welsh = Llydaw
-			irish = Briotáine
-			frankish = Bretagne
 			
 			c_nantes = {
 				color={ 170 50 23 }
@@ -727,6 +765,7 @@ e_gallic_empire = {
 					romano_british = Uuenran
 					old_frankish = Werran
 					norse = Varrandi
+					protonorse = Varrandi
 				}
 				b_clisson = {
 					# Cliccionem # guessing
@@ -1007,6 +1046,8 @@ e_gallic_empire = {
 
 				# Caletensis
 				
+				old_frankish = Caletinsis
+				
 				b_guines = {
 					# Ghisnae
 				}
@@ -1037,8 +1078,9 @@ e_gallic_empire = {
 				color2={ 255 255 255 }
 
 				# Menapiorum
-
-				# frankish: (pagus) Mempiscus
+				
+				old_frankish = Mempiscus
+				dutch = Mempiscusgouw
 				
 				b_ypres = {
 					# Ypra
@@ -1104,9 +1146,16 @@ e_gallic_empire = {
 				
 				b_gent = {
 					# Ganda
+					
+					old_frankish = Gandavum
 				}
 				b_doornik = {
 					# Tornacum
+					
+					old_frankish = Tornacus
+					alemanni = Tornacus
+					suebi = Tornacus
+					gothic = Tornacus
 				}
 				b_oudenaarde = {
 					# Aldenarda
@@ -1134,7 +1183,7 @@ e_gallic_empire = {
 			
 			capital = 134 #Sundgau
 
-			old_frankish = Alesatio # 630
+			old_frankish = Alesatio # 610
 			burgundi = Alesatio
 			thuringi= Alesatio
 			alemanni = Alesatio
@@ -1422,6 +1471,11 @@ e_gallic_empire = {
 				}
 				b_antwerpen = {
 					# Anduerpis
+					
+					old_frankish = Antwerpis
+					alemanni = Antwerpis
+					suebi = Antwerpis
+					gothic = Antwerpis
 				}
 				b_aarschot = {
 					# Arescod
@@ -1740,6 +1794,10 @@ e_gallic_empire = {
 		color2={ 255 255 255 }
 
 		capital = 214
+		
+		allow = {
+			NOT = { has_landed_title = k_visigothia }
+		}
 
 		d_bituricensis = {
 			color={ 235 103 139 }
@@ -2033,7 +2091,7 @@ e_gallic_empire = {
 
 					old_frankish = Convenae
 					visigothi = Convenae
-					ostrogothi = Convenae
+					gothic = Convenae
 				}  
 				b_roquefeuil = {
 					# Rocafolium # 1241 attestation
@@ -2134,7 +2192,7 @@ e_gallic_empire = {
 					# Narbo
 
 					visigothi = Narbona
-					ostrogothi = Narbona
+					gothic = Narbona
 					old_frankish = Narbona
 				} 
 				b_agde = {
@@ -2200,7 +2258,7 @@ e_gallic_empire = {
 			capital = 209 # Armagnac
 
 			visigothi = Wasconia
-			ostrogothi = Wasconia
+			gothic = Wasconia
 			old_frankish = Guasconia
 			burgundi = Guasconia
 			
@@ -2293,7 +2351,7 @@ e_gallic_empire = {
 					# Gaudacium # actually Gaujacq
 
 					visigothi = Gothacium
-					ostrogothi = Gothacium
+					gothic = Gothacium
 				}
 				b_sorde = {
 					# Belenus # making a guess about the etymology of Bélus, France
@@ -2478,7 +2536,7 @@ e_gallic_empire = {
 			capital = 141 # Poitiers
 
 			visigothi = Thifalia
-			ostrogothi = Thifalia
+			gothic = Thifalia
 			
 			c_lusignan = {
 				color={ 28 97 228 }
@@ -3149,7 +3207,7 @@ e_gallic_empire = {
 				old_frankish = Besontion
 				burgundi = Besantio
 				visigothi = Besantio
-				ostrogothi = Besantio
+				gothic = Besantio
 				thuida = Besantio
 				
 				b_besancon = {
@@ -3158,7 +3216,7 @@ e_gallic_empire = {
 					old_frankish = Besontion
 					burgundi = Besantio
 					visigothi = Besantio
-					ostrogothi = Besantio
+					gothic = Besantio
 					thuida = Besantio
 				}
 				b_belfort = {

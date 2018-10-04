@@ -1,0 +1,73 @@
+namespace = francia
+
+# Convert to Christianity to impress the Romans?
+character_event = {
+	id = francia.1
+	title = EVTTITLE_francia_1
+	desc = EVTDESC_francia_1
+	picture = GFX_evt_Ruler_listening_to_supplicant
+	
+	trigger = {
+		culture = old_frankish
+		NOT = { religion_group = christian }
+		AND = {
+			any_realm_title = { title = c_reims }
+			any_realm_title = { title = c_amiens }
+			any_realm_title = { title = c_ile_de_france }
+		}
+		NOT = { has_character_flag = frankish_christianity }
+	}
+	
+	mean_time_to_happen = {
+		days = 14
+	}
+	
+	immediate = {
+		set_character_flag = frankish_christianity
+	}
+	
+	option = {
+		name = EVTOPTA_francia_1
+		if = {
+			limit = {
+				e_wre = { has_holder = yes }
+				e_wre = {
+					owner = { religion_group = christian }
+				}
+			}
+			religion = PREV
+		}
+		if = {
+			limit = {
+				e_wre = { has_holder = no }
+				e_byzantium = { has_holder = yes }
+				e_byzantium = {
+					owner = { religion_group = christian }
+				}
+			}
+			religion = PREV
+		}
+		if = {
+			limit = {
+				OR = {
+					e_wre = { has_holder = no }
+					e_wre = {
+						owner = { NOT = { religion_group = christian } }
+					}
+				}
+				OR = {
+					e_byzantium = { has_holder = no }
+					e_byzantium = {
+						owner = { NOT = { religion_group = christian } }
+					}
+				}
+			}
+			religion = arian
+		}
+	}
+	
+	option = {
+		name = EVTOPTB_francia_1
+		prestige = 10
+	}
+}

@@ -1,12 +1,12 @@
 368001 = {
-	name="Gebowulf"
+	name="Gibuldus"
 	dynasty=496024
 	martial=8
 	diplomacy=10
 	intrigue=4
 	stewardship=8
 	learning=4
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture=alemanni
 	add_trait="ambitious"
 	add_trait="kind"
@@ -28,7 +28,7 @@
 	intrigue=7
 	stewardship=5
 	learning=7
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture=alemanni
 	add_trait="charitable"
 	436.3.5 = {
@@ -47,7 +47,7 @@
 	intrigue=5
 	stewardship=6
 	learning=5
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture=alemanni
 	add_trait="trusting"
 	add_trait="cruel"
@@ -87,7 +87,7 @@
 	intrigue=7
 	stewardship=7
 	learning=7
-	religion="norse_pagan"
+	religion="germanic_pagan"
 	culture=alemanni
 	444.11.11 = {
 		birth=yes

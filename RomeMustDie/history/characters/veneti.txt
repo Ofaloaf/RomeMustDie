@@ -74,3 +74,42 @@
 		death=yes
 	}
 }
+
+776005 = {
+	name="Tugumir"
+	dynasty=734017
+	culture=veneti
+	religion=germanic_pagan
+	450.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+776006 = {
+	name="Lescus"
+	dynasty=734018
+	culture=veneti
+	religion=slavic_pagan
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+776007 = {
+	name="Eburisus"
+	dynasty=734019
+	culture=veneti
+	religion=slavic_pagan
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

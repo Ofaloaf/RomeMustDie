@@ -111,20 +111,20 @@ d_aurasium = {
 	}
 }
 
-d_semnones = { 
-	color={ 175 31 10 }
-	color2={ 255 255 255 }
-	
-	culture = suebi
-	tribe = yes
-	
-	allow = {
-		always = no
-	}
-	
-	title = "HIGH_CHIEF"
-	foa = "HIGH_CHIEF_FOA"
-}
+#d_semnones = { 
+#	color={ 175 31 10 }
+#	color2={ 255 255 255 }
+#	
+#	culture = suebi
+#	tribe = yes
+#	
+#	allow = {
+#		always = no
+#	}
+#	
+#	title = "HIGH_CHIEF"
+#	foa = "HIGH_CHIEF_FOA"
+#}
 
 d_langobardi = { 
 	color={ 145 70 130 }
@@ -147,7 +147,7 @@ d_herules = {
 	color={ 254 205 175 }
 	color2={ 255 255 255 }
 	
-	culture = thuida
+	culture = gothic
 	tribe = yes
 	
 	short_name = yes
@@ -164,7 +164,24 @@ d_scirii = {
 	color={ 175 254 205 }
 	color2={ 255 255 255 }
 	
-	culture = thuida
+	culture = gothic
+	tribe = yes
+	
+	short_name = yes
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_turcilingi = { 
+	color={ 143 158 186 }
+	color2={ 255 255 255 }
+	
+	culture = gothic
 	tribe = yes
 	
 	short_name = yes
@@ -181,12 +198,12 @@ d_ostrogoths = {
 	color = { 102 102 204 }
 	color2= { 10 10 10 }
 	
-	culture = ostrogothi
+	culture = gothic
 	
 	short_name = yes
 	
 	allow = {
-		culture = ostrogothi
+		always = no
 	}
 }
 
@@ -354,6 +371,17 @@ d_limes_arabicus = {
 	allow = {
 		always = no
 	}
+}
+
+d_thanesar = {
+	color = { 254 164 64 }
+	color2= { 255 255 255 }
+	
+	capital = 1367 # Sthanisvara
+
+	dignity = 4
+	
+	culture = hindustani
 }
 
 k_rugiland = {
@@ -558,4 +586,95 @@ d_sudovians = {
 	capital = 423 #Sudovia (lithuanian tribe)
 	
 	culture = lithuanian
+}
+
+d_elmet = {
+	color = { 74 106 123 }
+	color2= { 255 255 255 }
+
+	culture = welsh
+	
+	welsh = Elfed
+	romano_british = Elmetia
+
+	capital = 1581
+
+	allow = {
+		OR = {
+			culture = romano_british
+			culture = welsh
+		}
+	}
+}
+
+d_wusun = {
+	color = { 200 34 63 }
+	color2= { 255 255 255 }
+	
+	capital = 1511 # Pamir
+	
+	culture = sogdian
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_chigils = {
+	color = { 73 119 143 }
+	color2= { 255 255 255 }
+	
+	capital = 1426 # Zhetysu
+	
+	culture = karluk
+	
+	allow = {
+		always = no
+	}
+}
+
+d_veneti = {
+	color = { 77 134 133 }
+	color2= { 255 255 255 }
+	
+	capital = 527 # Krakow, why not
+	
+	culture = veneti
+	
+	allow = {
+		culture = veneti
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_sadagis = {
+	color = { 201 202 155 }
+	color2= { 255 255 255 }
+	
+	capital = 453 # Pelso
+	
+	culture = hun
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_abkhazia = {
+	color={ 56 118 94 }
+	color2={ 255 255 255 }
+	
+	roman = Abasgia
+	graeci = Abasgia
+	greek = Abasgia
+			
+	capital = 600 # Abkhazia
 }

@@ -17,5 +17,5 @@ b_dnieprkherson = tribal
 #b_bilozerka = castle
 
 # Misc
-culture = ostrogothi
-religion = norse_pagan
+culture = gothic
+religion = germanic_pagan

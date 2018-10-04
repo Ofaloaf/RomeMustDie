@@ -1,0 +1,6 @@
+# c_chelyabi
+468.1.1 = {
+	liege="d_perm"
+	holder=188803
+}
+

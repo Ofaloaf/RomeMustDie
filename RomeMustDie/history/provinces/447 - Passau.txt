@@ -16,8 +16,8 @@ b_schaumberg = temple
 #b_freyung = castle
 
 # Misc
-culture = thuida
-religion = norse_pagan
+culture = gothic
+religion = germanic_pagan
 
 # History
 

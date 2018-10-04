@@ -19,4 +19,4 @@ b_calais = city
 
 # Misc
 culture = old_frankish
-religion = norse_pagan
+religion = germanic_pagan

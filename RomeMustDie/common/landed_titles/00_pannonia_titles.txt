@@ -1071,6 +1071,8 @@ e_pannonia = {
 	k_dacia = {
 		color = { 230 107 77 }
 		color2= { 255 255 255 }
+		
+		gothic = Gutthuida
 
 		d_apulensis = {
 			color={ 147 121 58 }

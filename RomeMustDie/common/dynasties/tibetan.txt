@@ -1,0 +1,11 @@
+681001 = {
+	name = "Namri"
+	culture = bodpa
+	religion="bon"
+}
+
+681002 = {
+	name = "Thothori"
+	culture = bodpa
+	religion="bon"
+}

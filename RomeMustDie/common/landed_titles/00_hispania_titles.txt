@@ -7,6 +7,10 @@ e_hispania = {
 	k_hispania = {
 		color = { 200 100 31 }
 		color2={ 255 255 255 }
+		
+		allow = {
+			NOT = { has_landed_title = k_visigothia }
+		}
 
 		d_barcinonensis = {
 			color = { 70 140 83 }
@@ -29,7 +33,7 @@ e_hispania = {
 					greek = Barkinon
 
 					visigothi = Barcinona # Isidore of Seville
-					ostrogothi = Barcinona
+					gothic = Barcinona
 				}
 				b_vic = {
 					# Baetulo # actually Badalona
@@ -41,7 +45,7 @@ e_hispania = {
 					# Ausa
 
 					visigothi = Ausona
-					ostrogothi = Ausona
+					gothic = Ausona
 				}
 				b_igualada = {
 					# Arragona # actually Sabadell
@@ -85,7 +89,7 @@ e_hispania = {
 					# Bescarum # actually Bescaran. Guessing about Latin form.
 
 					visigothi = Bescaran # 819/839 attestation
-					ostrogothi = Bescaran
+					gothic = Bescaran
 				}
 				b_tremp = {
 					# Castra # there's an 'Encamp' in Andorra
@@ -98,13 +102,13 @@ e_hispania = {
 				# Ruscino
 
 				visigothi = Rossilio
-				ostrogothi = Rossilio
+				gothic = Rossilio
 				
 				b_cotlliure = {
 					# Caucholiberi # 7th century
 
 					visigothi = Caucoliberi
-					ostrogothi = Caucoliberi
+					gothic = Caucoliberi
 					old_frankish = Caucoliberi
 				}
 				b_perpinya = {
@@ -112,13 +116,13 @@ e_hispania = {
 
 					old_frankish = Perpinianum
 					visigothi = Perpinianum
-					ostrogothi = Perpinianum
+					gothic = Perpinianum
 				}
 				b_elna = {
 					# Illiberis
 
 					visigothi = Helenae
-					ostrogothi = Helenae
+					gothic = Helenae
 					old_frankish = Helenae
 				}
 				b_cuixa = {
@@ -167,7 +171,7 @@ e_hispania = {
 					# Baniolum # guessing. Catalan Wikipedia says it was first attested in the 10th century as 'Balneolas', derived from Balneum, and that attested form looks like a diminutive.
 
 					visigothi = Balneolas
-					ostrogothi = Balneolas
+					gothic = Balneolas
 					old_frankish = Balneolas
 				}
 				b_castelldaro = {
@@ -274,7 +278,7 @@ e_hispania = {
 				# Turulis # Ptolemy might've called the Mijares River that.
 
 				visigothi = Castalia
-				ostrogothi = Castalia
+				gothic = Castalia
 				old_frankish = Castalia
 				burgundi = Castalia
 				suebi = Castalia
@@ -284,7 +288,7 @@ e_hispania = {
 					# Turulis
 
 					visigothi = Castalia
-					ostrogothi = Castalia
+					gothic = Castalia
 					old_frankish = Castalia
 					burgundi = Castalia
 					suebi = Castalia
@@ -522,7 +526,7 @@ e_hispania = {
 				# Caesaraugusta
 
 				visigothi = Cesaracosta
-				ostrogothi = Cesaracosta
+				gothic = Cesaracosta
 				suebi = Cesaracosta
 				
 				bedouin_arabic = "Saraqusta"
@@ -538,7 +542,7 @@ e_hispania = {
 					# Caesaraugusta
 
 					visigothi = Cesaracosta
-					ostrogothi = Cesaracosta
+					gothic = Cesaracosta
 					suebi = Cesaracosta
 
 					bedouin_arabic = "Saraqusta"
@@ -582,7 +586,7 @@ e_hispania = {
 				# Carthago Nova
 
 				visigothi = Carthaginem
-				ostrogothi = Carthaginem
+				gothic = Carthaginem
 				suebi = Carthaginem
 				
 				bedouin_arabic = "Mursiya"
@@ -602,7 +606,7 @@ e_hispania = {
 					# Carthago Nova
 
 					visigothi = Carthaginem
-					ostrogothi = Carthaginem
+					gothic = Carthaginem
 					suebi = Carthaginem
 
 					bedouin_arabic = Qartagana
@@ -636,7 +640,7 @@ e_hispania = {
 				# Dianum
 
 				visigothi = Aurariola
-				ostrogothi = Aurariola
+				gothic = Aurariola
 				
 				bedouin_arabic = "Deniyya"
 				maghreb_arabic = "Deniyya"
@@ -734,7 +738,7 @@ e_hispania = {
 					# Limitanea # actually Ledaña
 
 					visigothi = Letania
-					ostrogothi = Letania
+					gothic = Letania
 					suebi = Lemitania
 				}
 				b_barrax = {
@@ -757,7 +761,7 @@ e_hispania = {
 			culture = basque
 
 			visigothi = Basconia
-			ostrogothi = Basconia
+			gothic = Basconia
 			suebi = Basconia
 			old_frankish = Spanoguasconia
 			
@@ -810,7 +814,7 @@ e_hispania = {
 					# Pompelo
 
 					visigothi = Pampejopolis
-					ostrogothi = Pampejopolis
+					gothic = Pampejopolis
 				}
 				b_leyre = {
 					# Olcairum # something else
@@ -825,7 +829,7 @@ e_hispania = {
 					# Ologitum
 
 					visigothi = Olito
-					ostrogothi = Olito
+					gothic = Olito
 				}
 				b_carcastillo = {
 					# Itourissa # actually Ateabalsa
@@ -948,7 +952,7 @@ e_hispania = {
 					# Egelesta
 
 					visigothi = Elesta
-					ostrogothi = Elesta
+					gothic = Elesta
 					suebi = Elesta
 				}
 			}
@@ -998,7 +1002,7 @@ e_hispania = {
 					# Dipolis # actually Buendía
 
 					visigothi = Recaredopolis # 6th century
-					ostrogothi = Recaredopolis
+					gothic = Recaredopolis
 				}
 			}
 			c_valladolid = {
@@ -1023,7 +1027,7 @@ e_hispania = {
 					# Septimanca
 
 					visigothi = Simancas
-					ostrogothi = Simancas
+					gothic = Simancas
 				}
 				b_penafiel = {
 					# Pinnafidelis
@@ -1106,7 +1110,7 @@ e_hispania = {
 					# Cambaricum
 
 					visigothi = Cambracum # Ravenna Cosmography
-					ostrogothi = Cambracum
+					gothic = Cambracum
 				}
 				b_sanvicente = {
 					# Portus Veseiasueca # actually San Vincente de la Barquera
@@ -1124,14 +1128,14 @@ e_hispania = {
 				# Numantia
 
 				visigothi = Numancia
-				ostrogothi = Numancia
+				gothic = Numancia
 				suebi = Numancia
 				
 				b_soria = {
 					# Numantia
 
 					visigothi = Numancia
-					ostrogothi = Numancia
+					gothic = Numancia
 					suebi = Numancia
 				}
 				b_osma = {
@@ -1225,6 +1229,10 @@ e_hispania = {
 	k_baetica = {
 		color = { 210 220 175 }
 		color2= { 255 255 255 }
+		
+		allow = {
+			NOT = { has_landed_title = k_visigothia }
+		}
 
 		bedouin_arabic = "Al-Andalus"
 		maghreb_arabic = "Al-Andalus"
@@ -1239,7 +1247,7 @@ e_hispania = {
 			capital = 181 # Cordoba
 
 			visigothi = "Baetica"
-			ostrogothi = "Baetica"
+			gothic = "Baetica"
 
 			bedouin_arabic = "Qurtubah"
 			maghreb_arabic = "Qurtubah"
@@ -1476,7 +1484,7 @@ e_hispania = {
 					# Ceret
 
 					visigothi = Xeritium
-					ostrogothi = Seritium
+					gothic = Seritium
 				}
 				b_cadiz = {
 					# Gades
@@ -1487,7 +1495,7 @@ e_hispania = {
 					roman = "Asido Caesarina Augusta"
 
 					visigothi = Asidona
-					ostrogothi = Asidona
+					gothic = Asidona
 				}
 				b_arcos = {
 					# Arcensium
@@ -1499,7 +1507,7 @@ e_hispania = {
 					# Ebora
 
 					visigothi = Sublucare # a possible etymology for the current name
-					ostrogothi = Sublucare
+					gothic = Sublucare
 				}
 				b_sanfernando = {
 					# Antipolis
@@ -1521,7 +1529,7 @@ e_hispania = {
 					# Ilipa
 
 					visigothi = Elepla
-					ostrogothi = Elepla
+					gothic = Elepla
 				}
 				b_lepe = {
 					# Laepe
@@ -1610,7 +1618,7 @@ e_hispania = {
 		}
 	}
 
-k_gallaecia = {
+	k_gallaecia = {
 		color={ 255 224 94 }
 		capital = 156 # Coruña
 		
@@ -1620,6 +1628,10 @@ k_gallaecia = {
 		muslim = 25 # Crusade target weight
 
 		capital = 158
+		
+		allow = {
+			NOT = { has_landed_title = k_visigothia }
+		}
 		
 		d_gallaecia = {
 			color={ 255 224 94 }
@@ -1677,7 +1689,7 @@ k_gallaecia = {
 
 					suebi = Vico
 					visigothi = Vicus
-					ostrogothi = Vicus
+					gothic = Vicus
 				}
 				b_pontevedra = {
 					# Pontem Veteram
@@ -1848,7 +1860,7 @@ k_gallaecia = {
 					# Baedunia # actually El Castro, San Martín de Torres, Cebrones del Río
 
 					visigothi = Bedunia
-					ostrogothi = Bedunia
+					gothic = Bedunia
 					suebi = Bedunia
 				}
 				b_astorga = {
@@ -1869,19 +1881,19 @@ k_gallaecia = {
 				# Legio
 
 				visigothi = Leione
-				ostrogothi = Leione
+				gothic = Leione
 				
 				b_leon = {
 					# Legio
 
 					visigothi = Leionem
-					ostrogothi = Leionem
+					gothic = Leionem
 				}
 				b_valenciadecampos = {
 					# Comeniaca
 
 					visigothi = Quoianka
-					ostrogothi = Quoianka
+					gothic = Quoianka
 				}
 				b_villablino = {
 					# Avelinum # speculative
@@ -1912,7 +1924,7 @@ k_gallaecia = {
 					# Ocellum
 
 					visigothi = Semure
-					ostrogothi = Semure
+					gothic = Semure
 
 					roman = "Ocellum Duri"
 					graeci = "Ocellum Duri"
@@ -1954,13 +1966,7 @@ k_gallaecia = {
 		
 		# Creation/usurpation trigger
 		allow = {
-			NOT = {
-				AND = {
-					has_landed_title=e_caralis
-					has_law = vice_royalty_0
-					ai = yes
-				}
-			}
+			NOT = { has_landed_title = k_visigothia }
 		}
 		
 		d_scalabitanus = {
@@ -1975,7 +1981,7 @@ k_gallaecia = {
 
 				suebi = Ulishbona
 				visigothi = Ulishbona
-				ostrogothi = Ulishbona
+				gothic = Ulishbona
 				
 				bedouin_arabic = "Lishbuna"
 				maghreb_arabic = "Lishbuna"
@@ -1988,7 +1994,7 @@ k_gallaecia = {
 
 					suebi = Ulishbona
 					visigothi = Ulishbona
-					ostrogothi = Ulishbona
+					gothic = Ulishbona
 
 					bedouin_arabic = "Lishbuna"
 					maghreb_arabic = "Lishbuna"
@@ -2048,7 +2054,7 @@ k_gallaecia = {
 				b_ouguela = {
 					# Budua
 
-					ostrogothi = Niguela
+					gothic = Niguela
 					visigothi = Niguela
 					suebi = Niguela
 				}
@@ -2383,7 +2389,7 @@ k_gallaecia = {
 					# Igaeditania # actually Idanha-a-Velha
 
 					visigothi = Egitania
-					ostrogothi = Egitania
+					gothic = Egitania
 					suebi = Egitania
 				}
 				b_ceclavin = {

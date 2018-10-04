@@ -17,5 +17,5 @@ b_chancelade = temple
 #b_perigueux = city
 
 #Misc
-culture = visigothi
+culture = gothic
 religion = arian

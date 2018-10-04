@@ -18,4 +18,4 @@ b_plzen = tribal
 
 # Misc
 culture = suebi
-religion = norse_pagan
+religion = germanic_pagan

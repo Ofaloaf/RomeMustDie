@@ -1183,72 +1183,6 @@ d_zun_warriors = {
 
 # MERCS
 
-d_sunni_turkic_company = {
-	color = { 130 173 70 }
-	color2 = { 255 255 255 }
-
-	capital = 621 # Kangly
-	
-	# Parent Religion 
-	religion = sunni
-	culture = turkish
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.00
-	
-	mercenary_type = muslim_turkic_company_composition
-}
-
-d_sunni_cuman_company = {
-	color = { 134 155 30 }
-	color2 = { 255 255 255 }
-
-	capital = 616 # Yaik
-	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = muslim
-			religion_group = zoroastrian_group
-		}
-	}
-	
-	# Parent Religion 
-	religion = sunni
-	culture = khazar
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.00
-	
-	mercenary_type = muslim_cuman_company_composition
-}
-
 d_sunni_berber_company = {
 	color = { 85 155 33 }
 	color2 = { 255 255 255 }
@@ -1321,1476 +1255,6 @@ d_sunni_bedouin_company = {
 	strength_growth_per_century = 1.00
 	
 	mercenary_type = bedouin_company_composition
-}
-
-
-d_shiite_turkic_company = {
-	color = { 135 170 60 }
-	color2 = { 255 255 255 }
-
-	capital = 621 # Kangly
-	
-	# Parent Religion 
-	religion = shiite
-	culture = turkish
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.00
-	
-	mercenary_type = muslim_turkic_company_composition
-}
-
-d_shiite_cuman_company = {
-	color = { 130 150 30 }
-	color2 = { 255 255 255 }
-
-	capital = 616 # Yaik
-	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = muslim
-			religion_group = zoroastrian_group
-		}
-	}
-	
-	# Parent Religion 
-	religion = shiite
-	culture = cuman
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.00
-	
-	mercenary_type = muslim_cuman_company_composition
-}
-
-d_shiite_berber_company = {
-	color = { 90 150 30 }
-	color2 = { 255 255 255 }
-
-	capital = 833 # Atlas
-	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = muslim
-			religion_group = zoroastrian_group
-		}
-	}
-	
-	# Parent Religion 
-	religion = shiite
-	culture = maghreb_arabic
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.00
-	
-	mercenary_type = berber_company_composition
-}
-
-d_shiite_bedouin_company = {
-	color = { 40 150 30 }
-	color2 = { 255 255 255 }
-
-	capital = 862 # Halaban
-	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = muslim
-			religion_group = zoroastrian_group
-		}
-	}
-	
-	# Parent Religion 
-	religion = shiite
-	culture = bedouin_arabic
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.00
-	
-	mercenary_type = bedouin_company_composition
-}
-
-d_white_company = {
-	color={ 235 235 235 }
-	color2={ 255 255 255 }
-
-	capital = 72 # Essex
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-		
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = white_company_composition
-	
-}
-
-d_great_company = {
-	color={ 100 100 100 }
-	color2={ 255 255 255 }
-
-	capital = 361 # Niederbayern
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = great_company_composition
-}
-
-d_company_of_st_george = {
-	color={ 50 50 200 }
-	color2={ 255 255 255 }
-
-	capital = 235 # Lombardia
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	mercenary = yes
-
-	title = "CONDOTTIERO"
-	foa = "CONDOTTIERO_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = company_of_st_george_composition
-}
-
-d_star_company = {
-	color={ 200 80 200 }
-	color2={ 255 255 255 }
-
-	capital = 353 # Ferrara
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	mercenary = yes
-
-	title = "CONDOTTIERO"
-	foa = "CONDOTTIERO_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-		
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = star_company_composition
-}
-
-d_little_hat_company = {
-	color={ 100 200 80 }
-	color2={ 255 255 255 }
-
-	capital = 354 # mantua
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	mercenary = yes
-
-	title = "CONDOTTIERO"
-	foa = "CONDOTTIERO_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-		
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = little_hat_company_composition
-}
-
-d_rose_company = {
-	color={ 230 150 150 }
-	color2={ 255 255 255 }
-
-	capital = 355 # Padua
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	mercenary = yes
-
-	title = "CONDOTTIERO"
-	foa = "CONDOTTIERO_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = rose_company_composition
-}
-
-d_catalan_company = {
-	color={ 230 100 100 }
-	color2={ 255 255 255 }
-
-	capital = 204 # Barcelona
-	
-	mercenary = yes
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-		year = 950
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	culture = catalan
-
-	title = "CONDOTTIERO"
-	foa = "CONDOTTIERO_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = catalan_company_composition
-}
-
-d_navarrese_company = {
-	color={ 150 150 100 }
-	color2={ 255 255 255 }
-	
-	title = "CONDOTTIERO"
-	foa = "CONDOTTIERO_FOA"
-
-	capital = 152 # Navarre
-	
-	mercenary = yes
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	culture = basque
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-		
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = navarrese_company_composition
-}
-
-d_swiss_company = {
-	color={ 150 40 40 }
-	color2={ 255 255 255 }
-
-	capital = 239 # Geneve
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-		
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = swiss_company_composition
-}
-
-d_breton_company = {
-	color={ 150 40 40 }
-	color2={ 255 255 255 }
-
-	capital = 102 # Penthievre
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	culture = breton
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = breton_company_composition
-}
-
-d_sardinian_company = {
-	color={ 210 165 165 }
-	color2={ 255 255 255 }
-
-	capital = 326 # Cagliari
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	culture = italian
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = sardinian_company_composition
-}
-
-d_sardinian_band = {
-	color={ 210 65 65 }
-	color2={ 255 255 255 }
-
-	capital = 325 # Arborea
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	culture = italian
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-		
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = sardinian_band_composition
-}
-
-d_victual_brothers = {
-	color={ 160 160 160 }
-	color2={ 255 255 255 }
-	
-	capital = 370 # Marienburg
-	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion = norse_pagan
-			religion = norse_pagan_reformed
-			religion = baltic_pagan
-			religion = baltic_pagan_reformed
-			religion = finnish_pagan
-			religion = finnish_pagan_reformed
-			religion_group = christian
-		}
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	mercenary = yes
-	mercenary_type = victual_brothers_composition
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 0.25
-}
-
-d_varangian_guard = {
-	color={ 180 180 180 }
-	color2={ 255 255 255 }
-	
-	graphical_culture = orthodoxholygfx
-
-	capital = 290 # Uppland
-	
-	# Parent Religion 
-	religion = orthodox
-	
-	culture = norse
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	strength_growth_per_century = 0.10
-	
-	mercenary_type = varangian_guard_composition
-}
-
-d_cuman_company = {
-	color = { 160 160 80 }
-	color2 = { 255 255 255 }
-
-	capital = 616 # Yaik
-	
-	# Parent Religion 
-	religion = orthodox
-	culture = cuman
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = cuman_company_composition
-}
-
-d_rus_company = {
-	color = { 80 80 160 }
-	color2 = { 255 255 255 }
-
-	capital = 547 # Kiev
-	
-	# Hire Trigger
-	allow = {
-		year = 950
-		OR = {
-			religion_group = pagan_group
-			religion_group = christian
-		}
-	}
-	
-	# Parent Religion 
-	religion = orthodox
-	
-	culture = russian
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = rus_company_composition
-}
-
-d_pecheneg_company = {
-	color = { 100 100 30 }
-	color2 = { 255 255 255 }
-
-	capital = 542 # Olvia
-	
-	# Parent Religion 
-	religion = orthodox
-	
-	culture = pecheneg
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = pecheneg_company_composition
-}
-
-d_bulgarian_company = {
-	color = { 100 50 30 }
-	color2 = { 255 255 255 }
-
-	capital = 508 # Dorostotum
-	
-	# Parent Religion 
-	religion = orthodox
-	
-	culture = bulgarian
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = bulgarian_company_composition
-}
-
-d_turkic_company = {
-	color = { 100 50 30 }
-	color2 = { 255 255 255 }
-
-	capital = 621 # Kangly
-	
-	# Parent Religion 
-	religion = orthodox
-	
-	culture = turkish
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = turkic_company_composition
-}
-
-d_lombard_band = {
-	color={ 150 60 60 }
-	color2={ 255 255 255 }
-
-	capital = 235 # Lombardia
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	mercenary = yes
-
-	title = "CONDOTTIERO"
-	foa = "CONDOTTIERO_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-		
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = lombard_band_composition
-}
-
-d_swiss_band = {
-	color={ 150 40 40 }
-	color2={ 255 255 255 }
-
-	capital = 239 # Geneve
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-		
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = swiss_band_composition
-}
-
-d_breton_band = {
-	color={ 150 65 65 }
-	color2={ 255 255 255 }
-
-	capital = 102 # Penthievre
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	culture = breton
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-		
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = breton_band_composition
-}
-
-d_catalan_band = {
-	color={ 230 100 100 }
-	color2={ 255 255 255 }
-
-	capital = 204 # Barcelona
-	
-	mercenary = yes
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-		year = 950
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	culture = catalan
-
-	title = "CONDOTTIERO"
-	foa = "CONDOTTIERO_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = catalan_band_composition
-}
-
-d_saxon_band = {
-	color={ 220 90 90 }
-	color2={ 255 255 255 }
-
-	capital = 57 # York
-	
-	mercenary = yes
-	
-	# Hire Trigger
-	allow = {
-		OR = {
-			NOT = { year = 1100 }
-			any_independent_ruler = {
-				culture = saxon
-			}
-		}
-		religion_group = christian
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	culture = saxon
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-
-	mercenary_type = saxon_band_composition
-}
-
-d_cuman_band = {
-	color = { 160 160 80 }
-	color2 = { 255 255 255 }
-
-	capital = 616 # Yaik
-	
-	# Parent Religion 
-	religion = orthodox
-	
-	culture = cuman
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = cuman_band_composition
-}
-
-d_rus_band = {
-	color = { 80 80 160 }
-	color2 = { 255 255 255 }
-
-	capital = 547 # Kiev
-	
-	# Hire Trigger
-	allow = {
-		year = 950
-		OR = {
-			religion_group = christian
-			religion_group = pagan_group
-		}
-	}
-	
-	# Parent Religion 
-	religion = orthodox
-	
-	culture = russian
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = rus_band_composition
-}
-
-d_finnish_band = {
-	color = { 131 35 35 }
-	color2 = { 255 255 255 }
-
-	capital = 383 # Häme
-	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = christian
-			religion_group = pagan_group
-		}
-	}
-	
-	# Parent Religion 
-	religion = finnish_pagan
-	
-	culture = finnish
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = finnish_band_composition
-}
-
-d_lappish_band = {
-	color = { 101 69 30 }
-	color2 = { 255 255 255 }
-
-	capital = 386 # Kemi
-	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = christian
-			religion_group = pagan_group
-		}
-	}
-	
-	# Parent Religion 
-	religion = finnish_pagan
-	
-	culture = lappish
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = lappish_band_composition
-}
-
-d_lithuanian_band = {
-	color = { 169 90 95 }
-	color2 = { 255 255 255 }
-
-	capital = 421 # Lietuva / Zhmud
-	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = christian
-			religion_group = pagan_group
-		}
-	}
-	
-	# Parent Religion 
-	religion = baltic_pagan
-	
-	culture = lithuanian
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = lithuanian_band_composition
-}
-
-d_abyssinian_band = {
-	color={ 180 135 60 }
-	color2 = { 255 255 255 }
-
-	capital = 875 # Axum
-	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = christian
-			religion_group = jewish_group
-		}
-	}
-	
-	# Parent Religion 
-	religion = miaphysite
-	
-	culture = ethiopian
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = abyssinian_band_composition
-}
-
-d_nubian_band = {
-	color = { 155 165 80 }
-	color2 = { 255 255 255 }
-
-	capital = 878 # Hayya
-	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = christian
-			religion_group = jewish_group
-		}
-	}
-	
-	# Parent Religion 
-	religion = miaphysite
-	
-	culture = nubian
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = nubian_band_composition
-}
-
-d_scottish_band = {
-	color = { 30 90 182 }
-	color2 = { 255 255 255 }
-
-	capital = 43 # Gowrie
-	
-	# Hire Trigger
-	allow = {
-		year = 950
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	culture = scottish
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = scottish_band_composition
-}
-
-d_irish_band = {
-	color = { 112 255 70 }
-	color2 = { 255 255 255 }
-
-	capital = 10 # Kildare
-	
-	# Hire Trigger
-	allow = {
-		always = yes
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	culture = irish
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = irish_band_composition
-}
-
-d_alan_band = {
-	color = { 245 210 90 }
-	color2 = { 255 255 255 }
-
-	capital = 603 # Alania
-	
-	# Hire Trigger
-	allow = {
-		always = yes
-	}
-	
-	# Parent Religion 
-	religion = orthodox
-	
-	culture = alan
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = alan_band_composition
-}
-
-d_pecheneg_band = {
-	color = { 100 100 30 }
-	color2 = { 255 255 255 }
-
-	capital = 542 # Olvia
-	
-	# Parent Religion 
-	religion = orthodox
-	
-	culture = pecheneg
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = pecheneg_band_composition
-}
-
-d_bulgarian_band = {
-	color = { 100 50 30 }
-	color2 = { 255 255 255 }
-
-	capital = 508 # Dorostotum
-	
-	# Parent Religion 
-	religion = orthodox
-	
-	culture = bulgarian
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = bulgarian_band_composition
-}
-
-d_turkic_band = {
-	color = { 100 50 30 }
-	color2 = { 255 255 255 }
-
-	capital = 621 # Kangly
-	
-	# Parent Religion 
-	religion = orthodox
-	
-	culture = turkish
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = turkic_band_composition
-}
-
-d_mamluks = {
-	color={ 80 160 80 }
-	color2={ 255 255 255 }
-	
-	graphical_culture = bektashigfx
-
-	capital = 796 # Cairo
-	
-	# Hire Trigger
-	allow = {
-		religion_group = muslim
-	}
-	
-	# Parent Religion 
-	religion = shiite
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = mamluks_composition
-}
-
-d_venetian_navy = { # Now "Adriatic Galleys"
-	color = { 60  175  170 }
-	color2={ 255 255 255 }
-	
-	short_name = yes
-
-	capital = 356 # Venice
-	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-		year = 1066
-	}
-	
-	# Parent Religion 
-	religion = catholic
-	
-	mercenary = yes
-
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-		
-	# Cannot be vassalized
-	independent = yes
-
-	mercenary_type = naval_merc_composition
 }
 
 d_genoese_navy = { # Now "Ligurian Galleys"
@@ -3095,6 +1559,8 @@ e_scandinavia = {
 			c_uppland = {
 				color={ 30 30 155 }
 				color2={ 255 255 255 }
+				
+				protonorse = Upplanda
 
 				holy_site = norse_pagan
 				holy_site = norse_pagan_reformed
@@ -3102,6 +1568,8 @@ e_scandinavia = {
 				b_sigtuna = {
 				}
 				b_uppsala = {
+					protonorse = Uppsaliz
+					norse = Uppsalr
 				}
 				b_osteras = {
 					norwegian = "Østerås"
@@ -3154,10 +1622,10 @@ e_scandinavia = {
 				color={ 50 35 225 }
 				color2={ 255 255 255 }
 				
-				norwegian = "Sødermanland"
-				danish = "Sødermanland"
-				norse = "Sudermanland"
-				swedish = "Södermanland"
+				# Sudermannia
+				
+				protonorse = "Sunþrizomanlandaz"
+				norse = "Syðrimanland"
 				
 				b_nykoping = {
 					norwegian = "Nykøping"
@@ -3802,6 +2270,8 @@ e_scandinavia = {
 				norse = Burgundaholmr
 				protonorse = Burgundahulmaz
 				burgundi = Burgundahulmaz
+				
+				holy_site = germanic_pagan
 			
 				b_ronne = {
 				}
@@ -3990,7 +2460,10 @@ e_scandinavia = {
 				color={ 225 84 84 }
 				color2={ 255 255 255 }
 				
-				german = "Jütland"
+				# Iutum
+				
+				protonorse = Jótarlanda # 'Jótar' is Old West Norse, not protonorse, but oh well I work with what I got.
+				norse = Jótarland
 				
 				roman = Cimbria
 				graeci = Cimbria
@@ -4002,7 +2475,8 @@ e_scandinavia = {
 				pannonian = Iutum
 			
 				b_aarhus = {
-					swedish = "Århus"
+					protonorse = Aros
+					norse = Aros
 				}
 				b_viborg = {
 				}
@@ -4272,6 +2746,7 @@ e_scandinavia = {
 				color2={ 255 255 255 }
 				
 				norse = "Rygjafylki"
+				protonorse = Rygjafulkija
 				
 				b_eikundarsund = {
 				}
@@ -4317,7 +2792,18 @@ e_scandinavia = {
 				color={ 60 157 209 }
 				color2={ 255 255 255 }
 				
-				norse = Hordaland
+				norse = Horðaland
+				protonorse = Horðalanda
+				gothic = Arochia # Jordanes mentions the 'Arochi'
+				visigothi = Arochia
+				roman = Arochia
+				graeci = Arochia
+				greek = Arochia
+				gallo_roman = Arochia
+				romano_british = Arochia
+				pannonian = Arochia
+				mauro_roman = Arochia
+				hispano_roman = Arochia
 				
 				b_bergenhus = {
 				}
@@ -4325,6 +2811,7 @@ e_scandinavia = {
 				}
 				b_bergen = {
 					norse = Bjorgvin
+					protonorse = Bergawinjó
 				}
 				b_vik = {
 				}
@@ -4624,7 +3111,7 @@ e_scandinavia = {
 		}
 	}
 	
-	k_finland = {
+	k_fennia = {
 		color = { 130 73 20 }
 		color2={ 255 255 255 }
 		
@@ -4657,315 +3144,6 @@ e_scandinavia = {
 			}
 		}
 	
-		d_esthonia = {
-			color={ 150 75 75 }
-			color2={ 255 255 255 }
-			
-			capital = 378 # Kalevan
-			
-			culture = ugricbaltic
-		
-			c_reval = {
-				color={ 160 85 85 }
-				color2={ 255 255 255 }
-				
-				swedish = "Reval"
-				danish = "Reval"
-				norwegian = "Reval"
-				german = "Reval"
-				norse = "Reval"
-			
-				b_reval = { # Kalevan
-					swedish = "Reval"
-					danish = "Reval"
-					norwegian = "Reval"
-					german = "Reval"
-					norse = "Reval"
-				}
-				b_hapsal = { # Haapsalu
-					swedish = "Hapsal"
-					danish = "Hapsal"
-					norwegian = "Hapsal"
-					german = "Hapsal"
-					norse = "Hapsal"
-				}
-				b_toompea = {
-					swedish = "Domberg"
-					danish = "Domberg"
-					norwegian = "Domberg"
-					german = "Domberg"
-					norse = "Domberg"
-				}
-				b_leal = { # Lihula
-					swedish = "Lehal"
-					danish = "Lehal"
-					norwegian = "Lehal"
-					german = "Leal"
-					norse = "Leal"
-				}
-				b_borpeal = {
-				}
-				b_laane = {
-				}
-				b_pades = {
-				}
-				b_parnaw = {
-				}
-			}
-			c_narva = {
-				color={ 175 55 55 }
-				color2={ 255 255 255 }
-			
-				b_narva = {
-				}
-				b_agelinde = {
-				}
-				b_wesenberg = {
-				}
-				b_telsborg = {
-				}
-				b_pudiviru = {
-				}
-				b_askala = {
-				}
-				b_repel = {
-				}
-				b_alentagh = {
-				}
-			}
-			c_vodi = {
-				color={ 113 0 0 }
-				color2={ 255 255 255 }
-				
-				finnish = "Inkeri"
-				russian = "Ingriya"
-				ilmenian = "Ingriya"
-				severian = "Ingriya"
-				swedish = "Ingermanland"
-			
-				b_nyen = {
-					finnish = "Nevanlinna"
-				}
-				b_noteborg = {
-					swedish = "Nöteborg"
-					norse = "Nöteborg"
-					norwegian = "Nøteborg"
-					danish = "Nøteborg"
-					german = "Schlüsselburg"
-					russian = "Oreshek"
-				}
-				b_valaam = {
-					finnish = "Valamo"
-					swedish = "Valamo"
-					norse = "Valamo"
-				}
-				b_jogopera = {
-				}
-				b_ivanovskaya = { # Teusina
-					swedish = "Teusina"
-					norwegian = "Teusina"
-					norse = "Teusina"
-					danish = "Teusina"
-					russian = "Tyavzino"
-				}
-				b_nosok = {
-				}
-				b_liivtsula = {
-				}
-				b_khotchino = {
-					finnish = "Hatsina"
-					swedish = "Hatsina"
-					norse = "Hatsina"
-				}
-			}
-		}
-		d_livonia = {
-			color={ 110 50 50 }
-			color2={ 255 255 255 }
-			
-			capital = 375 # Liivimaa
-			
-			pagan_coa = {
-				template = 0
-				layer = {
-					texture = 2
-					texture_internal = 2
-					emblem = 0
-					color = 0
-					color = 0
-					color = 0
-				}
-				religion = "norse_pagan"
-			}
-			
-			c_lettigalians = {
-				color={ 125 50 50 }
-				color2={ 255 255 255 }
-				
-				swedish = "Livland"
-				norse = "Livland"
-				danish = "Livland"
-				norwegian = "Livland"
-				german = "Livland"
-
-				b_gaujiena = {
-					ugricbaltic = Atsela
-					german = Adsel
-					lithuanian = Atzeles
-				}
-				b_kokenois = {
-					ugricbaltic = Koknese
-					german = Kokenhusen
-					polish = Koknese
-					lithuanian = Koknese
-				}
-				b_uxkull = { # Ikskila
-					swedish = "Yxkull"
-					norse = "Yxkull"
-					danish = "Yxkull"
-					norwegian = "Yxkull"
-					german = "Üxküll"
-					ugricbaltic = Ikškila
-					polish = Ikškile
-					lithuanian = Ikškile
-				}
-				b_wenden = {
-					ugricbaltic = Võnnu
-					polish = Kies
-					lithuanian = Cesys
-				}
-				b_wolmer = {
-					ugricbaltic = Valmiera
-					german = Wolmar
-					polish = Valmiera
-					lithuanian = Valmiera
-				}
-				b_lemisele = {
-					swedish = "Lemsal"
-					norse = "Lemsal"
-					danish = "Lemsal"
-					norwegian = "Lemsal"
-					ugricbaltic = Lemsalu
-					german = Lemsal
-					polish = Limbaži
-					lithuanian = Limbažiai
-				}
-				b_seswegen = {
-					ugricbaltic = Cesvaine
-					german = Sesswegen
-					polish = Cesvaine
-					lithuanian = Cesvaine
-				}
-			}
-			c_livs = {
-				color={ 170 50 50 }
-				color2={ 255 255 255 }
-				
-				swedish = Lääne
-				danish = Lääne
-				
-				b_salaspils = {
-				}
-				b_haapsalu = {
-				}
-				b_lihula = {
-					german = Leal
-				}
-				b_parnu = {
-					ugricbaltic = Pärnu
-					german = Pernau
-					polish = Parnawa
-					lithuanian = Pernu
-				}
-				b_martna = {
-				}
-				b_kullamaa = {
-				}
-				b_karuse = {
-				}
-				b_pooravere = {
-				}
-				b_piirsalu = {
-				}
-			}
-			c_dorpat = {
-				color={ 115 5 5 }
-				color2={ 255 255 255 }
-				
-				swedish = "Dorpat"
-				norse = "Dorpat"
-				danish = "Dorpat"
-				norwegian = "Dorpat"
-				german = "Dorpat"
-			
-				b_tartu = {
-					swedish = "Dorpat"
-					norse = "Dorpat"
-					danish = "Dorpat"
-					norwegian = "Dorpat"
-					german = "Dorpat"
-				}
-				b_jarva = {
-				}
-				b_fellin = {
-				}
-				b_odenpah = {
-				}
-				b_lais = {
-				}
-				b_vastseliina = {
-				}
-				b_kirrumpa = {
-				}
-				b_vanakastre = {
-				}
-			}
-			c_osel = {
-				color={ 101 48 48 }
-				color2={ 255 255 255 }
-				
-				swedish = "Ösel"
-				norse = "Ösel"
-				danish = "Øsel"
-				norwegian = "Øsel"
-				german = "Ösel"
-
-				holy_site = finnish_pagan
-				holy_site = finnish_pagan_reformed
-				
-				b_kuressare = {
-					swedish = "Arensborg"
-					norse = "Arensborg"
-					danish = "Arensborg"
-					norwegian = "Arensborg"
-					german = "Arensburg"
-				}
-				b_hiiumaa = {
-					swedish = "Dagö"
-					norse = "Dagö"
-					danish = "Dagø"
-					norwegian = "Dagø"
-					german = "Dagö"
-				}
-				b_muhu = {
-					swedish = "Moon"
-					norse = "Moon"
-					danish = "Moon"
-					norwegian = "Moon"
-					german = "Mohn"
-				}
-				b_valjala = {
-				}
-				b_poide = {
-				}
-				b_leisi = {
-				}
-				b_orisaare = {
-				}
-				b_kaarma = {
-				}
-			}
-		}
 		d_karelia = {
 			color={ 155 135 45 }
 			color2={ 255 255 255 }
@@ -5592,8 +3770,8 @@ e_scythia = {
 	samoyed = Suomi
 	mordvin = Suomi
 
-	k_lithuania = {
-		color={ 90 10 0 }
+	k_aestingia = {
+		color={ 248 125 125 }
 		color2={ 255 255 255 }
 		
 		capital = 420 # Aukshayts
@@ -5601,12 +3779,322 @@ e_scythia = {
 		culture = lithuanian
 		
 		prussian = "Prussia"
+		lithuanian = "Lithuania"
 		
 		catholic = 50 # Crusade target weight
 		slavic_pagan_reformed = 100 # Crusade target weight
 		baltic_pagan_reformed = 500
 		finnish_pagan_reformed = 100
 		
+		d_hestia = {
+			color={ 150 75 75 }
+			color2={ 255 255 255 }
+			
+			capital = 378 # Kalevan
+			
+			culture = ugricbaltic
+		
+			c_reval = {
+				color={ 160 85 85 }
+				color2={ 255 255 255 }
+				
+				swedish = "Reval"
+				danish = "Reval"
+				norwegian = "Reval"
+				german = "Reval"
+				norse = "Reval"
+			
+				b_reval = { # Kalevan
+					swedish = "Reval"
+					danish = "Reval"
+					norwegian = "Reval"
+					german = "Reval"
+					norse = "Reval"
+				}
+				b_hapsal = { # Haapsalu
+					swedish = "Hapsal"
+					danish = "Hapsal"
+					norwegian = "Hapsal"
+					german = "Hapsal"
+					norse = "Hapsal"
+				}
+				b_toompea = {
+					swedish = "Domberg"
+					danish = "Domberg"
+					norwegian = "Domberg"
+					german = "Domberg"
+					norse = "Domberg"
+				}
+				b_leal = { # Lihula
+					swedish = "Lehal"
+					danish = "Lehal"
+					norwegian = "Lehal"
+					german = "Leal"
+					norse = "Leal"
+				}
+				b_borpeal = {
+				}
+				b_laane = {
+				}
+				b_pades = {
+				}
+				b_parnaw = {
+				}
+			}
+			c_narva = {
+				color={ 175 55 55 }
+				color2={ 255 255 255 }
+			
+				b_narva = {
+				}
+				b_agelinde = {
+				}
+				b_wesenberg = {
+				}
+				b_telsborg = {
+				}
+				b_pudiviru = {
+				}
+				b_askala = {
+				}
+				b_repel = {
+				}
+				b_alentagh = {
+				}
+			}
+			c_vodi = {
+				color={ 113 0 0 }
+				color2={ 255 255 255 }
+				
+				finnish = "Inkeri"
+				russian = "Ingriya"
+				ilmenian = "Ingriya"
+				severian = "Ingriya"
+				swedish = "Ingermanland"
+			
+				b_nyen = {
+					finnish = "Nevanlinna"
+				}
+				b_noteborg = {
+					swedish = "Nöteborg"
+					norse = "Nöteborg"
+					norwegian = "Nøteborg"
+					danish = "Nøteborg"
+					german = "Schlüsselburg"
+					russian = "Oreshek"
+				}
+				b_valaam = {
+					finnish = "Valamo"
+					swedish = "Valamo"
+					norse = "Valamo"
+				}
+				b_jogopera = {
+				}
+				b_ivanovskaya = { # Teusina
+					swedish = "Teusina"
+					norwegian = "Teusina"
+					norse = "Teusina"
+					danish = "Teusina"
+					russian = "Tyavzino"
+				}
+				b_nosok = {
+				}
+				b_liivtsula = {
+				}
+				b_khotchino = {
+					finnish = "Hatsina"
+					swedish = "Hatsina"
+					norse = "Hatsina"
+				}
+			}
+		}
+		d_livonia = {
+			color={ 78 65 15 }
+			color2={ 255 255 255 }
+			
+			capital = 375 # Liivimaa
+			
+			pagan_coa = {
+				template = 0
+				layer = {
+					texture = 2
+					texture_internal = 2
+					emblem = 0
+					color = 0
+					color = 0
+					color = 0
+				}
+				religion = "norse_pagan"
+			}
+			
+			c_lettigalians = {
+				color={ 125 50 50 }
+				color2={ 255 255 255 }
+				
+				swedish = "Livland"
+				norse = "Livland"
+				danish = "Livland"
+				norwegian = "Livland"
+				german = "Livland"
+
+				b_gaujiena = {
+					ugricbaltic = Atsela
+					german = Adsel
+					lithuanian = Atzeles
+				}
+				b_kokenois = {
+					ugricbaltic = Koknese
+					german = Kokenhusen
+					polish = Koknese
+					lithuanian = Koknese
+				}
+				b_uxkull = { # Ikskila
+					swedish = "Yxkull"
+					norse = "Yxkull"
+					danish = "Yxkull"
+					norwegian = "Yxkull"
+					german = "Üxküll"
+					ugricbaltic = Ikškila
+					polish = Ikškile
+					lithuanian = Ikškile
+				}
+				b_wenden = {
+					ugricbaltic = Võnnu
+					polish = Kies
+					lithuanian = Cesys
+				}
+				b_wolmer = {
+					ugricbaltic = Valmiera
+					german = Wolmar
+					polish = Valmiera
+					lithuanian = Valmiera
+				}
+				b_lemisele = {
+					swedish = "Lemsal"
+					norse = "Lemsal"
+					danish = "Lemsal"
+					norwegian = "Lemsal"
+					ugricbaltic = Lemsalu
+					german = Lemsal
+					polish = Limbaži
+					lithuanian = Limbažiai
+				}
+				b_seswegen = {
+					ugricbaltic = Cesvaine
+					german = Sesswegen
+					polish = Cesvaine
+					lithuanian = Cesvaine
+				}
+			}
+			c_livs = {
+				color={ 170 50 50 }
+				color2={ 255 255 255 }
+				
+				swedish = Lääne
+				danish = Lääne
+				
+				b_salaspils = {
+				}
+				b_haapsalu = {
+				}
+				b_lihula = {
+					german = Leal
+				}
+				b_parnu = {
+					ugricbaltic = Pärnu
+					german = Pernau
+					polish = Parnawa
+					lithuanian = Pernu
+				}
+				b_martna = {
+				}
+				b_kullamaa = {
+				}
+				b_karuse = {
+				}
+				b_pooravere = {
+				}
+				b_piirsalu = {
+				}
+			}
+			c_dorpat = {
+				color={ 115 5 5 }
+				color2={ 255 255 255 }
+				
+				swedish = "Dorpat"
+				norse = "Dorpat"
+				danish = "Dorpat"
+				norwegian = "Dorpat"
+				german = "Dorpat"
+			
+				b_tartu = {
+					swedish = "Dorpat"
+					norse = "Dorpat"
+					danish = "Dorpat"
+					norwegian = "Dorpat"
+					german = "Dorpat"
+				}
+				b_jarva = {
+				}
+				b_fellin = {
+				}
+				b_odenpah = {
+				}
+				b_lais = {
+				}
+				b_vastseliina = {
+				}
+				b_kirrumpa = {
+				}
+				b_vanakastre = {
+				}
+			}
+			c_osel = {
+				color={ 101 48 48 }
+				color2={ 255 255 255 }
+				
+				swedish = "Ösel"
+				norse = "Ösel"
+				danish = "Øsel"
+				norwegian = "Øsel"
+				german = "Ösel"
+
+				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
+				
+				b_kuressare = {
+					swedish = "Arensborg"
+					norse = "Arensborg"
+					danish = "Arensborg"
+					norwegian = "Arensborg"
+					german = "Arensburg"
+				}
+				b_hiiumaa = {
+					swedish = "Dagö"
+					norse = "Dagö"
+					danish = "Dagø"
+					norwegian = "Dagø"
+					german = "Dagö"
+				}
+				b_muhu = {
+					swedish = "Moon"
+					norse = "Moon"
+					danish = "Moon"
+					norwegian = "Moon"
+					german = "Mohn"
+				}
+				b_valjala = {
+				}
+				b_poide = {
+				}
+				b_leisi = {
+				}
+				b_orisaare = {
+				}
+				b_kaarma = {
+				}
+			}
+		}
 		d_prussia = {
 			color={ 200 100 100 }
 			color2={ 255 255 255 }
@@ -7352,6 +5840,10 @@ e_scythia = {
 			color={ 255 147 38 }
 			color2={ 255 255 255 }
 			
+			sarmatian = Seuer
+			hun = Seuer
+			bolghar = Seuer
+			
 			capital = 554 # Chernigov
 			
 			c_lyubech = {
@@ -7408,6 +5900,10 @@ e_scythia = {
 				color2 = { 255 255 255 }
 				
 				# Severia
+				
+				sarmatian = Seuer
+				hun = Seuer
+				bolghar = Seuer
 	
 				b_novgorodseversky = {
 					# Severiae
@@ -11074,7 +9570,7 @@ e_persia = {
 			romano_british = Aspadana
 			pannonian = Aspadana
 			
-			ostrogothi = Aspadana
+			gothic = Aspadana
 			visigothi = Aspadana
 			
 			capital = 646 #	Esfahan
@@ -11134,7 +9630,7 @@ e_persia = {
 				romano_british = Aspadana
 				pannonian = Aspadana
 			
-				ostrogothi = Aspadana
+				gothic = Aspadana
 				visigothi = Aspadana
 				
 				b_esfahan = {
@@ -12487,7 +10983,7 @@ e_persia = {
 				pannonian = Perisapora
 				
 				visigothi = Perisapora
-				ostrogothi = Perisapora
+				gothic = Perisapora
 				
 				assyrian = Birtha
 				
@@ -12511,7 +11007,7 @@ e_persia = {
 					pannonian = Perisapora
 				
 					visigothi = Perisapora
-					ostrogothi = Perisapora
+					gothic = Perisapora
 				}
 				b_rutbah = {
 				}
@@ -13338,7 +11834,7 @@ e_arabia = {
 				romano_british = Iatrippa
 				pannonian = Iatrippa
 				
-				ostrogothi = Iatrippa
+				gothic = Iatrippa
 				visigothi = Iatrippa
 				
 				b_medina = {
@@ -13353,7 +11849,7 @@ e_arabia = {
 					romano_british = Iatrippa
 					pannonian = Iatrippa
 					
-					ostrogothi = Iatrippa
+					gothic = Iatrippa
 					visigothi = Iatrippa
 				}
 				b_kuba = {
@@ -13600,7 +12096,7 @@ e_arabia = {
 				romano_british = Regama
 				pannonian = Regama
 				
-				ostrogothi = Regama
+				gothic = Regama
 				visigothi = Regama
 			
 				b_sohar = {
@@ -13627,7 +12123,7 @@ e_arabia = {
 					romano_british = Regama
 					pannonian = Regama
 					
-					ostrogothi = Regama
+					gothic = Regama
 					visigothi = Regama
 				}
 				b_sharjah = {
@@ -18349,7 +16845,7 @@ e_rajastan = {
 			color={ 220 100 50 }
 			color2={ 255 255 255 }
 			
-			capital = 1134 # Bhumilka
+			capital = 1135 # Valabhi
 			
 			c_bhumilka = {
 				color={ 220 120 50 }
@@ -21821,6 +20317,14 @@ e_deccan = {
 				color={ 120 75 75 }
 				color2={ 255 255 255 }
 				
+				roman = Diva
+				graeci = Diva
+				greek = Diva
+				gallo_roman = Diva
+				hispano_roman = Diva
+				romano_british = Diva
+				pannonian = Diva
+				
 				b_mahal = {
 				}
 				b_fuvahmulah = {
@@ -23864,11 +22368,11 @@ e_tibet = {
 				}
 			}
 		}
-		d_gorkha = {
-			color={ 195 100 20 }
+		d_khasa = {
+			color={ 45 81 85 }
 			color2= { 255 255 255 }
 
-			capital = 1475 # Pokhara
+			capital = 1472 # Jumla
 			
 			bodpa = "Yartse"
 			han = "Kuoerka"

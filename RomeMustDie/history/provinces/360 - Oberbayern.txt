@@ -16,7 +16,7 @@ b_freising = temple
 #b_ebersberg = castle
 
 # Misc
-culture = thuida
+culture = gothic
 religion = arian
 
 # History

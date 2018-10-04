@@ -16,5 +16,5 @@ b_ely = temple
 #b_bungay = castle
 
 # Misc
-culture = romano_british
-religion = nicene
+culture = saxon
+religion = germanic_pagan

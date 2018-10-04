@@ -33,6 +33,8 @@ e_rouran;Rouran Khaganate;;;;;;;;;;;;;x
 e_rouran_adj;Rouran;;;;;;;;;;;;;x
 e_scythia;Scythia;;;;;;;;;;;;;x
 e_scythia_adj;Scythian;;;;;;;;;;;;;x
+k_aestingia;Aestingia;;;;;;;;;;;;;x
+k_aestingia_adj;Aestingian;;;;;;;;;;;;;x
 k_africa;Africa;;;;;;;;;;;;;x
 k_africa_adj;African;;;;;;;;;;;;;x
 k_albion;Albion;;;;;;;;;;;;;x
@@ -65,6 +67,8 @@ k_dacia;Dacia;;;;;;;;;;;;;x
 k_dacia_adj;Dacian;;;;;;;;;;;;;x
 k_ethiopia;Æthiopia;;;;;;;;;;;;;x
 k_ethiopia_adj;Æthiopian;;;;;;;;;;;;;x
+k_fennia;Fennia;;;;;;;;;;;;;x
+k_fennia_adj;Fenni;;;;;;;;;;;;;x
 k_gallaecia;Gallaecia;;;;;;;;;;;;;x
 k_gallaecia_adj;Gallaecian;;;;;;;;;;;;;x
 k_gallia;Gallia;;;;;;;;;;;;;x
@@ -167,6 +171,8 @@ d_aurasium;Aurasium;;;;;;;;;;;;;x
 d_aurasium_adj;Aurasian;;;;;;;;;;;;;x
 d_aurelianum;Aurelianum;;;;;;;;;;;;;x
 d_aurelianum_adj;Aurelianan;;;;;;;;;;;;;x
+d_bagaudae;Bagaudae;;;;;;;;;;;;;x
+d_bagaudae_adj;Bagaudic;;;;;;;;;;;;;x
 d_bajovaria;Bajovaria;;;;;;;;;;;;;x
 d_bajovaria_adj;Bajovarian;;;;;;;;;;;;;x
 d_ballearica;Ballearica;;;;;;;;;;;;;x
@@ -217,6 +223,8 @@ d_characene;Characene;;;;;;;;;;;;;x
 d_characene_adj;Characene;;;;;;;;;;;;;x
 d_chatti;Chatti;;;;;;;;;;;;;x
 d_chatti_adj;Chatti;;;;;;;;;;;;;x
+d_chigils;Chigils;;;;;;;;;;;;;x
+d_chigils_adj;Chigil;;;;;;;;;;;;;x
 d_chude;Chude;;;;;;;;;;;;;x
 d_chude_adj;Chudian;;;;;;;;;;;;;x
 d_cibyraeotarum;Cibyraeotarum;;;;;;;;;;;;;x
@@ -297,11 +305,16 @@ d_hellespontus;Hellespontus;;;;;;;;;;;;;x
 d_hellespontus_adj;Hellespontic;;;;;;;;;;;;;x
 d_herules;Herules;;;;;;;;;;;;;x
 d_herules_adj;Herulian;;;;;;;;;;;;;x
+d_hestia;Hestia;;;;;;;;;;;;;x
+d_hestia_adj;Hestian;;;;;;;;;;;;;x
 d_hevellia;Hevellia;;;;;;;;;;;;;x
+d_hevellia_adj;Hevellian;;;;;;;;;;;;;x
 d_hira;Hira;;;;;;;;;;;;;x
 d_hira_adj;Hiran;;;;;;;;;;;;;x
 d_hispalensis;Hispalensis;;;;;;;;;;;;;x
 d_hispalensis_adj;Hispalensian;;;;;;;;;;;;;x
+d_holtlant;Holtlant;;;;;;;;;;;;;x
+d_holtlant_adj;Hotlanter;;;;;;;;;;;;;x
 d_hyrcania;Hyrcania;;;;;;;;;;;;;x
 d_hyrcania_adj;Hyrcanian;;;;;;;;;;;;;x
 d_iazygia;Iazygia;;;;;;;;;;;;;x
@@ -320,6 +333,8 @@ d_jaxartes;Jaxartes;;;;;;;;;;;;;x
 d_jaxartes_adj;Jaxartes;;;;;;;;;;;;;x
 d_kariskos;Kariskos;;;;;;;;;;;;;x
 d_kariskos_adj;Kariskan;;;;;;;;;;;;;x
+d_khasa;Khasa;;;;;;;;;;;;;x
+d_khasa_adj;Khasa;;;;;;;;;;;;;x
 d_kryvia;Kryvia;;;;;;;;;;;;;x
 d_kryvia_adj;Kryvian;;;;;;;;;;;;;x
 d_kucha;Kucha;;;;;;;;;;;;;x
@@ -328,6 +343,8 @@ d_kutrigurs;Kutrigurs;;;;;;;;;;;;;x
 d_kutrigurs_adj;Kutrigur;;;;;;;;;;;;;x
 d_langobardi;Langobardi;;;;;;;;;;;;;x
 d_langobardi_desc;Langobardi;;;;;;;;;;;;;x
+d_lazica;Lazica;;;;;;;;;;;;;x
+d_lazica_adj;Lazic;;;;;;;;;;;;;x
 d_legionensis;Legionensis;;;;;;;;;;;;;x
 d_legionensis_adj;Legionensian;;;;;;;;;;;;;x
 d_lemovia;Lemovia;;;;;;;;;;;;;x
@@ -356,6 +373,8 @@ d_marcomanni;Marcomanni;;;;;;;;;;;;;x
 d_marcomanni_adj;Marcomanni;;;;;;;;;;;;;x
 d_margensis;Margensis;;;;;;;;;;;;;x
 d_margensis_adj;Margensian;;;;;;;;;;;;;x
+d_martiobarbuli;Martiobarbuli;;;;;;;;;;;;;x
+d_martiobarbuli_adj;Martiobarbuli;;;;;;;;;;;;;x
 d_mazun;Mazun;;;;;;;;;;;;;x
 d_mazun_adj;Mazunian;;;;;;;;;;;;;x
 d_mecca;Mecca;;;;;;;;;;;;;x
@@ -502,6 +521,8 @@ d_tava;Tava;;;;;;;;;;;;;x
 d_tava_adj;Tavan;;;;;;;;;;;;;x
 d_teriolis;Teriolis;;;;;;;;;;;;;x
 d_teriolis_adj;Teriolan;;;;;;;;;;;;;x
+d_thanesar;Thanesar;;;;;;;;;;;;;x
+d_thanesar_adj;Thanesar;;;;;;;;;;;;;x
 d_thessalia;Thessalia;;;;;;;;;;;;;x
 d_thessalia_adj;Thessalian;;;;;;;;;;;;;x
 d_thracia;Thracia;;;;;;;;;;;;;x
@@ -526,6 +547,10 @@ d_tueria;Tueria;;;;;;;;;;;;;x
 d_tueria_adj;Tuerian;;;;;;;;;;;;;x
 d_tur;Tur;;;;;;;;;;;;;x
 d_tur_adj;Turovian;;;;;;;;;;;;;x
+d_turcilingi;Turcilingi;;;;;;;;;;;;;x
+d_turcilingi_adj;Turcilingi;;;;;;;;;;;;;x
+d_turcilingian_band;Turcilingian Band;;;;;;;;;;;;;x
+d_turcilingian_band_adj;Turcilingian;;;;;;;;;;;;;x
 d_turonum;Turonum;;;;;;;;;;;;;x
 d_turonum_adj;Turonan;;;;;;;;;;;;;x
 d_tuscia;Tuscia;;;;;;;;;;;;;x
@@ -566,11 +591,15 @@ d_warinia;Warinia;;;;;;;;;;;;;x
 d_warinia_adj;Warinian;;;;;;;;;;;;;x
 d_westfalia;Westfalia;;;;;;;;;;;;;x
 d_westfalia_adj;Westfalian;;;;;;;;;;;;;x
+d_wusun;Wusun;;;;;;;;;;;;;x
+d_wusun_adj;Wusun;;;;;;;;;;;;;x
 d_zeugitana;Zeugitana;;;;;;;;;;;;;x
 d_zeugitana_adj;Zeugitanan;;;;;;;;;;;;;x
 b_avitacum;Avitacum;;;;;;;;;;;;;x
 TOLOSA_KINGDOM;Tolosa;;;;;;;;;;;;;x
 TOLOSA_KINGDOM_adj;Tolosan;;;;;;;;;;;;;x
+TOLETUM_KINGDOM;Toletum;;;;;;;;;;;;;x
+TOLETUM_KINGDOM_adj;Toletum;;;;;;;;;;;;;x
 AQUITANIA_PRIMA;Aquitania Prima;;;;;;;;;;;;;x
 AQUITANIA_PRIMA_adj;Aquitanian;;;;;;;;;;;;;x
 AQUITANIA_SECUNDA;Aquitania Secunda;;;;;;;;;;;;;x
@@ -598,3 +627,27 @@ d_kulmas_adj;Kulmasi;;;;;;;;;;;x
 d_sudovians;Sudovians;;;;;;;;;;;x
 d_sudovians_adj;Sudovian;;;;;;;;;;;x
 d_zemigalians;Semigallians;;;;;;;;;;;x
+d_veneti;Veneti;;;;;;;;;;;x
+d_veneti_adj;Veneti;;;;;;;;;;;x
+d_sadagis;Sadagis;;;;;;;;;;;;;x
+d_sadagis_adj;Sadagis;;;;;;;;;;;;;x
+PROV1581;Elmet;;;;;;;;;;;x
+c_elmet_adj;Elmetian;;;;;;;;;;;x
+b_loidis;Loidis;;;;;;;;;;;x
+b_danum;Danum;;;;;;;;;;;x
+b_calcaria;Calcaria;;;;;;;;;;;x
+b_lagentium;Lagentium;;;;;;;;;;x
+b_olicana;Olicana;;;;;;;;;;x
+b_sefelda;Sefelda;;;;;;;;;;;x
+b_dobunnorum;Dobunnorum;;;;;;;;;;x
+b_rodwr;Rodwr;;;;;;;;;;;x
+PROV1582;Belisama;;;;;;;;;;;x
+c_belisama_adj;Belisama;;;;;;;;;;;x
+b_cravona;Cravona;;;;;;;;;;;x
+b_belisama;Belisama;;;;;;;;;;;x
+b_cataractonium;Cataractonium;;;;;;;;;;;x
+b_isura;Isura;;;;;;;;;;;x
+b_verbeia;Verbeia;;;;;;;;;;;x
+b_olenacum;Olenacum;;;;;;;;;;;x
+b_penno;Penno;;;;;;;;;;;x
+b_rith;Rith;;;;;;;;;;;x

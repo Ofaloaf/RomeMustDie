@@ -1,0 +1,340 @@
+namespace = italia
+
+# Odoacer petitions the emperor for a permanent arrangement
+character_event = {
+	id = italia.1
+	title = EVTTITLE_italia_1
+	desc = EVTDESC_italia_1
+	picture = GFX_evt_Ruler_listening_to_supplicant
+	
+	trigger = {
+		has_character_flag = is_odoacer
+		NOT = { year = 480 }
+		NOT = { has_character_flag = petitioned_the_emperor }
+		liege = { has_landed_title = e_wre }
+	}
+	
+	mean_time_to_happen = {
+		days = 14
+	}
+	
+	option = {
+		name = EVTOPTA_italia_1
+		set_character_flag = petitioned_the_emperor
+		any_independent_ruler = {
+			limit = { has_landed_title = e_wre }
+			character_event = { id = italia.2 }
+		}
+	}
+	
+	option = {
+		name = EVTOPTB_italia_1
+		ai_chance = {
+			factor = 0
+		}
+		remove_trait = brave
+		add_trait = craven
+	}
+}
+
+character_event = {
+	id = italia.2
+	desc = EVTDESC_italia_2
+	picture = GFX_evt_spymaster
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTA_italia_2
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 10
+				trait = craven
+			}
+			modifier = {
+				factor = 0
+				has_character_flag = is_augustulus
+			}
+			modifier = {
+				factor = 0
+				has_character_flag = is_orestes
+			}
+		}
+		e_wre = {
+			add_law_w_cooldown = revoke_title_law_0
+		}
+		d_mediolanum = { usurp_title = FROM }
+	}
+	
+	option = {
+		name = EVTOPTB_italia_2
+		ai_chance = {
+			factor = 10
+			modifier = {
+				factor = 10
+				has_character_flag = is_orestes
+			}
+		}
+		FROM = { 
+			character_event = { id = italia.3 }
+		}
+	}
+}
+
+character_event = {
+	id = italia.3
+	desc = EVTDESC_italia_3
+	picture = GFX_evt_spymaster
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTA_italia_3
+		add_claim = k_italy
+		war = {
+			target = FROM
+			casus_belli = cb_fall_of_rome
+		}
+		capital_scope = {
+			tooltip = {
+				ROOT = {
+					spawn_unit = {
+						province = PREV
+						owner = ROOT
+						match_character = ROOT
+						troops = {
+							horse_archers = { 200 200 }
+							light_cavalry = { 500 500 }
+							light_infantry = { 541 541 }
+							heavy_infantry = { 810 810 }
+							knights = { 33 33 }
+						}
+						disband_on_peace = yes
+					}
+					spawn_unit = {
+						province = PREV
+						owner = ROOT
+						match_character = ROOT
+						troops = {
+							horse_archers = { 200 200 }
+							light_cavalry = { 500 500 }
+							light_infantry = { 541 541 }
+							heavy_infantry = { 810 810 }
+							knights = { 33 33 }
+						}
+						disband_on_peace = yes
+					}
+					spawn_unit = {
+						province = PREV
+						owner = ROOT
+						match_character = ROOT
+						troops = {
+							horse_archers = { 200 200 }
+							light_cavalry = { 500 500 }
+							light_infantry = { 541 541 }
+							heavy_infantry = { 810 810 }
+							knights = { 33 33 }
+						}
+						disband_on_peace = yes
+					}
+				}
+			}
+			
+			hidden_tooltip = {
+				create_character = {
+					random_traits = yes
+					dynasty = none
+					religion = ROOT
+					culture = ROOT
+					female = no
+					age = 23
+					attributes = {
+						martial = 5
+					}
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = PREV
+						owner = ROOT
+						match_character = ROOT
+						earmark = faction_loyalists
+						troops = {
+							horse_archers = { 200 200 }
+							light_cavalry = { 500 500 }
+							light_infantry = { 541 541 }
+							heavy_infantry = { 810 810 }
+							knights = { 33 33 }
+						}
+						disband_on_peace = yes
+					}
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = none
+					religion = ROOT
+					culture = ROOT
+					female = no
+					age = 30
+					attributes = {
+						martial = 5
+					}
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = PREV
+						owner = ROOT
+						match_character = ROOT
+						earmark = faction_loyalists
+						troops = {
+							horse_archers = { 200 200 }
+							light_cavalry = { 500 500 }
+							light_infantry = { 541 541 }
+							heavy_infantry = { 810 810 }
+							knights = { 33 33 }
+						}
+						disband_on_peace = yes
+					}
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = none
+					religion = ROOT
+					culture = ROOT
+					female = no
+					age = 31
+					attributes = {
+						martial = 5
+					}
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = PREV
+						owner = ROOT
+						match_character = ROOT
+						earmark = faction_loyalists
+						troops = {
+							horse_archers = { 200 200 }
+							light_cavalry = { 500 500 }
+							light_infantry = { 541 541 }
+							heavy_infantry = { 810 810 }
+							knights = { 33 33 }
+						}
+						disband_on_peace = yes
+					}
+				}
+			}
+		}
+	}
+}
+
+character_event = {
+	id = italia.4
+	desc = EVTDESC_italia_4
+	picture = GFX_evt_spymaster
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		k_italy = {
+			owner = {
+				save_event_target_as = kill_odoacer
+			}
+		}
+	}
+	
+	option = {
+		name = EVTOPTA_italia_4
+		set_character_flag = ostrogoth_byzantine_deal
+		add_claim = k_italy
+		war = {
+			target = event_target:kill_odoacer
+			casus_belli = claim
+			thirdparty_title=k_italy
+			infamy = 0
+		}
+		wealth = 200
+		capital_scope = {
+			tooltip = {
+				ROOT = {
+					spawn_unit = {
+						province = PREV
+						owner = ROOT
+						match_character = ROOT
+						troops = {
+							horse_archers = { 500 500 }
+							light_cavalry = { 1000 1000 }
+							light_infantry = { 900 900 }
+							heavy_infantry = { 1400 1400 }
+							knights = { 200 200 }
+						}
+						disband_on_peace = yes
+					}
+				}
+			}
+			hidden_tooltip = {
+				create_character = {
+					random_traits = yes
+					dynasty = none
+					religion = ROOT
+					culture = ROOT
+					female = no
+					age = 23
+					attributes = {
+						martial = 5
+					}
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = PREV
+						owner = ROOT
+						match_character = ROOT
+						earmark = faction_loyalists
+						troops = {
+							horse_archers = { 500 500 }
+							light_cavalry = { 1000 1000 }
+							light_infantry = { 900 900 }
+							heavy_infantry = { 1400 1400 }
+							knights = { 200 200 }
+						}
+						disband_on_peace = yes
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = EVTOPTB_italia_4
+		prestige = -10
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+character_event = {
+	id = italia.5
+	desc = EVTDESC_italia_5
+	picture = GFX_evt_spymaster
+	
+	trigger = {
+		has_character_flag = ostrogoth_byzantine_deal
+		has_landed_title = k_italy
+	}
+	
+	mean_time_to_happen = {
+		days = 30
+	}
+	
+	option = {
+		name = EVTOPTA_italia_5
+		any_realm_title = {
+			limit = { de_jure_liege_or_above = e_byzantium }
+			usurp_title = e_byzantium
+		}
+	}
+}

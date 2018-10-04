@@ -16,4 +16,4 @@ b_zerbst = tribal
 
 # Misc
 culture = thuringi
-religion = norse_pagan
+religion = germanic_pagan

@@ -1,0 +1,74 @@
+191643 = {
+	name="Bhatarka"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	440.1.1={
+		birth=yes
+	}
+	493.1.1={
+		death=yes
+	}
+}
+191644 = {
+	name="Dharasena"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191643
+	460.1.1={
+		birth=yes
+	}
+	502.1.1={
+		death=yes
+	}
+}
+191645 = {
+	name="Dronasimha"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191643
+	462.1.1={
+		birth=yes
+	}
+	525.1.1={
+		death=yes
+	}
+}
+191646 = {
+	name="Dhruvasena"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191643
+	464.1.1={
+		birth=yes
+	}
+	545.1.1={
+		death=yes
+	}
+}
+191647 = {
+	name="Dharapatta"
+	dynasty=1044368	#Maitraka
+	religion="hindu"
+	culture="gujurati"
+	trait="kshatriya"
+	trait="shaivist_hindu"
+	father=191643
+	470.1.1={
+		birth=yes
+	}
+	556.1.1={
+		death=yes
+	}
+}

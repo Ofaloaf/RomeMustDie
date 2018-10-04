@@ -15,6 +15,9 @@ e_britannia = {
 
 	saxon = Brytenlond
 	old_saxon = Bryten
+	
+	protonorse = Bretlanda
+	norse = Bretlandseyjar
 
 	welsh = Prydain
 	irish = Bhreatain
@@ -27,6 +30,9 @@ e_britannia = {
 
 		saxon = Englaland
 		old_saxon = Englaland
+		
+		protonorse = Bretlanda
+		norse = Bretland
 
 		welsh = Lloegr
 
@@ -128,6 +134,8 @@ e_britannia = {
 				roman = Cantiacum
 				graeci = Cantiacum
 				greek = Kantiakon
+				
+				holy_site = germanic_pagan
 				
 				b_rochester = {
 					# Durobrivis
@@ -366,7 +374,7 @@ e_britannia = {
 					saxon = Burh
 					old_saxon = Burh
 					norse = Borg
-					ostrogothi = Baurgs
+					gothic = Baurgs
 					visigothi = Baurgs
 				}
 				b_lowestoft = {
@@ -955,20 +963,20 @@ e_britannia = {
 
 				# Derventio
 				
-				norwegian = "Djuraby"
-				danish = "Djuraby"
-				swedish = "Djuraby"
 				norse = "Djuraby"
+				
+				saxon = Deoraby
+				old_saxon = Deoraby
 
 				welsh = Derwennydd
 			
 				b_derby = {
 					# Derventio
 
-					norwegian = "Djuraby"
-					danish = "Djuraby"
-					swedish = "Djuraby"
 					norse = "Djuraby"
+					
+					saxon = Deoraby
+					old_saxon = Deoraby
 
 					welsh = Derwennydd
 				}
@@ -1186,10 +1194,16 @@ e_britannia = {
 
 				welsh = Durwbont # I am not good at Welsh.
 				
+				saxon = Medeshamstede
+				old_saxon = Medeshamstede
+				
 				b_peterborough = {
 					# Durobrivae
 
 					welsh = Durwbont
+					
+					saxon = Medeshamstede
+					old_saxon = Medeshamstede
 				}
 				b_huntingdon = {
 					# Durovigutum # actually Godmanchester
@@ -1241,7 +1255,7 @@ e_britannia = {
 		}
 	}
 	k_cumbria = {
-		color={ 90 82 135 }
+		color={ 107 161 188 }
 		color2={ 255 255 255 }
 
 		welsh = "Ogledd"
@@ -1267,18 +1281,18 @@ e_britannia = {
 			norse = "Jorvik"
 			protonorse = Jorvik
 			
-			pagan_coa = {
-				template = 0
-				layer = {
-					texture = 2
-					texture_internal = 12
-					emblem = 0
-					color = 0
-					color = 0
-					color = 0
-				}
-				religion = "norse_pagan"
-			}
+			#pagan_coa = {
+			#	template = 0
+			#	layer = {
+			#		texture = 2
+			#		texture_internal = 12
+			#		emblem = 0
+			#		color = 0
+			#		color = 0
+			#		color = 0
+			#	}
+			#	religion = "norse_pagan"
+			#}
 			
 			c_york = {
 				color={ 255 80 5 }
@@ -1335,11 +1349,67 @@ e_britannia = {
 				}
 				b_hull = {
 					# Cataractonium # actually Catterick
-
-					welsh = Catraeth
 				}
 				b_conisbrough = {
 					# Derventio # actually Malton, North Yorkshire. 'Derventio Brigantium' if you want to differentiate it from the Derbyshire Derventio.
+				}
+			}
+			c_elmet = {
+				color = { 222 216 201 }
+				color2= { 255 255 255 }
+				
+				welsh = Elfed
+				roman = Elmetia
+				gallo_roman = Elmetia
+				hispano_roman = Elmetia
+				mauro_roman = Elmetia
+				graeci = Elmetia
+				greek = Elmetia
+				romano_british = Elmetia
+				
+				b_loidis = { # Leeds
+					roman = Ladenses
+				}
+				b_danum = { # Doncaster
+					welsh = "Cair Daun"
+				}
+				b_calcaria = { # Tadcaster
+				}
+				b_lagentium = { # Castleford
+				}
+				b_olicana = { # Ilkley
+				}
+				b_sefelda = { # Sheffield. 'Sefelda' is a Latinization of 'Sheffield' itself
+					welsh = "Din Chwydu"
+					saxon = "Scadanfeld" # guessing
+				}
+				b_dobunnorum = { # Basically making shit up. Templeborough, near Rotherham, was the site of a Roman fort /with an unknown name/, but at least one person of the Dobunni tribe was buried there.
+				}
+				b_rodwr = { # Making up a Celtic/Welsh etymology for the 'Rother' in 'Rotherham'.
+					saxon = Rotherham	
+				}
+			}
+			c_belisama = { # River Ribble
+				color = { 60 80 150 }
+				color2= { 255 255 255 }
+			
+				b_cravona = { # Craven. The etymology is a wild guess from Wikipedia
+					welsh = Craf
+				}
+				b_belisama = { # The River Ribble
+				}
+				b_cataractonium = { # Catterick
+					welsh = Catraeth
+				}
+				b_isura = { The River Ure
+				}
+				b_verbeia = { The River Wharfe
+				}
+				b_olenacum = { # Elslack
+				}
+				b_penno = { # it just means 'hill'
+				}
+				b_rith = { # Possibly Cumbric etymology for Reeth, North Yorkshire
 				}
 			}
 		}
@@ -1545,6 +1615,7 @@ e_britannia = {
 			norse = Beornica
 
 			welsh = Bryneich
+			romano_british = Bryneich
 			
 			c_northumberland = {
 				color={ 255 10 0 }
@@ -3285,7 +3356,7 @@ e_britannia = {
 		welsh = Iwerddon
 		
 		d_ultonia = {
-			color={ 5 222 31 }
+			color={ 234 214 165 }
 			color2={ 255 255 255 }
 			
 			capital = 5 # Ulster
@@ -3297,7 +3368,7 @@ e_britannia = {
 			irish = Ulaidh
 			
 			c_ulster = {
-				color={ 25 230 35 }
+				color={ 204 184 135 }
 				color2={ 255 255 255 }
 				
 				norwegian = Strangfjord
@@ -3371,7 +3442,7 @@ e_britannia = {
 				}
 			}
 			c_tyrone = {
-				color={ 66 157 22 }
+				color={ 131 101 85 }
 				color2={ 255 255 255 }
 				
 				irish = "Tír Eoghain"
@@ -3402,7 +3473,7 @@ e_britannia = {
 				}
 			}
 			c_tyrconnell = {
-				color={ 25 190 31 }
+				color={ 43 190 227 }
 				color2={ 255 255 255 }
 				
 				irish = "Tír Chonaill"
@@ -3434,7 +3505,7 @@ e_britannia = {
 			}
 		}
 		d_connacht = {
-			color={ 73 229 56 }
+			color={ 193 237 85 }
 			color2={ 255 255 255 }
 			
 			capital = 9 # Connacht
@@ -3473,7 +3544,7 @@ e_britannia = {
 				}
 			}
 			c_connacht = {
-				color={ 45 230 70 }
+				color={ 203 247 95 }
 				color2={ 255 255 255 }
 				
 				irish = "Connachta"
@@ -3505,7 +3576,7 @@ e_britannia = {
 			}
 		}
 		d_meath = {
-			color={ 49 249 72 }
+			color={ 15 128 253 }
 			color2={ 255 255 255 }
 			
 			capital = 11 # Dublin
@@ -3530,7 +3601,7 @@ e_britannia = {
 			}
 		
 			c_kildare = {
-				color={ 102 248 65 }
+				color={ 104 130 172 }
 				color2={ 255 255 255 }
 				
 				irish = "Cill Dara"
@@ -3561,7 +3632,7 @@ e_britannia = {
 				}
 			}
 			c_dublin = {
-				color={ 55 250 85 }
+				color={ 20 133 255 }
 				color2={ 255 255 255 }
 				
 				norse = Dyflinn
@@ -3598,7 +3669,7 @@ e_britannia = {
 			}
 		}
 		d_leinster = {
-			color={ 85 211 27 }
+			color={ 48 164 51 }
 			color2={ 255 255 255 }
 			
 			capital = 16 # Leinster
@@ -3681,7 +3752,7 @@ e_britannia = {
 			}
 		}
 		d_munster = {
-			color={ 16 157 12 }
+			color={ 205 103 80 }
 			color2={ 255 255 255 }
 			
 			capital = 13 # Thomond
@@ -3731,7 +3802,7 @@ e_britannia = {
 				}
 			}
 			c_ormond = {
-				color={ 95 221 121 }
+				color={ 220 227 43 }
 				color2={ 255 255 255 }
 				
 				norwegian = Vedrafjord
@@ -3770,7 +3841,7 @@ e_britannia = {
 				}
 			}
 			c_desmond = {
-				color={ 100 221 90 }
+				color={ 179 89 89 }
 				color2={ 255 255 255 }
 				
 				irish = "Deasmhumhain"

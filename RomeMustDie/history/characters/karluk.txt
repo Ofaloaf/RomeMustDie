@@ -1,0 +1,27 @@
+581001 = {
+	name=Bilge
+	# fictional
+	dynasty=680001 # Shato
+	religion=manichean
+	culture=karluk
+	430.1.1={
+		birth=yes
+	}
+	493.1.1={
+		death=yes
+	}
+}
+
+581002 = {
+	name=Tolun
+	# fictional
+	dynasty=680002 # Yagma
+	religion=tengri_pagan
+	culture=karluk
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

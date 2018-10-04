@@ -16,5 +16,5 @@ b_mecklemburg = tribal
 
 # Misc
 culture = old_saxon
-religion = norse_pagan
+religion = germanic_pagan
 

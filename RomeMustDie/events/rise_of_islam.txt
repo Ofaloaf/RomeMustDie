@@ -225,7 +225,7 @@ character_event = {
 	option = { # Mecca it is!
 		name = EVTOPTA60201
 		trigger = {
-			719 = { # Merv
+			719 = { # Mecca
 				owner = {
 					NOT = { same_realm = ROOT }
 				}
@@ -728,7 +728,7 @@ character_event = {
 	}
 }
 
-# Notify Timur's old liege
+# Notify Mohammad's old liege
 character_event = {
 	id = earlyislam.6
 	desc = EVTDESC60205
@@ -746,7 +746,7 @@ character_event = {
 	}
 }
 
-# Timur is successful!
+# Mohammad is successful!
 # Fired from the duchy_adventure CB
 narrative_event = {
 	id = earlyislam.7

@@ -1,0 +1,4 @@
+474.1.1 = {
+	liege = d_abkhazia
+	holder = 160021
+}

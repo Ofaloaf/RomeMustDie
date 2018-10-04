@@ -3,6 +3,8 @@
 CB_NAME_FALL_OF_ROME;Depose the Emperor;;;;;;;;;;;;;x
 cb_anglosaxon_invasion;Anglo-Saxon Invasion;;;;;;;;;;;;;x
 #
+CHIEF;Chief;;;;;;;;;;;;;x
+#
 roman_group;Roman;;;;;;;;;;;;;x
 roman;Roman;;;;;;;;;;;;;x
 gallo_roman;Gallic;;;;;;;;;;;;;x
@@ -22,6 +24,7 @@ angli;Anglo-Saxon;;;;;;;;;;;;;x
 saxoni;Saxon;;;;;;;;;;;;;x
 frisii;Frisian;;;;;;;;;;;;;x
 #
+gothic_group;Gothic;;;;;;;;;;;;;x
 gothic;Gothic;;;;;;;;;;;;;x
 visigothi;Visigothic;;;;;;;;;;;;;x
 ostrogothi;Ostrogothic;;;;;;;;;;;;;x
@@ -69,6 +72,8 @@ gov_heroic_realm;Heroic Realm;;;;;;;;;;;;;x
 gov_barbarian_realm;Barbarian Realm;;;;;;;;;;;;;x
 gov_civilized_refuge;Civilized Refuge;;;;;;;;;;;;;x
 #
+title_flavius;Flavius;;;;;;;;;;;;;x
+title_flavius_desc;eh;;;;;;;;;;;;;x
 PRIMATE;Primate;;;;;;;;;;;;;x
 nicene;Nicene;;;;;;;;;;;;;x
 nicene_DESC;When the Roman Emperor Constantine I ended centuries of persecution and began embracing early Christianity, one of his major projects was to seek theological conformity within Christendom. To this end, he convened the First Council of Nicaea in 325. After much debate, this council produced the Nicene Creed, outlining explicitly some of the central tenets of mainstream Christianity. This form of Christianity, embraced by the Roman Empire in the 4th and 5th centuries, is thus called 'Nicene' Christianity, although 'Chalcedonian', in reference to the 451 Council of Chalcedon, is also sometimes used.;;;;;;;;;;;;;x
@@ -86,8 +91,12 @@ adoptionist;Adoptionist;;;;;;;;;;;;;x
 adoptionist_DESC;Like Arianism, Adoptionism is a Christological heresy that rejects the doctrine of the Holy Trinity. Adoptionists believe that Jesus was just a human 'adopted' by God after his birth, due to his sinless nature. Historically, Adoptionism appeared twice in antiquity and the early modern ages, first being one of several Christologies in 2nd and 3rd century Levant and then reappearing in 8th and 9th-century Spain.;;;;;;;;;;;;;x
 celtic_pagan;Celtic;;;;;;;;;;;;;x
 celtic_pagan_DESC;stone-henge! stone-henge! stone-hEnGE! sTONE-HENGE! STONE-HENGE!;;;;;;;;;;;;;x
+norse_pagan;Norse;;;;;;;;;;;;;x
+norse_pagan_DESC;Norse paganism is an offshoot of Germanic paganism. Worship varies a little from common Germanic practice, largely due to climate- although open groves are still used for some rituals, enclosed temples with a roof that provide some warmth and cover from snow are generally preferred. Diffusion and exchanges with neighboring Finnic and Baltic peoples have also influenced Nordic beliefs, including a stronger emphasis on ancestor veneration.;;;;;;;;;;;;;x
+germanic_pagan;Germanic;;;;;;;;;;;;;x
+germanic_pagan_DESC;Germanic paganism is a heterogeneous, unorganized religion observed by a multitude of peoples in a multitude of ways. Common deities and an utter lack of any centralization or organization seem to be the only real common thread between all the local variants of the faith.;;;;;;;;;;;;;x
 kemetic_pagan;Kemetic;;;;;;;;;;;;;x
-kemetic_pagan_DESC;The Ancient Egyptian (or 'Kemetic') faith was polytheist, comprised of an intricate web of deities and rituals observed at varying times of the day and year. Although once an integral part of Ancient Egyptian society, by Late Antiquity the old faith was mostly limited to peoples on the periphery of Egypt, among the pagan Berbers and Nubians.;;;;;;;;;;;;;x
+kemetic_pagan_DESC;The Ancient Egyptian (or 'Kemetic') faith is polytheist, comprised of an intricate web of deities and rituals observed at varying times of the day and year. Although once an integral part of Ancient Egyptian society, by Late Antiquity the old faith is mostly limited to peoples on the periphery of Egypt, among the pagan Berbers and Nubians.;;;;;;;;;;;;;x
 early_islam;Islam;;;;;;;;;;;;;x
 early_islam_DESC;The.;;;;;;;;;;;;;x
 mulhid;Mulhid;;;;;;;;;;;;;x
@@ -121,9 +130,9 @@ vice_royalty_kingdom_roman_group;Diocese;;;;;;;;;;;;;x
 vice_royalty_kingdom_of_roman_group;Diocese of;;;;;;;;;;;;;x
 county_old_frankish;Pagus;;;;;;;;;;;;;x
 county_of_old_frankish;Pagus;;;;;;;;;;;;;x
-vice_royalty_duke_gothic;Governor;;;;;;;;;;;;;x
-vice_royalty_duchy_gothic;Province;;;;;;;;;;;;;x
-vice_royalty_duchy_of_gothic;Province of;;;;;;;;;;;;;x
+vice_royalty_duke_gothic_group;Governor;;;;;;;;;;;;;x
+vice_royalty_duchy_gothic_group;Province;;;;;;;;;;;;;x
+vice_royalty_duchy_of_gothic_group;Province of;;;;;;;;;;;;;x
 duke_iranian;Satrap;Satrape;Satrap;;Sátrapa;;;;;;;;;x
 duchy_of_iranian;Satrapy of;Satrapie de;Satrap von;;Satrapía de;;;;;;;;;x
 county_iranian;Marzpanate;Marzpanat;Marzpanat;;Marzpanate;;;;;;;;;x
@@ -131,6 +140,16 @@ duchy_iranian;Satrapy;Satrapie;Satrapie;;Satrapía;;;;;;;;;x
 vice_royalty_duke_iranian;Shahrab;;;;;;;;;;;;;x
 vice_royalty_duchy_iranian;Satrapy;;;;;;;;;;;;;x
 vice_royalty_duchy_of_iranian;Satrapy of;;;;;;;;;;;;;x
+city_count_roman_group;Decurion;;;;;;;;;;;;;x
+city_baron_roman;Curio;;;;;;;;;;;;;x
+city_baron_gallo_roman;Curio;;;;;;;;;;;;;x
+city_baron_mauro_roman;Curio;;;;;;;;;;;;;x
+city_baron_pannonian;Curio;;;;;;;;;;;;;x
+city_baron_romano_british;Curio;;;;;;;;;;;;;x
+city_baron_hispano_roman;Aedile;;;;;;;;;;;;;x
+city_baron_graeci;Curio;;;;;;;;;;;;;x
+city_count_greek;Archon;;;;;;;;;;;;;x
+city_baron_greek;Curio;;;;;;;;;;;;;x
 #
 nick_the_prophet;the Prophet;;;;;;;;;;;;;x
 nick_germanicus;Germanicus;;;;;;;;;;;;;x
@@ -165,3 +184,12 @@ ze_administration_laws_1_desc;A feudal society is a hierarchy of landed lords, w
 ze_administration_laws_2;Imperial Administration;Administration impériale;Kaiserlich-imperiale Verwaltung;;Administración Imperial;;;;;;;;;x
 ze_administration_laws_2_option;Imperial;Impériale;Imperial;;Imperial;;;;;;;;;x
 ze_administration_laws_2_desc;This system of administration is similar to that of the Roman Empire, with a hierarchy of magistrates and functionaries running daily business in the name of the emperor. It allows for a power structure that hands less power to permanently landed vassals.;Ce système est similaire à celui qui existait dans l'Empire romain : une hiérarchie de magistrats et de fonctionnaires s'occupe de la gestion au quotidien au nom de l'empereur. Ce système permet une structure puissante qui accorde moins de pouvoirs aux vassaux définitivement attachés à leur terre.;Dieses Verwaltungssystem ähnelt dem des Römischen Reiches. Eine Hierarchie von Magistraten und Funktionären erledigt die Regierungsgeschäfte im Namen des Kaisers. Dabei entsteht ein Machtgefüge, bei dem weniger Macht in die Hände der Fürsten bzw. Grundherren übergeht.;;Este sistema de administración es similar al del Imperio Romano, cuenta con una jerarquía de magistrados y funcionarios que llevan diariamente los asuntos en nombre del emperador. Esto permite crear una estructura de poder que ofrece menos poder a los vasallos que poseen tierras de forma permanente.;;;;;;;;;x
+RETTYPE_CUL_ROMAN_GROUP;Bucellarii;;;;;;;;;;;;;x
+RETTYPE_CUL_SUB_ROMAN_BRITAIN_CAV;Iluric Cavalry;;;;;;;;;;;;;x
+RETTYPE_CUL_GOTH_CAV;Contus Cavalry;;;;;;;;;;;;;x
+RETTYPE_CUL_GOTH_INF;Contus Infantry;;;;;;;;;;;;;x
+RETTYPE_CUL_SUB_ROMAN_WEST;Provincial Milites;;;;;;;;;;;;;x
+#
+send_the_ostrogoths_to_italy;Send the Ostrogoths to Italy;;;;;;;;;;;;;x
+send_the_ostrogoths_to_italy_desc;The Ostrogoths have been a thorn in our side for far too long. Wouldn't it be nice if we could lure them away from our lands? Let's encourage them to go to Italy and see what happens.;;;;;;;;;;;;;x
+ostrogoths_italian_offer;The Ostrogoths will receive an offer they can't refuse.;;;;;;;;;;;;;x
