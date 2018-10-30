@@ -347,3 +347,141 @@
 		death=yes
 	}
 }
+
+3182019 = {
+	name = "Andawanduz"
+	# fictional
+	dynasty = 3182026
+	culture="protonorse"
+	religion="norse_pagan"
+	trait=diligent
+	450.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182020 = {
+	name = Gangulfaz
+	# fictional
+	dynasty = 3182027
+	culture="protonorse"
+	religion="norse_pagan"
+	439.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182021 = {
+	name = Makan
+	# fictional
+	dynasty = 3182027
+	culture="protonorse"
+	religion="norse_pagan"
+	father=3182020
+	466.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182022 = {
+	name = "Harjawaldaz"
+	# fictional
+	dynasty = 3182028
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	culture="protonorse"
+	religion="norse_pagan"
+	trait=proud
+	438.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182023 = {
+	name = "Gudlög"
+	# fictional
+	dynasty = 3182029
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	culture="protonorse"
+	religion="norse_pagan"
+	trait=lustful
+	443.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182024 = {
+	name = "Sigiþyrniz"
+	dynasty = 3182030
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	learning=5
+	culture="protonorse"
+	religion="norse_pagan"
+	trait=ambitious
+	446.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182025 = {
+	name = "Anulaibhaz" # Olaf the Keen-Eyed/Óláfr inn skyggni of Narke
+	dynasty = 3182031
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	culture="protonorse"
+	religion="norse_pagan"
+	435.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+3182026 = {
+	name = "Alof"
+	female = yes
+	dynasty = 3182031
+	father=3182025
+	diplomacy=6
+	martial=6
+	intrigue=6
+	stewardship=6
+	culture="protonorse"
+	religion="norse_pagan"
+	465.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}

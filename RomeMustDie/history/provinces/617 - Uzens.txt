@@ -18,5 +18,5 @@ b_kaztal = tribal
 #b_aytbay = castle
 
 # Misc
-culture = hungarian
+culture = bolghar
 religion = tengri_pagan

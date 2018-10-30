@@ -1,19 +1,19 @@
-# 180 - Granada
+# 180 - Iliberris
 
 # County Title
-title = c_granada
+title = c_iliberris
 
 # Settlements
 max_settlements = 5
-b_granada = castle
-b_jaen = temple
-b_elvira = city
-#b_baeza = castle
-#b_guadix = city
-
-#b_moclin = castle
-#b_iznajar = castle
-#b_huelma = castle
+b_iliberris = castle
+b_accis = temple
+b_abdera = city
+#b_sexi
+#b_murgi
+#b_calecula
+#b_ilurco
+#b_ilturir
+#b_selambria
 
 culture = hispano_roman
 religion = nicene

@@ -1,6 +1,7 @@
 # hispania romanica et hispania visigothica
 technology = {
 	titles = {
+		d_astigitanus
 		d_ballearica
 		d_barcinonensis
 		d_caesaraugustanus
@@ -11,6 +12,7 @@ technology = {
 		d_emeritanus
 		d_gaditanus
 		d_hispalensis
+		d_iliberritana
 		d_pacensis
 		d_scalabitanus
 		d_tarraconensis

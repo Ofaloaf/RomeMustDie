@@ -1,0 +1,26 @@
+# Baetis
+
+b_gemellensis = {
+	culture = hispano_roman
+	religion = nicene
+}
+
+b_tuccensis = {
+	culture = hispano_roman
+	religion = nicene
+}
+
+b_baesuccensis = {
+	culture = hispano_roman
+	religion = nicene
+}
+
+b_illiturgensis = {
+	culture = hispano_roman
+	religion = nicene
+}
+
+b_ossigensis = {
+	culture = hispano_roman
+	religion = nicene
+}

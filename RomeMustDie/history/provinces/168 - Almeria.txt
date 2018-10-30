@@ -1,18 +1,18 @@
 # 168 - Almeria
 
 # County Title
-title = c_almeria
+title = c_bastetania
 
 # Settlements
 max_settlements = 4
-b_almeria = castle
-#b_pechina = temple
-b_baza = city
-#b_berja = castle
-b_motril = temple
-#b_purchena = castle
-#b_albox = castle
-#b_vera = castle
+b_urci = castle
+b_portus_magnus = city
+b_baria = temple
+#b_turaniana
+#b_tagili
+#b_longuntica
+#b_abla
+#b_charidemos
 
 culture = hispano_roman
 religion = nicene

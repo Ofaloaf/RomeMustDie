@@ -3844,3 +3844,18 @@
 		death=yes
 	}
 }
+
+476077 = {
+	name="Martinus"
+	# fictional
+	dynasty=753155
+	religion="nicene"
+	culture="roman"
+	trait="proud"
+	436.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

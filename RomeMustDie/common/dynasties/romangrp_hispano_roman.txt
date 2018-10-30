@@ -276,3 +276,54 @@
 	name = "Turgaliensis"
 	culture = hispano_roman
 }
+
+492057 = {
+	name = Syalis
+	culture = hispano_roman
+	used_for_random = no
+}
+
+492058 = {
+	name = Gemellensis
+	culture = hispano_roman
+}
+
+492059 = {
+	name = Dionysianus
+	culture = hispano_roman
+}
+
+492060 = {
+	name = Nigellio
+	culture = hispano_roman
+}
+
+492061 = {
+	name = Astigiensis
+	culture = hispano_roman
+}
+
+492062 = {
+	name = Malacensis
+	culture = hispano_roman
+}
+
+492063 = {
+	name = Tuccensis
+	culture = hispano_roman
+}
+
+492064 = {
+	name = Baesuccensis
+	culture = hispano_roman
+}
+
+492065 = {
+	name = Illiturgensis
+	culture = hispano_roman
+}
+
+492066 = {
+	name = Ossigensis
+	culture = hispano_roman
+}

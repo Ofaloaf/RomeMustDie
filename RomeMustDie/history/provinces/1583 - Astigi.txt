@@ -1,0 +1,18 @@
+# 1583 - Astigi
+
+# County Title
+title = c_astigi
+
+# Settlements
+max_settlements = 4
+b_astigi = castle
+b_urso = temple
+b_carruca = city
+#b_munda
+#b_lauro
+#b_ventipo
+#b_ipagrum
+#b_obulcula
+
+culture = hispano_roman
+religion = nicene

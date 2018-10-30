@@ -22,6 +22,9 @@ nick_arabica = {}
 nick_britannicus = {}
 nick_britannica = {}
 
+# Just not available through stuff in the game
+nick_the_hateful = { }
+
 # GIVEN BY TRAITS
 #################
 nick_augustulus = {

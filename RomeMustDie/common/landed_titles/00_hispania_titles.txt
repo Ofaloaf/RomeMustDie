@@ -1255,7 +1255,7 @@ e_hispania = {
 			egyptian_arabic = "Qurtubah"
 			andalusian_arabic = "Qurtubah"
 			
-			c_cordoba = {
+			c_corduba = {
 				color = { 246 216 16 }
 				color2={ 255 255 255 }
 
@@ -1271,103 +1271,40 @@ e_hispania = {
 				holy_site = aztec
 				holy_site = aztec_reformed
 				
-				b_cordoba = {
-					# Corduba
-
+				b_corduba = {
 					bedouin_arabic = "Qurtubah"
 					maghreb_arabic = "Qurtubah"
 					levantine_arabic = "Qurtubah"
 					egyptian_arabic = "Qurtubah"
 					andalusian_arabic = "Qurtubah"
 				}
-				b_alcolea = {
-					# Sabetanum # actually San Sebastian de los Ballesteros
+				b_sabetanum = {
 				}
-				b_cabra = {
-					# Igabrum
+				b_carbula = {
 				}
-				b_andujar = {
-					# Isturgi
+				b_sacili = {
 				}
-				b_lucena = {
-					# Cisimbrium # actually Zambra
+				b_onuba = {
 				}
-				b_martos = {
-					# Tucci
-
-					roman = "Tuccitana"
+				b_epora = {
+					graeci = Eipora
+					greek = Eipora
+					
+					gothic = "Monte Gothorum"
+					
+					bedouin_arabic = Muntûr
 				}
-				b_belalcazar = {
-					# Marruca
+				b_calpurniana = {
 				}
-				b_canetedelastorres = {
-					# Calpurniana
+				b_detumo = {
 				}
-			}
-			c_granada = {
-				color = { 245 242 15 }
-				color2={ 255 255 255 }
-
-				# Iliberris
-				
-				b_jaen = {
-					# Gaiena
+				b_ategua = {
 				}
-				b_granada = {
-					# Iliberris
-				}
-				b_elvira = {
-					# Ilturir
-				}
-				b_baeza = {
-					# Beatia
-				}
-				b_moclin = {
-					# Salaria # actually Ubeda la Vieja
-				}
-				b_iznajar = {
-					# Viniolae # actually possibly Arbuniel, Cambil
-				}
-				b_guadix = {
-					# Acci
-				}
-				b_huelma = {
-					# Vergilia
-				}
-			}
-			c_almeria = {
-				color = { 248 245 18 }
-				color2={ 255 255 255 }
-
-				# Bastetania
-				
-				b_pechina = {
-					# Urci
-				}
-				b_almeria = {
-					# Turaniana # actually Ribera de la Algaida
-				}
-				b_baza = {
-					# Basti
-				}
-				b_berja = {
-					# Vergis
-				}
-				b_motril = {
-					# Murgis
-				}
-				b_albox = {
-					# Tagili
-				}
-				b_purchena = {
-					# Aboula # actually Abla
-				}
-				b_vera = {
-					# Baria
+				b_ad_aras = {
 				}
 			}
 			c_calatrava = {
-				color = { 254 224 24 }
+				color = { 213 130 55 }
 				color2={ 255 255 255 }
 
 				# Metellinum
@@ -1398,72 +1335,188 @@ e_hispania = {
 				}
 			}
 		}
+		d_astigitanus = {
+			color = { 219 50 26 }
+			color2= { 255 255 255 }
+			
+			capital = 1583 # Astigi
+		
+			c_astigi = {
+				color = { 122 165 80 }
+				color2= { 255 255 255 }
+			
+				b_astigi = {
+				}
+				b_carruca = {
+				}
+				b_munda = {
+				}
+				b_lauro = {
+				}
+				b_ventipo = {
+				}
+				b_ipagrum = {
+				}
+				b_obulcula = {
+				}
+				b_urso = {
+				}
+			}
+			c_baetis = {
+				color = { 172 122 173 }
+				color2= { 255 255 255 }
+				
+				bedouin_arabic = Tush
+				berber = Tush
+			
+				b_tucci = {
+					# Martos
+					
+					bedouin_arabic = Tush
+					berber = Tush
+				}
+				b_baesucci = {
+				}
+				b_illiturgis = {
+				}
+				b_vergilia = {
+					# Huelma
+				}
+				b_ossigi = {
+				}
+				b_basti = {
+					# Baza
+				}
+				b_tugia = {
+					# Toya
+				}
+				b_ilugo = {
+				}
+				b_iliturgicola = {
+				}
+				b_ipolcobulcola = {
+				}
+			}
+		}
+		
+		d_iliberritana = {
+			color = { 176 180 65 }
+			color2= { 255 255 255 }
+		
+			c_iliberris = {
+				color = { 188 170 107 }
+				color2={ 255 255 255 }
+
+				# Iliberris
+				
+				b_iliberris = {
+					# Granada
+				}
+				b_sexi = {
+					# Almunecar
+				}
+				b_abdera = {
+				}
+				b_accis = {
+				}
+				b_murgi = {
+				}
+				b_calecula = {
+				}
+				b_ilurco = {
+				}
+				b_ilturir = {
+				}
+				b_selambina = {
+				}
+			}
+			c_bastetania = {
+				color = { 168 19 49 }
+				color2={ 255 255 255 }
+
+				# Bastetania
+				
+				b_urci = {
+				}
+				b_portus_magnus = {
+					graeci = "Portos Magnos"
+					greek = "Portos Magnos"
+				}
+				b_turaniana = {
+				}
+				b_baria = {
+				}
+				b_tagili = {
+				}
+				b_longuntica = {
+				}
+				b_abla = {
+					graeci = Aboula
+					greek = Aboula
+				}
+				b_charidemos = {
+				}
+			}
+		}
 		d_hispalensis = {
 			color = { 121 39 30 }
 			color2={ 255 255 255 }
 			
-			capital = 182 # Sevilla
+			capital = 183 # Hispalis
 			
-			c_sevilla = {
-				color = { 232 200 25 }
+			c_irippo = {
+				color = { 37 41 82 }
 				color2={ 255 255 255 }
 
-				# Hispalis
+				# after the pre-Roman /Ira/, from when the Rio Guadaira gets its name
 				
-				b_carmona = {
-					# Carmo
+				bedouin_arabic = "Wadi Ira"
+				
+				b_irippo = {
 				}
-				b_sevilla = {
-					# Hispalis
+				b_lucurgentum = {
 				}
-				b_ecija = {
-					# Astigi
+				b_salpensa = {
 				}
-				b_sevimoron = {
-					# Orippo
+				b_siarum = {
 				}
-				b_alcaladeguadaira = {
-					# Salpensa # actually part of Utrera, see below
+				b_urgia = {
 				}
-				b_doshermanas = {
-					# Leptis # actually part of Utrera, see below
+				b_carissa = {
 				}
-				b_laalgaba = {
-					# Balbilis
+				b_basilippo = {
 				}
-				b_utrera = {
-					# Siarum
+				b_cappa = {
+				}
+				b_carula = {
 				}
 			}
-			c_aracena = {
-				color = { 244 212 37 }
+			c_hispalis = {
+				color = { 114 108 37 }
 				color2={ 255 255 255 }
 
-				# Baeturia
+				bedouin_arabic = Ishbiliya
+				berber = Ishbiliya
 				
-				b_aracena = {
-					# Ilipa Magna actually Alcalá del Río
+				b_hispalis = {
+					bedouin_arabic = Ishbiliya
+					berber = Ishbiliya
 				}
 				b_italica = {
-					# Italica
 				}
-				b_almonasterlareal = {
-					# Monasterium
+				b_osset = {
 				}
-				b_calanas = {
-					# Naeva # actually Cantillana
+				b_naeva = {
 				}
-				b_cortegana = {
-					# Cortesa
+				b_munigua = {
 				}
-				b_facanias = {
-					# Munigua # actually Dehesa de Mulva, Villanueva del Río y Minas
+				b_arva = {
 				}
-				b_alajar = {
-					# Canama # actually La Mesa, Alcolea del Rio
+				b_caura = {
 				}
-				b_galaroza = {
-					# Iporca # actually Los Castillejos, Molinos de Amparo
+				b_orippo = {
+				}
+				b_carmo = {
 				}
 			}
 		}
@@ -1474,80 +1527,71 @@ e_hispania = {
 			
 			capital = 165 # Cadiz / Gades
 
-			c_cadiz = {
+			c_gades = {
 				color = { 236 204 29 }
 				color2={ 255 255 255 }
 
 				# Gades
 				
-				b_jerez = {
-					# Ceret
-
-					visigothi = Xeritium
+				bedouin_arabic = Qadis
+				
+				b_gades = {
+					bedouin_arabic = Qadis
+				}
+				b_ceret = {
+					# Jerez
+				
 					gothic = Seritium
+					
+					bedouin_arabic = Sherish
 				}
-				b_cadiz = {
-					# Gades
-				}
-				b_medinasidonia = {
-					# Asido
-
+				b_asido = {
 					roman = "Asido Caesarina Augusta"
 
-					visigothi = Asidona
 					gothic = Asidona
 				}
-				b_arcos = {
-					# Arcensium
+				b_turirecina = {
 				}
-				b_sanjosedelvalle = {
-					# Hasta # actually Cortijo el Rosario, Mesas de Asta
+				b_lacca = {
 				}
-				b_sanlucadebarrameda = {
-					# Ebora
-
-					visigothi = Sublucare # a possible etymology for the current name
-					gothic = Sublucare
+				b_hasta = {
 				}
-				b_sanfernando = {
-					# Antipolis
+				b_ad_pontem = {
 				}
-				b_alcaladelosgazules = {
-					# Ad Portum # actually Doña Blanca, El Puerto de Santa María
+				b_ad_herculem = {
+				}
+				b_mercablum = {
+				}
+				b_erisane = {
 				}
 			}
-			c_niebla = {
+			c_ilipla = {
 				color = { 248 216 41 }
 				color2={ 255 255 255 }
-
-				# Ilipa
 				
-				b_huelva = {
-					# Onuba
+				gothic = Elepla
+				
+				bedouin_arabic = Lebla
+				berber = Lebla
+				
+				b_ilipla = {
 				}
-				b_niebla = {
-					# Ilipa
-
-					visigothi = Elepla
-					gothic = Elepla
+				b_ostur = {
 				}
-				b_lepe = {
-					# Laepe
+				b_itucci = {
 				}
-				b_gibraleon = {
-					# Itucci # actually Tejada la Nueva near Escacena del Campo
+				b_olontigi = {
 				}
-				b_nerva = {
-					# Nerva # look it's a roman name okay i'm lazy
+				b_lastigi = {
 				}
-				b_moguer = {
-					# Urium
+				b_hareni = {
+					# a mountain range
 				}
-				b_almonte = {
-					# Olontigi # actually Aznalcázar
+				b_urium = {
+					# the Rio Tinto
 				}
-				b_aljaraque = {
-					# Ostur # not Aljaraque
+				b_luxia = {
+					# either the Rio Tinto or the Rio Odiel
 				}
 			}
 			c_algeciras = {
@@ -1585,7 +1629,7 @@ e_hispania = {
 				}
 			}
 			c_malaga = {
-				color = { 251 248 21 }
+				color = { 96 204 193 }
 				color2={ 255 255 255 }
 
 				# Malaca
@@ -2396,35 +2440,41 @@ e_hispania = {
 					# Cellavini
 				}
 			}
-			c_caceres = {
+			c_castris = {
 				color = { 232 234 27 }
 				color2={ 255 255 255 }
 
-				# Caesarina
+				# Castris
 				
-				b_caceres = {
-					# Caesarina
+				bedouin_arabic = Qasras
+				
+				b_castris = {
+					# Old Caceres
+					
+					bedouin_arabic = Qasras
 				}
-				b_guadalupe = {
-					# Castra Caecilia # actually Caceres el Viejo
+				b_norba = {
+					# Actual Caceres
 				}
-				b_trujillo = {
-					# Turgalium
+				b_lucretius = {
+					# Logrosan
 				}
-				b_alburquerque = {
-					# Albus Quercus
+				b_tongobriga = {
+					# Brozas
 				}
-				b_alia = {
-					# Tourmogon # actually Cerro Garrote, Garrovillas de Alconetar
+				b_tamusia = {
+					# Tamuja
 				}
-				b_arroyodelalluz = {
-					# Tamusia # actually Villasviejas de Tamuja, Botja
+				b_ad_sorores = {
 				}
-				b_logrosan = {
-					# Lucretium
+				b_turgalium = {
+					# Trujillo
 				}
-				b_alcuescar = {
-					# Ad Sorores # actually Casas de Don Antonio
+				b_albus_quercus = {
+					# Alburquerque
+					# "Albus Quercus" is probably not the right etymology, but while Alburquerque was probably inhabited by Romans, extremely little about it is actually known
+					
+					bedouin_arabic = "Abu-al-Qurq" # this is the likelier actual etymology of the toponym
 				}
 			}
 			c_badajoz = {

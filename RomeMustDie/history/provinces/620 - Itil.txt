@@ -18,5 +18,5 @@ b_saqsin = temple
 #b_alga = castle
 
 # Misc
-culture = hungarian
+culture = bolghar
 religion = tengri_pagan

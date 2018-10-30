@@ -11,4 +11,8 @@ spriteTypes = {
 		name = "GFX_icon_warlord_government"
 		texturefile = "gfx\\governments\\government_icon_warlord_government.dds"
 	}
+	spriteType = {
+		name = "GFX_icon_civitas_government"
+		texturefile = "gfx\\governments\\government_icon_civitas_government.dds"
+	}
 }

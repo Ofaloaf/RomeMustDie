@@ -20,6 +20,9 @@ e_gallic_empire = {
 		old_frankish = Neustria
 		alemanni = Neustria
 		
+		saxon = Wealaland
+		old_saxon = Walholand
+		
 		allow = {
 			NOT = { has_landed_title = k_visigothia }
 		}
@@ -1931,6 +1934,7 @@ e_gallic_empire = {
 
 					gallo_roman = Arvernis
 					romano_british = Arvernis
+					hispano_roman = Arvernis
 					old_frankish = "Clarus Mons"
 				}
 				b_mozac = {
@@ -1958,6 +1962,10 @@ e_gallic_empire = {
 				### WHOA WHOA WHOA SPECIAL ADDITION ###
 				b_avitacum = {
 					# SIDONIUS APPOLINARIS' ESTATE
+					
+					title = "SENATOR"
+					title_female = "SENATRIX"
+					title_prefix = "VILLA_OF"
 				}
 			}
 			c_gevaudan = {

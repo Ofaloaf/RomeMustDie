@@ -128,3 +128,85 @@ government_flavor = {
 		}
 	}
 }
+
+### CIVITAS
+
+government_flavor = {
+	name = gov_provincial_senate
+	graphics = GFX_evt_council
+	priority = 1
+	trigger = {
+		government = civitas_government
+		NOR = {
+			tier = KING
+			tier = EMPEROR
+			culture = roman
+			culture = graeci
+			culture = greek
+		}
+		independent = yes
+	}
+}
+
+
+government_flavor = {	
+	name = gov_gallic_assembly
+	graphics = GFX_evt_emissary_byzantine
+	priority = 1
+	trigger = {
+		government = civitas_government
+		OR = {
+			tier = KING
+			tier = EMPEROR
+		}
+		culture = gallo_roman
+		independent = yes
+	}
+}
+
+
+government_flavor = {	
+	name = gov_res_publica
+	graphics = GFX_evt_victory_arch_byzantine
+	priority = 1
+	trigger = {
+		government = civitas_government
+		OR = {
+			tier = KING
+			tier = EMPEROR
+		}
+		NOT = { culture = gallo_roman }
+		independent = yes
+	}
+}
+
+
+government_flavor = {	
+	name = gov_roman_republic
+	graphics = GFX_evt_rome_restored_byzantine
+	priority = 1
+	trigger = {
+		government = civitas_government
+		OR = {
+			tier = KING
+			tier = EMPEROR
+		}
+		OR = {
+			culture = roman
+			culture = graeci
+			culture = greek
+		}
+		independent = yes
+	}
+}
+
+
+government_flavor = {	
+	name = gov_provincial_government
+	graphics = GFX_evt_leaning_tower
+	priority = 1
+	trigger = {
+		government = civitas_government
+		independent = no
+	}
+}

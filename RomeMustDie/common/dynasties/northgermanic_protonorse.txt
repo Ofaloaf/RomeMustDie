@@ -1,20 +1,20 @@
 3182001 = {
-	name = "Skjöldung"
+	name = "Skjöldungaz"
 	culture = protonorse
 }
 
 3182002 = {
-	name = "Volsung"
+	name = "Volsungingaz"
 	culture = protonorse
 }
 
 3182003 = {
-	name = "Wægmunding"
+	name = "Wægmundingaz"
 	culture = protonorse
 }
 
 3182004 = {
-	name = "Wulfing"
+	name = "Wulfingaz"
 	culture = protonorse
 }
 
@@ -119,6 +119,36 @@
 }
 
 3182025 = {
-	name = Skilfing # Scylfing
+	name = Skilfingaz # Scylfing
+	culture = protonorse
+}
+
+3182026 = {
+	name = Storsjöodjuringaz
+	culture = protonorse
+}
+
+3182027 = {
+	name = Finnaithae
+	culture = protonorse
+}
+
+3182028 = {
+	name = Heiðningaz
+	culture = protonorse
+}
+
+3182029 = {
+	name = Adogit
+	culture = protonorse
+}
+
+3182030 = {
+	name = Arothi
+	culture = protonorse
+}
+
+3182031 = {
+	name = "Nærríki"
 	culture = protonorse
 }

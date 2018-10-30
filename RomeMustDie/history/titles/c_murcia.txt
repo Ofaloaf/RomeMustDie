@@ -1,7 +1,4 @@
 467.1.1 = {
-
 	liege = "d_carthaginensis"
-
-	holder = 492013
-
+	holder = 200311
 }

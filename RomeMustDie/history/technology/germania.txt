@@ -45,7 +45,7 @@ technology = {
 		d_polotsk
 		d_prussia
 		d_samogitia
-		d_silesia
+		d_silingia
 		d_thuringia
 		d_tueria
 		d_tur

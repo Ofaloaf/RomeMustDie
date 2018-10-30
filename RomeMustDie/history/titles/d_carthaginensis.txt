@@ -1,9 +1,5 @@
 467.1.1 = {
-
 	liege = "k_visigothia"
-
 	vice_royalty = yes
-
-	holder = 492013
-
+	holder = 200311
 }

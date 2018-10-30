@@ -196,7 +196,7 @@ north_germanic = {
 		color = { 0.40 0.55 0.75 }
 
 		male_names = {
-			Aiwarikiz_Erik Aiwiharjaz Alba Atli_Attila Ælgaz Agilamunduz Audhagisilaz Agilaz Anganaþewaz
+			Aiwarikiz_Erik Aiwiharjaz Alba Atli_Attila Ælgaz Agilamunduz Audhagisilaz Agilaz Anganaþewaz Anulaibhaz_Olaf
 			Bernuz_Beorn Biowulfaz
 			Dalliz Daniz
 			Erafaz Eburaz 

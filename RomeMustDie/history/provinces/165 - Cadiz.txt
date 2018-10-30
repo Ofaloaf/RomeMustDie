@@ -1,19 +1,20 @@
 # 165 - Cadiz
 
 # County Title
-title = c_cadiz
+title = c_gades
 
 # Settlements
 max_settlements = 5
-b_cadiz = castle
-b_jerez = temple
-b_medinasidonia = city
-b_arcos = castle
-
-#b_sanjosedelvalle = city
-#b_sanlucadebarrameda = castle
-#b_sanfernando = castle
-#b_alcaladelosgazules = castle
+b_asido = castle
+b_gades = city
+b_ceret = temple
+b_turirecina = castle
+#b_lacca
+#b_hasta
+#b_ad_pontem
+#b_ad_herculem
+#b_mercablum
+#b_erisane
 
 culture = hispano_roman
 religion = nicene

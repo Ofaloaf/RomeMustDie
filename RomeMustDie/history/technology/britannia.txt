@@ -38,7 +38,7 @@ technology = {
 		d_gallovidia
 		d_hebudes
 		d_the_isles
-		d_leinster
+		d_lagenia
 		d_leudonia
 		d_meath
 		d_munster

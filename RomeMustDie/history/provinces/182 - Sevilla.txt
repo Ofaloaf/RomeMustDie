@@ -1,20 +1,19 @@
-# 182 - Sevilla
+# 182 - Irippo
 
 # County Title
-title = c_sevilla
+title = c_irippo
 
 # Settlements
-max_settlements = 6
-b_sevilla = castle
-b_carmona = temple
-b_ecija = city
-b_utrera= castle
-#b_sevimoron = city
-
-#b_alcaladeguadaira
-#b_doshermanas = city
-#b_utrera = castle
-#b_laalgaba = castle
+max_settlements = 4
+b_irippo = castle
+b_lucurgentum = city
+b_siarum = temple
+#b_salpensa
+#b_urgia
+#b_carissa
+#b_basilippo
+#b_cappa
+#b_carula
 
 culture = hispano_roman
 religion = nicene

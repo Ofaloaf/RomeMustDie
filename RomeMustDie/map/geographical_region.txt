@@ -13,7 +13,7 @@
 
 world_europe_west_brittania = {
 	duchies = {
-		d_cantia d_anglia d_trinovantia d_glevensis d_atrebatia d_cornovia d_coritania d_catuvellaunia d_eboracum d_recet d_bernicia d_gallovidia d_damnonia d_leudonia d_the_isles d_dumnonia d_venedotia d_pagensis d_demetia d_hebudes d_tava d_verturio d_ultonia d_connacht d_meath d_leinster d_munster
+		d_cantia d_anglia d_trinovantia d_glevensis d_atrebatia d_cornovia d_coritania d_catuvellaunia d_eboracum d_recet d_bernicia d_gallovidia d_damnonia d_leudonia d_the_isles d_dumnonia d_venedotia d_pagensis d_demetia d_hebudes d_tava d_verturio d_ultonia d_connacht d_midiensis d_lagenia d_munster
 	}
 }
 world_europe_west_germania = {
@@ -45,19 +45,19 @@ world_europe_north = {
 		#Finland minus Estonia
 		d_karelia d_finland
 		#Denmark
-		d_skane d_sjaelland d_slesvig d_holstein
+		d_skane d_sjaelland d_iutum
 		#Sápmi
 		d_kola d_finnmark d_sapmi
 	}
 }
 world_europe_south_east = { 
 	duchies = {
-		d_europa d_rhodope d_thracia d_moesia d_scythia d_dardania d_macedonia d_epirus d_thessalia d_hellas d_achaia d_krete d_margensis
+		d_europa d_rhodope d_thracia d_moesia d_scythia d_dardania d_macedonia d_epirus d_thessalia d_hellas d_achaia d_krete d_margensis d_carantania d_dalmatia d_domavia d_savia
 	}
 }
 world_europe_south_italy = { 
 	duchies = {
-		d_liguria d_corsica d_sardinia d_sicilia d_bruttium d_lucania d_apulia d_samnium d_campania d_latium d_picenum d_tuscia d_ravenna d_aemilia d_mediolanum d_venetia d_carantania d_dalmatia d_domavia d_savia
+		d_liguria d_corsica d_sardinia d_sicilia d_bruttium d_lucania d_apulia d_samnium d_campania d_latium d_picenum d_tuscia d_ravenna d_aemilia d_mediolanum d_venetia
 	}
 }
 world_europe_south = {
@@ -68,17 +68,17 @@ world_europe_south = {
 world_europe_east = {
 	duchies = {
 		#Wendish minus Pomerania minus Bohemia
-		d_mazovia d_greater_poland d_silesia d_lesser_poland d_kuyavia d_livonia d_prussia d_polotsk d_lithuanians d_yatviags d_courland d_samogitia
+		d_lemovia d_visivaria d_silingia d_mazovia d_prussia d_vistula d_yatviags d_samogitia d_lithuania
 		#Russia
 		d_beloozero d_novgorod d_pskov d_rostov d_tver d_yaroslavl d_vladimir d_moskva d_kiev d_galich d_volhynia d_turov d_vitebsk d_smolensk d_chernigov d_novgorod-seversk d_ryazan d_pereyaslavl
 		#West Perm
 		d_hlynov d_bjarmia
-		#Hungary
-		d_pecs d_esztergom d_nyitra d_ungvar d_pest d_transylvania d_temes
 		#Estonia
-		d_esthonia
-		#Wallachia
-		d_wallachia d_moldau
+		d_hestia
+		# Pannonia et Dacia
+		d_nitrava d_pannonia d_iazygia d_carpathia d_porolissensis d_apulensis d_malvensis d_roxolania
+		# Scythia, Sarmatia, et Russia Vetus
+		d_olbia d_dulebia d_ouim d_cimmeria d_gelonus d_bosporus d_tanais d_kariskos d_severia d_tur d_velin d_kryvia d_tueria d_meshchera d_mordvins d_mustajoki d_chude d_merya d_levedia
 	}
 }
 world_asia_minor = {

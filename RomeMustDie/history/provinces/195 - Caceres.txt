@@ -1,18 +1,18 @@
-# 195 - Caceres
+# 195 - Caceres / Castris
 
 # County Title
-title = c_caceres
+title = c_castris
 
 # Settlements
 max_settlements = 4
-b_caceres = castle
-b_trujillo = city
-b_guadalupe = temple
-#b_alburquerque = castle
-#b_alia = castle
-#b_arroyodelalluz = castle
-#b_logrosan = city
-#b_alcuescar = castle
+b_castris = castle
+b_norba = city
+b_tongobriga = temple
+#b_lucretius
+#b_tamusia
+#b_ad_sorores
+#b_turgalium
+#b_albus_quercus
 
 # Misc
 culture = hispano_roman

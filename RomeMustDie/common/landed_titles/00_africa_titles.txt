@@ -19,11 +19,13 @@ e_africa = {
 			NOT = { has_landed_title = k_vandalia }
 		}
 		
-		d_zeugitana = {
+		d_zeugitania = {
 			color={ 20 232 95 }
 			color2={ 255 255 255 }
 			
 			capital = 817 # Tunis
+			
+			mauro_roman = Carthago
 		
 			c_tunis = {
 				color={ 23 235 98 }
@@ -897,7 +899,7 @@ e_africa = {
 				}
 			}
 		}
-		d_tingitana = {
+		d_tingitania = {
 			color={ 79 89 59 }
 			color2={ 255 255 255 }
 			
@@ -1157,10 +1159,10 @@ e_africa = {
 			}
 		}
 		d_altava = {
-			color={ 125 118 87 }
+			color={ 198 196 176 } #{ 125 118 87 }
 			color2={ 255 255 255 }
 			
-			capital = 834 # Tlemcen
+			capital = 834 # Tlemcen / Altava
 			
 			c_tlemcen = {
 				color={ 88 83 61 }

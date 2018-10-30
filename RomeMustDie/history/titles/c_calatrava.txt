@@ -1,11 +1,6 @@
-1.1.1 = {
-
-	liege = "d_cordubensis"
-
-}
-
-473.1.1 = {
-
+461.1.1 = {
 	holder = 492014
-
+}
+471.1.1 = {
+	liege = k_visigothia
 }

@@ -360,8 +360,8 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "jewishgfx_count_shield"
-		actorfile = "gfx\models\Shields\norse_count_shield.xac"
-		scale = 0.27f
+		actorfile = "gfx\models\Shields\count_shield.xac"
+		scale = 0.5f
 		use_animation = no
 		cull_distance = 550.0f
 		scale_on_cull_distance = no
@@ -369,8 +369,8 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "jewishgfx_duke_shield"
-		actorfile = "gfx\models\Shields\mongol_count_shield.xac"
-		scale = 0.47f
+		actorfile = "gfx\models\Shields\duke_shield.xac"
+		scale = 0.5f
 		use_animation = no
 		cull_distance = 550.0f
 		scale_on_cull_distance = no
@@ -378,8 +378,8 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "jewishgfx_king_shield"
-		actorfile = "gfx\models\Shields\india_count_shield.xac"
-		scale = 0.72f
+		actorfile = "gfx\models\Shields\king_shield.xac"
+		scale = 0.5f
 		use_animation = no
 		cull_distance = 550.0f
 		scale_on_cull_distance = no
@@ -387,9 +387,8 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "jewishgfx_emperor_shield"
-		name = "westerngfx_emperor_shield"
-		actorfile = "gfx\models\Shields\india_duke_shield.xac"
-		scale = 0.72f
+		actorfile = "gfx\models\Shields\empire_shield.xac"
+		scale = 0.5f
 		use_animation = no
 		cull_distance = 550.0f
 		scale_on_cull_distance = no

@@ -1,18 +1,19 @@
-# 183 - Aracena
+# 183 - Hispalis
 
 # County Title
-title = c_aracena
+title = c_hispalis
 
 # Settlements
-max_settlements = 4
-b_aracena = castle
-b_almonasterlareal = city
-b_italica = temple
-#b_calanas = castle
-#b_cortegana = castle
-#b_facanias = castle
-#b_alajar = castle
-#b_galaroza = castle
+max_settlements = 6
+b_italica = castle
+b_hispalis = temple
+b_osset = city
+b_naeva = city
+#b_munigua
+#b_arva
+#b_caura
+#b_orippo
+#b_carmo
 
 culture = hispano_roman
 religion = nicene

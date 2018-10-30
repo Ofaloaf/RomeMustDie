@@ -1,0 +1,4 @@
+455.1.1 = {
+	liege = d_balanjar
+	holder = 1009002
+}

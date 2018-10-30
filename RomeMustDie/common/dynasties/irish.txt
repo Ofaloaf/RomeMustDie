@@ -2,3 +2,18 @@
 	name = Reuda
 	culture = irish
 }
+
+1919002 = {
+	name = "Ua Loite"
+	culture = irish
+}
+
+1919003 = {
+	name = Gailenga
+	culture = irish
+}
+
+1919004 = {
+	name = "Dál Birn"
+	culture = irish
+}

@@ -1,0 +1,20 @@
+# 1584 -Baetis
+
+# County Title
+title = c_baetis
+
+# Settlements
+max_settlements = 4
+b_tucci = castle
+b_baesucci = city
+b_illiturgis = temple
+#b_vergilia
+#b_ossigi
+#b_basti
+#b_tugia
+#b_ilugo
+#b_iliturgicola
+#b_ipolcobulcola
+
+culture = hispano_roman
+religion = nicene

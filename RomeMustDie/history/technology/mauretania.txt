@@ -1,7 +1,7 @@
 # carthage
 technology = {
 	titles = {
-		d_zeugitana
+		d_zeugitania
 		d_byzacena
 	}
 	
@@ -27,7 +27,7 @@ technology = {
 		d_caesarea
 		d_numidia
 		d_sitifis
-		d_tingitana
+		d_tingitania
 		d_volubilis
 	}
 	

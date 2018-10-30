@@ -14,6 +14,7 @@ e_germania  = {
 			hidden_tooltip = {
 				OR = {
 					ai = no
+					is_tribal = no
 					culture_group = central_germanic
 					culture = suebi
 				}
@@ -545,6 +546,15 @@ e_germania  = {
 	k_baiuvaria = {
 		color = { 0 152 212 }
 		color2= { 255 255 255 }
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					is_tribal = no
+				}
+			}
+		}
 
 		d_bajovaria = {
 			color={ 17 116 193 }
@@ -971,6 +981,7 @@ e_germania  = {
 				OR = {
 					ai = no
 					culture = thuringi
+					is_tribal = no
 				}
 			}
 		}
@@ -1160,6 +1171,12 @@ e_germania  = {
 			OR = {
 				culture = old_saxon
 				culture = saxon
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					is_tribal = no
+				}
 			}
 		}
 
@@ -1963,6 +1980,15 @@ e_germania  = {
 	k_venedia = {
 		color={ 145 130 40 }
 		color2={ 220 220 20 }
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					is_tribal = no
+				}
+			}
+		}
 
 		d_warinia = {
 			color={ 111 143 51 }
@@ -2305,7 +2331,7 @@ e_germania  = {
 				}
 			}
 		}
-		d_silesia = {
+		d_silingia = {
 			color={ 84 166 93 }
 			color2={ 255 255 255 }
 			
@@ -2719,6 +2745,15 @@ e_germania  = {
 		sklaveni = Morava
 		veneti = Morava
 		antes = Morava
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					is_tribal = no
+				}
+			}
+		}
 
         d_boiohaemum = {
             color={ 161 139 40 }

@@ -56,6 +56,8 @@ coptic;Coptic;;;;;;;;;;;;;x
 #
 bedouin_arabic;Arabic;;;;;;;;;;;;;x
 #
+scotti;Scotti;;;;;;;;;;;;;x
+#
 roman_imperial_government;Imperial;;;;;;;;;;;;;x
 roman_imperial_government_desc;The Imperial form of government depends on a strong bureaucracy and centralized administration to function properly. In the hands of a weak ruler, the entire realm can unravel at the seams.;;;;;;;;;;;;;x
 gov_roman_empire;Roman Empire;;;;;;;;;;;;;x
@@ -68,9 +70,16 @@ gov_petty_tyranny;Petty Tyranny;;;;;;;;;;;;;x
 gov_independent_civitas;Independent Civitas;;;;;;;;;;;;;x
 warlord_government;Warlord;;;;;;;;;;;;;x
 warlord_government_desc;Warlordism relies on a "strong man" to exercise military, economic and political power on a disorganized, ad hoc basis. Warlord realms have few political institutions and even less rule of law.;;;;;;;;;;;;;x
+civitas_government;Civitas;;;;;;;;;;;;;x
+civitas_government_desc;The Civitas is one of the fundamental building blocks of the Roman Empire. By promoting the foundation and growth of new cities, Romans have been able to export Roman institutions and the Roman way of life throughout their empire, essentially using cities as great engines of Romanization. The Civitas, thoroughly Romanized by the fifth century, essentially amounts to a key city and its surrounding dependent territories, all still subject to at least a crude continuing understanding of Roman traditions and law.;;;;;;;;;;;;;x
 gov_heroic_realm;Heroic Realm;;;;;;;;;;;;;x
 gov_barbarian_realm;Barbarian Realm;;;;;;;;;;;;;x
 gov_civilized_refuge;Civilized Refuge;;;;;;;;;;;;;x
+gov_provincial_senate;Provincial Senate;;;;;;;;;;;;;x
+gov_gallic_assembly;Gallic Assembly;;;;;;;;;;;;;x
+gov_res_publica;Res Publica;;;;;;;;;;;;;x
+gov_roman_republic;Roman Republic;;;;;;;;;;;;;x
+gov_provincial_government;Provincial Government;;;;;;;;;;;;;x
 #
 title_flavius;Flavius;;;;;;;;;;;;;x
 title_flavius_desc;eh;;;;;;;;;;;;;x
@@ -140,6 +149,8 @@ duchy_iranian;Satrapy;Satrapie;Satrapie;;Satrapía;;;;;;;;;x
 vice_royalty_duke_iranian;Shahrab;;;;;;;;;;;;;x
 vice_royalty_duchy_iranian;Satrapy;;;;;;;;;;;;;x
 vice_royalty_duchy_of_iranian;Satrapy of;;;;;;;;;;;;;x
+civitas_government_county;Senate;;;;;;;;;;;;;x
+civitas_government_counter_of;Senate of;;;;;;;;;;;;;x
 city_count_roman_group;Decurion;;;;;;;;;;;;;x
 city_baron_roman;Curio;;;;;;;;;;;;;x
 city_baron_gallo_roman;Curio;;;;;;;;;;;;;x
@@ -162,6 +173,7 @@ nick_britannicus;Britannicus;;;;;;;;;;;;;x
 nick_britannica;Britannica;;;;;;;;;;;;;x
 nick_augustulus;Augustulus;;;;;;;;;;;;;x
 nick_augustula;Augustula;;;;;;;;;;;;;x
+nick_the_hateful;the Hateful;;;;;;;;;;;;;x
 #
 LOADING_TIP_10;An ambitious vassal of the Western Roman Empire may overthrow the emperor and proclaim himself King of Italy.;;;;;;;;;;;;;x
 LOADING_TIP_12;The recent migration of Vandals, Goths and other Germanic tribes into Roman territory means that lands in old Germania are susceptible to Slavic expansion.;;;;;;;;;;;;;x
@@ -193,3 +205,10 @@ RETTYPE_CUL_SUB_ROMAN_WEST;Provincial Milites;;;;;;;;;;;;;x
 send_the_ostrogoths_to_italy;Send the Ostrogoths to Italy;;;;;;;;;;;;;x
 send_the_ostrogoths_to_italy_desc;The Ostrogoths have been a thorn in our side for far too long. Wouldn't it be nice if we could lure them away from our lands? Let's encourage them to go to Italy and see what happens.;;;;;;;;;;;;;x
 ostrogoths_italian_offer;The Ostrogoths will receive an offer they can't refuse.;;;;;;;;;;;;;x
+#
+CB_NAME_FALL_OF_ROME;Destroy the Empire;;;;;;;;;;;;;x
+WAR_NAME_FALL_OF_ROME;$ORDER$$FIRST_ADJ$ Attack on Rome;;;;;;;;;;;;;x
+#
+SENATOR;Senator;;;;;;;;;;;;;x
+SENATRIX;Senatrix;;;;;;;;;;;;;x
+VILLA_OF;Villa of;;;;;;;;;;;;;x

@@ -1257,6 +1257,8 @@ e_britannia = {
 	k_cumbria = {
 		color={ 107 161 188 }
 		color2={ 255 255 255 }
+		
+		capital = 57 # York / Eboracum
 
 		welsh = "Ogledd"
 		old_saxon = Northumbria
@@ -1401,9 +1403,9 @@ e_britannia = {
 				b_cataractonium = { # Catterick
 					welsh = Catraeth
 				}
-				b_isura = { The River Ure
+				b_isura = { # The River Ure
 				}
-				b_verbeia = { The River Wharfe
+				b_verbeia = { # The River Wharfe
 				}
 				b_olenacum = { # Elslack
 				}
@@ -1881,9 +1883,10 @@ e_britannia = {
 		d_damnonia = {
 			color = { 194 223 98 }
 			color2= { 255 255 255 }
+			
+			capital = 47
 
 			welsh = "Alt Clut"
-
 			saxon = "Strath-Clota"
 
 			c_clydesdale = {
@@ -2598,6 +2601,9 @@ e_britannia = {
 			
 			capital = 18 # Dyfed
 			
+			welsh = Dyfed
+			irish = Demed
+			
 			c_dyfed = {
 				color={ 155 75 5 }
 				color2={ 255 255 255 }
@@ -2605,6 +2611,7 @@ e_britannia = {
 				# Demetia
 				
 				welsh = Dyfed
+				irish = Demed
 			
 				b_carmarthen = {
 					# Moridunum
@@ -3351,15 +3358,23 @@ e_britannia = {
 		catholic = 300 # Crusade target weight
 		norse_pagan_reformed = 200 # Crusade target weight
 
-		irish = Éire
+		irish = Eriu
 		pictish = Iuerthon
 		welsh = Iwerddon
+		
+		saxon = Irland
+		old_saxon = Irland
+		protonorse = Iralanda
+		norse = Irland # Icelandic
 		
 		d_ultonia = {
 			color={ 234 214 165 }
 			color2={ 255 255 255 }
 			
 			capital = 5 # Ulster
+			
+			saxon = Ulster
+			old_saxon = Ulster
 			
 			norwegian = Strangfjord
 			swedish = Strangfjord
@@ -3371,11 +3386,16 @@ e_britannia = {
 				color={ 204 184 135 }
 				color2={ 255 255 255 }
 				
+				# Ulidia
+				
 				norwegian = Strangfjord
 				swedish = Strangfjord
 				danish = Strangfjord
 				norse = Strangfjorðr
 				irish = Ulaidh
+				
+				saxon = Ulster
+				old_saxon = Ulster
 			
 				b_downpatrick = {
 					norwegian = Strangfjord
@@ -3391,7 +3411,7 @@ e_britannia = {
 					irish = "Inbhear Beg"
 				}
 				b_carrickfergus = {
-					irish = "Carraig Fhearghais"
+					# Carraig Fhearghais
 				}
 				b_connor = {
 					irish = "Con Doire"
@@ -3409,20 +3429,30 @@ e_britannia = {
 			c_oriel = {
 				color={ 30 180 45 }
 				color2={ 255 255 255 }
+				
+				# Ergallia
 	
 				irish = Airgíalla
+				
+				saxon = Oriel
+				old_saxon = Oriel
+
+				holy_site = celtic_pagan # because of Eamhain Mhacha
 				
 				b_clones = {
 					irish = "Cluain Eois"
 				}
 				b_armagh = {
+					# Ardmachana
+				
 					irish = "Ard Mhacha"
 				}
 				b_dundalk = {
+					protonorse = Kerlingaferþuz # "ferþuz" is Proto-Germanic actually
+					norse = "Kerlingafjorðr"
 					norwegian = Kerlingfjord
 					swedish = Kerlingfjord
 					danish = Kerlingfjord
-					norse = Kerlingfjorðr
 					irish = "Dún Dealgan"
 				}
 				b_clogher = {
@@ -3445,7 +3475,12 @@ e_britannia = {
 				color={ 131 101 85 }
 				color2={ 255 255 255 }
 				
+				# Eugeniensis # "Tir Eoghain" is like "Land of Eoghain". "Eoghain/Eogan" has been treated as a cognate of "Eugenius" even though etymologically it isn't.
+				
 				irish = "Tír Eoghain"
+				
+				saxon = Tyrone
+				old_saxon = Tyrone
 	
 				b_coleraine = {
 					irish = "Cúil Rathain"
@@ -3460,6 +3495,8 @@ e_britannia = {
 					irish = "Machaire Rátha"
 				}
 				b_derry = {
+					# Derriena
+				
 					irish = "Daire Coluimb Chille"
 				}
 				b_omagh = {
@@ -3511,9 +3548,19 @@ e_britannia = {
 			capital = 9 # Connacht
 			
 			irish = "Connachta"
+			
+			graeci = Nagnatae
+			roman = Nagnatae
+			greek = Nagnatai
+			gallo_roman = Nagnata
+			romano_british = Nagnata
+			hispano_roman = Nagnata
+			pannonian = Nagnata
+			mauro_roman = Nagnata
+			
 		
 			c_breifne = {
-				color={ 40 230 65 }
+				color={ 219 87 43 }
 				color2={ 255 255 255 }
 				
 				irish = "Bréifne"
@@ -3548,6 +3595,15 @@ e_britannia = {
 				color2={ 255 255 255 }
 				
 				irish = "Connachta"
+				
+				graeci = Nagnatae
+				roman = Nagnatae
+				greek = Nagnatai
+				gallo_roman = Nagnata
+				romano_british = Nagnata
+				hispano_roman = Nagnata
+				pannonian = Nagnata
+				mauro_roman = Nagnata
 	
 				b_galway = {
 					irish = "Dún Bhun na Gaillimhe"
@@ -3575,30 +3631,16 @@ e_britannia = {
 				}
 			}
 		}
-		d_meath = {
+		d_midiensis = {
 			color={ 15 128 253 }
 			color2={ 255 255 255 }
 			
 			capital = 11 # Dublin
 			
-			norwegian = Dublin
-			danish = Dublin
-			swedish = Dublin
 			norse = Dyflinn
 			irish = Mide
-			
-			pagan_coa = {
-				template = 0
-				layer = {
-					texture = 2
-					texture_internal = 3
-					emblem = 0
-					color = 0
-					color = 0
-					color = 0
-				}
-				religion = "norse_pagan"
-			}
+			welsh = Med # Old Breton actually
+			gallo_roman = Medios # speculated Gaulish
 		
 			c_kildare = {
 				color={ 104 130 172 }
@@ -3638,13 +3680,29 @@ e_britannia = {
 				norse = Dyflinn
 				irish = Dubhlinn
 				welsh = Dulyn
-
-				holy_site = celtic_pagan
+				
+				roman = Eblana
+				graeci = Eblana
+				greek = Eblana
+				gallo_roman = Eblana
+				romano_british = Eblana
+				mauro_roman = Eblana
+				pannonian = Eblana
+				hispano_roman = Eblana
 				
 				b_dublin = {
 					norse = Dyflinn
 					irish = Dubhlinn
 					welsh = Dulyn
+					
+					roman = Eblana
+					graeci = Eblana
+					greek = Eblana
+					gallo_roman = Eblana
+					romano_british = Eblana
+					mauro_roman = Eblana
+					pannonian = Eblana
+					hispano_roman = Eblana
 				}
 				b_clondalkin = {
 				}
@@ -3668,7 +3726,7 @@ e_britannia = {
 				}
 			}
 		}
-		d_leinster = {
+		d_lagenia = {
 			color={ 48 164 51 }
 			color2={ 255 255 255 }
 			
@@ -3683,6 +3741,8 @@ e_britannia = {
 			c_leinster = {
 				color={ 65 210 85 }
 				color2={ 255 255 255 }
+				
+				# Lagenia
 				
 				norwegian = Veisafjord
 				swedish = Veisafjord
@@ -3720,10 +3780,19 @@ e_britannia = {
 				}
 			}
 			c_ossory = {
-				color={ 60 210 80 }
+				color={ 243 237 214 }
 				color2={ 255 255 255 }
 				
 				irish = "Osraige"
+				
+				roman = Hibernis
+				graeci = Hibernis
+				greek = Hibernis
+				gallo_roman = Hibernis
+				romano_british = Hibernis
+				mauro_roman = Hibernis
+				pannonian = Hibernis
+				hispano_roman = Hibernis
 		
 				b_kilkenny = {
 					irish = "Cill Chainnigh"
@@ -3755,7 +3824,7 @@ e_britannia = {
 			color={ 205 103 80 }
 			color2={ 255 255 255 }
 			
-			capital = 13 # Thomond
+			capital = 15 # Ormond, because that's where Cashel is.
 			
 			norwegian = "Hlymrek"
 			danish = "Lymrek"
@@ -3764,7 +3833,7 @@ e_britannia = {
 			irish = "Mumu"
 		
 			c_thomond = {
-				color={ 90 221 111 }
+				color={ 136 40 23 }
 				color2={ 255 255 255 }
 				
 				norwegian = "Hlymrek"

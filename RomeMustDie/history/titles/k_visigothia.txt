@@ -29,10 +29,6 @@
 466.1.1 = {
 	holder = 200284
 }
-467.1.1 = {
-	name = TOLOSA_KINGDOM
-	adjective = TOLOSA_KINGDOM_adj
-}
 484.1.1 = {
 	holder = 200283
 }

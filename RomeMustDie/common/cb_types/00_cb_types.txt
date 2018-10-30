@@ -2451,6 +2451,8 @@ invasion = {
 	}
 	
 	can_use_title = {
+		cb_can_use_preamble = yes
+		cb_no_nap_with_suzerain_trigger = yes
 		OR = {
 			FROM = {
 				has_landed_title = PREV
@@ -7730,9 +7732,11 @@ pagan_subjugation = {
 	is_permanent = yes
 	can_ask_to_join_war = yes
 	allowed_to_target_tributaries = no
+	check_de_jure_tier = KING # this scans all de jure kingdoms for the counties which are held by or vassals(or below) of selected character. Only valid if is_permanent = yes
 	
 	can_use = {
 		ROOT = {
+			independent = yes
 			religion_group = pagan_group
 			is_reformed_religion = no
 			NOT = { same_realm = FROM }
@@ -7787,6 +7791,7 @@ pagan_subjugation = {
 				is_reformed_religion = no
 				is_reformed_religion = ROOT
 			}
+			#not already a defender in a subjugation war
 			NOT = {
 				any_war = {
 					defender = { character = PREVPREV }
@@ -7795,6 +7800,64 @@ pagan_subjugation = {
 						using_cb = nomad_subjugation
 					}
 				}
+			}
+		}
+	}
+	
+	can_use_title = {
+		FROM = {
+			any_realm_title = {
+				de_jure_liege_or_above = PREVPREV
+			}
+		}
+		ROOT = {
+			capital_scope = {
+				kingdom = { title = PREVPREVPREV }
+			}
+		}
+		OR = {
+			holder = ROOT
+			ROOT = { lower_tier_than = KING }
+		}
+		#the ai will only attack neighbors (or those very close)
+		OR = {
+			ROOT = { ai = no }
+			FROM = {
+				OR = {
+					any_realm_province = {
+						kingdom = { title = PREVPREVPREV }
+						any_neighbor_province = {
+							owner = {
+								OR = {
+									is_liege_or_above = ROOT
+									character = ROOT
+								}
+							}
+						}
+					}
+					any_realm_province = {
+						kingdom = { title = PREVPREVPREV }
+						ROOT = { 
+							any_realm_province = {
+								NOT = { distance = { where = PREVPREV value = 75 } }
+								owner = {
+									OR = {
+										is_liege_or_above = PREVPREV
+										character = PREVPREV
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	is_valid_title = {
+		FROM = {
+			any_realm_title = {
+				de_jure_liege_or_above = PREVPREV
 			}
 		}
 	}
@@ -14023,6 +14086,7 @@ nomad_subjugation = {
 	
 	can_use = {
 		ROOT = {
+			independent = yes
 			OR = {
 				ai = yes
 				multiplayer = no

@@ -78,3 +78,784 @@
 		death=yes
 	}
 }
+
+1919005 = {
+	name="Colga"
+	dynasty=1919002
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=5
+	religion="celtic_pagan"
+	culture="irish"
+	450.1.1 = {
+		birth=yes
+	}
+	513.1.1 = {
+		death=yes
+	}
+}
+
+1919006 = {
+	name="Eógan Taidlech" #AKA Mug Nuadat
+	dynasty=100003
+	religion="celtic_pagan"
+	culture="irish"
+	140.1.1={
+		birth="140.1.1"
+	}
+	200.1.1={
+		death="200.1.1"
+	}
+}
+
+1919007 = {
+	name="Ailill Ólomm"
+	dynasty=100003
+	father=1919006
+	religion="pagan"
+	culture="irish"
+	175.1.1={
+		birth="175.1.1"
+	}
+	195.1.1={
+		add_spouse=1919008
+	}
+	240.1.1={
+		death="240.1.1"
+	}
+}
+
+
+1919008 = {
+	name="Sadb"
+	female=yes
+	dynasty=9217
+	religion="celtic_pagan"
+	culture="irish"
+	179.1.1={
+		birth="179.1.1"
+	}
+	255.1.1={
+		death="255.1.1"
+	}
+}
+
+1919009 = {
+	name="Eógan Mór"
+	father=1919007
+	mother=1919008
+	dynasty=100003
+	religion="celtic_pagan"
+	culture="irish"
+	197.1.1={
+		birth="197.1.1"
+	}
+	250.1.1={
+		death="250.1.1"
+	}
+}
+
+1919010 = {
+	name="Fiachu Mullethan"
+	father=1919009
+	dynasty=100003
+	religion="celtic_pagan"
+	culture="irish"
+	220.1.1={
+		birth="220.1.1"
+	}
+	270.1.1={
+		death="270.1.1"
+	}
+}
+
+1919011 = {
+	name="Aillil Fland Becc"
+	father=1919010
+	dynasty=100003
+	religion="celtic_pagan"
+	culture="irish"
+	250.1.1={
+		birth="250.1.1"
+	}
+	330.1.1={
+		death="330.1.1"
+	}
+}
+
+1919012 = {
+	name="Luigthech"
+	father=1919011
+	dynasty=100003
+	religion="celtic_pagan"
+	culture="irish"
+	300.1.1={
+		birth="300.1.1"
+	}
+	370.1.1={
+		death="370.1.1"
+	}
+}
+
+1919013 = {
+	name="Conall Corc"
+	father=1919012
+	dynasty=100003
+	religion="celtic_pagan"
+	culture="irish"
+	340.1.1={
+		birth="340.1.1"
+	}
+	420.1.1={
+		death="420.1.1"
+	}
+}
+
+1919014 = {
+	name="Nad-Froich"
+	father=1919013
+	dynasty=100003
+	religion="celtic_pagan"
+	culture="irish"
+	380.1.1={
+		birth="380.1.1"
+	}
+	453.1.1={
+		death="453.1.1"
+	}
+}
+
+1919015 = {
+	name="Óengus"
+	father=1919014
+	dynasty=100003
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	learning=7
+	religion="celtic_pagan"
+	culture="irish"
+	trait=charitable
+	trait=tough_soldier
+	430.1.1={
+		birth=yes
+	}
+	450.1.1={
+		dynasty=9225 #Eóganacht-Chaisil
+	}
+	453.1.1 = {
+		religion = nicene
+		add_trait = zealous
+	}
+	461.1.1 = {
+		add_spouse = 1919016
+	}
+	489.1.1={
+		death=yes
+	}
+}
+
+1919016 = {
+	name="Eithni Uathach" # Eithni Uathach ingen Cremthainn
+	female=yes
+	#dynasty=
+	religion="nicene"
+	culture="irish"
+	445.1.1={
+		birth=yes
+	}
+	461.1.1 = {
+		give_nickname = nick_the_hateful
+	}
+	489.1.1={
+		death=yes
+	}
+}
+
+1919017 = {
+	name="Eochaid"
+	father=1919015
+	mother=1919016
+	dynasty=9225
+	religion="nicene"
+	culture="irish"
+	470.1.1={
+		birth="470.1.1"
+	}
+	520.1.1={
+		death="520.1.1"
+	}
+}
+
+1919018 = {
+	name="Feidelmid"
+	father=1919015
+	mother=1919016
+	dynasty=9225
+	religion="nicene"
+	culture="irish"
+	472.1.1={
+		birth="472.1.1"
+	}
+	533.1.1={
+		death="533.1.1"
+	}
+}
+
+
+1919019 = {
+	name="Bressal"
+	father=1919015
+	mother=1919016
+	dynasty=9225
+	religion="nicene"
+	culture="irish"
+	474.1.1={
+		birth="474.1.1"
+	}
+	544.1.1={
+		death="544.1.1"
+	}
+}
+
+1919020 = {
+	name="Énna" #Énna Cennsalach king of Leinster founder of the Uí Cheinnselaig
+	dynasty=9208
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="nicene"
+	culture="irish"
+	410.1.1={
+		birth="410.1.1"
+	}
+	450.7.1={
+		death="450.7.1"
+	}
+}
+
+1919021 = {
+	name="Crimthann" #King of Leinster
+	dynasty=9208
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="nicene"
+	culture="irish"
+	father=1919020
+	425.1.1={
+		birth="425.1.1"
+	}
+	483.7.1={
+		death="483.7.1"
+	}
+}
+
+1919022 = {
+	name = "Dergscáil" # made up
+	dynasty = 1919003 # Gailenga
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="celtic_pagan"
+	culture="irish"
+	trait=sympathy_christendom
+	450.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1919023 = {
+	name="Fedlimid Rechtmar" #
+	dynasty=9217
+	religion="celtic_pagan"
+	culture="irish"
+	100.1.1={
+		birth="100.1.1"
+	}
+	171.7.1={
+		death="171.7.1"
+	}
+}
+
+1919024 = {
+	name="Fiachra Suighe" #
+	dynasty=1029031 #Dal Fiachrach Suighe
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919023
+	130.1.1={
+		birth="130.1.1"
+	}
+	181.7.1={
+		death="181.7.1"
+	}
+}
+1919025 = {
+	name="Cairpre Rigronn" #
+	dynasty=1029031 #Dal Fiachrach Suighe
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919024
+	150.1.1={
+		birth="150.1.1"
+	}
+	201.7.1={
+		death="201.7.1"
+	}
+}
+
+1919026 = {
+	name="Corp" #
+	dynasty=1029031 #Dal Fiachrach Suighe
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919025
+	170.1.1={
+		birth="170.1.1"
+	}
+	231.7.1={
+		death="231.7.1"
+	}
+}
+1919027 = {
+	name="Mes Gegra" #
+	dynasty=1029031 #Dal Fiachrach Suighe
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919026
+	190.1.1={
+		birth="190.1.1"
+	}
+	251.7.1={
+		death="251.7.1"
+	}
+}
+1919028 = {
+	name="Mes Corp" #
+	dynasty=1029031 #Dal Fiachrach Suighe
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919027
+	210.1.1={
+		birth="210.1.1"
+	}
+	269.7.1={
+		death="269.7.1"
+	}
+}
+1919029 = {
+	name="Art Corp" #
+	dynasty=1029031 #Dal Fiachrach Suighe
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919028
+	230.1.1={
+		birth="230.1.1"
+	}
+	271.7.1={
+		death="271.7.1"
+	}
+}
+1919030 = {
+	name="Eochaid Allmuir" #
+	dynasty=1029031 #Dal Fiachrach Suighe
+	religion="nicene"
+	culture="irish"
+	father=1919029
+	250.1.1={
+		birth="250.1.1"
+	}
+	321.7.1={
+		death="321.7.1"
+	}
+}
+1919031 = {
+	name="Corath" #
+	dynasty=1029031 #Dal Fiachrach Suighe
+	religion="nicene"
+	culture="irish"
+	father=1919030
+	280.1.1={
+		birth="280.1.1"
+	}
+	341.7.1={
+		death="341.7.1"
+	}
+}
+
+1919032 = {
+	name="Conn" #Conn Cétchathach
+	dynasty=9217
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=11
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919023
+	120.1.1={
+		birth="120.1.1"
+	}
+	201.7.1={
+		death="201.7.1"
+	}
+}
+
+1919033 = {
+	name="Art" #Art Óenfher
+	dynasty=9217
+	martial=7
+	diplomacy=9
+	intrigue=7
+	stewardship=7
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919032
+	165.1.1={
+		birth="165.1.1"
+	}
+	235.7.1={
+		death="235.7.1"
+	}
+}
+
+1919034 = {
+	name="Cormac" #Cormac mac Airt
+	dynasty=9217
+	martial=7
+	diplomacy=9
+	intrigue=7
+	stewardship=11
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919033
+	200.1.1={
+		birth="200.1.1"
+	}
+	277.7.1={
+		death="277.7.1"
+	}
+}
+
+1919035 = {
+	name="Cairpre" #Caipre mac Cormaicc
+	dynasty=9217
+	martial=7
+	diplomacy=9
+	intrigue=7
+	stewardship=11
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919034
+	249.1.1={
+		birth="249.1.1"
+	}
+	325.7.1={
+		death="325.7.1"
+	}
+}
+
+1919036 = {
+	name="Fiachu" #Fiachu Sraibtine
+	dynasty=9217
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919035
+	290.1.1={
+		birth="290.1.1"
+	}
+	355.7.1={
+		death="355.7.1"
+	}
+}
+
+1919037 = {
+	name="Muiredach" #Muiredach Tírech
+	dynasty=9217
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=11
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919036
+	340.1.1={
+		birth="340.1.1"
+	}
+	415.7.1={
+		death="415.7.1"
+	}
+}
+
+1919038 = {
+	name="Eochaid" #Eochaid Mugmedón
+	dynasty=9217
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=11
+	religion="pagan"
+	culture="irish"
+	father=1919037
+	362.1.1={
+		birth="362.1.1"
+	}
+	420.7.1={
+		death="420.7.1"
+	}
+}
+
+1919039 = {
+	name="Niall"
+	# of the nine hostages
+	dynasty=9217
+	martial=11
+	diplomacy=12
+	intrigue=9
+	stewardship=12
+	trait="proud"
+	trait="tough_soldier"
+	religion="celtic_pagan"
+	culture="irish"
+	father=1919038
+	400.1.1={
+		birth="400.1.1"
+	}
+	418.1.1={
+		dynasty=199 #Ua Niall Noigiallaigh
+	}
+	450.1.1={
+		death="450.1.1"
+	}
+}
+
+1919040 = {
+	name="Conall Gulban"
+	dynasty=199
+	religion="nicene"
+	culture="irish"
+	father = 1919039
+	428.1.1={
+		birth="428.1.1"
+	}
+	464.1.1={
+		death="464.1.1"
+	}
+}
+
+1919041 = {
+	name="Fergus"
+	dynasty=199
+	religion="nicene"
+	culture="irish"
+	father = 1919040
+	450.1.1={
+		birth="450.1.1"
+	}
+	490.1.1={
+		death="490.1.1"
+	}
+}
+
+1919042 = {
+	name="Doi"
+	dynasty=199
+	religion="nicene"
+	culture="irish"
+	father = 1919040
+	455.1.1={
+		birth="455.1.1"
+	}
+	502.1.1={
+		death="502.1.1"
+	}
+}
+
+1919043 = {
+	name="Dungal"
+	dynasty=199
+	religion="nicene"
+	culture="irish"
+	father = 1919042
+	473.1.1={
+		birth="473.1.1"
+	}
+	513.1.1={
+		death="513.1.1"
+	}
+}
+
+1919044 = {
+	name="Énna"
+	dynasty=199
+	religion="nicene"
+	culture="irish"
+	father = 1919040
+	460.1.1={
+		birth="460.1.1"
+	}
+	511.1.1={
+		death="511.1.1"
+	}
+}
+
+1919045 = {
+	name="Conall Cremthainne"
+	dynasty=199
+	religion="celtic_pagan"
+	culture="irish"
+	father = 1919039
+	429.1.1={
+		birth="429.1.1"
+	}
+	480.1.1={
+		death="480.1.1"
+	}
+}
+
+1919046 = {
+	name="Eógán"
+	dynasty=199
+	religion="nicene"
+	culture="irish"
+	father = 1919039
+	430.1.1={
+		birth="430.1.1"
+	}
+	465.1.1={
+		death="465.1.1"
+	}
+}
+
+1919047 = {
+	name="Muiredach"
+	dynasty=199
+	religion="nicene"
+	culture="irish"
+	father = 1919046
+	445.1.1={
+		birth="445.1.1"
+	}
+	489.1.1={
+		death="489.1.1"
+	}
+}
+
+1919048 = {
+	name="Lóegaire"
+	dynasty=199
+	religion="celtic_pagan"
+	culture="irish"
+	trait=zealous
+	father = 1919039
+	427.1.1={
+		birth=yes
+	}
+	448.1.1 = {
+		add_spouse = 1919049
+	}
+	458.1.1={
+		death=yes
+	}
+}
+
+1919049 = {
+	name="Angias"
+	female=yes
+	religion="celtic_pagan"
+	culture="irish"
+	430.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+
+1919050 = {
+	name="Lugaid"
+	dynasty=199
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	learning=7
+	religion="celtic_pagan"
+	culture="irish"
+	trait=zealous
+	trait=craven
+	father = 1919048
+	mother = 1919049
+	452.1.1={
+		birth=yes
+	}
+	507.1.1={
+		death=yes
+	}
+}
+
+1919051 = {
+	name="Eithne"
+	dynasty=199
+	female = yes
+	religion="celtic_pagan"
+	culture="irish"
+	trait=just
+	trait=fair
+	father = 1919048
+	mother = 1919049
+	453.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1919052 = {
+	name="Fedelm"
+	dynasty=199
+	female = yes
+	religion="celtic_pagan"
+	culture="irish"
+	father = 1919048
+	mother = 1919049
+	455.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1919053 = {
+	name="Bicne"
+	dynasty=1919004
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning=6
+	religion="celtic_pagan"
+	culture="irish"
+	447.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

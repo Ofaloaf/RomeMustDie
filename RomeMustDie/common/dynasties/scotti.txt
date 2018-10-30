@@ -1,0 +1,124 @@
+1707001 = {
+	name = Caimbeul
+	culture = scotti
+}
+
+1707002 = {
+	name = Camshron
+	culture = scotti
+}
+
+1707003 = {
+	name = Cionnchadach
+	culture = scotti
+}
+
+1707004 = {
+	name = Cadalach
+	culture = scotti
+}
+
+1707005 = {
+	name = Clagarnach
+	culture = scotti
+}
+
+1707006 = {
+	name = Dailghileach
+	culture = scotti
+}
+
+1707007 = {
+	name = Ruimpealach
+	culture = scotti
+}
+
+1707008 = {
+	name = Ailbhinneach
+	culture = scotti
+}
+
+1707009 = {
+	name = Biorbhach
+	culture = scotti
+}
+
+1707010 = {
+	name = Cailtidheach
+	culture = scotti
+}
+
+1707011 = {
+	name = Ochailtreabhach
+	culture = scotti
+}
+
+1707012 = {
+	name = MacAonghais # MacInnes
+	culture = scotti
+}
+
+1707013 = {
+	name = MacDhòmhnaill # MacDonald, E-I-E-I-O
+	culture = scotti
+}
+
+1707014 = {
+	name = MacEòghainn
+	culture = scotti
+}
+
+1707015 = {
+	name = MacMhàrtainn
+	culture = scotti
+}
+
+1707016 = {
+	name = MacDhonnchaidh 
+	culture = scotti
+}
+
+1707017 = {
+	name = MacLeòid
+	culture = scotti
+}
+
+1707018 = {
+	name = Ailpeanach
+	culture = scotti
+}
+
+1707019 = {
+	name = Arasgain
+	culture = scotti
+}
+
+1707020 = {
+	name = Beitean
+	culture = scotti
+}
+
+1707021 = {
+	name = Bochanan
+	culture = scotti
+}
+
+1707022 = {
+	name = Blàr
+	culture = scotti
+}
+
+1707023 = {
+	name = Bràigheach
+	culture = scotti
+}
+
+1707024 = {
+	name = Bòideach
+	culture = scotti
+}
+
+1707025 = {
+	name = Buiseid
+	culture = scotti
+}

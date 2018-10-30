@@ -130,6 +130,15 @@ e_pannonia = {
 	k_illyria = {
 		color = { 70 79 140 }
 		color2= { 255 255 255 }
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					is_tribal = no
+				}
+			}
+		}
 
 		d_dalmatia = {
 			color={ 155 57 65 }
@@ -534,6 +543,15 @@ e_pannonia = {
 	k_pannonia = {
 		color = { 152 85 92 }
 		color2= { 255 255 255 }
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					is_tribal = no
+				}
+			}
+		}
 
 		d_pannonia = {
 			color={ 155 25 65 }
@@ -1073,6 +1091,15 @@ e_pannonia = {
 		color2= { 255 255 255 }
 		
 		gothic = Gutthuida
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					is_tribal = no
+				}
+			}
+		}
 
 		d_apulensis = {
 			color={ 147 121 58 }

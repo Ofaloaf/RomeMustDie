@@ -1,0 +1,4 @@
+1904001 = {
+	name = Aghuank
+	culture = armenian
+}

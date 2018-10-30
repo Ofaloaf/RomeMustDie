@@ -10,7 +10,7 @@ gothic_group = {
 			Agiulf Aisso Alaric Alatheus Alavivus Aligern Ansemund Areobindus Argebaud Agrimund Ascaric Ataulf Anawuls
 			Athalric Athaloc Athanaric Ardo Anagastes Arintheus Ansila Ald Alico Aliulf Allobich Andag Andela
 			Apsical Albis Arigern Asinar Albilas Andraias_Andrew Albeis Albila
-			Berig Batwin Beremud Berichus Bigelis Baza Barthaulaumaiu_bartholomew
+			Berig Batwin Beremud Berichus Bigelis Baza Barthaulaumaiu_Bartholomew
 			Cniva Chintila
 			Dicineus Dumerit Duda Daweidis_David #sunu Daweidis, son of David
 			Eraric Ermenaric Ermenguer Euric Eutharis Erwig Eutharic Ebremud

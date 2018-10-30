@@ -1435,13 +1435,13 @@ e_italy = {
 			}
 		}	
 		d_corsica = {
-			color={ 210 233 278 }
+			color={ 106 178 46 }
 			color2={ 255 255 255 }
 			
 			capital = 324 # Corsica
 		
 			c_corsica = {
-				color={ 226 248 251 }
+				color={ 210 233 278 }
 				color2={ 255 255 255 }
 
 				# Alalia

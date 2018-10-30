@@ -1,7 +1,4 @@
 473.1.1 = {
-
-	liege = "k_visigothia"
-
+	set_tribute_suzerain = { who = k_visigothia percentage = 0.25 }
 	holder = 492016
-
 }

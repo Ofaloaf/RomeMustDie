@@ -1,0 +1,39 @@
+1009001 = {
+	name="Karadam"
+	dynasty=1009001
+	culture="bolghar"
+	religion="tengri_pagan"
+	442.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1009002 = {
+	name = "Birdihan"
+	dynasty=1009002
+	culture="bolghar"
+	religion="tengri_pagan"
+	435.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+1009003 = {
+	name = "Tamgan"
+	father=1009002
+	dynasty=1009002
+	culture="bolghar"
+	religion="tengri_pagan"
+	458.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

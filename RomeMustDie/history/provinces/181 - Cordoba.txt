@@ -1,18 +1,20 @@
-# 181 - Cordoba
+# 181 - Corduba
 
 # County Title
-title = c_cordoba
+title = c_corduba
 
 # Settlements
 max_settlements = 6
-b_alcolea = castle
-b_cordoba = temple
-b_lucena = city
-b_cabra = temple
-b_andujar = castle
-#b_martos = temple
-#b_belalcazar = castle
-#b_canetedelastorres = castle
+b_epora = castle
+b_corduba = temple
+b_sabetanum = city
+#b_carbula
+#b_sacili
+#b_onuba
+#b_calpurniana
+#b_detumo
+#b_ategua
+#b_ad_aras
 
 culture = hispano_roman
 religion = nicene

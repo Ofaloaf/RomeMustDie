@@ -1517,7 +1517,7 @@ e_scandinavia = {
 		}
 	}
 
-	k_sweden = {
+	k_scandza = {
 		color={ 55 112 170 }
 		color2={ 255 255 0 }
 		capital = 290 # Uppland
@@ -1532,7 +1532,24 @@ e_scandinavia = {
 		finnish_pagan_reformed = 50
 		
 		norse = Sviþjod
-		#swedish = "Svea Rike"
+		
+		roman = Scandia
+		graeci = Scandia
+		greek = Skandia
+		gallo_roman = Scandia
+		romano_british = Scandia
+		hispano_roman = Scandia
+		mauro_roman = Scandia
+		pannonian = Scandia
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					is_tribal = no
+				}
+			}
+		}
 	
 		d_gotland = {
 			color = { 170 25 25 }
@@ -1653,7 +1670,7 @@ e_scandinavia = {
 				}
 			}
 			c_dalarna = {
-				color={ 20 20 230 }
+				color={ 177 189 207 }
 				color2={ 255 255 255 }
 				
 				norwegian = "Jernbæraland"
@@ -1761,7 +1778,10 @@ e_scandinavia = {
 			c_ostergotland = {
 				color={ 50 50 149 }
 				color2={ 255 255 255 }
+				
+				# Ostrogothia
 			
+				protonorse = Austragautizlanda
 				norse = "Austergautland"
 				
 				b_stegeborg = {
@@ -1828,7 +1848,7 @@ e_scandinavia = {
 				}
 			}
 			c_gotland = {
-				color={ 65 80 255 }
+				color={ 191 113 133 }
 				color2={ 255 255 255 }
 				
 				# Gothia
@@ -1871,6 +1891,7 @@ e_scandinavia = {
 				
 				# Vestrogothia
 				
+				protonorse = Westragautizlanda
 				norse = "Vestergautland"
 
 				holy_site = pagan
@@ -1904,12 +1925,16 @@ e_scandinavia = {
 				# b_alvsborg
 			}
 			c_narke = {
-				color={ 68 58 255 }
+				color={ 168 66 36 }
 				color2={ 255 255 255 }
 				
-				norwegian = "Nerike"
+				# Nericia # Latinization
+				
+				norwegian = "Neeric"
 				danish = "Nerke"
 				norse = Nerike
+				
+				protonorse = Narwazriki # Närke's name etymologically comes from an Old Norse root which I guess isn't in modern Swedish? But that root's cognate with 'Narrow', so I took the proto-Germanic origin of narrow, 'Narwaz', and slapped Old Norse -riki at the end of it.
 				
 				b_goksholm = {
 					norwegian = "Gøksholm"
@@ -1933,8 +1958,10 @@ e_scandinavia = {
 				}
 			}
 			c_dal = {
-				color={ 35 30 225 }
+				color={ 185 191 106 }
 				color2={ 255 255 255 }
+				
+				protonorse = Dala
 				
 				b_dalaborg = {
 				}
@@ -2049,7 +2076,7 @@ e_scandinavia = {
 				}
 			}
 			c_gastrikland = {
-				color={ 30 30 155 }
+				color={ 179 34 88 }
 				color2={ 255 255 255 }
 				
 				norwegian = "Gestrikland"
@@ -2175,7 +2202,7 @@ e_scandinavia = {
 		}
 	}
 	
-	k_denmark = {
+	k_dania = {
 		color={ 247 77 54 }
 		color2={ 136 157 23 }
 		
@@ -2191,6 +2218,15 @@ e_scandinavia = {
 		protonorse = Danmerki
 		saxon = Denamearc
 		old_saxon = Denamearc
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					is_tribal = no
+				}
+			}
+		}
 		
 		d_skane = {
 			color={ 210 2 2 }
@@ -2500,7 +2536,7 @@ e_scandinavia = {
 		}
 	}
 	
-	k_norway = {
+	k_northuagia = {
 		color={ 170 170 210 }
 		color2={ 220 220 220 }
 		
@@ -2512,10 +2548,21 @@ e_scandinavia = {
 		catholic = 100 # Crusade target weight
 		finnish_pagan_reformed = 50
 		
-		norse = Noregr
-		#danish = Norge
-		#swedish = Norge
-		#norwegian = Norge
+		protonorse = Nuþrawegaz # Proto-Germanic actually
+		norse = Norðvegr
+		
+		saxon = Norðweg
+		
+		lappish = Vuodna # "Fjord" in Lule Sami
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					is_tribal = no
+				}
+			}
+		}
 		
 		d_orkney = {
 			color={ 106 140 225 }
@@ -2710,13 +2757,13 @@ e_scandinavia = {
 			}
 		}
 		d_vestlandet = {
-			color={ 120 160 245 }
+			color={ 185 172 121 }
 			color2={ 255 255 255 }
 			
 			capital = 274 # Bergenhus
 			
 			c_agder = {
-				color={ 40 85 255 }
+				color={ 179 72 57 }
 				color2={ 255 255 255 }
 
 				# Augandia
@@ -2742,7 +2789,7 @@ e_scandinavia = {
 				}
 			}
 			c_rogaland = {
-				color={ 10 110 255 }
+				color={ 39 158 46 }
 				color2={ 255 255 255 }
 				
 				norse = "Rygjafylki"
@@ -2789,7 +2836,7 @@ e_scandinavia = {
 				}
 			}
 			c_bergenshus = {
-				color={ 60 157 209 }
+				color={ 130 117 68 }
 				color2={ 255 255 255 }
 				
 				norse = Horðaland
@@ -2845,7 +2892,7 @@ e_scandinavia = {
 			}
 			
 			c_vestfold = {
-				color={ 89 100 195 }
+				color={ 77 121 108 }
 				color2={ 255 255 255 }
 				
 				b_kaupang = {
@@ -2895,7 +2942,7 @@ e_scandinavia = {
 				}
 			}
 			c_viken = {
-				color={ 25 175 255 }
+				color={ 252 243 139 }
 				color2={ 255 255 255 }
 				
 				# Ragnarici				
@@ -2931,7 +2978,7 @@ e_scandinavia = {
 				}
 			}
 			c_oppland = {
-				color={ 94 120 215 }
+				color={ 230 199 104 }
 				color2={ 255 255 255 }
 				
 				norse = Gudbrandsdal
@@ -2954,10 +3001,11 @@ e_scandinavia = {
 				}
 			}
 			c_hedmark = {
-				color={ 110 140 235 }
+				color={ 47 98 55 }
 				color2={ 255 255 255 }
 				
-				norse = Heidmark
+				protonorse = Heiðnizmarka
+				norse = Heiðmork
 				
 				b_hamarhus = {
 				}
@@ -2998,10 +3046,13 @@ e_scandinavia = {
 			}
 			
 			c_trondelag = {
-				color={ 20 155 255 }
+				color={ 141 189 70 }
 				color2={ 255 255 255 }
 				
+				# Nidwa
+				
 				b_nidaros = {
+					protonorse = Nidwa
 				}
 				b_trondheim = {
 				}
@@ -3019,11 +3070,13 @@ e_scandinavia = {
 				}
 			}
 			c_naumadal = {
-				color={ 25 205 240 }
+				color={ 199 200 172 }
 				color2={ 255 255 255 }
 
 				holy_site = norse_pagan
 				holy_site = norse_pagan_reformed
+				
+				protonorse = Namsadala
 				
 				b_tinghaugen = {
 				}
@@ -3043,7 +3096,7 @@ e_scandinavia = {
 				}
 			}
 			c_halogaland = {
-				color={ 10 195 255 }
+				color={ 151 60 153 }
 				color2={ 255 255 255 }
 				
 				b_somna = {
@@ -3079,13 +3132,24 @@ e_scandinavia = {
 			romano_british = Iemptia
 			pannonia = Iemptia
 			
+			norse = Eotalont # 9th century, from the Frösö runestone. Early Old Norse, technically.
+			protonorse = Eotalanda # -landa is the proto-norse form of -land
+			
 			c_jamtland = {
-				color={ 45 85 255 }
+				color={ 64 128 128 }
 				color2={ 255 255 255 }
 				
-				norwegian = "Jemtland"
-				danish = "Jemtland"
-				norse = "Jamtaland"
+				roman = Iemptia
+				graeci = Iemptia
+				greek = Iemptia
+				gallo_roman = Iemptia
+				hispano_roman = Iemptia
+				mauro_roman = Iemptia
+				romano_british = Iemptia
+				pannonia = Iemptia
+				
+				norse = Eotalont # 9th century, from the Frösö runestone. Early Old Norse, technically.
+				protonorse = Eotalanda # -landa is the proto-norse form of -land
 				
 				b_mjalleborgen = {
 				}
@@ -3095,11 +3159,11 @@ e_scandinavia = {
 				}
 			}
 			c_herjedalen = {
-				color={ 40 76 225 }
+				color={ 200 142 55 }
 				color2={ 255 255 255 }
 				
-				swedish = "Härjedalen"
-				norse = "Herjadal"
+				protonorse = "Herjárdala"
+				norse = "Herjárdalr"
 				
 				b_sveg = {
 				}
@@ -3601,7 +3665,7 @@ e_scandinavia = {
 		}
 		
 		d_finnmark = {
-			color={ 200 80 30 }
+			color={ 121 135 120 }
 			color2={ 255 255 255 }
 			
 			capital = 391 # Nordland
@@ -3609,7 +3673,7 @@ e_scandinavia = {
 			lappish=Finnmárku
 			
 			c_finnmark = {
-				color={ 190 45 45 }
+				color={ 165 90 124 }
 				color2={ 255 255 255 }
 				
 				lappish=Alattio
@@ -3633,7 +3697,7 @@ e_scandinavia = {
 				}
 			}
 			c_nordland = {
-				color={ 190 95 95 }
+				color={ 106 149 112 }
 				color2={ 255 255 255 }
 				
 				b_rost = {
@@ -3656,7 +3720,7 @@ e_scandinavia = {
 		}
 		
 		d_kola = {
-			color={ 230 70 15 }
+			color={ 136 215 221 }
 
 			capital = 386 # Kemi
 	
@@ -3665,7 +3729,7 @@ e_scandinavia = {
 			foa = "HIGH_CHIEF_FOA"
 	
 			c_kola = {
-				color={ 230 60 35 }
+				color={ 101 160 205 }
 				color2={ 255 255 255 }
 				
 				lappish = Skolts
@@ -3688,7 +3752,7 @@ e_scandinavia = {
 				}
 			}
 			c_kandalax = {
-				color={ 230 100 35 }
+				color={ 235 87 71 }
 				color2={ 255 255 255 }
 				
 				swedish = "Kandalax"
@@ -3718,7 +3782,7 @@ e_scandinavia = {
 				}
 			}
 			c_kemi = {
-				color={ 230 80 15 }
+				color={ 142 151 85 }
 				color2={ 255 255 255 }
 			
 				b_kemi = {
@@ -3785,6 +3849,15 @@ e_scythia = {
 		slavic_pagan_reformed = 100 # Crusade target weight
 		baltic_pagan_reformed = 500
 		finnish_pagan_reformed = 100
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					is_tribal = no
+				}
+			}
+		}
 		
 		d_hestia = {
 			color={ 150 75 75 }
@@ -11337,6 +11410,55 @@ e_persia = {
 				b_maraza = {
 				}
 				b_khil = {
+				}
+			}
+			c_albania = {
+				color={ 115 211 18 }
+				color2={ 255 255 255 }
+				
+				armenian = "Aghvank"
+				georgian = "Albaneti"
+				persian = Arran
+
+				b_chukhurkabala = {
+					armenian = "Kabalak"
+					georgian = "Kabala"
+					alan = "Kabala"
+				}
+				b_ganja = {
+					armenian = "Gandzak"
+					georgian = "Gandza"
+					alan = "Gandza"
+				}
+				b_shaki = {
+					armenian = "Shake"
+					georgian = "Shake"
+					alan = "Shake"
+				}
+				b_darussoltan = {
+					armenian = "Kaladasht"
+					georgian = "Kaladasht"
+					alan = "Kaladasht"
+				}
+				b_barda = {
+					armenian = "Partav"
+					georgian = "Bardavi"
+					alan = "Partavi"
+				}
+				b_emli = {
+					armenian = "Surp Yeghishe"
+					georgian = "Gish"
+					alan = "Kish"
+				}
+				b_gelersengorersen = {
+					armenian = "Kalaberd"
+					georgian = "Kalaberd"
+					alan = "Kalaberd"
+				}
+				b_kabala = {
+					armenian = "Vartashen"
+					georgian = "Vardashen"
+					alan = "Vartashen"
 				}
 			}
 		}

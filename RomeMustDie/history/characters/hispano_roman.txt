@@ -236,3 +236,232 @@
 		death=yes
 	}
 }
+
+492017 = {
+	name="Basianus"
+	# totes fictional
+	dynasty=492057
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="nicene"
+	culture="hispano_roman"
+	add_trait="content"
+	446.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+492018 = {
+	name="Fulgentius"
+	# totes fictional
+	dynasty=492058
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="nicene"
+	culture="hispano_roman"
+	430.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+492019 = {
+	name="Fulgentia"
+	# totes fictional
+	female = yes
+	father = 492018
+	dynasty=492058
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="nicene"
+	culture="hispano_roman"
+	462.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+492020 = {
+	name="Dionysius"
+	# totes fictional
+	dynasty=492059
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="nicene"
+	culture="hispano_roman"
+	trait=trusting
+	427.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+492021 = {
+	name="Caius"
+	# totes fictional
+	dynasty=492060
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="nicene"
+	culture="hispano_roman"
+	trait=honest
+	423.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+492022 = {
+	name="Petrus"
+	# totes fictional
+	dynasty=492060
+	father=492021
+	religion="nicene"
+	culture="hispano_roman"
+	454.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+492023 = {
+	name="Julianus"
+	# totes fictional
+	dynasty=492061
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=3
+	religion="nicene"
+	culture="hispano_roman"
+	trait=cruel
+	430.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+492024 = {
+	name="Patricius"
+	# totes fictional
+	dynasty=492062
+	religion="nicene"
+	culture="hispano_roman"
+	434.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+492025 = {
+	name="Fautus"
+	# fictional
+	dynasty=492063
+	culture=hispano_roman
+	religion=nicene
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492026 = {
+	name="Hesychius"
+	# fictional
+	dynasty=492064
+	culture=hispano_roman
+	religion=nicene
+	443.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492027 = {
+	name="Torquatus"
+	# fictional
+	dynasty=492065
+	culture=hispano_roman
+	religion=nicene
+	438.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492028 = {
+	name="Petrus"
+	# fictional
+	dynasty=492066
+	culture=hispano_roman
+	religion=nicene
+	432.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+
+492029 = {
+	name="Fulgentius"
+	# totes fictional
+	father = 492018
+	dynasty=492058
+	religion="nicene"
+	culture="hispano_roman"
+	456.1.1= {
+		birth=yes
+	}
+	500.1.1 = {
+		death=yes
+	}
+}
+
+492030 = {
+	name="Fautulus"
+	# fictional
+	father=492025
+	dynasty=492063
+	culture=hispano_roman
+	religion=nicene
+	460.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}

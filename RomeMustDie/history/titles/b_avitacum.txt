@@ -1,4 +1,4 @@
 449.1.1 = {
-	liege = c_auverge
+	liege = "k_visigothia"
 	holder = 789053 # Sidonius Apollinaris
 }

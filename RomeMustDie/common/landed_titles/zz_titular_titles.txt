@@ -39,7 +39,7 @@ d_foederati = {
 		always = no
 	}
 	
-	culture = thuida
+	culture = gothic
 }
 
 d_rucconia = {
@@ -388,7 +388,7 @@ k_rugiland = {
 	color= { 198 196 176 }
 	color2={ 220 220 0 }
 
-	culture = thuida
+	culture = gothic
 
 	capital = 449
 
@@ -398,7 +398,7 @@ k_rugiland = {
 }
 
 k_vandalia = {
-	color= { 130 151 52 } #{ 198 196 176 }
+	color= { 86 103 124 } #{ 130 151 52 }
 	color2={ 220 220 0 }
 
 	culture = vandal
@@ -414,13 +414,23 @@ k_visigothia = {
 	color={ 230 173 40 }
 	color2={ 255 255 255 }
 
-	culture = visigothic
+	culture = gothic
 
-	capital = 214
+	capital = 214 # Tolosa
+	
+	gallo_roman = Tolosa
+	hispano_roman = "The Civitates"
+	mauro_roman = "The Civitates"
+	
+	suebi = "The Federates"
+	old_saxon = "The Federates"
+	alemanni = "The Federates"
+	old_frankish = "The Federates"
+	gepid = "The Federates"
 		
 	# Creation/usurpation trigger
 	allow = {
-		culture = visigothic
+		culture = gothic
 	}
 }
 
@@ -677,4 +687,22 @@ d_abkhazia = {
 	greek = Abasgia
 			
 	capital = 600 # Abkhazia
+}
+
+d_barsils = {
+	color={ 211 146 176 }
+	color2={ 255 255 255 }
+	
+	culture = bolghar
+	
+	capital = 604 # Kuma
+}
+
+d_balanjar = {
+	color={ 11 97 168 }
+	color2={ 255 255 255 }
+	
+	culture = bolghar
+	
+	capital = 675 # Semender
 }

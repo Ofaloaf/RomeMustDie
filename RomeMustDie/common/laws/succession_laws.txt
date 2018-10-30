@@ -21,6 +21,7 @@ succession_laws = {
 				NOT = { religion_group = muslim }
 				is_merchant_republic = no
 				is_patrician = no
+				#NOT = { government = civitas_government }
 				OR = {
 					independent = yes
 					NOT = {
@@ -110,6 +111,7 @@ succession_laws = {
 				NOT = { religion_group = muslim }
 				is_merchant_republic = no
 				is_patrician = no
+				#NOT = { government = civitas_government }
 				OR = {
 					independent = yes
 					NOT = {
@@ -180,7 +182,7 @@ succession_laws = {
 					}
 				}
 				OR = {
-					is_merchant_republic = no
+					is_merchant_republic = yes
 					primary_title = {
 						NOT = { title = PREVPREV }
 					}
@@ -253,6 +255,7 @@ succession_laws = {
 						is_patrician = yes 
 						OR = {
 							is_merchant_republic = no
+							#NOT = { government = civitas_government }
 							PREV = {
 								is_primary_holder_title = no
 							}
@@ -312,6 +315,7 @@ succession_laws = {
 			holder_scope = {
 				NOT = { religion_group = muslim }
 				is_merchant_republic = no
+				#NOT = { government = civitas_government }
 				is_patrician = no
 			}
 			OR = {
@@ -457,6 +461,7 @@ succession_laws = {
 				}
 				is_merchant_republic = no
 				is_patrician = no
+				#NOT = { government = civitas_government }
 				
 				OR = {
 					NOT = { religion_group = pagan_group }
@@ -517,6 +522,7 @@ succession_laws = {
 				NOT = { religion_group = muslim }
 				is_merchant_republic = no
 				is_patrician = no
+				#NOT = { government = civitas_government }
 				culture_group = celtic
 				OR = {
 					independent = yes
@@ -614,6 +620,7 @@ succession_laws = {
 				NOT = { religion_group = muslim }
 				is_merchant_republic = no
 				is_patrician = no
+				#NOT = { government = civitas_government }
 				OR = {
 					independent = yes
 					NOT = {
@@ -730,6 +737,7 @@ succession_laws = {
 				}
 				is_republic = no
 				is_merchant_republic = no
+				#NOT = { government = civitas_government }
 				is_nomadic = no
 			}
 			OR = {
@@ -793,6 +801,7 @@ succession_laws = {
 					holy_order = yes
 				}
 				is_merchant_republic = no
+				#NOT = { government = civitas_government }
 			}
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
@@ -843,6 +852,7 @@ succession_laws = {
 			holder_scope = { 
 				is_patrician = no
 				is_merchant_republic = no
+				#NOT = { government = civitas_government }
 				OR = {
 					independent = yes
 					is_feudal = no
@@ -885,6 +895,7 @@ succession_laws = {
 					religion = fraticelli
 				}
 				is_merchant_republic = no
+				#NOT = { government = civitas_government }
 				OR = {
 					independent = yes
 					is_feudal = no
@@ -914,7 +925,7 @@ succession_laws = {
 				holder_scope = {
 					in_revolt = yes
 					succ_law_title = {
-						title = PREVPREV
+						title = PREV
 					}
 				}
 			}

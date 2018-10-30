@@ -1,0 +1,9 @@
+1009001 = {
+	name = Bars
+	culture = bolghar
+}
+
+1009002 = {
+	name = Endzhar
+	culture = bolghar
+}

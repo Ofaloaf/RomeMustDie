@@ -1,7 +1,5 @@
 451.1.1 = {
-
-	liege = d_soissons
+	#liege = d_soissons
 	holder = 789009
-
 }
 

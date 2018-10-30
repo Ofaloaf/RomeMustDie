@@ -419,31 +419,99 @@ celtic = {
 		color = { 0.3 0.7 0.7 }
 
 		male_names = {
-			Adam_Adam Alpin_Alwin Alan_Alan Alastair_Alexander Alexander_Alexander Andrew_Andrew
-			Angus_Angus Archibald_Archibald Arthur_Arthur Arran Aulay_Olaf Beathan Brian_Brian Brice_Brice Cailean_Nicholas Calum_Nicholas Carbrey_Carbrey Colban_Kolbein
-			Colin_Nicholas Conall_Conall Conan_Conan Constantine_Constantine David_David Dermid_Dermid Donald_Donald Douglas_Douglas Duff_Duff Dugald_Dugald
-			Duncan_Duncan Edgar_Edgar Edward_Edward Edwin_Edwin Eric_Eric Evander_Ivar Ewan_Eugene Farquhar_Farquhar Fergus_Fergus Fingal_Finn Findlay_Findlay Frang_Francis
-			Gavin_Gavin Gilbert_Gilbert Gilbride_Gilbert Gilchrist_Gilchrist Gillespie Gilpatrick_Gilpatrick Gilroy_Gilroy Giric_Gregory Glenn Godfrey_Godfrey Gregor_Gregory
-			Hamish_Jacob Hector_Hector Henry_Henry Hugh_Hugh Iain_John Indulf James_Jacob John_John Kenneth_Kenneth Kentigern_Kentigern Lachlan_Roland Laurence_Laurence Lennon_Lennon
-			Lulach Macbeth Magnus_Magnus Malcolm_Malcolm Maldoven_Maldoven Maldred_Maldred Malise_Malise Malmure_Malmure Maoilios Marcas_Marcus
-			Matad_Matad Matthew_Matthew Michael_Michael Morgan_Morgan Muir Mungo_Mungo Murdoch_Murdoch Murray Neil_Nigel Ninian_Ninian Oscar_Oscar
-			Patrick_Patrick Paul_Paul Peter_Peter Philip_Philip Radulf_Ralph Ranald_Reginald Richard_Richard Robert_Robert Roderick_Roderick Ronald_Ragnvald Rory_Roderick Ross Roy_Roy
-			Shaw_Shaw Simon_Simon Somerled_Somerled Stephan_Stephen Sweeny_Sweeny Tadhg_Tadg Talore_Talore Thomas_Thomas Torquil_Torkel Uhtred_Uhtred Uisdean_Eysteinn Walan_Valentin
-			Waldeve_Waltheof Walter_Walter William_William
+			Àdhamh_Adam Aipean_Alpin Aindrea_Andrew Alasdair_Alexander Aodh Aonghas_Angus Artur_Artorius
+			Brian_Brian 
+			Cailean_Colin Calum_Columba Caeomhainn Cathal Ciaran Cliamain_Clement Coinneach_Kenneth Còiseam_Constantine Colla "Colum Cille" Comhall Conall Conn Cormac Cormag Crìsdean_Christian
+			Daibhidh_David Daniel_Daniel Deòrsa_George Diarmad Dòmhnall_Donald Donnchadh Dubh Dubhghall Dùghlas
+			Ealar Eoghann Eòin_John Eòsaph_Joseph Faolan Fearchar Fearghas_Fergus Fionn Fionnghall Fionnlagh
+			Gilleasbuig "Gill-Iosa" "Gill-Eòin" Greum Gòrdan
+			Iagan Iain_John Iomhair Iòna_Jonah Iàcob_Jacob
+			Labhrainn Laomann Lachlann Lùcas_Lucas
+			Maoilios Maol-Chaluin_Malcolm "Maol-Domhnuich" "Maol-Iosa" Maoldònaich Maolmhuire Maolruibh Martainn_Martin Mata_Matthew Micheil_Michael Muireach Munga Murchadh Mànus_Magnus
+			Neacal_Nicholas Neachdainn Niall_Neil Niallghus 
+			Oisean
+			Padean Padruig_Patrick Peadar_Peter Pàl_Paul Pòl_Paul Pàrlan 
+			Raghnall Ringean Ruairidh
+			Sachairi_Zachary Seaghdh Seumas Solamh_Solomon Steaphan_Stephen Stiùbhard
+			Tadhg TamhaS_Thomas Tasgall Tearlach Torcall Tormoid
+			Uarraig Uisdean_Eugene Ualan
 		}
 		female_names = {
-			Ada Affraic_Euphemia Agnes_Agnes Aileen_Helen Alice_Alice Anna_Anna Annabella Aufrica_Euphemia Barabal_Barbara Beileag_Elisabeth Beitris_Beatrice Beathoc_Beatrice Bride_Brigit
-			Catriona_Catherine Cecilia_Cecilia Christina_Christina Deirdre_Deirdre Derilla_Derilla Dervorgilla_Dervorgilla Donada Donella
-			Edith_Edith Edna_Eithne Effie Eilionoir_Eleanor Eimhir_Emer Eithne_Eithne Ela Eleanor_Eleanor Elspeth_Elisabeth Euna Eva_Eva Fenella_Finnguala Fingola_Finnguala Flora_Flora 
-			Forflissa Galiena Glenna Gormelia_Gormflaith Gruoch Helen_Helen Innes Iona Isabel_Elisabeth Isla Isobel_Elisabeth Jean_Joan Julia_Juliana 
-			Kenna Kentigerna Kirstin_Christina Lillias_Elisabeth Lorna Malmure_Malmure Maisie_Margaret Malina Margaret_Margaret Mariota_Mariota Marjory_Marjory Mary_Maria
-			Martha_Martha Marthoc_Marjory Maud_Matilda Maura_Maria Mirren_Murron Mor_Mor Morag_Mor Morna_Morna Moyna_Mona Muriel_Muriel
-			Murron_Murron Nuala_Finnguala Orabilia Peigi_Margaret Rhonda Rodina Ronalda_Ragnhild Ros_Ros Saundra_Alexandra Sheena_Joan Shona_Joan Sholto Slaine_Slaine Sorcha_Sorcha Una_Una
+			Aingealag_Angelica Aimil_Aemilia Anna_Anna
+			Beitiris_Beatrix Bhictoria_Victoria Brìde_Bridget Bearnas_Bernice Barabal_Barbara
+			Cairistiòna_Christina Caitrìona_Catherine
+			Deirdre Deòiridh "Dior-bhorgàil"
+			Ealasaid_Elisabeth Eilidh_Helen Eubh_Eva Èibhlin
+			Fionnaghal Floireans_Florence
+			Giorsail_Grace Gormlaith Gormall
+			Leitis_Letitia Lucrais_Lucretia
+			Maighread_Margaret Malamhìn Moire_Mary Muireall Mòrag
+			Niamh
+			Oighrig
+			Raghnaid Rut_Ruth
+			Seonag_Joan Siùbhan Siùsaidh Sorcha Sìle Stineag Sìleas
+			Teasag Teàrlag Ùna_Una
 		}
 		
 		dukes_called_kings = yes
 		
-		from_dynasty_prefix = "de "
+		from_dynasty_prefix = ""
+		prefix = yes
+
+		modifier = default_culture_modifier
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+		
+		tribal_name = "TRIBAL_NAME_PROV_CLAN"
+	}
+	scotti = {
+		graphical_cultures = { celticgfx }
+		
+		color = { 0.3 0.7 0.7 }
+
+		male_names = {
+			Àdhamh_Adam Aipean_Alpin Aindrea_Andrew Alasdair_Alexander Aodh Aonghas_Angus Artur_Artorius
+			Brian_Brian 
+			Cailean_Colin Calum_Columba Caeomhainn Cathal Ciaran Cliamain_Clement Coinneach_Kenneth Còiseam_Constantine Colla "Colum Cille" Comhall Conall Conn Cormac Cormag Crìsdean_Christian
+			Daibhidh_David Daniel_Daniel Deòrsa_George Diarmad Dòmhnall_Donald Donnchadh Dubh Dubhghall Dùghlas
+			Ealar Eoghann Eòin_John Eòsaph_Joseph Faolan Fearchar Fearghas_Fergus Fionn Fionnghall Fionnlagh
+			Gilleasbuig "Gill-Iosa" "Gill-Eòin" Greum Gòrdan
+			Iagan Iain_John Iomhair Iòna_Jonah Iàcob_Jacob
+			Labhrainn Laomann Lachlann Lùcas_Lucas
+			Maoilios Maol-Chaluin_Malcolm "Maol-Domhnuich" "Maol-Iosa" Maoldònaich Maolmhuire Maolruibh Martainn_Martin Mata_Matthew Micheil_Michael Muireach Munga Murchadh Mànus_Magnus
+			Neacal_Nicholas Neachdainn Niall_Neil Niallghus 
+			Oisean
+			Padean Padruig_Patrick Peadar_Peter Pàl_Paul Pòl_Paul Pàrlan 
+			Raghnall Ringean Ruairidh
+			Sachairi_Zachary Seaghdh Seumas Solamh_Solomon Steaphan_Stephen Stiùbhard
+			Tadhg TamhaS_Thomas Tasgall Tearlach Torcall Tormoid
+			Uarraig Uisdean_Eugene Ualan
+		}
+		female_names = {
+			Aingealag_Angelica Aimil_Aemilia Anna_Anna
+			Beitiris_Beatrix Bhictoria_Victoria Brìde_Bridget Bearnas_Bernice Barabal_Barbara
+			Cairistiòna_Christina Caitrìona_Catherine
+			Deirdre Deòiridh "Dior-bhorgàil"
+			Ealasaid_Elisabeth Eilidh_Helen Eubh_Eva Èibhlin
+			Fionnaghal Floireans_Florence
+			Giorsail_Grace Gormlaith Gormall
+			Leitis_Letitia Lucrais_Lucretia
+			Maighread_Margaret Malamhìn Moire_Mary Muireall Mòrag
+			Niamh
+			Oighrig
+			Raghnaid Rut_Ruth
+			Seonag_Joan Siùbhan Siùsaidh Sorcha Sìle Stineag Sìleas
+			Teasag Teàrlag Ùna_Una
+		}
+		
+		dukes_called_kings = yes
+		
+		from_dynasty_prefix = ""
 		prefix = yes
 
 		modifier = default_culture_modifier
