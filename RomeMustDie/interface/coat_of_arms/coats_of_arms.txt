@@ -122,8 +122,8 @@ culture =
 		}
 		texture = {
 			file = "gfx\\coats_of_arms\\pattern_roman.tga"
-			size = { x = 10 y = 9 }
-			noOfFrames = 86
+			size = { x = 10 y = 10 }
+			noOfFrames = 97
 			color = 3
 			emblem = no
 		}
@@ -869,8 +869,8 @@ culture =
 		}
 		texture = {
 			file = "gfx\\coats_of_arms\\pattern_roman.tga"
-			size = { x = 10 y = 9 }
-			noOfFrames = 86
+			size = { x = 10 y = 10 }
+			noOfFrames = 97
 			color = 3
 			emblem = no
 		}
